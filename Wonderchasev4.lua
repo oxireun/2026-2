@@ -1,1 +1,1 @@
-game.Players.PlayerAdded:Connect(function(p)p:Kick("Script deleted sorry")end)
+game.Players.LocalPlayer:Kick("Content deleted sorry")
