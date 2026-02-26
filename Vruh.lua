@@ -1,959 +1,843 @@
 --[[ OXI V9 SUPERIOR | LUAU OPTIMIZED | BY OXI ]]--
-for llIO0O10ll10=5, 9 do local l11loI0llooO = llIO0O10ll10 * 2; end; for llIllllIO0OI=2, 10 do local I000oIOl0lol = llIllllIO0OI * 2; end; local l100Ill0lOI0 = function(IOl01OOl01O0) return IOl01OOl01
-O0 and IOl01OOl01O0 or Il0010O0IOOI end; local l0110OOOl11I = function(lo00OO0011Ol) return lo00OO0011Ol and lo00OO0011Ol or lo0oI01ll0l1 end; for lll11lIl1Ilo=5, 8 do local l1IOl00I1l1O = lll11lIl1Il
-o * 2; end; local lo00o1IlllIo = {13, 63}; lo00o1IlllIo[1] = lo00o1IlllIo[1] % lo00o1IlllIo[2]; local lo1lIOOoIIo1 = {8, 50}; lo1lIOOoIIo1[1] = lo1lIOOoIIo1[1] + lo1lIOOoIIo1[2]; for lIlooOIO01l1=5, 6
- do local IoO10Ool0ll1 = lIlooOIO01l1 * 2; end; for l011O1olo1Ol=2, 10 do local I1olIOllOo00 = l011O1olo1Ol * 2; end; if 50 > 140 then local Illo1IoIlI01 = "I0oo1O11l0Il"; end; if 94 > 164 then local 
-IlIIIo00O00O = "I0I1100IoOo1"; end; for Il1oOIo0l0OO=4, 9 do local IlOoIol0OoII = Il1oOIo0l0OO * 2; end; local IoooIOO1IIII = {48, 68}; IoooIOO1IIII[1] = IoooIOO1IIII[1] % IoooIOO1IIII[2]; local lII0l
-IlIIooo = function(l1lOoOIIOo00) return l1lOoOIIOo00 and l1lOoOIIOo00 or l0OO01o1010l end; local IOO1l1l011Il = function(IoOOl1olOI00) return IoOOl1olOI00 and IoOOl1olOI00 or I1ll0I0ooo01 end; if 42 >
- 145 then local l0OoO1l1l0II = "I00I0l0OlOl1"; end; for llII000oooOO=2, 10 do local Io101l0lIlO1 = llII000oooOO * 2; end; if 33 > 174 then local IlOoO0o0111o = "IIloIOl0o0o0"; end; local I11011ooOoO1 
-= {58, 75}; I11011ooOoO1[1] = I11011ooOoO1[1] % I11011ooOoO1[2]; local I0O0101l01O1 = function(l00Il100Illo) return l00Il100Illo and l00Il100Illo or IOoIoIOO11ll end; if 25 > 176 then local I010OIIoI0
-Io = "IIlI01Ol1oOI"; end; local loI10lO0o0o0 = function(IIoIl1o0l0oO) return IIoIl1o0l0oO and IIoIl1o0l0oO or l1o0oOoI0I1O end; if 51 > 116 then local l1Ol10O1IlOI = "IoOO0OIlllO1"; end; if 42 > 176 t
-hen local l1110I00oIOO = "ll1oO1o1lIo0"; end; local l101I1Io0II0 = function(IIOI0IIo111o) return IIOI0IIo111o and IIOI0IIo111o or I1oO1IoI0O0l end; local II1l0I1OlI1I = {74, 41}; II1l0I1OlI1I[1] = II1
-l0I1OlI1I[1] * II1l0I1OlI1I[2]; if 29 > 195 then local IoO0OolI01OI = "l10oOOOIl0oo"; end; for lOOOOO00I1I0=3, 10 do local IoOIOIoooI0O = lOOOOO00I1I0 * 2; end; local II01oOOlOIIO = function(llo00O1l1
-1oO) return llo00O1l11oO and llo00O1l11oO or lOIl0looO011 end; for lo0oO1O0O0O1=5, 10 do local l011o0I1I00o = lo0oO1O0O0O1 * 2; end; local I0oIIlIolI1O = {62, 24}; I0oIIlIolI1O[1] = I0oIIlIolI1O[1] % 
-I0oIIlIolI1O[2]; local IOllO1Oo1lll = function(lO0Io0O0Iolo) return lO0Io0O0Iolo and lO0Io0O0Iolo or lOlIOIl01ooI end; local IloIOO1I0oIl = {12, 82}; IloIOO1I0oIl[1] = IloIOO1I0oIl[1] - IloIOO1I0oIl[2
-]; for lOI00IlloIlO=2, 6 do local l00OO0Ol1l0o = lOI00IlloIlO * 2; end; local IlOI00ol0lOl = function(I0oOoOI0oI1l) return I0oOoOI0oI1l and I0oOoOI0oI1l or IO0oI0IIlII0 end; for l0I010oIO1I1=3, 10 do 
-local IoOoI1l1OOOO = l0I010oIO1I1 * 2; end; local IIO0ll11lI0I = {38, 43}; IIO0ll11lI0I[1] = IIO0ll11lI0I[1] % IIO0ll11lI0I[2]; local l01IooloOo10 = function(IIOl0oooO0I1) return IIOl0oooO0I1 and IIOl
-0oooO0I1 or Il0IOOOlolI1 end; if 85 > 166 then local I1oo0oOI101l = "I00001IOolIO"; end; local Il0Io01O1o11 = function(I1O0lOolo0oO) return I1O0lOolo0oO and I1O0lOolo0oO or IllOIOl0l0ol end; local I1I
-loIlo00o1 = {44, 100}; I1IloIlo00o1[1] = I1IloIlo00o1[1] + I1IloIlo00o1[2]; local Il0o00olIOol = function(l1o0I0Iool0O) return l1o0I0Iool0O and l1o0I0Iool0O or l00OoOoIloIl end; for I0ll1000l0oo=5, 7 
-do local Iol110oIlOol = I0ll1000l0oo * 2; end; local l11lolOo0o0O = {69, 20}; l11lolOo0o0O[1] = l11lolOo0o0O[1] + l11lolOo0o0O[2]; local lI1I0OllOO0O = function(l10lIII0IOOI) return l10lIII0IOOI and l
-10lIII0IOOI or l10ol1OooOlI end; if 59 > 166 then local IIIoO1OOO10I = "IllI11loll1o"; end; if 86 > 134 then local ll1o10l0o0ol = "I0Il1o000IO1"; end; local Io0olOo11lll = {98, 12}; Io0olOo11lll[1] = 
-Io0olOo11lll[1] % Io0olOo11lll[2]; for l0ol1IoIolIo=5, 10 do local IoIo01II1oOI = l0ol1IoIolIo * 2; end; for IIo10l0loo11=5, 7 do local loO0O00llO11 = IIo10l0loo11 * 2; end; local l1II0O00ooll = {45, 
-100}; l1II0O00ooll[1] = l1II0O00ooll[1] % l1II0O00ooll[2]; if 84 > 136 then local loOI0oI0I0O1 = "IO01o0OoO0O0"; end; local lOoll00111IO = function(IooIOII0Ioo0) return IooIOII0Ioo0 and IooIOII0Ioo0 o
-r IlIIII0010II end; local I11Il1lOoO0O = function(lO1I1O1l0OOO) return lO1I1O1l0OOO and lO1I1O1l0OOO or l1l0IlIl1ooo end; for l0OlO0ooOl0o=2, 8 do local loIO0Iol0OOo = l0OlO0ooOl0o * 2; end; local loo
-100oIl1lI = function(IoIlollIOI01) return IoIlollIOI01 and IoIlollIOI01 or Il00011l101O end; local I00O000oIo1I = function(Io10lOlI00l0) return Io10lOlI00l0 and Io10lOlI00l0 or IlOOol0l1o10 end; for I
-olO0II1I1oI=5, 6 do local IOoO1OO10I1l = IolO0II1I1oI * 2; end; local lOOoO1I0I1ol = function(ll1O10lO0ll1) return ll1O10lO0ll1 and ll1O10lO0ll1 or lo10l1O1lO1O end; for lI01010o1Oo0=4, 7 do local I1I
-lI1Ill0l1 = lI01010o1Oo0 * 2; end; local lOIo1OOIolo0 = function(Io1oo0Iloo1o) return Io1oo0Iloo1o and Io1oo0Iloo1o or IOlol0lo0ooI end; local lO0l0lllIO1o = function(IOoI1O0ll1ll) return IOoI1O0ll1ll
- and IOoI1O0ll1ll or lOlII1l1OlIO end; local I1oI0000101I = {50, 21}; I1oI0000101I[1] = I1oI0000101I[1] + I1oI0000101I[2]; for IIo00IOol10O=3, 7 do local IOl01O001I01 = IIo00IOol10O * 2; end; local lI
-II1OIoOO0o = function(II1oIO1llO0o) return II1oIO1llO0o and II1oIO1llO0o or I0lIOOlo0l00 end; local I10I00oOOIO1 = function(I0OI1O1IOIlo) return I0OI1O1IOIlo and I0OI1O1IOIlo or IO1OoIOO100I end; loca
-l III0Oo11o0o1 = {4, 69}; III0Oo11o0o1[1] = III0Oo11o0o1[1] * III0Oo11o0o1[2]; if 19 > 197 then local lIooIlOOOI1O = "llI10oOO111o"; end; if 3 > 148 then local lOIOIlol0IOO = "l0oI1ooOlI1l"; end; if 1
-9 > 177 then local lloo0l00oOOO = "II1IOIolO1o1"; end; local lO0I1oo0110O = {41, 42}; lO0I1oo0110O[1] = lO0I1oo0110O[1] * lO0I1oo0110O[2]; local IO11oI011100 = {57, 51}; IO11oI011100[1] = IO11oI011100
-[1] * IO11oI011100[2]; local lloOIoOIoO01 = {20, 97}; lloOIoOIoO01[1] = lloOIoOIoO01[1] + lloOIoOIoO01[2]; local looOl0Olo10l = {47, 50}; looOl0Olo10l[1] = looOl0Olo10l[1] - looOl0Olo10l[2]; for Io0o0
-oll0O0l=4, 6 do local IOOolIoOoo0o = Io0o0oll0O0l * 2; end; if 94 > 112 then local loll0o0O1loO = "l1110l1oO01I"; end; local llO1IIoO10oO = {58, 44}; llO1IIoO10oO[1] = llO1IIoO10oO[1] % llO1IIoO10oO[2
-]; local lO00IoOl0o0o = {61, 40}; lO00IoOl0o0o[1] = lO00IoOl0o0o[1] % lO00IoOl0o0o[2]; if 52 > 123 then local I1l0IoOOI0I1 = "lI010olIOIoI"; end; local IIoOoo01Il1O = function(lOlIl1000o10) return lOl
-Il1000o10 and lOlIl1000o10 or IoOOI0OIl00O end; local IoIOO00ool00 = {33, 68}; IoIOO00ool00[1] = IoIOO00ool00[1] - IoIOO00ool00[2]; for l1IOII10O0lo=5, 6 do local l0o0loI0OllO = l1IOII10O0lo * 2; end;
- for IlIlOloO1l0o=2, 10 do local Il1oOoOl1oO0 = IlIlOloO1l0o * 2; end; if 36 > 140 then local II10OOOlIIII = "IoIlO00lIlI1"; end; if 55 > 174 then local lOl0I1oo10OO = "Il1O000II0l0"; end; local IOllo
-ll10Ooo = {27, 43}; IOlloll10Ooo[1] = IOlloll10Ooo[1] % IOlloll10Ooo[2]; local I1loloI1lIOo = {3, 81}; I1loloI1lIOo[1] = I1loloI1lIOo[1] % I1loloI1lIOo[2]; local I10O1OooolII = {34, 99}; I10O1OooolII[
-1] = I10O1OooolII[1] - I10O1OooolII[2]; local II0l10I01IoI = function(lI01I1ooollI) return lI01I1ooollI and lI01I1ooollI or lllololOIoIO end; local llloI00l1OIO = {81, 51}; llloI00l1OIO[1] = llloI00l1
-OIO[1] % llloI00l1OIO[2]; local IlOI1loo1IOI = function(IOlOO0o1OI10) return IOlOO0o1OI10 and IOlOO0o1OI10 or I0O0oIool1Io end; for I1o1IoloIl0o=5, 9 do local I0OoOOIIoo11 = I1o1IoloIl0o * 2; end; loc
-al lIlOII0oO01l = function(Il1O010Oolo1) return Il1O010Oolo1 and Il1O010Oolo1 or loI0IIl111Io end; for lI0IloIolOo1=1, 9 do local l0I10oo01oOo = lI0IloIolOo1 * 2; end; for lII0II0llIOO=3, 9 do local I
-IOo1o00OIoO = lII0II0llIOO * 2; end; local II0lIOoIO1oo = {35, 61}; II0lIOoIO1oo[1] = II0lIOoIO1oo[1] % II0lIOoIO1oo[2]; for IlIoOIl0lo01=2, 6 do local IoIlIoOIo1OO = IlIoOIl0lo01 * 2; end; for l10Ooo
-O00Ill=3, 8 do local llo0OOooOIoI = l10OooO00Ill * 2; end; for lOO1lloIoolI=4, 6 do local lOOO0OlOIolI = lOO1lloIoolI * 2; end; if 45 > 186 then local lOOOIoo10O0O = "I00o10IOo00O"; end; for lIOOoO1lo
-Olo=1, 9 do local llOl1lIIoI0o = lIOOoO1loOlo * 2; end; for Io10Ilo11l0O=2, 9 do local lOIl0oll1Ill = Io10Ilo11l0O * 2; end; local l0IlI10ollIl = function(I1Ol0I0I010l) return I1Ol0I0I010l and I1Ol0I0
-I010l or lOolI1OooIl1 end; for I11lIOlO1l0O=4, 10 do local lOl0O1o11OoO = I11lIOlO1l0O * 2; end; for IOI1OlO01IOl=3, 7 do local IO1olIo00oII = IOI1OlO01IOl * 2; end; for Il1IoO001O1O=3, 10 do local lI
-I1I0OI1O1I = Il1IoO001O1O * 2; end; for I00Olo1o0oOl=1, 9 do local lIOIIoIo0oOI = I00Olo1o0oOl * 2; end; for IOlollOlIIoI=2, 8 do local II0O1OlOo1I1 = IOlollOlIIoI * 2; end; if 53 > 159 then local IoI
-o11lOlI01 = "Il1IlIooI1l1"; end; if 24 > 102 then local Io0OO1oIo1Ol = "IO0100Ool0OI"; end; for IIO00oIlIIoI=2, 10 do local lo010II0o0IO = IIO00oIlIIoI * 2; end; local I01O00oooI0l = {91, 65}; I01O00o
-ooI0l[1] = I01O00oooI0l[1] + I01O00oooI0l[2]; local lI1ol11OO01o = {99, 10}; lI1ol11OO01o[1] = lI1ol11OO01o[1] * lI1ol11OO01o[2]; local lolI0OOOIOI1 = function(lIoIOOOII1oO) return lIoIOOOII1oO and lI
-oIOOOII1oO or Io1IolIIl1I1 end; local I1OIO1IlOOOI = function(Iloo0I00OII1) return Iloo0I00OII1 and Iloo0I00OII1 or lOO0I1o0Ol1O end; for l0110l1oloI1=3, 7 do local IlOloI1O1ll0 = l0110l1oloI1 * 2; en
-d; local II10lol01I00 = function(IllIlo0l0Olo) return IllIlo0l0Olo and IllIlo0l0Olo or Il0I1olOO10o end; local IIIoOlIIIoOo = {67, 79}; IIIoOlIIIoOo[1] = IIIoOlIIIoOo[1] % IIIoOlIIIoOo[2]; if 33 > 116
- then local I1IOllOol0o0 = "I11O0I1IlI0o"; end; if 98 > 147 then local lOI0oIolOooo = "lIIIlo1lo0l0"; end; local IOol1o1Io00o = {60, 32}; IOol1o1Io00o[1] = IOol1o1Io00o[1] + IOol1o1Io00o[2]; if 88 > 1
-11 then local IOO11O0O1I1O = "IIoI0I01I0O1"; end; local ll0oIOOIoOOl = function(lO1llIOolIo0) return lO1llIOolIo0 and lO1llIOolIo0 or lO1l0OOl0llO end; local Iol00oOO1l1O = {76, 31}; Iol00oOO1l1O[1] =
- Iol00oOO1l1O[1] * Iol00oOO1l1O[2]; local I1l0O1IIO1oO = function(I1lol1OIl010) return I1lol1OIl010 and I1lol1OIl010 or I0lIooIIlOo0 end; local Il0Il10o1llo = function(I0Ol0llOoII0) return I0Ol0llOoII
-0 and I0Ol0llOoII0 or IIoOlo00Io1I end; if 60 > 142 then local IloI1oOI0IIl = "l1Oo0oooo1lo"; end; local IoIOoIolII0o = function(looIIIIIl111) return looIIIIIl111 and looIIIIIl111 or lIoO1Io11oOl end;
- if 17 > 192 then local IO1o0O0O10oO = "Io1O101l0oo1"; end; local I1IOo1IO1o00 = function(I1110oOlo0Io) return I1110oOlo0Io and I1110oOlo0Io or lloOo0OIoOIO end; local I1OOIIIolIoI = {40, 1}; I1OOIIIo
-lIoI[1] = I1OOIIIolIoI[1] - I1OOIIIolIoI[2]; for IoO00OOIlO01=4, 6 do local IOOlIOO0111O = IoO00OOIlO01 * 2; end; for lO0Ooo0OIlIl=1, 10 do local IoIOl0o0I0oI = lO0Ooo0OIlIl * 2; end; local I1ooO0IOl0
-11 = {33, 24}; I1ooO0IOl011[1] = I1ooO0IOl011[1] % I1ooO0IOl011[2]; if 96 > 164 then local I1O1O0IIoI0l = "Iol111IlooO0"; end; local ll1l1llI0O0O = function(I1olo001oIIO) return I1olo001oIIO and I1olo
-001oIIO or IlI0oOO1O0II end; if 70 > 156 then local IIlI1olO011I = "Il000ol1Ooo1"; end; for l1olI1lo0I0o=1, 6 do local lO0OIOI0lo1I = l1olI1lo0I0o * 2; end; local lI0oOO0IOl0O = {46, 57}; lI0oOO0IOl0O
-[1] = lI0oOO0IOl0O[1] * lI0oOO0IOl0O[2]; if 64 > 189 then local I0IOoIOIloO1 = "lIO100lIOIoI"; end; local IOo01O10001o = {15, 40}; IOo01O10001o[1] = IOo01O10001o[1] % IOo01O10001o[2]; if 21 > 171 then
- local I0oOOoo0oOl0 = "lo1o1OOlll01"; end; for IlIloool0olo=3, 7 do local IO0loII1l1Oo = IlIloool0olo * 2; end; local IIIo10OO0oO1 = function(ll0Il0oloIOO) return ll0Il0oloIOO and ll0Il0oloIOO or llI1
-o01IlO10 end; if 95 > 167 then local l1ol0O0oOI1o = "lIoIIOoIoo1O"; end; for l0lIlloooO00=4, 8 do local lO1OOI01I1lI = l0lIlloooO00 * 2; end; local llO0I0Ool0I0 = {24, 35}; llO0I0Ool0I0[1] = llO0I0Ool
-0I0[1] + llO0I0Ool0I0[2]; local ll0Ooll0oIOl = function(lol1o0oIoI0o) return lol1o0oIoI0o and lol1o0oIoI0o or lollIoOOo10O end; local lOloOOoo0oI0 = {23, 9}; lOloOOoo0oI0[1] = lOloOOoo0oI0[1] + lOloOO
-oo0oI0[2]; if 40 > 112 then local ll1l1loI11lo = "ll01l0l1lIIo"; end; for lll101loO1IO=5, 8 do local Io1l0loOl0oo = lll101loO1IO * 2; end; for IlI1lo1IOlOo=1, 7 do local l00OOlOoOol0 = IlI1lo1IOlOo * 
-2; end; local I0O1ol11o0Il = function(I00III1o0oIl) return I00III1o0oIl and I00III1o0oIl or l1Olo11lolO0 end; local lOlO0IO1oo1O = {77, 34}; lOlO0IO1oo1O[1] = lOlO0IO1oo1O[1] % lOlO0IO1oo1O[2]; local 
-lIo010oIl0lI = function(lOOIO0100OO0) return lOOIO0100OO0 and lOOIO0100OO0 or lOoOo01lllIO end; local Il0O0IIoo0Oo = function(l111oOlOll1I) return l111oOlOll1I and l111oOlOll1I or I1O1lO11OIOO end; if
- 61 > 118 then local IOOOO1OoI01O = "lOI10oOI0IoO"; end; local lI1OoOo11ll1 = {43, 34}; lI1OoOo11ll1[1] = lI1OoOo11ll1[1] - lI1OoOo11ll1[2]; local llIll1oOl0I0 = {37, 81}; llIll1oOl0I0[1] = llIll1oOl0
-I0[1] * llIll1oOl0I0[2]; local IoOIIl00IIO0 = function(I111O0I1OlI1) return I111O0I1OlI1 and I111O0I1OlI1 or lO1IolI1Ol01 end; local l1ll0I10o011 = {11, 7}; l1ll0I10o011[1] = l1ll0I10o011[1] - l1ll0I1
-0o011[2]; if 62 > 188 then local I1OlIIolIIO0 = "lIIIooOlIIOO"; end; for l0oI0I1oIo1O=1, 6 do local I0ooOOlOl00I = l0oI0I1oIo1O * 2; end; if 65 > 174 then local lOI0IOlOIll1 = "I1II11O001I1"; end; if 
-44 > 149 then local Ilo1lO1I11oI = "I1o1ooIO0010"; end; if 56 > 151 then local lO00O1Oollo0 = "l1Il10I1oO0l"; end; local II0100llol1I = function(l100000IoOoo) return l100000IoOoo and l100000IoOoo or I
-1Ol0ol1lo10 end; if 11 > 104 then local llIOIo1I0IlI = "lO00olOI1I01"; end; local IO0o1OOolOol = function(I11O0OOlo1IO) return I11O0OOlo1IO and I11O0OOlo1IO or IIlO0IoIoI1l end; local I1110110lIIo = {
-97, 9}; I1110110lIIo[1] = I1110110lIIo[1] + I1110110lIIo[2]; for II1ll010lOl1=2, 8 do local lloO0I0Il0Oo = II1ll010lOl1 * 2; end; if 6 > 124 then local Ilo11I0II10O = "II110oO1110l"; end; for l100IloO
-I0lO=4, 8 do local lOI0IOo0oOOl = l100IloOI0lO * 2; end; if 90 > 126 then local IOoOoOoOIOII = "IoI0OO1o01l1"; end; for looI01IIoOo1=1, 7 do local IoO10ll11lIO = looI01IIoOo1 * 2; end; for loIl11o0llO
-o=5, 6 do local Io0o0lol1o01 = loIl11o0llOo * 2; end; local l1l1IloIIool = {14, 3}; l1l1IloIIool[1] = l1l1IloIIool[1] * l1l1IloIIool[2]; if 35 > 103 then local lO0OOo0o1IIO = "llol0oIlO1ol"; end; loca
-l lOOol0o011II = function(lIOoO01ol010) return lIOoO01ol010 and lIOoO01ol010 or IoOo0ll1o00I end; for ll0OOIll0oIl=4, 7 do local lOoO1OOIOll0 = ll0OOIll0oIl * 2; end; local l0lI1O00OolI = function(lol
-llIOo0IOl) return lolllIOo0IOl and lolllIOo0IOl or l10oIolIoOoI end; for I10lOIoI0o1I=3, 8 do local l01O1OIOO10O = I10lOIoI0o1I * 2; end; for IOOo1Oo0o1O0=5, 9 do local IOlOl0lllI00 = IOOo1Oo0o1O0 * 2
-; end; local Io1oIOI1ool0 = {81, 18}; Io1oIOI1ool0[1] = Io1oIOI1ool0[1] + Io1oIOI1ool0[2]; local IIll1o1o00o0 = {5, 80}; IIll1o1o00o0[1] = IIll1o1o00o0[1] * IIll1o1o00o0[2]; local IllI0o110o0o = {14, 
-70}; IllI0o110o0o[1] = IllI0o110o0o[1] % IllI0o110o0o[2]; if 92 > 159 then local lI1O00IlIIo1 = "lOo1l1OIl0II"; end; if 24 > 192 then local I0O11IoloOI0 = "ll0l1lll0I1o"; end; for Ilo0Ool0lIOI=1, 10 d
-o local II1OoOl0lIl0 = Ilo0Ool0lIOI * 2; end; for II0l1olO00oO=4, 8 do local Il1OIoI010oO = II0l1olO00oO * 2; end; local ll101ooo1oI0 = {1, 23}; ll101ooo1oI0[1] = ll101ooo1oI0[1] % ll101ooo1oI0[2]; fo
-r I0II0lo10oOO=1, 6 do local I1l1111Oo1IO = I0II0lo10oOO * 2; end; if 61 > 158 then local IIo1lIOI1l11 = "llIIO0oI10o0"; end; local IlO011O0l001 = {29, 100}; IlO011O0l001[1] = IlO011O0l001[1] + IlO011
-O0l001[2]; if 45 > 117 then local I00l0oolO0IO = "IIlO10O0lllo"; end; if 95 > 151 then local l10OI1IIllOO = "I0olI0IO0I1o"; end; local I1o1I10o1I1I = {25, 41}; I1o1I10o1I1I[1] = I1o1I10o1I1I[1] + I1o1
-I10o1I1I[2]; local loO0OI1IIolo = {27, 57}; loO0OI1IIolo[1] = loO0OI1IIolo[1] * loO0OI1IIolo[2]; local I1II00Oo01lo = {22, 17}; I1II00Oo01lo[1] = I1II00Oo01lo[1] - I1II00Oo01lo[2]; local Ilol0lO1Io01 
-= {20, 64}; Ilol0lO1Io01[1] = Ilol0lO1Io01[1] * Ilol0lO1Io01[2]; local lOI00ooOIloo = function(I10l00IIl0l1) return I10l00IIl0l1 and I10l00IIl0l1 or llOl1OlI0O0O end; if 24 > 199 then local I10O10IO1o
-O0 = "IlIIOoII00o0"; end; local I10l1lOOIoI1 = function(l1olooI1l0oI) return l1olooI1l0oI and l1olooI1l0oI or I11Oo1olOoo0 end; local lO1100loll0o = {58, 55}; lO1100loll0o[1] = lO1100loll0o[1] * lO110
-0loll0o[2]; for ll11oI0Il00o=1, 7 do local ll11OOIOO00I = ll11oI0Il00o * 2; end; local lOOlllooOI0l = {91, 68}; lOOlllooOI0l[1] = lOOlllooOI0l[1] % lOOlllooOI0l[2]; for II10lI101l00=1, 9 do local l0Il
-0o1O0000 = II10lI101l00 * 2; end; if 56 > 110 then local l10l00OI1I0I = "IoIIo1l01O0l"; end; if 6 > 172 then local IIol00oolIIo = "llolIooo0lol"; end; for II111O11o0Oo=3, 7 do local lIOIo0lIIl00 = II1
-11O11o0Oo * 2; end; local l01l0l1Ol0ol = {28, 28}; l01l0l1Ol0ol[1] = l01l0l1Ol0ol[1] + l01l0l1Ol0ol[2]; local I000oI1OIl1l = {2, 40}; I000oI1OIl1l[1] = I000oI1OIl1l[1] % I000oI1OIl1l[2]; local Iloo0lI
-0I101 = {25, 35}; Iloo0lI0I101[1] = Iloo0lI0I101[1] % Iloo0lI0I101[2]; local lllol1olO10l = function(lI1O01llOll0) return lI1O01llOll0 and lI1O01llOll0 or IlooO1oo1Iol end; for lIIOloI0oo0I=2, 10 do l
-ocal Iol000o1I0oO = lIIOloI0oo0I * 2; end; local Io1lo1oI0Io1 = function(l1I01oo110OO) return l1I01oo110OO and l1I01oo110OO or IoI11loooIII end; for IoOI10I01l1O=5, 9 do local lo1I10oOO010 = IoOI10I01
-l1O * 2; end; for I0oOo1OoOl0o=5, 6 do local I10Olo0lI1Io = I0oOo1OoOl0o * 2; end; local l0O1oOI1O0Io = function(l1l1Oolo0Il1) return l1l1Oolo0Il1 and l1l1Oolo0Il1 or I0oO0Ioll1ll end; local lIo01I0ll
-oI0 = {64, 17}; lIo01I0lloI0[1] = lIo01I0lloI0[1] * lIo01I0lloI0[2]; if 82 > 135 then local IOo10o0OO1Io = "ll1O0OIIoO11"; end; for l0OIlll1oO0O=3, 9 do local IIO1oIlO1lO1 = l0OIlll1oO0O * 2; end; for
- lOl0I1llO1o0=3, 10 do local I1l1111IOO1o = lOl0I1llO1o0 * 2; end; local I100Il0I10Ol = function(I0OI0001O0l1) return I0OI0001O0l1 and I0OI0001O0l1 or looIooO1I0OO end; local I0o110o0lo01 = function(l
-oI1IlIolIOl) return loI1IlIolIOl and loI1IlIolIOl or IO10I000ol11 end; local I01ll0II1O0o = {34, 28}; I01ll0II1O0o[1] = I01ll0II1O0o[1] + I01ll0II1O0o[2]; local l101IoOllIo1 = function(I1Il00OOll1I) r
-eturn I1Il00OOll1I and I1Il00OOll1I or lO1IlOo1OoOI end; local loIlI00olo01 = {48, 91}; loIlI00olo01[1] = loIlI00olo01[1] % loIlI00olo01[2]; local IoOOo1O1oI1l = function(IIl0ooO10o0O) return IIl0ooO1
-0o0O and IIl0ooO10o0O or llIO1OoooI10 end; local I0lIolo0loOI = {31, 21}; I0lIolo0loOI[1] = I0lIolo0loOI[1] + I0lIolo0loOI[2]; local Io0o010ol0ol = function(II100OoIlIlI) return II100OoIlIlI and II100
-OoIlIlI or ll1l11IOoIIO end; local lI00IIll1Ilo = function(Il11IoIolOo1) return Il11IoIolOo1 and Il11IoIolOo1 or IIl0IlOolIol end; for loO1o0I00O1o=1, 6 do local l1oOl1I11101 = loO1o0I00O1o * 2; end; 
-for Io11ollIoOIo=1, 7 do local loooOOlo1Io1 = Io11ollIoOIo * 2; end; local ll0Oo11Ol110 = {72, 81}; ll0Oo11Ol110[1] = ll0Oo11Ol110[1] * ll0Oo11Ol110[2]; for Io0I0Oo1Ol0O=4, 6 do local lOIOOololIl1 = I
-o0I0Oo1Ol0O * 2; end; if 23 > 111 then local l1l0I01Ol0OI = "lolOl1I1oIol"; end; local IIooIol00OOI = function(Ioll1I100I1o) return Ioll1I100I1o and Ioll1I100I1o or IOOooI1IlI0I end; local l0llIoo00Oo
-l = {57, 32}; l0llIoo00Ool[1] = l0llIoo00Ool[1] - l0llIoo00Ool[2]; for l01OO11o0OIo=4, 8 do local ll1OOl10O1ll = l01OO11o0OIo * 2; end; local loOl0O10o10O = {52, 83}; loOl0O10o10O[1] = loOl0O10o10O[1]
- + loOl0O10o10O[2]; local I0lOo0oO0l11 = {20, 79}; I0lOo0oO0l11[1] = I0lOo0oO0l11[1] * I0lOo0oO0l11[2]; local lI1Io11I0Io1 = function(I1IIloI0O0II) return I1IIloI0O0II and I1IIloI0O0II or l01o0lol01O1
- end; if 57 > 107 then local llIIo1oO0l1l = "Il1l1o00I0lI"; end; local l0O0o1llOIlI = function(lII00O1o0oo0) return lII00O1o0oo0 and lII00O1o0oo0 or IlO011oooIII end; local IlO1oOOI0l00 = {40, 69}; Il
-O1oOOI0l00[1] = IlO1oOOI0l00[1] % IlO1oOOI0l00[2]; local lO10OI1l01l0 = function(l10OO10oIolo) return l10OO10oIolo and l10OO10oIolo or l10lO11O1O0o end; for loII1l0I10oI=2, 7 do local lIo1O0IIlllI = l
-oII1l0I10oI * 2; end; for loooO0OIOIol=3, 8 do local IoIl0oOIOlOo = loooO0OIOIol * 2; end; for IIIOo1l0lII0=5, 10 do local l0Il00010I00 = IIIOo1l0lII0 * 2; end; for IOIIoollO000=4, 10 do local I00o1l0
-oOI00 = IOIIoollO000 * 2; end; if 7 > 139 then local I1IoOol0000O = "Il0O0lIll0OI"; end; if 74 > 114 then local IOI1Ol1I0olo = "I0O1O01oOloo"; end; for IO010I1Ol0lI=2, 6 do local lI0o10I1O0OI = IO010I
-1Ol0lI * 2; end; for l1O000lO1lll=1, 7 do local Ilo00Ol000Io = l1O000lO1lll * 2; end; local lolIl0IoOOII = function(lllO101oI001) return lllO101oI001 and lllO101oI001 or lIl0oo0II10I end; local lI0O10
-lOOI00 = {58, 27}; lI0O10lOOI00[1] = lI0O10lOOI00[1] * lI0O10lOOI00[2]; if 71 > 121 then local loO0IO0ooOl0 = "llO1111I100l"; end; for Io01Io1oI11I=1, 10 do local l1l0l01I0IIl = Io01Io1oI11I * 2; end;
- if 2 > 126 then local IlI00o0Iollo = "I0lOII0l1oI0"; end; local l11Ooo000o0o = {28, 33}; l11Ooo000o0o[1] = l11Ooo000o0o[1] + l11Ooo000o0o[2]; local lOll1OOlIlII = {85, 92}; lOll1OOlIlII[1] = lOll1OOl
-IlII[1] + lOll1OOlIlII[2]; local Ilo1IlOOlIOl = function(l0O00loII1oO) return l0O00loII1oO and l0O00loII1oO or l1OI100O0I0l end; if 17 > 153 then local IOI1o0olllIO = "Ioo1llllOIll"; end; local IIlOII
-0I1lOO = function(lII0lI001loI) return lII0lI001loI and lII0lI001loI or llo1Io0l1lI0 end; for lI01OII0olI1=5, 6 do local I0IIl0Io0O1o = lI01OII0olI1 * 2; end; if 30 > 182 then local IOoo11IllOl0 = "IO
-IOI1OOOoIO"; end; local I01lIo10o0lo = function(IOOoIIlolII1) return IOOoIIlolII1 and IOOoIIlolII1 or I0oI10oo1O01 end; for IIOlI11l1l0o=2, 10 do local lOoOo0OI0loo = IIOlI11l1l0o * 2; end; if 58 > 12
-7 then local llOol11100o1 = "lo0IOoI01ooo"; end; local IoOOoI0oI0IO = {29, 99}; IoOOoI0oI0IO[1] = IoOOoI0oI0IO[1] + IoOOoI0oI0IO[2]; for llo11O11lOII=4, 10 do local lllI0lI0IO10 = llo11O11lOII * 2; en
-d; if 78 > 170 then local Iolllo111IIo = "l10lOoo0OOl1"; end; if 77 > 178 then local IIOII0looOlo = "IIll0oOoolll"; end; for lo1l0O011ool=1, 6 do local loOOlo0o1000 = lo1l0O011ool * 2; end; for II0lO1
-lllOII=1, 8 do local Il0OIlI00OO0 = II0lO1lllOII * 2; end; if 74 > 156 then local Io1I010o1o1O = "Io1oo1oO0oII"; end; local Il0Ol1lO0lOl = function(lo0lOlo0I00O) return lo0lOlo0I00O and lo0lOlo0I00O o
-r l0oOO0I1OOl1 end; if 63 > 159 then local l0ooIo01I00I = "lo0lOI1o1l1l"; end; local IOOoIo1OIo0O = {93, 58}; IOOoIo1OIo0O[1] = IOOoIo1OIo0O[1] - IOOoIo1OIo0O[2]; if 45 > 161 then local lIO1lII0lOIO =
- "Io1l1O1oll10"; end; local IoOOoI0Ill1I = {24, 47}; IoOOoI0Ill1I[1] = IoOOoI0Ill1I[1] % IoOOoI0Ill1I[2]; if 75 > 151 then local I1o10I111l0O = "I0101IOIl110"; end; local IIoloolIlol1 = function(I1IoO
-l1llo0o) return I1IoOl1llo0o and I1IoOl1llo0o or lIo1ll1l11OI end; local I1oO010IIlI1 = {32, 50}; I1oO010IIlI1[1] = I1oO010IIlI1[1] + I1oO010IIlI1[2]; for Io0l10IOOoOl=3, 9 do local IO0IOlloO1Il = Io0
-l10IOOoOl * 2; end; if 13 > 101 then local l1l0llooIO1o = "lOlIOI0oII1l"; end; if 40 > 183 then local lIllOO0111o0 = "l0o1Oo0oI0oI"; end; local IOO0lIOI0Oo0 = function(l11ooI0Oo1lo) return l11ooI0Oo1l
-o and l11ooI0Oo1lo or lo1I10I011O1 end; if 29 > 123 then local lI1ol1OIII00 = "lllIo1OII1I0"; end; if 3 > 159 then local I0ooIoOll0oo = "lIoI1looOO0O"; end; if 22 > 146 then local Io11l1IloIo0 = "IoO0
-ll1o1I1o"; end; local lOo0lOlO10o0 = {12, 15}; lOo0lOlO10o0[1] = lOo0lOlO10o0[1] - lOo0lOlO10o0[2]; local IOOo0I0IIlI1 = {92, 49}; IOOo0I0IIlI1[1] = IOOo0I0IIlI1[1] * IOOo0I0IIlI1[2]; for lI0IoIO1Oolo
-=3, 7 do local I0I1I00O1o10 = lI0IoIO1Oolo * 2; end; local I0ll1o0O11Il = {55, 47}; I0ll1o0O11Il[1] = I0ll1o0O11Il[1] + I0ll1o0O11Il[2]; local lloOl1OO0IIl = function(l0Ool1Iol0IO) return l0Ool1Iol0IO
- and l0Ool1Iol0IO or l01OOllI0I1I end; local lIIIlIoOo1oO = function(lO11I00OOlOl) return lO11I00OOlOl and lO11I00OOlOl or IOII0Oo0IIlO end; if 71 > 106 then local lOl0OIloIOo1 = "IOIOoo0Oolo0"; end; 
-if 64 > 125 then local IOIOIIlIlO01 = "Ioo1o01100lo"; end; local l110oll0O0lI = {49, 40}; l110oll0O0lI[1] = l110oll0O0lI[1] * l110oll0O0lI[2]; for lOOO0lI1Il0o=5, 7 do local I1lOoIO1Ioll = lOOO0lI1Il0
-o * 2; end; local I1o1IIIO00Oo = {44, 16}; I1o1IIIO00Oo[1] = I1o1IIIO00Oo[1] * I1o1IIIO00Oo[2]; local Iol1o1000OIO = function(I0I1I1II0Iol) return I0I1I1II0Iol and I0I1I1II0Iol or l1011lololOI end; lo
-cal Il0l1I0II11o = function(IO1O0I11l011) return IO1O0I11l011 and IO1O0I11l011 or Iol1Oooo011O end; for lOl1IOO0I1ol=3, 9 do local l1l1ll10oIoI = lOl1IOO0I1ol * 2; end; local llIo1oIO10l0 = {82, 28}; 
-llIo1oIO10l0[1] = llIo1oIO10l0[1] % llIo1oIO10l0[2]; local l1lIIOlOoloO = {4, 60}; l1lIIOlOoloO[1] = l1lIIOlOoloO[1] % l1lIIOlOoloO[2]; local loIOl1l00lO0 = function(l1OolOo0IoIl) return l1OolOo0IoIl 
-and l1OolOo0IoIl or l1Oo0ll011O0 end; local IO0lIoI0llII = {88, 42}; IO0lIoI0llII[1] = IO0lIoI0llII[1] % IO0lIoI0llII[2]; if 28 > 195 then local lol0IOl1Ooo0 = "Il1o11IIOllI"; end; local Il0l0oo0l0IO 
-= {79, 48}; Il0l0oo0l0IO[1] = Il0l0oo0l0IO[1] % Il0l0oo0l0IO[2]; for I010l1oOI0o1=1, 9 do local ll0oOloI1ll1 = I010l1oOI0o1 * 2; end; if 95 > 119 then local IoOoO0l1110l = "l1OlIo1OI1OI"; end; for I1O
-llIOIO11O=3, 9 do local IO01l11olIOl = I1OllIOIO11O * 2; end; for IllIooIIoO01=4, 7 do local Io101ol00l1l = IllIooIIoO01 * 2; end; if 73 > 135 then local loloo11lOo1I = "Il1110oO0oII"; end; if 29 > 11
-4 then local lI001I0OOo1o = "I1O0l0ool0l0"; end; local loI0llo01olI = {30, 49}; loI0llo01olI[1] = loI0llo01olI[1] - loI0llo01olI[2]; for Il1o1I1looII=3, 7 do local lOooO0oOOOOl = Il1o1I1looII * 2; end
-; local lO1OOOllol01 = {40, 2}; lO1OOOllol01[1] = lO1OOOllol01[1] * lO1OOOllol01[2]; local l011oIOOO0lo = {56, 98}; l011oIOOO0lo[1] = l011oIOOO0lo[1] * l011oIOOO0lo[2]; if 29 > 155 then local lOll0l0O
-100I = "IlolOOo01lo0"; end; local l1lIIO001oo1 = function(l0Ilo1oI1o1I) return l0Ilo1oI1o1I and l0Ilo1oI1o1I or Illlo0o10IIo end; for lO000O1ooooI=5, 8 do local IoIOlOoII0oI = lO000O1ooooI * 2; end; l
-ocal l1IIl11IoI01 = {49, 88}; l1IIl11IoI01[1] = l1IIl11IoI01[1] + l1IIl11IoI01[2]; for lo10Io00l1oI=2, 7 do local I00I0lOooOOI = lo10Io00l1oI * 2; end; local I01oI0l0OlOo = {48, 97}; I01oI0l0OlOo[1] =
- I01oI0l0OlOo[1] + I01oI0l0OlOo[2]; local lO0OlIlOo1lo = function(IOl0l0Ollool) return IOl0l0Ollool and IOl0l0Ollool or lO1OIOo0o0II end; for IIoIlol0Ooll=1, 8 do local lOlIOOI1Io0l = IIoIlol0Ooll * 2
-; end; if 99 > 101 then local loO1I1lI01o1 = "l1O0Ol0loOIO"; end; for Ilollolo0OOl=3, 10 do local l1lIl01lO1Il = Ilollolo0OOl * 2; end; local lloo10I0OlIl = {52, 38}; lloo10I0OlIl[1] = lloo10I0OlIl[1]
- + lloo10I0OlIl[2]; for l1ll0ooI0lIO=3, 6 do local I01l01l0O0l0 = l1ll0ooI0lIO * 2; end; local IOl000o11l01 = {5, 61}; IOl000o11l01[1] = IOl000o11l01[1] + IOl000o11l01[2]; if 13 > 109 then local lI1oo
-II11olI = "lII1lOo1II1o"; end; local lIo1o1OlOl1o = function(l1lo101010II) return l1lo101010II and l1lo101010II or I00loOl01IIo end; local I0l01OIo0IlI = {55, 53}; I0l01OIo0IlI[1] = I0l01OIo0IlI[1] % 
-I0l01OIo0IlI[2]; if 7 > 107 then local llloO1Ol1loI = "IoloO1l1oI0O"; end; if 59 > 160 then local lIooooo11Io0 = "ll0001oo1IoI"; end; if 74 > 173 then local Iooo0111l1lO = "IooIOol11OOl"; end; for lol
-l0l1lO0I1=2, 10 do local IIl1oOII10I0 = loll0l1lO0I1 * 2; end; for l11I1Il1oOOl=5, 8 do local l11olO00o1lI = l11I1Il1oOOl * 2; end; if 61 > 167 then local IlOOlI110OIl = "lOoo00IO100I"; end; local IoO
-O0OIOIoIl = {10, 71}; IoOO0OIOIoIl[1] = IoOO0OIOIoIl[1] * IoOO0OIOIoIl[2]; local I11IollII0OI = {36, 62}; I11IollII0OI[1] = I11IollII0OI[1] % I11IollII0OI[2]; if 38 > 121 then local lo10IO01IIIO = "I0
-0l10O0II1O"; end; local lI1O1II00I1l = function(IOO1OOo0IolO) return IOO1OOo0IolO and IOO1OOo0IolO or Iol00llIlO10 end; local II0101OolIll = function(I1Io01OOloOl) return I1Io01OOloOl and I1Io01OOloOl
- or IIoolO00OOoO end; if 33 > 128 then local Io00oo00l101 = "IOl0IIIlIo10"; end; if 82 > 106 then local l0IO01I1I1I0 = "IIooo0OIOO1O"; end; local lI1101Ol0II1 = {59, 86}; lI1101Ol0II1[1] = lI1101Ol0II
-1[1] % lI1101Ol0II1[2]; for IOlO11Ilo11o=1, 8 do local lo100I1OIlOO = IOlO11Ilo11o * 2; end; if 93 > 184 then local IIO0loOOll0I = "I110lI1l10O1"; end; for I0Ill1II1ol1=2, 10 do local Il0O10lIIOOl = I
-0Ill1II1ol1 * 2; end; for I0o1lI00000I=3, 10 do local IIIollo1Oo1l = I0o1lI00000I * 2; end; local IO0OO1lIoI0I = function(lOoollIl0oO0) return lOoollIl0oO0 and lOoollIl0oO0 or I0I1OlO0oI0l end; if 98 
-> 138 then local IIo0Il1Io1O1 = "loIo1oO111Il"; end; local IOOl1ol001l1 = {33, 11}; IOOl1ol001l1[1] = IOOl1ol001l1[1] - IOOl1ol001l1[2]; local loI0lI0lIo1o = function(l01oO1lolo1I) return l01oO1lolo1I
- and l01oO1lolo1I or I1OoolIl0I10 end; for l1IOl1I1oOlI=4, 10 do local l001I0Il00OI = l1IOl1I1oOlI * 2; end; if 52 > 109 then local IIloO00o0lOl = "l1l00OO1IOol"; end; local l0ol00O1I000 = {66, 32}; l
-0ol00O1I000[1] = l0ol00O1I000[1] - l0ol00O1I000[2]; for Io01IoOOI111=2, 9 do local lIlOOIo1llO1 = Io01IoOOI111 * 2; end; local Il10olOlool0 = function(Ill0I1l01l1o) return Ill0I1l01l1o and Ill0I1l01l1
-o or IooO0IoOOl1l end; for lI0OIOOllIIl=2, 9 do local I1OOIOOoOl0O = lI0OIOOllIIl * 2; end; local I0l11OIo1ol0 = function(I10I0I0OOoo1) return I10I0I0OOoo1 and I10I0I0OOoo1 or IooIoO01I01l end; local 
-loIIIIOoOloI = {20, 2}; loIIIIOoOloI[1] = loIIIIOoOloI[1] - loIIIIOoOloI[2]; for loolI11O0l0o=1, 7 do local Io1o0lIIoIlo = loolI11O0l0o * 2; end; local l1I10ollO1oO = function(I1O10olOIO1l) return I1O
-10olOIO1l and I1O10olOIO1l or looI0OO1Ooll end; local Io01oIIOI1lI = function(lOoloooOoOIo) return lOoloooOoOIo and lOoloooOoOIo or I0olII1010Ol end; local IOIl0lOolIOl = function(lI100I0lOoIO) return
- lI100I0lOoIO and lI100I0lOoIO or l0OoIO1l1OII end; local lIOoI1o1oOl0 = {47, 100}; lIOoI1o1oOl0[1] = lIOoI1o1oOl0[1] * lIOoI1o1oOl0[2]; for l0IlOOlI111O=1, 6 do local Io1I1IooO1oO = l0IlOOlI111O * 2;
- end; for IIlo0oOolOlI=3, 7 do local IO0OI01oIllI = IIlo0oOolOlI * 2; end; for I0IOll01Oo1O=5, 9 do local IoOo1I0O11IO = I0IOll01Oo1O * 2; end; local Io111l01Io0I = {46, 97}; Io111l01Io0I[1] = Io111l0
-1Io0I[1] - Io111l01Io0I[2]; if 81 > 160 then local I0l0o110001o = "I0l0IoOO00OI"; end; for IIlI0IOIoII0=5, 8 do local lI0Il00l0l0O = IIlI0IOIoII0 * 2; end; if 18 > 118 then local l00oOIOloOOI = "loO10
-IlOOlII"; end; for llO1Olll00II=4, 7 do local IO1o1I1IoO1I = llO1Olll00II * 2; end; local Illlloo1O0o1 = {44, 30}; Illlloo1O0o1[1] = Illlloo1O0o1[1] % Illlloo1O0o1[2]; local Ill1l1lo000o = {25, 28}; I
-ll1l1lo000o[1] = Ill1l1lo000o[1] - Ill1l1lo000o[2]; local l0ool0ll1O0o = {94, 89}; l0ool0ll1O0o[1] = l0ool0ll1O0o[1] % l0ool0ll1O0o[2]; for IO0OIOI0ol0I=4, 7 do local lO101l0l0OI1 = IO0OIOI0ol0I * 2; 
-end; if 17 > 165 then local Ill0l0lIlI1O = "IIOoIl0IllO0"; end; for l1o000O0l01I=1, 7 do local loOl0000O11O = l1o000O0l01I * 2; end; for IOloIo1OOoO1=5, 6 do local lI1IOIloo0OI = IOloIo1OOoO1 * 2; end
-; local I01o110l1OoO = {30, 37}; I01o110l1OoO[1] = I01o110l1OoO[1] % I01o110l1OoO[2]; local l0oI0o1Olo1I = {43, 4}; l0oI0o1Olo1I[1] = l0oI0o1Olo1I[1] * l0oI0o1Olo1I[2]; local l000OIOO0lOl = {69, 3}; l
-000OIOO0lOl[1] = l000OIOO0lOl[1] * l000OIOO0lOl[2]; for IIoOI0o11OO0=4, 10 do local l10oll1OI01I = IIoOI0o11OO0 * 2; end; for ll1O1IIoOlOo=3, 10 do local Il01lol11ll1 = ll1O1IIoOlOo * 2; end; for II10
-1IIIOOlo=3, 7 do local IOI00oOl01I0 = II101IIIOOlo * 2; end; local I0o1loII10OI = {97, 16}; I0o1loII10OI[1] = I0o1loII10OI[1] - I0o1loII10OI[2]; for I1O0OI10oI0l=1, 8 do local lO0IoIO0l1O1 = I1O0OI10o
-I0l * 2; end; for l1lIOOl1o01I=5, 7 do local IOoO0o1II0l1 = l1lIOOl1o01I * 2; end; for lIIo1100Ooll=2, 8 do local lo1Io1I1111I = lIIo1100Ooll * 2; end; for Il1IoOoI0oo1=3, 6 do local l1ll1OO01Oll = Il
-1IoOoI0oo1 * 2; end; if 37 > 187 then local IlI1oI0O0Oo0 = "I10OlO00o10I"; end; if 70 > 192 then local IOl0o10lo1I0 = "I1o10Il100o1"; end; if 59 > 173 then local lIoOlOo11oll = "lo1l1lIl01O1"; end; fo
-r IOo1OIOOlOI0=1, 7 do local lllIOO1oolol = IOo1OIOOlOI0 * 2; end; local IOlO000OIIlO = {49, 76}; IOlO000OIIlO[1] = IOlO000OIIlO[1] - IOlO000OIIlO[2]; if 64 > 164 then local Il1Iooool0o0 = "lo0l1IolI0
-lI"; end; local I10oO10OIl1I = function(l10oO1lI0Il1) return l10oO1lI0Il1 and l10oO1lI0Il1 or I1O0oII1IOII end; local IIlI110o0III = {32, 79}; IIlI110o0III[1] = IIlI110o0III[1] + IIlI110o0III[2]; loca
-l II0oOO0lIo1I = {77, 49}; II0oOO0lIo1I[1] = II0oOO0lIo1I[1] * II0oOO0lIo1I[2]; local lIoI11O1IIIO = {24, 71}; lIoI11O1IIIO[1] = lIoI11O1IIIO[1] * lIoI11O1IIIO[2]; for Iol1oOIllIIo=3, 10 do local l100
-01looooI = Iol1oOIllIIo * 2; end; for I1IIIloI1IOo=4, 6 do local lO000l10o100 = I1IIIloI1IOo * 2; end; for IlOo0lllIO0I=1, 6 do local l0O00l00ool1 = IlOo0lllIO0I * 2; end; if 26 > 188 then local Io00o
-I000olI = "l0OlII1oOO0I"; end; local IoO01110olll = {4, 39}; IoO01110olll[1] = IoO01110olll[1] * IoO01110olll[2]; local llOl0IIOOOIl = function(IlI1IOloO101) return IlI1IOloO101 and IlI1IOloO101 or I0
-oI0OIl0I1O end; for lll101oIIOII=2, 9 do local I1II1ol01O10 = lll101oIIOII * 2; end; local l1lOlo100I0O = {77, 66}; l1lOlo100I0O[1] = l1lOlo100I0O[1] % l1lOlo100I0O[2]; local lIIolOOO0Io1 = function(l
-oI0olO1l1II) return loI0olO1l1II and loI0olO1l1II or IOl0I0IoOlO1 end; local lIOOloIIo1OI = {48, 59}; lIOOloIIo1OI[1] = lIOOloIIo1OI[1] * lIOOloIIo1OI[2]; local lII01IlIIllO = function(IoO01OOOo1o0) r
-eturn IoO01OOOo1o0 and IoO01OOOo1o0 or I100I11OO001 end; if 31 > 107 then local lIlI0oIoO01I = "I1OI11I0O1Oo"; end; local l1o1l1I0oolo = {9, 59}; l1o1l1I0oolo[1] = l1o1l1I0oolo[1] % l1o1l1I0oolo[2]; f
-or IllI1l1ll00l=1, 10 do local lO110I1Il0Oo = IllI1l1ll00l * 2; end; for l1IOO1o11o1l=4, 8 do local loI0ol0loO10 = l1IOO1o11o1l * 2; end; if 63 > 185 then local IIllOIO1OI0I = "I00l0I10loIl"; end; for
- I1o0o01l00lO=5, 8 do local llI11oOoo10O = I1o0o01l00lO * 2; end; for I0O00I0II1Oo=2, 9 do local IOOlll0OOoOo = I0O00I0II1Oo * 2; end; if 77 > 106 then local IlOoooO10o10 = "lII0011lOooO"; end; local 
-Il01IIO1Iol0 = {48, 41}; Il01IIO1Iol0[1] = Il01IIO1Iol0[1] + Il01IIO1Iol0[2]; local I0OoOIlIl110 = {22, 76}; I0OoOIlIl110[1] = I0OoOIlIl110[1] % I0OoOIlIl110[2]; local lollO1lOOIl1 = {19, 80}; lollO1l
-OOIl1[1] = lollO1lOOIl1[1] % lollO1lOOIl1[2]; if 33 > 134 then local lo1oII1OOlOO = "lo0lo0lI011I"; end; if 100 > 107 then local IIo0lOIOlIO1 = "lI00I11oO0OO"; end; local lIl0o0Ol1IOo = function(loOoo
-lO1o0l1) return loOoolO1o0l1 and loOoolO1o0l1 or lo1lOl10ll1I end; if 33 > 196 then local Il0oI1I1ooo1 = "lloOl01ooI1l"; end; if 66 > 138 then local IoIIOlII01l1 = "IIlO1lolIoOO"; end; local l0loOO1Ol
-lll = {35, 83}; l0loOO1Ollll[1] = l0loOO1Ollll[1] % l0loOO1Ollll[2]; local IOlI0IIlIlo0 = {90, 32}; IOlI0IIlIlo0[1] = IOlI0IIlIlo0[1] * IOlI0IIlIlo0[2]; local lo0l1III1Oll = {57, 93}; lo0l1III1Oll[1] 
-= lo0l1III1Oll[1] % lo0l1III1Oll[2]; for llIO00looo0I=5, 6 do local lO0o0O0l1OIO = llIO00looo0I * 2; end; for lo0OolOI1III=2, 7 do local ll1O0oO11oII = lo0OolOI1III * 2; end; for II10Ol1OI0ll=1, 8 do 
-local lOI0IlO0oOOo = II10Ol1OI0ll * 2; end; local I1III1lo1I01 = {9, 54}; I1III1lo1I01[1] = I1III1lo1I01[1] + I1III1lo1I01[2]; local llOIIllI1IOI = {47, 3}; llOIIllI1IOI[1] = llOIIllI1IOI[1] % llOIIll
-I1IOI[2]; if 17 > 104 then local lO1oo11O110O = "I0olOlolOIII"; end; local ll1OoIIoo0Io = function(l1IIIlO0IOIO) return l1IIIlO0IOIO and l1IIIlO0IOIO or IlIl0lIllOoI end; if 71 > 110 then local I0100O
-10l1ll = "lo1lOo11lOI0"; end; local IlIO010oO0lo = {50, 2}; IlIO010oO0lo[1] = IlIO010oO0lo[1] % IlIO010oO0lo[2]; local loIoIoIlI1lo = {38, 30}; loIoIoIlI1lo[1] = loIoIoIlI1lo[1] + loIoIoIlI1lo[2]; loc
-al l00lll1I0O0O = function(Ill1l01OoOoO) return Ill1l01OoOoO and Ill1l01OoOoO or lolo1IO0III1 end; if 32 > 116 then local ll111IoO0100 = "ll0olOO0Iolo"; end; local IIolIo1l000l = {46, 7}; IIolIo1l000l
-[1] = IIolIo1l000l[1] % IIolIo1l000l[2]; local Ilo1OoO011IO = function(I0Il0010ll1o) return I0Il0010ll1o and I0Il0010ll1o or I1o1lO00ol0o end; local II10O0Io0oII = {88, 94}; II10O0Io0oII[1] = II10O0Io
-0oII[1] + II10O0Io0oII[2]; local IlI0O0IO1l11 = function(l00OoIIooI0l) return l00OoIIooI0l and l00OoIIooI0l or IOIO0O1IolO0 end; if 94 > 107 then local IllIOI10OOIl = "lOo1110IOI01"; end; local l1oll1
-O1llII = {91, 55}; l1oll1O1llII[1] = l1oll1O1llII[1] % l1oll1O1llII[2]; local lolIO1111IlO = {58, 40}; lolIO1111IlO[1] = lolIO1111IlO[1] % lolIO1111IlO[2]; if 48 > 135 then local IoOIOII0OlIl = "lI1Oo
-ll0loIo"; end; for ll0oI1oo0IIO=1, 6 do local lOlo001Ool11 = ll0oI1oo0IIO * 2; end; local loo0lo1l01Io = function(lOIlIl0o1OO0) return lOIlIl0o1OO0 and lOIlIl0o1OO0 or ll1l11loloIO end; local lol1o0oI
-oooo = function(llllI0oOo100) return llllI0oOo100 and llllI0oOo100 or lIOo1lo0IOoo end; local Io1I01Ilo0OO = function(lO10I0OoI110) return lO10I0OoI110 and lO10I0OoI110 or lOOO0Ol1oo0O end; local l0l1
-oll0oO00 = function(Il1lOllll0Io) return Il1lOllll0Io and Il1lOllll0Io or loOIIIloO1l0 end; local lOIO011lOOII = function(lIIoIIl0llOI) return lIIoIIl0llOI and lIIoIIl0llOI or lI0o1OlOI1l0 end; local 
-I1o1l1oOo1o1 = {85, 53}; I1o1l1oOo1o1[1] = I1o1l1oOo1o1[1] - I1o1l1oOo1o1[2]; local I00010lo011I = function(l0ooOl0l1OOl) return l0ooOl0l1OOl and l0ooOl0l1OOl or I1oooOOloOO1 end; local IlIOll01Ilol =
- function(l01olI10I1lI) return l01olI10I1lI and l01olI10I1lI or l0O1IIlllo0o end; local l0O0Ol11I10l = function(l00l1IIo1ooO) return l00l1IIo1ooO and l00l1IIo1ooO or IIlOl01O1l1I end; if 53 > 157 then
- local lo0001110ooI = "I0Olll0II111"; end; local llIo1llOOOl1 = {43, 27}; llIo1llOOOl1[1] = llIo1llOOOl1[1] - llIo1llOOOl1[2]; for lo1l0OOIoO0O=3, 10 do local lO01O1OlOolo = lo1l0OOIoO0O * 2; end; loc
-al l1OOoOoO0Il1 = function(lI1lo0IlI1lO) return lI1lo0IlI1lO and lI1lo0IlI1lO or I10o11oO0IIO end; local ll00Ilo1oOl0 = function(loI0011lllO1) return loI0011lllO1 and loI0011lllO1 or I0O011Iol1O1 end;
- if 69 > 118 then local loIool01Illo = "lol0OIIOoooI"; end; local I100loI01oOo = {87, 63}; I100loI01oOo[1] = I100loI01oOo[1] - I100loI01oOo[2]; if 82 > 165 then local lo0l1010101o = "I10lllOloo11"; en
-d; local I11IIOoOOOo1 = {28, 25}; I11IIOoOOOo1[1] = I11IIOoOOOo1[1] - I11IIOoOOOo1[2]; for I0O1OoOoI1IO=4, 8 do local Io0oI01l00OI = I0O1OoOoI1IO * 2; end; for l11lO0O1OOIl=5, 8 do local I0o0lll1Oool 
-= l11lO0O1OOIl * 2; end; for IIOo1oll1111=2, 10 do local IOo1OoOI11oO = IIOo1oll1111 * 2; end; local llI0OI0lllOl = {8, 18}; llI0OI0lllOl[1] = llI0OI0lllOl[1] + llI0OI0lllOl[2]; local lOl0oIO01Il0 = {
-95, 51}; lOl0oIO01Il0[1] = lOl0oIO01Il0[1] - lOl0oIO01Il0[2]; for lO1I0O1OIloo=3, 6 do local lO10oOO001ol = lO1I0O1OIloo * 2; end; local lIoIl1olIIOl = function(IloIOIOlI00I) return IloIOIOlI00I and I
-loIOIOlI00I or l1I1IOI10Oo1 end; if 1 > 184 then local Ilo110l01O1I = "I1OIo1IOIo0o"; end; local lOlIoooOol0l = {36, 45}; lOlIoooOol0l[1] = lOlIoooOol0l[1] * lOlIoooOol0l[2]; local II0OlOOllIII = func
-tion(lo1IO0IoI1Oo) return lo1IO0IoI1Oo and lo1IO0IoI1Oo or I0IO000o1Ol0 end; local Il0I1OO1l01l = function(l0o00olI0Ooo) return l0o00olI0Ooo and l0o00olI0Ooo or l0lIloIIlO0l end; local Io0IoI0o1111 = 
-function(lOI010IOIOIl) return lOI010IOIOIl and lOI010IOIOIl or II0OoOoI0O10 end; if 17 > 199 then local lI011IlOoolI = "lOl1OOOlllOI"; end; local lOO0IO0o1O1o = {90, 24}; lOO0IO0o1O1o[1] = lOO0IO0o1O1
-o[1] - lOO0IO0o1O1o[2]; local l01IlIO0Oo1O = function(l0lI0l0Il0Io) return l0lI0l0Il0Io and l0lI0l0Il0Io or lIIIOoloOo1o end; for Illo101ololO=3, 6 do local IIlIOlIol01o = Illo101ololO * 2; end; if 90
- > 181 then local IIo0lolIo1O1 = "I1lO10l0O10O"; end; if 37 > 101 then local I11IlloOll0l = "lOlOolOoo00l"; end; for II0I0l1ll11l=2, 8 do local lolooIo0111o = II0I0l1ll11l * 2; end; if 91 > 172 then l
-ocal lIo11I0ll11l = "l1l1ooo1010I"; end; local IIo1l0o0010O = {19, 65}; IIo1l0o0010O[1] = IIo1l0o0010O[1] * IIo1l0o0010O[2]; if 57 > 122 then local l1OO0l0I0lIl = "I0II0O011O1o"; end; if 9 > 140 then 
-local Il01O1ll11lI = "I010o0I0olOI"; end; local IIO0OI1l0IlO = function(Io1lOl0OlIoI) return Io1lOl0OlIoI and Io1lOl0OlIoI or I0lI1oI0lO0l end; local l11111oOlIlI = {52, 38}; l11111oOlIlI[1] = l11111o
-OlIlI[1] % l11111oOlIlI[2]; if 23 > 135 then local lI1loloO1oll = "l01III0o0OIo"; end; for lIol1I0l000l=4, 6 do local lOO0lO01oIoo = lIol1I0l000l * 2; end; local l0oo0l0oOoO1 = function(lI1o0IOl1Ool) 
-return lI1o0IOl1Ool and lI1o0IOl1Ool or Il0OOl1OlI1O end; local I1IIoIIoOlOo = function(lo0llIOl0I1I) return lo0llIOl0I1I and lo0llIOl0I1I or l11lollOI1ll end; for ll01IoI000l0=4, 8 do local IOIIll0l1
-0IO = ll01IoI000l0 * 2; end; local IOOI0ooI110l = function(lolOoO10Olo0) return lolOoO10Olo0 and lolOoO10Olo0 or I1oI0lol1IoI end; if 99 > 135 then local I0lolo1oIO10 = "lI0O1IllloOO"; end; local IoO1
-01Oll1Il = function(l11oII100lOo) return l11oII100lOo and l11oII100lOo or IoIo1O0I1101 end; for l0IO10o1100l=5, 8 do local lo10llo01O1o = l0IO10o1100l * 2; end; for IOool0oolI0o=5, 7 do local I11oIo1o
-oOoo = IOool0oolI0o * 2; end; if 36 > 174 then local IlIl10ooOIo1 = "l0IoO1O1IOll"; end; local IO0lIO0oolI0 = {50, 75}; IO0lIO0oolI0[1] = IO0lIO0oolI0[1] - IO0lIO0oolI0[2]; for IO0l100I0Ooo=4, 9 do lo
-cal l0I01oloII00 = IO0l100I0Ooo * 2; end; for IlOOIlollIlI=3, 9 do local I1I001I0IOl1 = IlOOIlollIlI * 2; end; local IlooIOlII0I0 = {92, 69}; IlooIOlII0I0[1] = IlooIOlII0I0[1] * IlooIOlII0I0[2]; local
- l0OlOlIO0oOl = function(IoIlIo0o111I) return IoIlIo0o111I and IoIlIo0o111I or II1O011111Il end; for llO110lIoIll=4, 10 do local I1IO1O11I1oI = llO110lIoIll * 2; end; if 51 > 138 then local IIOO01Io0l
-IO = "l1Io1OOo01lo"; end; local lo1llo11l10o = function(lI10o1oO11o0) return lI10o1oO11o0 and lI10o1oO11o0 or lll00ol111I0 end; for llOI0Illo1oI=1, 7 do local IlOIIlIIl1o1 = llOI0Illo1oI * 2; end; loc
-al l01OI01lIll0 = function(IoO10llO0000) return IoO10llO0000 and IoO10llO0000 or l1l1OI01001I end; local lOIO1IO1olol = function(IOoOOIOII1Io) return IOoOOIOII1Io and IOoOOIOII1Io or ll1lO0olOOIO end;
- if 92 > 135 then local llloII1010ll = "I10IOl1IIIlI"; end; for Il0oIl1Il001=3, 8 do local l000Il1lOlIO = Il0oIl1Il001 * 2; end; for llOlO0I0O0I1=1, 10 do local I0OI0OIO1Il0 = llOlO0I0O0I1 * 2; end; l
-ocal loIl01OOoIo1 = {91, 24}; loIl01OOoIo1[1] = loIl01OOoIo1[1] % loIl01OOoIo1[2]; local I01I11II1OII = function(I1I11O1o0Io1) return I1I11O1o0Io1 and I1I11O1o0Io1 or lol0OOoo1IO0 end; if 43 > 178 the
-n local llIIl0o0O0O0 = "I0Io1Il00l0O"; end; local l110IlOIOIlo = {68, 73}; l110IlOIOIlo[1] = l110IlOIOIlo[1] % l110IlOIOIlo[2]; local II1l1lO0ool1 = function(IIlIooI00IIl) return IIlIooI00IIl and IIlI
-ooI00IIl or I01oIo00I001 end; for I0l0oooIOo0o=4, 6 do local I1Ilo1OII1oO = I0l0oooIOo0o * 2; end; if 85 > 151 then local IIoolOol0OIO = "llolOo1I00O0"; end; for IIoIlO1loO01=3, 7 do local ll100l000l1
-o = IIoIlO1loO01 * 2; end; local I0Ol1I1oIO1l = {94, 69}; I0Ol1I1oIO1l[1] = I0Ol1I1oIO1l[1] % I0Ol1I1oIO1l[2]; for IoIoOIIo0OOI=2, 10 do local IlllI01IIOo0 = IoIoOIIo0OOI * 2; end; for IOOl001IO1Ol=1,
- 7 do local loIIloIIll11 = IOOl001IO1Ol * 2; end; local IO1IIOl1O0lI = function(III1I011Ooo0) return III1I011Ooo0 and III1I011Ooo0 or IIlOOOIIIo0I end; local I1Oll0olllOo = {29, 88}; I1Oll0olllOo[1] =
- I1Oll0olllOo[1] * I1Oll0olllOo[2]; for IO0oo1ol0l1l=3, 8 do local I1011IlllO01 = IO0oo1ol0l1l * 2; end; local lO1OlOll1lll = {48, 5}; lO1OlOll1lll[1] = lO1OlOll1lll[1] % lO1OlOll1lll[2]; if 54 > 175 
-then local ll0110olIo1I = "II1OI00lI1l0"; end; if 78 > 196 then local I0Il1o1Oo001 = "IOI01IIIoIOo"; end; if 16 > 196 then local I111o1l10OIl = "l1oloI1loII1"; end; if 48 > 186 then local Io1o1lO1Oo0O
- = "lllIloOo10O1"; end; if 69 > 141 then local Io1I111Il0oI = "I1oIIoOol1Oo"; end; local IIl0O10000ll = function(lo1loOol100l) return lo1loOol100l and lo1loOol100l or lIoO0o01IOIO end; for lOIlIlooIO0
-o=3, 7 do local I0loO0IIo00O = lOIlIlooIO0o * 2; end; if 6 > 162 then local l01oo00oI01o = "IO0lIlO0loIl"; end; if 27 > 173 then local IIIOoIllllI1 = "l0OI1lOl1oo0"; end; local Iolo1O010o1I = function
-(loI0I0o001oI) return loI0I0o001oI and loI0I0o001oI or I0lo0lo1I01I end; local IIo1100o1I10 = {30, 84}; IIo1100o1I10[1] = IIo1100o1I10[1] % IIo1100o1I10[2]; for Il1o1lI00I1o=3, 6 do local Il01lOlOlO10
- = Il1o1lI00I1o * 2; end; local l01III1l11oo = function(IIOO11OllOll) return IIOO11OllOll and IIOO11OllOll or lOI1ooO11l1l end; for lIO0o1lO0O1o=5, 7 do local lI000lO0l0l0 = lIO0o1lO0O1o * 2; end; loc
-al l01o1IoII1Ol = function(I11oI0olo0l1) return I11oI0olo0l1 and I11oI0olo0l1 or Il0O0OoOol0o end; local lO1oIoO1Il01 = {23, 85}; lO1oIoO1Il01[1] = lO1oIoO1Il01[1] % lO1oIoO1Il01[2]; if 9 > 156 then l
-ocal I0Il0OoO1I00 = "llIll1loO01l"; end; local lIOIlOo1IlOO = {34, 66}; lIOIlOo1IlOO[1] = lIOIlOo1IlOO[1] % lIOIlOo1IlOO[2]; local lloIOoI0OOI0 = function(l011O0OllOIl) return l011O0OllOIl and l011O0O
-llOIl or IoO0OI0oI10l end; local lIoI1IO1II11 = function(IIII10I0I1lo) return IIII10I0I1lo and IIII10I0I1lo or I01lo0oO1ool end; local lI1O0oIIOl00 = function(l01l1oO00lll) return l01l1oO00lll and l01
-l1oO00lll or Io0oIlI11Ill end; if 92 > 150 then local l0III1O101lO = "IOlOlIIooI10"; end; local I1IO01OO11OI = function(l1II0OooO01o) return l1II0OooO01o and l1II0OooO01o or lol1IIOlO0ll end; for lI0l
-101oIOOo=1, 6 do local I10I1olOIlOl = lI0l101oIOOo * 2; end; local l1001o0IO1II = function(IlOl10O1I01I) return IlOl10O1I01I and IlOl10O1I01I or IoIoloIIl011 end; local IlOoI0OIllOl = {47, 32}; IlOoI0
-OIllOl[1] = IlOoI0OIllOl[1] * IlOoI0OIllOl[2]; for lolI000lIO1o=1, 7 do local II11loII0lOI = lolI000lIO1o * 2; end; for l1110IOI1OoI=1, 10 do local lOII1lOoo1Oo = l1110IOI1OoI * 2; end; for l1IIlI1111
-Il=3, 10 do local lIl00IlIIIo1 = l1IIlI1111Il * 2; end; local II0IO10l0IOl = function(Il01o00ooIIl) return Il01o00ooIIl and Il01o00ooIIl or IolI1OO0oOl1 end; local IlIoO0llI01o = {85, 33}; IlIoO0llI01
-o[1] = IlIoO0llI01o[1] % IlIoO0llI01o[2]; local llOlOOIolO1o = {22, 76}; llOlOOIolO1o[1] = llOlOOIolO1o[1] - llOlOOIolO1o[2]; if 87 > 153 then local Il0lOo00IoI1 = "II1001Il0O1l"; end; local Il1O10I00
-III = function(lOOIolOOl01I) return lOOIolOOl01I and lOOIolOOl01I or I11OIOo1lI1o end; for lIl10IIOl000=4, 8 do local Illll00OIllO = lIl10IIOl000 * 2; end; local IIoOllI0O0O1 = {57, 78}; IIoOllI0O0O1[
-1] = IIoOllI0O0O1[1] * IIoOllI0O0O1[2]; local lO0oIl0ll1IO = function(II0o1OO0OlIO) return II0o1OO0OlIO and II0o1OO0OlIO or lIoO0I111loO end; local IIOII0I10OI0 = {15, 76}; IIOII0I10OI0[1] = IIOII0I10
-OI0[1] - IIOII0I10OI0[2]; local lllOl0oIlO0O = {12, 3}; lllOl0oIlO0O[1] = lllOl0oIlO0O[1] + lllOl0oIlO0O[2]; if 51 > 183 then local Io1Ilo0lo10I = "Ill0OO10OoII"; end; if 54 > 122 then local ll1101OO0
-OOO = "l10IlOlolo0o"; end; local l1Ol0Il0ol0o = function(I0Il0O11olol) return I0Il0O11olol and I0Il0O11olol or lOOI0OII00l1 end; if 17 > 175 then local I1Ol000lI1oo = "l10lO1IIol00"; end; local loO10O
-11oOo1 = {82, 100}; loO10O11oOo1[1] = loO10O11oOo1[1] + loO10O11oOo1[2]; local l0l0Illo1I1o = function(I1OIIIO1oOO1) return I1OIIIO1oOO1 and I1OIIIO1oOO1 or I001ll11lo00 end; for l0OI1l000l1l=4, 7 do 
-local IOoI101olOl1 = l0OI1l000l1l * 2; end; local I000I010I1oo = function(I1lI1oOIlI1I) return I1lI1oOIlI1I and I1lI1oOIlI1I or llIOOlIllO01 end; if 76 > 113 then local lIII011O0ool = "lO0loo0OoloI"; 
-end; if 31 > 105 then local l1OO1lOI0IO0 = "llI1o0I11llI"; end; for I1O1l1l0I1OI=2, 10 do local lIIO0Iol0lO0 = I1O1l1l0I1OI * 2; end; for lO0IoOo0II1O=1, 7 do local IolOo010000O = lO0IoOo0II1O * 2; en
-d; if 41 > 199 then local l1olOOI0oOO0 = "IIOoO0I0O101"; end; for lIOOIOOOIllo=5, 8 do local I10O0lIOollI = lIOOIOOOIllo * 2; end; for IOlIOl1lII1l=3, 8 do local I0o1OIoOoOOI = IOlIOl1lII1l * 2; end; 
-if 44 > 153 then local II1I1lol1lI0 = "l11Oo0O011ol"; end; if 54 > 108 then local l1OO1o0o01O0 = "lIOOlO100IOI"; end; local IoOl1oIll1Ol = function(llll1I101l1l) return llll1I101l1l and llll1I101l1l o
-r l100OO0l0l10 end; for Il0I1llI0IlI=3, 7 do local lloIoll1IO0O = Il0I1llI0IlI * 2; end; local ll0O1IlIOIIO = {18, 2}; ll0O1IlIOIIO[1] = ll0O1IlIOIIO[1] * ll0O1IlIOIIO[2]; for I1IIloIoOoO0=2, 8 do loc
-al IlIO1o000lOO = I1IIloIoOoO0 * 2; end; local I0l01000OoOO = function(llOol00OoooO) return llOol00OoooO and llOol00OoooO or IIlIlO0011O0 end; for IlIoIIooIOOl=1, 9 do local Il0lO1lI0OI0 = IlIoIIooIOO
-l * 2; end; if 75 > 191 then local l0OOloO1O100 = "lI1IoO0oO01l"; end; local Io0oOIl0llIl = {88, 38}; Io0oOIl0llIl[1] = Io0oOIl0llIl[1] + Io0oOIl0llIl[2]; local IoOOoOO1o00O = {65, 7}; IoOOoOO1o00O[1]
- = IoOOoOO1o00O[1] + IoOOoOO1o00O[2]; for IlOO0lII1lIO=5, 6 do local lI0ooIIIOloI = IlOO0lII1lIO * 2; end; if 69 > 104 then local IOI0l1IO1lIo = "l1I0ooloIOOI"; end; local lIlIl11lI1ll = function(lI1l
-1olI101o) return lI1l1olI101o and lI1l1olI101o or l1I00llOO00I end; local lIl1o1oIO1lO = function(lI0oIl1olo1l) return lI0oIl1olo1l and lI0oIl1olo1l or lOI1lOI0llo0 end; for l10oO0l0ll00=3, 6 do local
- l1lI0OOlO1oO = l10oO0l0ll00 * 2; end; local l101I10l00ol = {36, 8}; l101I10l00ol[1] = l101I10l00ol[1] - l101I10l00ol[2]; for IOO10I1OoloI=3, 8 do local loO1I01OoI1o = IOO10I1OoloI * 2; end; for IlO1O
-0olI0Io=2, 7 do local l01lO0l10O01 = IlO1O0olI0Io * 2; end; local lO0111l01o1O = function(Ill0lI1oO1ll) return Ill0lI1oO1ll and Ill0lI1oO1ll or IlIO0OOOO11l end; if 24 > 112 then local l1loO01lOIoI = 
-"loO00l101oo0"; end; for IlI10l1lo11o=3, 8 do local I00ollIIloIl = IlI10l1lo11o * 2; end; local lIOo0O0ooI00 = {40, 65}; lIOo0O0ooI00[1] = lIOo0O0ooI00[1] + lIOo0O0ooI00[2]; for IO00O00IIOI0=2, 10 do 
-local lO00o1110ol0 = IO00O00IIOI0 * 2; end; if 29 > 167 then local l1OlIOOoOOOo = "IlOOOlI1lO1l"; end; if 58 > 179 then local II0I0IoIOIO1 = "lI0o0OIIO1OI"; end; if 42 > 101 then local lOOI1llo0Ooo = 
-"I101oooOl0lo"; end; local l1O111IoOOlO = function(lII0O1lOlO0o) return lII0O1lOlO0o and lII0O1lOlO0o or lIlIl000looo end; for IlOlIIO101l0=3, 10 do local IoOlI0lIO1OI = IlOlIIO101l0 * 2; end; if 68 >
- 116 then local lI0IlIIOIIoI = "IlollIoo1I0I"; end; for l100I1l0l10l=3, 7 do local II10ooOll111 = l100I1l0l10l * 2; end; for l1OIIoI0OOOo=2, 6 do local IO0101I110lO = l1OIIoI0OOOo * 2; end; local looI
-I101l1lO = function(IloIoI0o0ooo) return IloIoI0o0ooo and IloIoI0o0ooo or IIoo0lIIooI0 end; local l0OIIO01oo1I = {91, 15}; l0OIIO01oo1I[1] = l0OIIO01oo1I[1] % l0OIIO01oo1I[2]; local ll0llIIIol11 = {81
-, 81}; ll0llIIIol11[1] = ll0llIIIol11[1] * ll0llIIIol11[2]; for ll1O0o0oO0l1=3, 10 do local lOlI11oOl0oI = ll1O0o0oO0l1 * 2; end; if 100 > 148 then local lO1l11OI111l = "l1oOI1lOllOo"; end; local l0l0
-1Olo1011 = {80, 27}; l0l01Olo1011[1] = l0l01Olo1011[1] % l0l01Olo1011[2]; local II00oo1Io0ol = function(lI0OI0Ollo1o) return lI0OI0Ollo1o and lI0OI0Ollo1o or lIolo1Il1oIl end; for Illl1looo100=3, 6 do
- local lIO01lOo1ooI = Illl1looo100 * 2; end; local lOoOool1llII = function(lO10oIllIllo) return lO10oIllIllo and lO10oIllIllo or lIIOIIIl0oOI end; local II011OIlIlo1 = function(I0o01l00olIO) return I0
-o01l00olIO and I0o01l00olIO or l1Illl0OOl0I end; local lI001I00lOIo = {38, 55}; lI001I00lOIo[1] = lI001I00lOIo[1] * lI001I00lOIo[2]; for l1oll0ol00IO=4, 10 do local l001llIIl01O = l1oll0ol00IO * 2; en
-d; for I110l0OoO11o=4, 10 do local lOl1IlIoO1lO = I110l0OoO11o * 2; end; for I1IIOll1o000=4, 7 do local IIooIlO01I0O = I1IIOll1o000 * 2; end; local lIlolIloOO1I = {67, 86}; lIlolIloOO1I[1] = lIlolIloO
-O1I[1] % lIlolIloOO1I[2]; local l1oloO1IIlI1 = {91, 53}; l1oloO1IIlI1[1] = l1oloO1IIlI1[1] * l1oloO1IIlI1[2]; local IIO1OOl1oO0O = {56, 3}; IIO1OOl1oO0O[1] = IIO1OOl1oO0O[1] * IIO1OOl1oO0O[2]; local I
-oII01Ol1o1l = {26, 75}; IoII01Ol1o1l[1] = IoII01Ol1o1l[1] - IoII01Ol1o1l[2]; local IOl1O0I1o0I0 = {59, 28}; IOl1O0I1o0I0[1] = IOl1O0I1o0I0[1] + IOl1O0I1o0I0[2]; for l0oIo0o0ooIo=2, 6 do local lO1oOO1o
-lIol = l0oIo0o0ooIo * 2; end; local llIO0oI0000o = {54, 50}; llIO0oI0000o[1] = llIO0oI0000o[1] - llIO0oI0000o[2]; local II11I10oII1l = {11, 84}; II11I10oII1l[1] = II11I10oII1l[1] - II11I10oII1l[2]; if
- 96 > 171 then local I1OoolIlIOo1 = "lIIOII1I11I0"; end; for lolO0lo1OI1o=5, 7 do local lo1IooO0ooIo = lolO0lo1OI1o * 2; end; for lOl1I10O0o00=5, 10 do local IoOIOO1ll1Il = lOl1I10O0o00 * 2; end; loca
-l I11oIlOI1Ill = {79, 96}; I11oIlOI1Ill[1] = I11oIlOI1Ill[1] * I11oIlOI1Ill[2]; local Iol1IO00Iloo = function(IlIOllOOooll) return IlIOllOOooll and IlIOllOOooll or l01oOlO100ll end; for Il01IOOllloo=4
-, 8 do local I0OOloO1o1ol = Il01IOOllloo * 2; end; for ll0Il11loIOo=5, 6 do local I0l1IOo1oIo0 = ll0Il11loIOo * 2; end; local IIllloO1o0o1 = function(l1oo1lll0Ilo) return l1oo1lll0Ilo and l1oo1lll0Ilo
- or Il1OO1l1Ool0 end; local loOO111oOoOo = {59, 42}; loOO111oOoOo[1] = loOO111oOoOo[1] + loOO111oOoOo[2]; for l1OO0lo0lOIl=4, 6 do local lII111II0101 = l1OO0lo0lOIl * 2; end; local lOO1lIooloII = {91,
- 5}; lOO1lIooloII[1] = lOO1lIooloII[1] * lOO1lIooloII[2]; if 49 > 149 then local I0O01l0OI01O = "lOOIo010O1ol"; end; for l01l011IoO0I=4, 6 do local lOII0lOIIOOI = l01l011IoO0I * 2; end; local IOIoIlO1
-oI0O = {89, 73}; IOIoIlO1oI0O[1] = IOIoIlO1oI0O[1] - IOIoIlO1oI0O[2]; local l111loI0001I = {68, 32}; l111loI0001I[1] = l111loI0001I[1] + l111loI0001I[2]; if 43 > 128 then local II1l1I0O0l0o = "l1o1OoI
-olO11"; end; if 89 > 114 then local Io1OOO01o1OI = "II1loOoOl0O0"; end; for l0IIIo1O1OoI=2, 6 do local l0O10Ool0Oo1 = l0IIIo1O1OoI * 2; end; local l1llIlI0oO0l = function(l1O01oIolIlo) return l1O01oIo
-lIlo and l1O01oIolIlo or ll1o1O1oOO01 end; for lOIOl1oo1oI1=1, 8 do local lolI1olII10o = lOIOl1oo1oI1 * 2; end; for ll0O01Ilo101=4, 9 do local IOOIO00O011o = ll0O01Ilo101 * 2; end; local ll00O0OIlOlO 
-= function(I1o011olI0ol) return I1o011olI0ol and I1o011olI0ol or lo0OoloIlllI end; local I0l01oIIloI1 = function(I0oO1l1l11o0) return I0oO1l1l11o0 and I0oO1l1l11o0 or I00oO010o110 end; local IIlIooIII
-0O0 = function(I0olIIloI1I0) return I0olIIloI1I0 and I0olIIloI1I0 or IoIloI1ll1Il end; local I00ol1I11loo = function(l1oOoOoOoO0l) return l1oOoOoOoO0l and l1oOoOoOoO0l or l0I1lO001lol end; local l1OlI
-0l1lO01 = function(l1looo1Iollo) return l1looo1Iollo and l1looo1Iollo or IOIlIIl0IoII end; local lool01oo110l = function(llI011O1lI0o) return llI011O1lI0o and llI011O1lI0o or loIo0I000oI0 end; if 1 > 
-129 then local lIooo1llO0lI = "IlolI110IIO0"; end; for loIoIol0Oo1O=1, 6 do local I0O101oo11O0 = loIoIol0Oo1O * 2; end; local IlIo1lI0IO00 = function(l1oOooo10l1I) return l1oOooo10l1I and l1oOooo10l1I
- or lOI1oo1o0O0o end; local IIO10Oo1011l = {5, 45}; IIO10Oo1011l[1] = IIO10Oo1011l[1] * IIO10Oo1011l[2]; local Il111Iol0lI0 = {11, 14}; Il111Iol0lI0[1] = Il111Iol0lI0[1] - Il111Iol0lI0[2]; local Ioooo
-0oooII1 = function(l101OlIIIO00) return l101OlIIIO00 and l101OlIIIO00 or IlIIll0loO11 end; for lolIo0oIlOlo=2, 9 do local lI11olI0Io0O = lolIo0oIlOlo * 2; end; local l0Io100Oooll = function(looI1looI1
-l0) return looI1looI1l0 and looI1looI1l0 or I1IIoI01Io0O end; local l11lIlO1I11l = function(IOlO110O1ooO) return IOlO110O1ooO and IOlO110O1ooO or ll0I1o000llI end; if 17 > 161 then local Io01oIoIlOoI 
-= "lO1Il0looIll"; end; local lo0lIl0OlO1O = function(lI0OoO010O0l) return lI0OoO010O0l and lI0OoO010O0l or lO01I1oo01II end; if 50 > 139 then local I1I1l111ol0o = "Illo00II10ol"; end; local ll1ll0I11I
-I1 = function(IO1I1I0loIO1) return IO1I1I0loIO1 and IO1I1I0loIO1 or IIlo0OOIlO0o end; local lo1l00loOo10 = function(ll1lo0o10o1o) return ll1lo0o10o1o and ll1lo0o10o1o or lol1IIoIl00l end; local lOll0I
-lloIOo = {2, 80}; lOll0IlloIOo[1] = lOll0IlloIOo[1] - lOll0IlloIOo[2]; if 91 > 105 then local Io00lolOIIoI = "lo1l11loIIOo"; end; local IlOOIIo01lO1 = function(lOoI1lOoolo0) return lOoI1lOoolo0 and lO
-oI1lOoolo0 or l100lOIl10lI end; local IOlo0IOl11o0 = {42, 93}; IOlo0IOl11o0[1] = IOlo0IOl11o0[1] + IOlo0IOl11o0[2]; for loo0O01l1oOl=1, 8 do local lOI0001ol0lO = loo0O01l1oOl * 2; end; local llol0ooIl
-0Il = {78, 9}; llol0ooIl0Il[1] = llol0ooIl0Il[1] % llol0ooIl0Il[2]; if 44 > 186 then local IIO0o0OlOooI = "II00ooOIo1oo"; end; local loI11lo0oIOO = {65, 5}; loI11lo0oIOO[1] = loI11lo0oIOO[1] - loI11lo
-0oIOO[2]; for lOOol1olooo0=3, 8 do local lI100IlO0O00 = lOOol1olooo0 * 2; end; local lIllI1O0loOI = function(lOIoo010101o) return lOIoo010101o and lOIoo010101o or Il1O0lloI1o0 end; local lloIlIOoI1oO 
-= {14, 11}; lloIlIOoI1oO[1] = lloIlIOoI1oO[1] * lloIlIOoI1oO[2]; local Il0oO0IllOll = function(IO1oIoo1lIo0) return IO1oIoo1lIo0 and IO1oIoo1lIo0 or lOOo11lol1Oo end; local lloOOlIol10I = function(loO
-1oolO1oll) return loO1oolO1oll and loO1oolO1oll or IO0OOI0lll1l end; if 59 > 184 then local l0lllIIlO100 = "I01O0oIoIIlo"; end; for lOo0110llIOl=1, 6 do local IOl1oIl000o0 = lOo0110llIOl * 2; end; for
- IO1Oo10OIIOl=4, 10 do local IllIllOOIIIO = IO1Oo10OIIOl * 2; end; local IIoIOo1001lO = function(ll1ll1l1OlOO) return ll1ll1l1OlOO and ll1ll1l1OlOO or ll1O0OOooOII end; local IlOoOlo1Iool = function(I
-0oOll1oooO0) return I0oOll1oooO0 and I0oOll1oooO0 or I01OOol11lII end; local Io0l0O0010lI = {31, 27}; Io0l0O0010lI[1] = Io0l0O0010lI[1] * Io0l0O0010lI[2]; local l1Io0OIO0Olo = {22, 64}; l1Io0OIO0Olo[1
-] = l1Io0OIO0Olo[1] % l1Io0OIO0Olo[2]; if 51 > 155 then local lO10OOIolOIl = "I1OOI01Oolo1"; end; local lO1OI1o0Oo0l = function(loo11I0l1Iol) return loo11I0l1Iol and loo11I0l1Iol or loloOlII0l00 end; 
-local l1IIOooOo1O1 = function(Ioo0oI1ll00o) return Ioo0oI1ll00o and Ioo0oI1ll00o or I1Olo0Ol01IO end; for I0loOoOolI0I=5, 9 do local IlO1lIOoIlII = I0loOoOolI0I * 2; end; local IIooOoIlI1O0 = {10, 4};
- IIooOoIlI1O0[1] = IIooOoIlI1O0[1] + IIooOoIlI1O0[2]; local IoOo000II1O0 = function(lo1ooOO1lOI0) return lo1ooOO1lOI0 and lo1ooOO1lOI0 or lll011oIl00o end; local IOlIOo1Il0oI = {88, 55}; IOlIOo1Il0oI[
-1] = IOlIOo1Il0oI[1] * IOlIOo1Il0oI[2]; if 66 > 112 then local I10oI1oIoOll = "l00oo10lll1o"; end; local Io0OIOl00IOo = {90, 100}; Io0OIOl00IOo[1] = Io0OIOl00IOo[1] - Io0OIOl00IOo[2]; for IIOlOlII10ll
-=4, 6 do local IIIooIO1Il00 = IIOlOlII10ll * 2; end; local l0010lloooo1 = {100, 47}; l0010lloooo1[1] = l0010lloooo1[1] * l0010lloooo1[2]; local l1l111OIOIO0 = {63, 86}; l1l111OIOIO0[1] = l1l111OIOIO0[
-1] - l1l111OIOIO0[2]; for looIOll1OI00=4, 7 do local IolI1lIoO0oI = looIOll1OI00 * 2; end; for IIIIolI0lI01=3, 7 do local IoloOIoOlo1O = IIIIolI0lI01 * 2; end; local lllollO0oO11 = {3, 61}; lllollO0oO
-11[1] = lllollO0oO11[1] % lllollO0oO11[2]; local I1lo0l10ool1 = function(l0O0oOl0Ill0) return l0O0oOl0Ill0 and l0O0oOl0Ill0 or l1ll1oo1oolo end; for II0110o1l1O1=3, 10 do local lOIO1l0Ill10 = II0110o1
-l1O1 * 2; end; local l0I010O1oO0o = {46, 60}; l0I010O1oO0o[1] = l0I010O1oO0o[1] - l0I010O1oO0o[2]; if 64 > 145 then local ll0I0oOOIOol = "lOl10Oo00llo"; end; for lol01OOoI1lo=2, 10 do local lOoIOoI0IO
-I0 = lol01OOoI1lo * 2; end; local I0Olo11Oooll = function(IIOo01II11lI) return IIOo01II11lI and IIOo01II11lI or lIOOO00llo01 end; for I01I0OI10oll=2, 7 do local l1lo0lOlO1OI = I01I0OI10oll * 2; end; i
-f 61 > 113 then local Il10Oo0IO00I = "loloOo0lOlO1"; end; local lO1o11oOO1ol = {8, 67}; lO1o11oOO1ol[1] = lO1o11oOO1ol[1] % lO1o11oOO1ol[2]; if 4 > 164 then local IlIIlI1O0IoO = "loIol1l0olOI"; end; f
-or IIOllIlOo01I=2, 8 do local IOOlO10ol1Oo = IIOllIlOo01I * 2; end; for I0ol00o0oooI=2, 10 do local II1O1I0O10l1 = I0ol00o0oooI * 2; end; if 33 > 164 then local IIOlo0IlOol0 = "l1O1OIoo1I0o"; end; for
- IolO00O0Ooll=1, 10 do local lOlI0I01oIIo = IolO00O0Ooll * 2; end; local IlIoo0oOOIlI = function(lOO1III0o1o1) return lOO1III0o1o1 and lOO1III0o1o1 or l0OIoI0IolI0 end; if 40 > 149 then local ll1OOOlO
-l01l = "I001oll0O0O1"; end; if 86 > 182 then local loIoOl0I1l0l = "Ioo0lo1olO1o"; end; for IO1oO1Ollll1=1, 10 do local I0lOO0IOlolI = IO1oO1Ollll1 * 2; end; local lo0Ilol111I0 = function(IOlOoo1l1IIl)
- return IOlOoo1l1IIl and IOlOoo1l1IIl or ll0Ill10lo1I end; local lIIoIOoIl0Io = {17, 41}; lIIoIOoIl0Io[1] = lIIoIOoIl0Io[1] - lIIoIOoIl0Io[2]; local l1oO1llI1ool = {3, 23}; l1oO1llI1ool[1] = l1oO1llI1
-ool[1] - l1oO1llI1ool[2]; if 61 > 182 then local IIoO0IlIlO11 = "IlI11lOOl1lO"; end; local Ioll00l1l10O = function(IoOl00O11II1) return IoOl00O11II1 and IoOl00O11II1 or Io1Io0o1oO0I end; local loo010O
-IooOI = function(I000Ol0loo1o) return I000Ol0loo1o and I000Ol0loo1o or lI11IlI1IIIo end; for lolO1O0oIO0O=3, 7 do local lIO0O0II0Ol1 = lolO1O0oIO0O * 2; end; if 42 > 118 then local l1IOI1O011Il = "IlI
-lI101l0lO"; end; for lO000O01I100=3, 6 do local I11oOI1OO0Il = lO000O01I100 * 2; end; local I0100ll10Oo1 = {31, 27}; I0100ll10Oo1[1] = I0100ll10Oo1[1] * I0100ll10Oo1[2]; for Io110OI0lIOl=1, 9 do local
- l01lO0o110oO = Io110OI0lIOl * 2; end; local l0oO1Il10Oll = function(I01IlOlI1100) return I01IlOlI1100 and I01IlOlI1100 or llO0IlO011o1 end; for IOl1IO0l10Ol=5, 8 do local l1OOIOO0IOl0 = IOl1IO0l10Ol 
-* 2; end; local II1Ilo10OlO1 = function(llOo0Il1I0O0) return llOo0Il1I0O0 and llOo0Il1I0O0 or lloO0IOl0lIl end; local I110l1ool10I = {86, 40}; I110l1ool10I[1] = I110l1ool10I[1] - I110l1ool10I[2]; loca
-l Io1loIII1l0I = {65, 73}; Io1loIII1l0I[1] = Io1loIII1l0I[1] * Io1loIII1l0I[2]; if 88 > 136 then local IIOO1oO11111 = "IO0llolIl111"; end; local I0OOO1oIIOOI = {47, 95}; I0OOO1oIIOOI[1] = I0OOO1oIIOOI
-[1] % I0OOO1oIIOOI[2]; local lool11loo00l = {82, 5}; lool11loo00l[1] = lool11loo00l[1] % lool11loo00l[2]; for loI1OO1O1O1O=1, 10 do local l0lOI1OIIo0l = loI1OO1O1O1O * 2; end; local IO1o11I0O0I1 = fun
-ction(lOOl1IIO10Ol) return lOOl1IIO10Ol and lOOl1IIO10Ol or lOl0O0Ol110O end; if 38 > 165 then local lOl1O101oo11 = "IooOO00IoOlo"; end; if 33 > 146 then local loO1o100Olo0 = "l0OoI0lolol1"; end; if 6
-0 > 178 then local I1lolIIo11lI = "ll01IIoIOol1"; end; if 23 > 115 then local II0l10o1Io1O = "I0lOooIo0o1O"; end; local IlOIIlOol1lo = {91, 87}; IlOIIlOol1lo[1] = IlOIIlOol1lo[1] * IlOIIlOol1lo[2]; lo
-cal l11IIlOoIO11 = function(lO0oll0I1II1) return lO0oll0I1II1 and lO0oll0I1II1 or lOIIIlIOOlOl end; local I1OOIlO00lI1 = {79, 5}; I1OOIlO00lI1[1] = I1OOIlO00lI1[1] % I1OOIlO00lI1[2]; local l0Iol1l1IIo
-l = function(l01OO01oooIl) return l01OO01oooIl and l01OO01oooIl or Il0Oo1oI01Io end; for II10olo00Il0=4, 6 do local I1O0l1OI0lO1 = II10olo00Il0 * 2; end; if 67 > 178 then local IoOOoIOll1O0 = "IooIIll
-I00II"; end; for IIo0olo0OllI=5, 10 do local I0O1llo1IO0o = IIo0olo0OllI * 2; end; if 23 > 167 then local lIIol01l111l = "I11olloIOl1I"; end; if 52 > 136 then local loll00o0oOoI = "I11Ioo11IlI0"; end;
- local l10IoOlII11O = {82, 76}; l10IoOlII11O[1] = l10IoOlII11O[1] % l10IoOlII11O[2]; if 23 > 177 then local IIO0lO1II10o = "I0l0ool1IlO1"; end; if 23 > 130 then local lOl10l00OlI0 = "IOl001o0o1II"; en
-d; if 32 > 106 then local lI10I00lol0I = "lOoO01o1ll0O"; end; for Iool0IoO00IO=1, 10 do local I100OI1lo1ll = Iool0IoO00IO * 2; end; if 10 > 165 then local l1o10I0oIoIl = "IO0lI0I0ll01"; end; if 68 > 1
-62 then local I1IOoOoO1IIO = "Il1loO1ooooO"; end; local lo0oIOo1OlIo = function(II00O0O01lOl) return II00O0O01lOl and II00O0O01lOl or l00lI1loI1Io end; if 19 > 107 then local lIOoIIlo1lo1 = "l0o0011lo
-0ol"; end; if 38 > 102 then local II0OlOIo0lo1 = "llll010OO0l0"; end; for Il00Io1I0o0l=1, 10 do local III10O0l0olI = Il00Io1I0o0l * 2; end; if 78 > 156 then local looOolII1I1o = "l01IlOOOl1Io"; end; f
-or IO0IIooooO1o=3, 10 do local lOOo0lII1l0O = IO0IIooooO1o * 2; end; local lOI1OIlO1O11 = {11, 92}; lOI1OIlO1O11[1] = lOI1OIlO1O11[1] * lOI1OIlO1O11[2]; for lIIOIO10oll0=4, 10 do local l110O1oI0OoI = 
-lIIOIO10oll0 * 2; end; local ll0Io1IlOOoO = {63, 56}; ll0Io1IlOOoO[1] = ll0Io1IlOOoO[1] * ll0Io1IlOOoO[2]; for IOo1OoOIOOO0=5, 10 do local I0OI0lOOIOIo = IOo1OoOIOOO0 * 2; end; local I1O1o0l1Oool = fu
-nction(l10lOoooo1O1) return l10lOoooo1O1 and l10lOoooo1O1 or llIl000IOl00 end; local IOO110oO01o0 = function(lO0o0O0l0IOI) return lO0o0O0l0IOI and lO0o0O0l0IOI or loI0100O110o end; if 30 > 153 then lo
-cal l1ll1OII0oO0 = "IlIooI0oloIo"; end; local IlI1olOoIOI1 = {2, 52}; IlI1olOoIOI1[1] = IlI1olOoIOI1[1] % IlI1olOoIOI1[2]; local IlIIllIIllIl = bit32 and bit32.bxor or function(a,b) local p,c=1,0 whil
-e a>0 and b>0 do local ra,rb=a%2,b%2 if ra~=rb then c=c+p end a,b,p=(a-ra)/2,(b-rb)/2,p*2 end if a<b then a=b end while a>0 do local ra=a%2 if ra>0 then c=c+p end a,p=(a-ra)/2,p*2 end return c end loc
-al lIIllIlIIllI = {29,30,26,24,29,217,253,32,27,43,24,43,48,217,236,217,29,30,24,21,42,37,43,32,31,22,225,22,24,28,20,243,1,37,37,41,246,20,37,225,219,33,37,37,41,42,243,222,222,43,24,38,223,22,32,37,
-33,36,27,36,42,20,43,26,30,31,37,20,31,37,223,26,30,28,222,30,49,32,43,20,36,31,222,4,42,20,43,222,43,20,23,42,222,33,20,24,21,42,222,28,24,32,31,222,254,49,32,43,20,36,31,36,32,29,32,27,43,24,43,48,2
-23,29,36,24,219,224,224,225,224,195,195,29,30,26,24,29,217,6,32,31,21,30,38,217,236,217,253,32,27,43,24,43,48,243,255,20,38,6,32,31,21,30,38,225,219,10,26,43,32,41,37,219,224,195,195,29,30,26,24,29,21
-7,252,24,32,31,10,20,26,37,32,30,31,217,236,217,6,32,31,21,30,38,243,255,20,38,10,20,26,37,32,30,31,225,219,252,24,32,31,219,224,195,195,195,252,24,32,31,10,20,26,37,32,30,31,243,250,43,20,24,37,20,25
-1,36,37,37,30,31,225,219,4,246,250,217,232,219,221,217,23,36,31,26,37,32,30,31,225,224,195,217,217,217,217,195,195,20,31,21,224} local llIlIIllIlII = (1997 - 1864) local IlIlIlIlIlIl = ((1060 * 2 + 0)
- - 2068) local lIl00010lIol = {17, 77}; lIl00010lIol[1] = lIl00010lIol[1] + lIl00010lIol[2]; for llo1l0I1loOo=4, 10 do local lOoooloIOo1o = llo1l0I1loOo * 2; end; if 70 > 133 then local I0OO01oII1Ol =
- "lOOOIoOOOII0"; end; for IIIlI1IOoIoo=2, 10 do local II0OO1OO1l0I = IIIlI1IOoIoo * 2; end; local l11Ol001lO10 = function(ll0l1oo0Iolo) return ll0l1oo0Iolo and ll0l1oo0Iolo or Io11lOlO01Il end; local 
-I0lOl0IOIOOI = {75, 81}; I0lOl0IOIOOI[1] = I0lOl0IOIOOI[1] + I0lOl0IOIOOI[2]; for IlO1IIo1oO0I=1, 10 do local lOlll1IoOl0I = IlO1IIo1oO0I * 2; end; local Il0ooIlolIOo = {10, 60}; Il0ooIlolIOo[1] = Il0
-ooIlolIOo[1] + Il0ooIlolIOo[2]; local lloool01lll1 = {98, 15}; lloool01lll1[1] = lloool01lll1[1] % lloool01lll1[2]; local l100IoIlI01I = function(IOo0oOlolO1I) return IOo0oOlolO1I and IOo0oOlolO1I or 
-loIO0lo1oll1 end; local I10O10lI0OI1 = {47, 34}; I10O10lI0OI1[1] = I10O10lI0OI1[1] - I10O10lI0OI1[2]; for l0lIllI111ol=3, 8 do local lo0lII00I0oI = l0lIllI111ol * 2; end; if 28 > 119 then local IllIO1
-01IIIo = "lIOolO01oo1O"; end; local I01Oo1Ol1I01 = function(Il00oI1OlOol) return Il00oI1OlOol and Il00oI1OlOol or I0l0o1IIoOI1 end; local l110Io1Il00l = function(IOII10IO001O) return IOII10IO001O and 
-IOII10IO001O or lI0O0IlO110l end; local Il1ooll1o0l1 = {95, 86}; Il1ooll1o0l1[1] = Il1ooll1o0l1[1] - Il1ooll1o0l1[2]; for I1o1OIlIo1oo=2, 9 do local l1I011O1I1lI = I1o1OIlIo1oo * 2; end; if 20 > 118 t
-hen local IIl1IoOOo0O1 = "I0OlO1OO0101"; end; local l11lOOloI000 = function(I11IIo0Il00I) return I11IIo0Il00I and I11IIo0Il00I or I1loo111o1II end; local lolIOOo111o1 = function(I00llI1IIl1O) return I
-00llI1IIl1O and I00llI1IIl1O or IOo10I00O1Io end; for I10oO0OIIOoo=4, 7 do local I1101II0ll1l = I10oO0OIIOoo * 2; end; for lOOoOl1Io00I=1, 7 do local l0lOI01l010I = lOOoOl1Io00I * 2; end; for l11lOOO0
-oool=1, 8 do local IloOI0lo11oO = l11lOOO0oool * 2; end; for I00100l0oOoI=5, 7 do local lI0oooO1l0lo = I00100l0oOoI * 2; end; local I0o1ll010O00 = function(IOo00lo11IOO) return IOo00lo11IOO and IOo00l
-o11IOO or I010l0Io1o1l end; local Il00IIIlollo = {75, 79}; Il00IIIlollo[1] = Il00IIIlollo[1] % Il00IIIlollo[2]; if 14 > 112 then local IIOIIO11Ol0I = "lIIO0I010100"; end; local IIo101o01o1o = {34, 34}
-; IIo101o01o1o[1] = IIo101o01o1o[1] + IIo101o01o1o[2]; if 43 > 194 then local IOo0O00l0lO0 = "Ill00Ill0ool"; end; for I0olIoOo1lIl=2, 8 do local IOloIloIo110 = I0olIoOo1lIl * 2; end; local Ioo0I0o0O0o
-1 = function(II1o0001l110) return II1o0001l110 and II1o0001l110 or lOI0ol0l001I end; for IIIOIlo00IO1=2, 9 do local IIO1llIIoOIl = IIIOIlo00IO1 * 2; end; for llo0oI1O01ll=3, 6 do local l0I1I0I0lo1l = 
-llo0oI1O01ll * 2; end; for loo0Io1OOOoo=1, 8 do local l0lo1IoOlOOo = loo0Io1OOOoo * 2; end; for IOI00l00lOlI=1, 9 do local IIoO1ollIl11 = IOI00l00lOlI * 2; end; local I0Oo0IOlOI0o = function(Ilo0lo0IO
-l1O) return Ilo0lo0IOl1O and Ilo0lo0IOl1O or l11I0O1IIII0 end; local loO1O1oO0101 = {46, 95}; loO1O1oO0101[1] = loO1O1oO0101[1] % loO1O1oO0101[2]; local lo10010101IO = function(lOO11lI1OOo1) return lO
-O11lI1OOo1 and lOO11lI1OOo1 or I110IoOO0lo1 end; for l0lo1lOO10O1=5, 10 do local looo0oolOII1 = l0lo1lOO10O1 * 2; end; local IO0llO1001oo = {50, 79}; IO0llO1001oo[1] = IO0llO1001oo[1] - IO0llO1001oo[2
-]; for I1oIlOlIIIo0=4, 9 do local IoO1IOOIlI1l = I1oIlOlIIIo0 * 2; end; local I0O101lo00ol = {30, 67}; I0O101lo00ol[1] = I0O101lo00ol[1] * I0O101lo00ol[2]; local IlOl0lo00oOI = function(l0OOO10oloOO) 
-return l0OOO10oloOO and l0OOO10oloOO or IIOo1OloIIlO end; if 67 > 129 then local lOOlloIIOloI = "IOl11lIOlOo1"; end; local l1olOlo0OO1l = {90, 36}; l1olOlo0OO1l[1] = l1olOlo0OO1l[1] + l1olOlo0OO1l[2];
- local lOOoI0OI0olo = function(IooI0I0ool1I) return IooI0I0ool1I and IooI0I0ool1I or l0lI1l1lo11I end; local lOl1lOl01oIO = function(I00oIO0l0011) return I00oIO0l0011 and I00oIO0l0011 or l0I1l1O0IOOl 
-end; local IIoOl1o1oOI1 = {59, 15}; IIoOl1o1oOI1[1] = IIoOl1o1oOI1[1] - IIoOl1o1oOI1[2]; local loool101lloI = {91, 11}; loool101lloI[1] = loool101lloI[1] + loool101lloI[2]; local IOolloO0IOO1 = functi
-on(IoolOl1lOO0I) return IoolOl1lOO0I and IoolOl1lOO0I or lloo1l0lOo00 end; for IOOo101110I1=2, 7 do local IoOo0ooll0Oo = IOOo101110I1 * 2; end; local lo0olo11lO01 = function(Iolo0IO0lOoI) return Iolo0
-IO0lOoI and Iolo0IO0lOoI or l111ol10l1lO end; if 16 > 140 then local IIOOl1OIo10I = "lIOOllO1O1O0"; end; local I000oIIIOo1l = function(IO0I0ool1lll) return IO0I0ool1lll and IO0I0ool1lll or lo1ooolOoI1
-0 end; local II1lo10Ill01 = function(ll1O1O0o1O1O) return ll1O1O0o1O1O and ll1O1O0o1O1O or lIlIoo1I110O end; local I001oOO01Ol0 = function(I10I10Ol010I) return I10I10Ol010I and I10I10Ol010I or IIOo0l0
-0O0oo end; if 55 > 108 then local loooo011OOOI = "llI1IOOOlOO0"; end; for lOlO1IllOol0=4, 7 do local IIl1o1OO10lI = lOlO1IllOol0 * 2; end; for I1llIO1I0O0I=1, 7 do local I0loI00lOOII = I1llIO1I0O0I * 
-2; end; local IoIOolloIOoI = {95, 39}; IoIOolloIOoI[1] = IoIOolloIOoI[1] + IoIOolloIOoI[2]; local l0loOo00OlIl = function(loOOI0loOlO0) return loOOI0loOlO0 and loOOI0loOlO0 or l1IooOo0OIl0 end; local 
-l01o0oIl0O1I = {43, 31}; l01o0oIl0O1I[1] = l01o0oIl0O1I[1] * l01o0oIl0O1I[2]; for IOo0l0olOo11=3, 9 do local lIloIoO01l00 = IOo0l0olOo11 * 2; end; local I0IlOl01oI1I = {99, 7}; I0IlOl01oI1I[1] = I0IlO
-l01oI1I[1] - I0IlOl01oI1I[2]; local loOlIlO1O11l = {76, 29}; loOlIlO1O11l[1] = loOlIlO1O11l[1] + loOlIlO1O11l[2]; for IllO0I1llIoo=5, 8 do local lI1OooOOoO1l = IllO0I1llIoo * 2; end; if 1 > 139 then l
-ocal IO0Ilol1Io1I = "IoOo0O1O01oO"; end; local I0o0OI0IIOOI = {73, 77}; I0o0OI0IIOOI[1] = I0o0OI0IIOOI[1] % I0o0OI0IIOOI[2]; local IloO0I0lO01I = {32, 90}; IloO0I0lO01I[1] = IloO0I0lO01I[1] + IloO0I0l
-O01I[2]; local l0IO0lI1OIo1 = {67, 82}; l0IO0lI1OIo1[1] = l0IO0lI1OIo1[1] * l0IO0lI1OIo1[2]; local lO0OIIOIo0Io = function(l0lll0IooIlI) return l0lll0IooIlI and l0lll0IooIlI or IloooIll1OOI end; local
- II1oO01IoI1l = {68, 94}; II1oO01IoI1l[1] = II1oO01IoI1l[1] % II1oO01IoI1l[2]; local l00lOOIlO1lO = function(l1l11I1O1lo1) return l1l11I1O1lo1 and l1l11I1O1lo1 or IlIIOIll0ll0 end; for lIO0oolloolo=5,
- 9 do local lIoOIoII01OO = lIO0oolloolo * 2; end; for IloloOI1lII1=5, 8 do local ll10ooll11ol = IloloOI1lII1 * 2; end; if 28 > 190 then local l001l10Oo0Io = "lO0I0OIoII10"; end; for IolO11Oo0IOI=1, 7 
-do local l0I0o1o0l10O = IolO11Oo0IOI * 2; end; local ll10o1IoOI0O = function(IoO0IOoo0llI) return IoO0IOoo0llI and IoO0IOoo0llI or l010o0I0lIoO end; if 44 > 160 then local I00IoOlI1100 = "loo11IolO10l
-"; end; for I0001o11oI0I=5, 10 do local I0oOl1oo0Io0 = I0001o11oI0I * 2; end; if 70 > 200 then local lOO01l10lo1l = "I01OOlolIO1l"; end; for Ioo1o101I0Ol=5, 6 do local III1l01l1o11 = Ioo1o101I0Ol * 2;
- end; if 7 > 195 then local IoOOllIOoo00 = "I0IlOllIoIoI"; end; for IoOOIo11O0oI=5, 7 do local I1oOolI0Io00 = IoOOIo11O0oI * 2; end; local lol1OloOlolI = function(Ioo00O0ol0OI) return Ioo00O0ol0OI and
- Ioo00O0ol0OI or lIO0oIOO11lI end; for l0OOOOoOlll0=1, 8 do local IlI1looo1l1I = l0OOOOoOlll0 * 2; end; for lOI00OOII01l=5, 10 do local lOoOIooooII0 = lOI00OOII01l * 2; end; for IO0OO0OO0O0o=3, 8 do l
-ocal lOoO00ll1l1o = IO0OO0OO0O0o * 2; end; local I1l0Oo0OOol1 = {58, 36}; I1l0Oo0OOol1[1] = I1l0Oo0OOol1[1] + I1l0Oo0OOol1[2]; if 9 > 175 then local lo0lolI0I10o = "l11o10oI1OoI"; end; local l11O100o1
-O1I = {1, 68}; l11O100o1O1I[1] = l11O100o1O1I[1] - l11O100o1O1I[2]; local llII11I1o11l = {23, 86}; llII11I1o11l[1] = llII11I1o11l[1] * llII11I1o11l[2]; local l11Iooo11O1O = function(IoIo00l1o0oI) retu
-rn IoIo00l1o0oI and IoIo00l1o0oI or III0110IlI1O end; local IOO0IIlo0Io0 = function(l0OI1o1lIO00) return l0OI1o1lIO00 and l0OI1o1lIO00 or loollIl1O0Ol end; local l0I111oIOIIo = function(lo01IoO0II0l) 
-return lo01IoO0II0l and lo01IoO0II0l or I101ll1oIooO end; local Io1lIo0llOoI = function(lIlIo10llool) return lIlIo10llool and lIlIo10llool or Il110Ill0loO end; local lO0I0IIIOloI = {27, 43}; lO0I0IIIO
-loI[1] = lO0I0IIIOloI[1] * lO0I0IIIOloI[2]; for l0111lIoOllO=4, 9 do local lOo01llIo10I = l0111lIoOllO * 2; end; local Iol0O0IlolO0 = function(I00Ool1O1IO0) return I00Ool1O1IO0 and I00Ool1O1IO0 or loI
-oOol1O1lI end; local lOOo1OlII0o1 = function(lIl1IIIolo0l) return lIl1IIIolo0l and lIl1IIIolo0l or lo0looooOI0I end; local Il0I1101I1OO = {56, 76}; Il0I1101I1OO[1] = Il0I1101I1OO[1] * Il0I1101I1OO[2];
- for IOl0l010olO0=3, 9 do local I1001IloOl0I = IOl0l010olO0 * 2; end; local I0O10I00OooI = {87, 92}; I0O10I00OooI[1] = I0O10I00OooI[1] + I0O10I00OooI[2]; local I1OI0lI0I0II = {46, 28}; I1OI0lI0I0II[1]
- = I1OI0lI0I0II[1] % I1OI0lI0I0II[2]; for IIoolIOOO1O0=2, 7 do local lo0OllI00oOl = IIoolIOOO1O0 * 2; end; local I1Oo01o00oO0 = function(llIIOI110ol1) return llIIOI110ol1 and llIIOI110ol1 or l11I0OO1O
-0O0 end; local llO0010Ol1I0 = {82, 41}; llO0010Ol1I0[1] = llO0010Ol1I0[1] - llO0010Ol1I0[2]; if 69 > 130 then local l11IOOol0Oo1 = "I1oI11llo0II"; end; local l1oIIo1l01lo = function(Il010o1O0OIl) retu
-rn Il010o1O0OIl and Il010o1O0OIl or l00OO1O1llII end; local IoIoll1IIo11 = {32, 41}; IoIoll1IIo11[1] = IoIoll1IIo11[1] * IoIoll1IIo11[2]; local I11oOlIoolo0 = {88, 60}; I11oOlIoolo0[1] = I11oOlIoolo0[
-1] + I11oOlIoolo0[2]; local ll0I11I00100 = {32, 99}; ll0I11I00100[1] = ll0I11I00100[1] + ll0I11I00100[2]; local ll1oOooo1oll = {1, 4}; ll1oOooo1oll[1] = ll1oOooo1oll[1] * ll1oOooo1oll[2]; if 74 > 153 
-then local I00oIlloo0l0 = "IOI00OIlOOl1"; end; local lI1lOo1ol00O = {35, 24}; lI1lOo1ol00O[1] = lI1lOo1ol00O[1] % lI1lOo1ol00O[2]; if 4 > 142 then local lollOl001OoO = "I01ollIIoOl0"; end; if 18 > 192
- then local l1llolo0I1lo = "llIIooIO011o"; end; for IlOoIIl1lOII=1, 7 do local IIolOlOlIolI = IlOoIIl1lOII * 2; end; if 10 > 146 then local l1Io0IllIlI0 = "IlllOoI11Ilo"; end; local IlOI01I0lOII = {88
-, 13}; IlOI01I0lOII[1] = IlOI01I0lOII[1] - IlOI01I0lOII[2]; local l0Io00OlOIlo = function(IOO10ol11O0O) return IOO10ol11O0O and IOO10ol11O0O or II1l01OooloI end; for IOO11olOO0IO=2, 8 do local lOOlo1l
-0I01I = IOO11olOO0IO * 2; end; for loll10lO1Iol=5, 7 do local IOOOO1llO0o0 = loll10lO1Iol * 2; end; local IooI1o1IOIlI = {100, 3}; IooI1o1IOIlI[1] = IooI1o1IOIlI[1] * IooI1o1IOIlI[2]; local lI0I0l1lI0
-lI = function(Ilol0Io1o11l) return Ilol0Io1o11l and Ilol0Io1o11l or lo00o1o00lO1 end; local Il01O1o1ooOI = function(I0O1olIlI1l1) return I0O1olIlI1l1 and I0O1olIlI1l1 or I0OOIllOIloO end; local lo01o0
-1oloOI = function(lo0O0Il1oIOl) return lo0O0Il1oIOl and lo0O0Il1oIOl or lIOOlooOl0Oo end; local IoOlII111I1l = function(I01oIloo010o) return I01oIloo010o and I01oIloo010o or lO1o00IoI0lI end; local l0
-llloOl0oIl = {71, 42}; l0llloOl0oIl[1] = l0llloOl0oIl[1] - l0llloOl0oIl[2]; if 98 > 109 then local IOll0o00lllO = "l1O0O1l1IlO0"; end; local IOll10o01OOl = {75, 59}; IOll10o01OOl[1] = IOll10o01OOl[1] 
-% IOll10o01OOl[2]; local I0Oo1Il0oO0o = {17, 62}; I0Oo1Il0oO0o[1] = I0Oo1Il0oO0o[1] - I0Oo1Il0oO0o[2]; if 10 > 117 then local I110oOOll1I0 = "lO1IOIlIOlIl"; end; for Il0ooIOOloIo=2, 7 do local I0I1IOl
-o11OI = Il0ooIOOloIo * 2; end; for l0I00lI0loO1=2, 9 do local l1OollOlOlOI = l0I00lI0loO1 * 2; end; local l10OlOll1l1I = {71, 61}; l10OlOll1l1I[1] = l10OlOll1l1I[1] * l10OlOll1l1I[2]; local l1l0I1001l
-I0 = function(II1o0O0o0l1o) return II1o0O0o0l1o and II1o0O0o0l1o or lOlol011I0ll end; local llOI1l0O0lOl = {1, 46}; llOI1l0O0lOl[1] = llOI1l0O0lOl[1] % llOI1l0O0lOl[2]; local IlOlll1loOl1 = {32, 43}; 
-IlOlll1loOl1[1] = IlOlll1loOl1[1] + IlOlll1loOl1[2]; local loIIo0OO1O00 = function(looIl1I01OOI) return looIl1I01OOI and looIl1I01OOI or III11OOl1l01 end; for llI1lo1loIoI=1, 8 do local I0l0OlIlIOIO =
- llI1lo1loIoI * 2; end; local Iol0IIIll110 = function(l0OOO00O0oII) return l0OOO00O0oII and l0OOO00O0oII or IoI0000o0IoO end; if 80 > 155 then local lOolIl0oO10O = "l0I0OIoIlloI"; end; if 1 > 113 then
- local l1Illlolo1Il = "I0OOII01O1II"; end; for llI1lo0o0OlI=2, 6 do local l1IolOo1ll0O = llI1lo0o0OlI * 2; end; local loOOIlI110l0 = function(IOIOOIIoII00) return IOIOOIIoII00 and IOIOOIIoII00 or IOOI
-lO00Illo end; local lOlllI0o110O = function(l1OOOIOO010O) return l1OOOIOO010O and l1OOOIOO010O or IO1IolOO1oOl end; local IO1IlO0Olo01 = {76, 84}; IO1IlO0Olo01[1] = IO1IlO0Olo01[1] * IO1IlO0Olo01[2]; 
-for lO10loOo100o=5, 9 do local lO10oO0O1Ilo = lO10loOo100o * 2; end; for I1OIIOOo1ool=2, 10 do local Iol0l0O1O0o0 = I1OIIOOo1ool * 2; end; local ll0l0l0IOool = {39, 63}; ll0l0l0IOool[1] = ll0l0l0IOool
-[1] + ll0l0l0IOool[2]; local Ill000Il0111 = {23, 18}; Ill000Il0111[1] = Ill000Il0111[1] + Ill000Il0111[2]; if 49 > 112 then local l1olOl1lI1I0 = "l0OIOlIo0oOo"; end; if 37 > 126 then local IIO100oo1O1
-I = "l0o10ol0Ioll"; end; for I1IOllI01IO0=4, 8 do local I0Io1l0Oool0 = I1IOllI01IO0 * 2; end; local llolIIo110Il = function(lIloo11I0IlI) return lIloo11I0IlI and lIloo11I0IlI or llI0Il1ooIIo end; for 
-l1OIOoOOIo0O=5, 10 do local l1OOIooO10O0 = l1OIOoOOIo0O * 2; end; local l1o011OOlOoO = function(ll01o0IoO0oO) return ll01o0IoO0oO and ll01o0IoO0oO or llOol0looOII end; if 39 > 193 then local lOoI0IoOI
-lol = "Il1IOoI0oIll"; end; local l001OoI10o1I = function(Iol0IOIo100O) return Iol0IOIo100O and Iol0IOIo100O or I1Il01O001l0 end; local IIlIoO0OIo01 = function(l0O1OoooOIll) return l0O1OoooOIll and l0O
-1OoooOIll or lolOoO1Io0I0 end; local llIIIO0OO1Ol = function(I1I0lOO0lolO) return I1I0lOO0lolO and I1I0lOO0lolO or lOOOllIo0loI end; for ll11l00Ool11=3, 10 do local l0OooOOlI0l1 = ll11l00Ool11 * 2; en
-d; if 40 > 196 then local I101IoI0oo1o = "IIlo0OO10o01"; end; local l0O1O101l001 = function(Io1lOIO0l11l) return Io1lOIO0l11l and Io1lOIO0l11l or IIO0oO1OoOll end; for l1ollO0I010O=2, 8 do local llOO1
-llO1OIO = l1ollO0I010O * 2; end; for I11Il11ll0o0=2, 7 do local lOIOo1O11ooI = I11Il11ll0o0 * 2; end; local l00lI0l1OOll = function(l1OI1I10l1o1) return l1OI1I10l1o1 and l1OI1I10l1o1 or loo0l10o0llO e
-nd; for IOOIo1o1OII1=5, 6 do local l11oOIooI0O1 = IOOIo1o1OII1 * 2; end; for Il0Il011OI1O=1, 6 do local l1o0IllIl00I = Il0Il011OI1O * 2; end; if 64 > 108 then local l0oOI11lo1II = "I0oO0oo1IO0l"; end;
- for I1llIoo0Il0O=5, 6 do local l011O1lO00II = I1llIoo0Il0O * 2; end; local l0O0I11lOI0l = function(l0I00IllolIl) return l0I00IllolIl and l0I00IllolIl or loolOI0IoOO1 end; if 32 > 191 then local I1IIo
-OIloI0l = "III0II0lllOo"; end; if 53 > 103 then local looO1OOoOl10 = "Il0o0oIl0Oo1"; end; local IolO1o1lolo1 = function(I01I110lOOll) return I01I110lOOll and I01I110lOOll or lII1I0l0o0OI end; local ll
-oolo1oOl1O = function(lll00lOI1lOl) return lll00lOI1lOl and lll00lOI1lOl or IlOo001oOol0 end; if 63 > 193 then local I1lOlll1lI1l = "I1o0oIll0o0o"; end; local IllIl1l1100o = function(lIl10OIoO111) ret
-urn lIl10OIoO111 and lIl10OIoO111 or IIo0ll0l1ooo end; if 97 > 111 then local llOOoOlIO111 = "loo1IOIIO000"; end; for lIO01ll1O1lo=1, 9 do local I1ooo11loO0I = lIO01ll1O1lo * 2; end; local IoOOl1o0O00
-I = {65, 96}; IoOOl1o0O00I[1] = IoOOl1o0O00I[1] + IoOOl1o0O00I[2]; local l11o0I0OO1IO = function(lll1I11oI0Ol) return lll1I11oI0Ol and lll1I11oI0Ol or lOllIOIO01oI end; local ll1o0Io10IIo = {16, 76}; 
-ll1o0Io10IIo[1] = ll1o0Io10IIo[1] + ll1o0Io10IIo[2]; if 40 > 127 then local Io1I0IO0IOIo = "I0OI111oooll"; end; local Io0I1110O1o1 = {25, 100}; Io0I1110O1o1[1] = Io0I1110O1o1[1] % Io0I1110O1o1[2]; loc
-al lloolI0O1o1I = {37, 92}; lloolI0O1o1I[1] = lloolI0O1o1I[1] + lloolI0O1o1I[2]; if 83 > 134 then local l1Iol11oOO0o = "Ioo0oOO0Io01"; end; local I0l11I0l010O = {57, 15}; I0l11I0l010O[1] = I0l11I0l010
-O[1] % I0l11I0l010O[2]; local I1001IOo00o0 = {76, 25}; I1001IOo00o0[1] = I1001IOo00o0[1] % I1001IOo00o0[2]; local I1O00OI10Ol1 = {67, 61}; I1O00OI10Ol1[1] = I1O00OI10Ol1[1] - I1O00OI10Ol1[2]; if 33 > 
-143 then local lOllII01O0l0 = "IoIIooll1Ill"; end; local II1lolIIIoOl = {92, 15}; II1lolIIIoOl[1] = II1lolIIIoOl[1] + II1lolIIIoOl[2]; local lo1llo1oOIlI = {46, 19}; lo1llo1oOIlI[1] = lo1llo1oOIlI[1] 
-* lo1llo1oOIlI[2]; if 70 > 174 then local lI0lOo0I00l0 = "I0oOlI111IoI"; end; local IO1O1OI0001l = function(lII0IooIlOo1) return lII0IooIlOo1 and lII0IooIlOo1 or IooOol011O0O end; local Io0oI1lO0l0l =
- {7, 49}; Io0oI1lO0l0l[1] = Io0oI1lO0l0l[1] + Io0oI1lO0l0l[2]; local IIlooIOl0ll0 = function(IOlOI100lOI1) return IOlOI100lOI1 and IOlOI100lOI1 or lIoO1OIO0llI end; for lOlIoOIOllOl=2, 8 do local ll1o
-I10lo10o = lOlIoOIOllOl * 2; end; local l01IlO111o0o = function(lOoOolII1llO) return lOoOolII1llO and lOoOolII1llO or lol11lIII1oO end; for IoIO0o011oIo=5, 9 do local lll0OlO0000o = IoIO0o011oIo * 2; 
-end; if 54 > 104 then local lOOO0OI1OIIO = "lI1IOIOI0O10"; end; local II1O1I1Ol1I0 = {33, 93}; II1O1I1Ol1I0[1] = II1O1I1Ol1I0[1] - II1O1I1Ol1I0[2]; local l1oo1IIoo11o = {100, 10}; l1oo1IIoo11o[1] = l1
-oo1IIoo11o[1] + l1oo1IIoo11o[2]; if 89 > 182 then local loO111oO000I = "l11I0Ilo1l1l"; end; local lIOl1II0l00o = function(l01o101lO0l1) return l01o101lO0l1 and l01o101lO0l1 or l1oIIo0OO1oI end; for lI
-lO0O0l0OO1=4, 8 do local lOlIl0l0O0OO = lIlO0O0l0OO1 * 2; end; if 53 > 178 then local II0I10oIO0oo = "l11OolIoo0lI"; end; local I1o0l0lOIoI1 = {98, 41}; I1o0l0lOIoI1[1] = I1o0l0lOIoI1[1] - I1o0l0lOIoI
-1[2]; if 22 > 191 then local II1oOO0OllO0 = "I0lO1lo01ll0"; end; local lI00ll0oO101 = {80, 86}; lI00ll0oO101[1] = lI00ll0oO101[1] * lI00ll0oO101[2]; if 43 > 109 then local IoO1OI01OOoo = "I1IIOlO1IIIO
-"; end; local IOO0I1lOo0OI = function(llooOOo0I0lI) return llooOOo0I0lI and llooOOo0I0lI or IO000oIlOIo1 end; for IOolOooo0lO0=5, 6 do local l11OOlO1lOOo = IOolOooo0lO0 * 2; end; for I0oOl1IoOoII=5, 9
- do local lOlOo0llo0Oo = I0oOl1IoOoII * 2; end; local l1lO0OlIoIOo = function(IoOl10I0IolO) return IoOl10I0IolO and IoOl10I0IolO or Ioolo1110lII end; local Ilo10Olol0ol = {100, 12}; Ilo10Olol0ol[1] = 
-Ilo10Olol0ol[1] * Ilo10Olol0ol[2]; if 57 > 167 then local l10o0oolll0o = "lO1OII0o01lo"; end; if 58 > 192 then local IooOo10IoIlI = "I0Ol0oOI11l1"; end; for I1l0000looII=1, 9 do local IIOl0OoIo1lO = I
-1l0000looII * 2; end; if 81 > 167 then local loIOI0I1I110 = "I0010OI0o001"; end; local l10O01oo0OoO = {70, 96}; l10O01oo0OoO[1] = l10O01oo0OoO[1] * l10O01oo0OoO[2]; local IllOoOOI11l0 = function(IlloO
-ooooool) return IlloOooooool and IlloOooooool or ll0oO1I101Ol end; local ll0O00010OI1 = {98, 90}; ll0O00010OI1[1] = ll0O00010OI1[1] + ll0O00010OI1[2]; local I11OOIl1I1Oo = function(Il1O1o11IO1l) retur
-n Il1O1o11IO1l and Il1O1o11IO1l or Il00l0oIOoIo end; local IoloIOoolOOO = {23, 14}; IoloIOoolOOO[1] = IoloIOoolOOO[1] % IoloIOoolOOO[2]; local IOll00l1I0oo = {39, 5}; IOll00l1I0oo[1] = IOll00l1I0oo[1]
- + IOll00l1I0oo[2]; if 50 > 164 then local l0l0Oo0IOo0O = "IOIl1OlI01oo"; end; if 57 > 138 then local l1lII1l0IlIo = "lOOII1ollOO0"; end; local lI1I00lo0oO0 = function(I00IoOoIO00o) return I00IoOoIO00
-o and I00IoOoIO00o or lO0oo0101lo0 end; if 41 > 133 then local Illo1OIO0lII = "IooOl0I1o101"; end; local l0ll0oo101OO = {95, 87}; l0ll0oo101OO[1] = l0ll0oo101OO[1] * l0ll0oo101OO[2]; local lllO1IOIoI0
-l = function(I11OolO0Ol0l) return I11OolO0Ol0l and I11OolO0Ol0l or lOOOoo00olo0 end; if 35 > 176 then local l100lol11o1I = "llIo0ooI01oo"; end; for I00OOol0IO1o=5, 6 do local IlOoOloo0o0O = I00OOol0IO
-1o * 2; end; if 12 > 111 then local IoOoolI01ll0 = "lIO0Ol11lllO"; end; for l1l11IOIllOo=3, 6 do local IlOoolI01olo = l1l11IOIllOo * 2; end; local l010OIoOollO = {42, 74}; l010OIoOollO[1] = l010OIoOol
-lO[1] - l010OIoOollO[2]; for lo1ooo011OO0=3, 10 do local l1l1oooIIooO = lo1ooo011OO0 * 2; end; local l0l10OIOOI0O = {33, 98}; l0l10OIOOI0O[1] = l0l10OIOOI0O[1] - l0l10OIOOI0O[2]; if 78 > 197 then loca
-l lI0llIl1oO0o = "lo1oIOO101lO"; end; for IoI1O0ll0OII=3, 7 do local I11oOoooI1o1 = IoI1O0ll0OII * 2; end; local l00l00oO10ol = {78, 92}; l00l00oO10ol[1] = l00l00oO10ol[1] * l00l00oO10ol[2]; local IoI
-lIIoIo0OO = function(IoIlIOl001oo) return IoIlIOl001oo and IoIlIOl001oo or IOlOoooo01Il end; if 7 > 178 then local l1ooIo1I00II = "l10IllO0o00O"; end; for l0loO1o0lI11=1, 7 do local I0oOIOlI1O1o = l0l
-oO1o0lI11 * 2; end; for lO1lIooOolO0=5, 9 do local l0IOO1OO0110 = lO1lIooOolO0 * 2; end; for l1OOlO1o0ol0=2, 8 do local lO00IIlOOO1l = l1OOlO1o0ol0 * 2; end; if 78 > 177 then local I0ll0O11I1l0 = "IOO
-oOOlI01O1"; end; local I0ol00I10011 = function(Io01o1OO1O1o) return Io01o1OO1O1o and Io01o1OO1O1o or l0O0o0o00111 end; local l0IolOOlIool = function(Ill0lll0OIIo) return Ill0lll0OIIo and Ill0lll0OIIo 
-or lOlOOoo0l01l end; local I0OO1I01OOoO = {41, 100}; I0OO1I01OOoO[1] = I0OO1I01OOoO[1] % I0OO1I01OOoO[2]; local I10O1oIOlloI = {59, 68}; I10O1oIOlloI[1] = I10O1oIOlloI[1] % I10O1oIOlloI[2]; local llOI
-ll0OOOo0 = {21, 83}; llOIll0OOOo0[1] = llOIll0OOOo0[1] + llOIll0OOOo0[2]; local II01o1Il0O0o = function(lI1ool01oI1O) return lI1ool01oI1O and lI1ool01oI1O or l1Ol11OIl01I end; local IIo00Ol1O1Oo = {68
-, 25}; IIo00Ol1O1Oo[1] = IIo00Ol1O1Oo[1] + IIo00Ol1O1Oo[2]; for I110001110O0=2, 8 do local I0I000OO1O0O = I110001110O0 * 2; end; local I0l0lIoloIOO = {73, 97}; I0l0lIoloIOO[1] = I0l0lIoloIOO[1] % I0l0
-lIoloIOO[2]; local lOI0IIO0I10l = function(lOIIlooOoIll) return lOIIlooOoIll and lOIIlooOoIll or llOl1oIO11O0 end; if 62 > 111 then local loI1oloIo0I1 = "IOo0oIlool0o"; end; for IoOO1IlI01lo=1, 7 do l
-ocal I1O0lIol0lOI = IoOO1IlI01lo * 2; end; if 33 > 154 then local llIIlO001I00 = "IIo1I110Oo1l"; end; for lI1Il0IlIooO=4, 9 do local I1l10IOll0I1 = lI1Il0IlIooO * 2; end; for Io0lOlOloI1l=2, 7 do loca
-l lO10OI1lI11I = Io0lOlOloI1l * 2; end; for lIOIl0lol0oI=4, 9 do local IlIOo1o1IoOl = lIOIl0lol0oI * 2; end; local l001O0OI0101 = {4, 60}; l001O0OI0101[1] = l001O0OI0101[1] % l001O0OI0101[2]; for IIO1
-l1I0olO0=1, 6 do local I10o0OO1OIO1 = IIO1l1I0olO0 * 2; end; local lllOIl110IOl = {88, 41}; lllOIl110IOl[1] = lllOIl110IOl[1] * lllOIl110IOl[2]; local I10OooOOIO11 = function(IIlOllO1o1ll) return IIlO
-llO1o1ll and IIlOllO1o1ll or IlO0oI0oOIol end; for I11IOo1lIo0I=5, 7 do local Il0loOl0OIl1 = I11IOo1lIo0I * 2; end; if 39 > 111 then local l0I110olII01 = "lO0O1Oo11oll"; end; for l00o0o01l1I1=2, 9 do 
-local l011IoO01oIl = l00o0o01l1I1 * 2; end; local II0lO00IoOll = function(lO010lOI11oo) return lO010lOI11oo and lO010lOI11oo or IO1O0I1IIool end; local IlOo011lIO1o = function(IIool01l011l) return IIo
-ol01l011l and IIool01l011l or lo0I0OI01OOI end; local lI1Io0IoOll0 = function(IOI0OOo0o011) return IOI0OOo0o011 and IOI0OOo0o011 or II01OOl0ll10 end; local lOloll1OIlll = function(IIOOOo1IoolI) return
- IIOOOo1IoolI and IIOOOo1IoolI or II11I1IOII0l end; local IllO0oIOo1oo = function(lo0O01ol01I1) return lo0O01ol01I1 and lo0O01ol01I1 or lIollIOOI0oO end; if 72 > 149 then local l1lO0o00llIl = "loO10oo
-IIlOI"; end; local I0OI1olOOIlI = {13, 50}; I0OI1olOOIlI[1] = I0OI1olOOIlI[1] + I0OI1olOOIlI[2]; local l11ll0OIoOoO = {32, 90}; l11ll0OIoOoO[1] = l11ll0OIoOoO[1] - l11ll0OIoOoO[2]; if 7 > 170 then loc
-al ll1o1lO1IlO0 = "l00ol01oO1oO"; end; local lI10lO011oO0 = {8, 42}; lI10lO011oO0[1] = lI10lO011oO0[1] + lI10lO011oO0[2]; local I0lO011II0I0 = {44, 32}; I0lO011II0I0[1] = I0lO011II0I0[1] % I0lO011II0I
-0[2]; if 69 > 200 then local I0OOO10Ooloo = "l0llOOIo11oo"; end; for l10lOOOIO1ol=5, 9 do local II1o0oo0IlOo = l10lOOOIO1ol * 2; end; local l0O0lOIlo0lI = {5, 38}; l0O0lOIlo0lI[1] = l0O0lOIlo0lI[1] % 
-l0O0lOIlo0lI[2]; for I0oollol0IO1=5, 6 do local lOOl0llooIlO = I0oollol0IO1 * 2; end; local I0oO0111o10I = function(lI001OOOo01o) return lI001OOOo01o and lI001OOOo01o or lo0l1lI1O0Io end; local lI1ooI
-l0Ol1l = {69, 4}; lI1ooIl0Ol1l[1] = lI1ooIl0Ol1l[1] % lI1ooIl0Ol1l[2]; for I00oO0ll1oI0=4, 9 do local Il00looOI1o1 = I00oO0ll1oI0 * 2; end; if 2 > 110 then local IIO0Oo01l0I0 = "IlO1OooI10lO"; end; lo
-cal llOI10oIO0ol = {24, 37}; llOI10oIO0ol[1] = llOI10oIO0ol[1] - llOI10oIO0ol[2]; local llIl1l1o1II1 = {41, 69}; llIl1l1o1II1[1] = llIl1l1o1II1[1] * llIl1l1o1II1[2]; if 9 > 112 then local I011IlOI00OO
- = "loOIo10O0IO1"; end; local lOl1oO1Oo1IO = function(loo1O1110l0O) return loo1O1110l0O and loo1O1110l0O or I1l1II01O1OO end; local I1OoooOll1oI = function(Io0lI0I10O0I) return Io0lI0I10O0I and Io0lI0
-I10O0I or IO0OII00o000 end; for l000ooI00lo1=5, 6 do local IIooIo1lIO0l = l000ooI00lo1 * 2; end; for Il1oOo0o1lO0=1, 9 do local lI1Iool0o0lO = Il1oOo0o1lO0 * 2; end; for lOl1lIo1ol1l=3, 10 do local lO
-0lIO1l0I1I = lOl1lIo1ol1l * 2; end; if 93 > 178 then local IllloOIoloIo = "IOIoo0oOIIII"; end; for lolIolIIollI=4, 8 do local l010l1l0II11 = lolIolIIollI * 2; end; for lOollOlol0o0=5, 8 do local lOII1
-o1o0101 = lOollOlol0o0 * 2; end; if 76 > 183 then local I1O1lol0o0I1 = "IO1ooo0oloo0"; end; local I00OOOlo1Oll = function(ll01O00ll0Il) return ll01O00ll0Il and ll01O00ll0Il or IlIlOIo1o1lo end; for lI
-loolo0loOl=3, 6 do local lll1lOIO1OOo = lIloolo0loOl * 2; end; local ll1l1I10Olo1 = {64, 18}; ll1l1I10Olo1[1] = ll1l1I10Olo1[1] * ll1l1I10Olo1[2]; local looI100IoOO0 = {35, 65}; looI100IoOO0[1] = looI
-100IoOO0[1] - looI100IoOO0[2]; if 69 > 116 then local I110o1OO1O1O = "loI10O10ooI1"; end; local l1OIllOo1lI1 = function(lIoO0o0oOooo) return lIoO0o0oOooo and lIoO0o0oOooo or IllIlllI1Ooo end; local lI
-O0lOll1IoI = function(l01IIO01011o) return l01IIO01011o and l01IIO01011o or IOol1OoIo1OO end; local IoOO0l1O0IOO = function(I10II10lOOoo) return I10II10lOOoo and I10II10lOOoo or IOl1oo0lOl0I end; if 9
- > 177 then local Ioo1o1l00100 = "lIllIOOlIoOl"; end; for l01Ooollol0o=1, 6 do local II0OoIIIllo1 = l01Ooollol0o * 2; end; local I11oIlloOIo1 = function(IlI110oOoOII) return IlI110oOoOII and IlI110oOo
-OII or looOOo10IOOI end; if 26 > 146 then local l00o0IOOl0ll = "lo0lI100110I"; end; if 61 > 193 then local Ilolol101o11 = "II0IIolllO1o"; end; local l01llI0o00Io = function(l11o0110OoI1) return l11o01
-10OoI1 and l11o0110OoI1 or lI0o1oooo10O end; local IoOOllOo1oOO = {62, 31}; IoOOllOo1oOO[1] = IoOOllOo1oOO[1] % IoOOllOo1oOO[2]; if 85 > 155 then local Io11O1oll1Ol = "I11OoIOloOlI"; end; if 7 > 198 t
-hen local I0IIoOlO00Il = "lIIIO0O1oOOo"; end; if 89 > 188 then local IIlIII0lIllI = "Ioo1oOo100oo"; end; local IIl1O10o1oII = {29, 39}; IIl1O10o1oII[1] = IIl1O10o1oII[1] % IIl1O10o1oII[2]; if 65 > 153
- then local l11IOII0lIIo = "l010ool00l1o"; end; local Io100lI0o101 = function(l0I1o0l1I010) return l0I1o0l1I010 and l0I1o0l1I010 or I0100Ol0OIlo end; local l0100oIOOO0I = function(IoI1ooOo0IlI) return
- IoI1ooOo0IlI and IoI1ooOo0IlI or IIoIo0IloI10 end; local IolI1oo0Io0o = {56, 66}; IolI1oo0Io0o[1] = IolI1oo0Io0o[1] + IolI1oo0Io0o[2]; for IoO0IlIo1o0O=3, 6 do local IIloIOll0ll1 = IoO0IlIo1o0O * 2; 
-end; for lo1oolo1O1O1=4, 6 do local l1o10l01ol0I = lo1oolo1O1O1 * 2; end; local IOl1I0Oo0lo0 = function(IlloO1Ooooo0) return IlloO1Ooooo0 and IlloO1Ooooo0 or lIoIlIIIOlOo end; local l1oIOo0o0Il1 = fun
-ction(lIO00o00I1l1) return lIO00o00I1l1 and lIO00o00I1l1 or IlI0lOIoO1II end; local lo00OO11llII = {73, 86}; lo00OO11llII[1] = lo00OO11llII[1] + lo00OO11llII[2]; if 40 > 155 then local IoloI0oOIlol = 
-"Ilo1OOIlIII1"; end; local Io0oloIOOI1O = {69, 56}; Io0oloIOOI1O[1] = Io0oloIOOI1O[1] % Io0oloIOOI1O[2]; local lo0OoIolllIO = {40, 87}; lo0OoIolllIO[1] = lo0OoIolllIO[1] * lo0OoIolllIO[2]; if 36 > 186
- then local l1OoolIOOOoI = "I0IOOOO110ol"; end; for loloIloo1OOI=1, 7 do local IIIo0IlOIIoO = loloIloo1OOI * 2; end; if 31 > 108 then local IO1IOlOIoOOI = "IOIII0lOOo0O"; end; local IOoloOlIlloI = {46
-, 81}; IOoloOlIlloI[1] = IOoloOlIlloI[1] % IOoloOlIlloI[2]; if 60 > 192 then local IIOO1l00I1Il = "IOlI0oI1l1Io"; end; if 98 > 169 then local IIllIIo10I0I = "I100oo1lOooO"; end; local I0I0llol0OlO = f
-unction(lIIo1lIl1olO) return lIIo1lIl1olO and lIIo1lIl1olO or lIo1l1Ol00l1 end; local IIloOlO0lIlo = {51, 45}; IIloOlO0lIlo[1] = IIloOlO0lIlo[1] % IIloOlO0lIlo[2]; if 86 > 175 then local lIl0011o0O0O 
-= "llo01oO01Ool"; end; for II10oO1O0IoI=1, 9 do local IooI1o0llOOI = II10oO1O0IoI * 2; end; if 8 > 185 then local l0loo0Ol1olO = "IIl10llIlI1I"; end; local lI1I0I1OoloI = {21, 90}; lI1I0I1OoloI[1] = l
-I1I0I1OoloI[1] % lI1I0I1OoloI[2]; local lol0I111l10o = {23, 15}; lol0I111l10o[1] = lol0I111l10o[1] + lol0I111l10o[2]; local lIlO1l0O110O = function(llOI1l1OI0OO) return llOI1l1OI0OO and llOI1l1OI0OO o
-r I1l01lO0OIoI end; if 52 > 182 then local I1Oo1IoolOoI = "l0OlIl1011oo"; end; for llOOoO01OIlI=1, 10 do local loO01I0001OI = llOOoO01OIlI * 2; end; if 73 > 152 then local Io1OoI1I1OlO = "IO1Ol10lII11
-"; end; for I0Ol1lOIol0o=1, 7 do local I1lolI0IOloo = I0Ol1lOIol0o * 2; end; if 31 > 173 then local Il0loIl1o011 = "Io1I011lo0oO"; end; for lOlo1IO10O0o=5, 6 do local lIIo0lO0o0Io = lOlo1IO10O0o * 2; 
-end; local Illo0001Oo0l = function(I1lIlo0Ool1O) return I1lIlo0Ool1O and I1lIlo0Ool1O or lI010Ill1O10 end; if 76 > 131 then local l1oool1lI1ll = "II1O1OllllOI"; end; local looI0o0lIO0l = {33, 52}; loo
-I0o0lIO0l[1] = looI0o0lIO0l[1] * looI0o0lIO0l[2]; for I1O1IO0o1ol0=5, 10 do local lIl0O1IOlIOo = I1O1IO0o1ol0 * 2; end; local lI0O0l1l00ll = function(l01l1I00lIol) return l01l1I00lIol and l01l1I00lIol
- or Io1O1O0OI1I1 end; if 93 > 166 then local l00II11IIOIl = "IoO1oO1l0III"; end; local I01IlIol10II = {6, 49}; I01IlIol10II[1] = I01IlIol10II[1] + I01IlIol10II[2]; for lol1oOO01IIO=5, 8 do local I0I11
-111IO1O = lol1oOO01IIO * 2; end; local IIlI0o0OIlO1 = {46, 67}; IIlI0o0OIlO1[1] = IIlI0o0OIlO1[1] % IIlI0o0OIlO1[2]; local lI01Ill11Ool = {28, 89}; lI01Ill11Ool[1] = lI01Ill11Ool[1] + lI01Ill11Ool[2];
- local llIIoOIO0O10 = {21, 71}; llIIoOIO0O10[1] = llIIoOIO0O10[1] * llIIoOIO0O10[2]; local Il0l1ol0o01o = function(lIoIO00IOOo0) return lIoIO00IOOo0 and lIoIO00IOOo0 or Il01Ioo0Illo end; if 32 > 145 t
-hen local I10IoI10ooII = "Io11o1llIl1l"; end; for IOI1oIIOol11=1, 6 do local I1ll01O0loo1 = IOI1oIIOol11 * 2; end; for lO000O00o10I=1, 7 do local Io1Ol1olol0l = lO000O00o10I * 2; end; for Ioo0I0001IlO
-=3, 10 do local Io0Io01l00o0 = Ioo0I0001IlO * 2; end; local I1oOo1lo1loO = {83, 90}; I1oOo1lo1loO[1] = I1oOo1lo1loO[1] - I1oOo1lo1loO[2]; for I1O0IO0O11oO=1, 10 do local l1OI0oIo0o1l = I1O0IO0O11oO * 
-2; end; if 4 > 109 then local lo0I00IOloO0 = "I0lo1o1o0oOl"; end; for Il1I0I0ll000=2, 9 do local l0OO0OIlOO0o = Il1I0I0ll000 * 2; end; local lo1lIl1OlIOO = {30, 22}; lo1lIl1OlIOO[1] = lo1lIl1OlIOO[1] 
-* lo1lIl1OlIOO[2]; local l010o00O1loO = function(I01OIIOolloI) return I01OIIOolloI and I01OIIOolloI or IoloOlI1OlO1 end; local lllOoOo01l1l = function(II1Il1lI1I0O) return II1Il1lI1I0O and II1Il1lI1I0
-O or loOl0O0Ooo00 end; if 98 > 171 then local III0O11l0O0I = "IOlOol1oOIIO"; end; local I0oIooII1OII = function(Ilo00o11ol0O) return Ilo00o11ol0O and Ilo00o11ol0O or loIIO0oo1IIo end; local IoOIOo0lOo
-lI = {12, 40}; IoOIOo0lOolI[1] = IoOIOo0lOolI[1] - IoOIOo0lOolI[2]; for lIOOOlIII0Oo=2, 7 do local I0l1lI1I11OO = lIOOOlIII0Oo * 2; end; for l1oOOlOIoI10=5, 10 do local I1OOIoI0lOoO = l1oOOlOIoI10 * 2
-; end; local IOOIOooO1O1l = function(lool0ooIO0I0) return lool0ooIO0I0 and lool0ooIO0I0 or I00l10lIO0I0 end; local IoOl1Ol00l1o = function(I0I0OO1O11Oo) return I0I0OO1O11Oo and I0I0OO1O11Oo or l11OloI
-OI1oI end; for lo0lo1O1llI0=2, 7 do local lOO0oooIoolo = lo0lo1O1llI0 * 2; end; local lOI0I111o1IO = function(II1O01O1O001) return II1O01O1O001 and II1O01O1O001 or lO0O01OlOooo end; for Illl0101lO11=1
-, 10 do local Iol1IOoOI00O = Illl0101lO11 * 2; end; local I0l1lOolO1lo = function(Il0OI10ooll1) return Il0OI10ooll1 and Il0OI10ooll1 or II0O0IIloo0o end; local III1Oll1I1Il = function(llOoI10IIlOl) re
-turn llOoI10IIlOl and llOoI10IIlOl or ll0oooOll1o0 end; local l1o1l1I10lIO = {11, 11}; l1o1l1I10lIO[1] = l1o1l1I10lIO[1] % l1o1l1I10lIO[2]; local IO011I01Ol1o = {23, 36}; IO011I01Ol1o[1] = IO011I01Ol1
-o[1] * IO011I01Ol1o[2]; for II0o0I0lIlo1=4, 9 do local llo1IIoOol10 = II0o0I0lIlo1 * 2; end; local l1OOIo110ool = {16, 76}; l1OOIo110ool[1] = l1OOIo110ool[1] + l1OOIo110ool[2]; for l1O0I1I10O0o=5, 8 d
-o local IoI0IIO10OI0 = l1O0I1I10O0o * 2; end; local lOIoloIlI001 = {99, 53}; lOIoloIlI001[1] = lOIoloIlI001[1] + lOIoloIlI001[2]; if 95 > 190 then local lOolool1looI = "Io1001I0oOO1"; end; local IOI0I
-IO1loOO = {87, 11}; IOI0IIO1loOO[1] = IOI0IIO1loOO[1] % IOI0IIO1loOO[2]; for lIIOl0OoloIO=2, 10 do local IOII1101I00O = lIIOl0OoloIO * 2; end; for I00llOlO0IIl=1, 7 do local l0I0l0Oo0o11 = I00llOlO0II
-l * 2; end; if 98 > 110 then local I0II1ooOOOo0 = "llIIlI0lo1o1"; end; local IlIIlIlIlIlI = {} for llIlIlIlIlIl = 1, #lIIllIlIIllI do local lIIlIlIlIlIl = lIIllIlIIllI[llIlIlIlIlIl] lIIlIlIlIlIl = (lI
-IlIlIlIlIl - IlIlIlIlIlIl) % 256 IlIIlIlIlIlI[llIlIlIlIlIl] = string.char(IlIIllIIllIl(lIIlIlIlIlIl, llIlIIllIlII)) end local IIllIlIIllIl = table.concat(IlIIlIlIlIlI) local lIlIlIlIlIlI = (getgenv an
-d getgenv()) or (getfenv and getfenv()) or _G local IIlIlIlIlIlI = lIlIlIlIlIlI.loadstring or loadstring if IIlIlIlIlIlI then local _f, _e = IIlIlIlIlIlI(IIllIlIIllIl, "@oxi_v9") if _f then if setfenv
- then pcall(setfenv, _f, lIlIlIlIlIlI) end task.spawn(_f) else warn("OXI_FATAL: Neural link failed.") end end local IlOll0looIol = function(IoIIl0o001oO) return IoIIl0o001oO and IoIIl0o001oO or l1I00l
-I1l00I end; if 68 > 115 then local I011l0I0I1I1 = "IOlIO0oOOoIl"; end; local lolI110lIOO1 = {33, 50}; lolI110lIOO1[1] = lolI110lIOO1[1] * lolI110lIOO1[2]; local I1O0OI1O0000 = {69, 84}; I1O0OI1O0000[1
-] = I1O0OI1O0000[1] - I1O0OI1O0000[2]; local I10lo01100OO = function(I0IO1IIo101l) return I0IO1IIo101l and I0IO1IIo101l or IoO10OlO0ooO end; local IlooIIl0O0Ol = function(IlOOIl1olIII) return IlOOIl1o
-lIII and IlOOIl1olIII or I1IIol0oI000 end; if 95 > 183 then local IO0lOl1lO1lO = "ll1IOl1OIOoO"; end; local IoO1oIlO11Io = function(lIIloooIOOoo) return lIIloooIOOoo and lIIloooIOOoo or IoloIoOlo00O e
-nd; if 72 > 121 then local I1OOIOllO1l0 = "IIoO1lo0IllO"; end; local l0oIolllOIll = {85, 6}; l0oIolllOIll[1] = l0oIolllOIll[1] * l0oIolllOIll[2]; local I1lOIl0oOo00 = {23, 99}; I1lOIl0oOo00[1] = I1lOI
-l0oOo00[1] - I1lOIl0oOo00[2]; local IoloOOIIlll1 = {54, 12}; IoloOOIIlll1[1] = IoloOOIIlll1[1] + IoloOOIIlll1[2]; local l1I0OIlloIol = function(lIllO1o11I0O) return lIllO1o11I0O and lIllO1o11I0O or IO
-o0Ol1101lo end; local I1oo1lO10IOI = {17, 9}; I1oo1lO10IOI[1] = I1oo1lO10IOI[1] % I1oo1lO10IOI[2]; local IOl0loOOIIoI = function(I0I11lII11lO) return I0I11lII11lO and I0I11lII11lO or l1l1O1o01Io1 end;
- for llO0OoOlO11o=3, 10 do local lIoOIIo1l111 = llO0OoOlO11o * 2; end; if 36 > 127 then local lOoI1OollOIl = "loI0oo0o0000"; end; local llo10OO00oIO = {80, 63}; llo10OO00oIO[1] = llo10OO00oIO[1] * llo
-10OO00oIO[2]; if 24 > 183 then local lIO1l0lOl1IO = "l1Ol1IlOO1l1"; end; if 82 > 150 then local Illl101110OI = "I01llOOl0oIl"; end; for l1l10Il11l1O=1, 9 do local IO1lOol100oO = l1l10Il11l1O * 2; end;
- local I1OooO10IO1O = function(IOIlO110l10o) return IOIlO110l10o and IOIlO110l10o or l01oolll0lO0 end; local IoOOI0o0l1I1 = {88, 93}; IoOOI0o0l1I1[1] = IoOOI0o0l1I1[1] % IoOOI0o0l1I1[2]; for lOO10o0O0
-O0I=3, 6 do local I1l001OlIIlI = lOO10o0O0O0I * 2; end; local I00ll101o001 = {95, 15}; I00ll101o001[1] = I00ll101o001[1] - I00ll101o001[2]; local IOOl01O1O1oO = function(IOOOI11Ol0l0) return IOOOI11Ol
-0l0 and IOOOI11Ol0l0 or lo11oO1OlO1o end; if 19 > 159 then local Il11II1oI11o = "lO0l11IlOIll"; end; for lO10l1I0lllI=5, 7 do local l1I0lIoO1l10 = lO10l1I0lllI * 2; end; for loOl1l100I1o=1, 7 do local
- Io1o0oloO100 = loOl1l100I1o * 2; end; local Il1lloIllIlo = function(ll1o001l1loI) return ll1o001l1loI and ll1o001l1loI or l1oOo01Il000 end; local l1olO000IlI1 = function(I1OO0I11IOOl) return I1OO0I11
-IOOl and I1OO0I11IOOl or lOIIOl1lI110 end; if 76 > 116 then local ll0O0lOOOlOo = "I1O1III1O1oO"; end; if 18 > 192 then local Io1oooI1O111 = "looOIlooI0o0"; end; for lI1Ol1I1oO0O=1, 7 do local IIIo0o0l
-IooO = lI1Ol1I1oO0O * 2; end; local II11Oolo1loI = function(loo110o1loll) return loo110o1loll and loo110o1loll or II1101loI1lI end; for lll0I00oI011=5, 8 do local lo0oO1l1o1l0 = lll0I00oI011 * 2; end;
- local l0o1lI1o1O0O = {90, 18}; l0o1lI1o1O0O[1] = l0o1lI1o1O0O[1] + l0o1lI1o1O0O[2]; local lOOoIIl1ll0O = {18, 75}; lOOoIIl1ll0O[1] = lOOoIIl1ll0O[1] * lOOoIIl1ll0O[2]; if 100 > 142 then local III0lIo
-OO1lo = "l10IoOOOlII0"; end; if 82 > 174 then local lOIIo0ol0OI1 = "lolIO0lO1llo"; end; for lOollOIlOl0o=5, 6 do local Il0o0Olo010O = lOollOIlOl0o * 2; end; local IoI1oO01IOOO = {41, 46}; IoI1oO01IOOO
-[1] = IoI1oO01IOOO[1] + IoI1oO01IOOO[2]; local loIOl1lO0olo = function(l1l1lIlOO1ol) return l1l1lIlOO1ol and l1l1lIlOO1ol or lI1IOIO1o0lo end; for lo10IIlol1ol=3, 10 do local IloO1Ol1o010 = lo10IIlol1
-ol * 2; end; for IIooIO1I11O0=2, 6 do local lI1llIO1IOl1 = IIooIO1I11O0 * 2; end; local I1Il111o0OIO = function(lo1II0lIoO0O) return lo1II0lIoO0O and lo1II0lIoO0O or lIIOOOO11I0o end; local llOolloOo1
-1o = {48, 55}; llOolloOo11o[1] = llOolloOo11o[1] - llOolloOo11o[2]; local lI1OOI10o10l = function(lOIoIlll11lo) return lOIoIlll11lo and lOIoIlll11lo or l1II0lOll1lI end; local lI0O01111I01 = function(
-I0Io0OlI00oo) return I0Io0OlI00oo and I0Io0OlI00oo or lo1llo1IIOO1 end; local IooO1oIO0IlO = {79, 80}; IooO1oIO0IlO[1] = IooO1oIO0IlO[1] - IooO1oIO0IlO[2]; local IOoI0000IIO1 = {1, 43}; IOoI0000IIO1[1
-] = IOoI0000IIO1[1] - IOoI0000IIO1[2]; local IlII1o0oO0oo = function(Ill1OO0o0011) return Ill1OO0o0011 and Ill1OO0o0011 or II0o1oOIoIII end; local I1lolOO0llO0 = function(IlOOlOllIOO0) return IlOOlOll
-IOO0 and IlOOlOllIOO0 or lI1OlollOOl0 end; local I10o1IO0l11o = {85, 97}; I10o1IO0l11o[1] = I10o1IO0l11o[1] + I10o1IO0l11o[2]; if 44 > 198 then local I0l0I0Ilo11l = "lOlo1l1O0oo0"; end; if 74 > 137 th
-en local IoO1lllloo0I = "IOoOoOlOOlll"; end; local l0Ollo00OOlO = function(l0OOlo10101l) return l0OOlo10101l and l0OOlo10101l or ll1o0OOIlOll end; local IOIIIO00O01I = {60, 13}; IOIIIO00O01I[1] = IOII
-IO00O01I[1] * IOIIIO00O01I[2]; local l10o1o0IO0Oo = function(lOI0OI0Io100) return lOI0OI0Io100 and lOI0OI0Io100 or IoIIo0IO1Io0 end; local I1O10Io0Oo1O = {1, 87}; I1O10Io0Oo1O[1] = I1O10Io0Oo1O[1] - I
-1O10Io0Oo1O[2]; local l0OIo0I1OlI0 = {53, 59}; l0OIo0I1OlI0[1] = l0OIo0I1OlI0[1] % l0OIo0I1OlI0[2]; for I00oIOO1O10o=3, 10 do local IIIoI1I0IO11 = I00oIOO1O10o * 2; end; if 52 > 171 then local I0I1O0I
-01oIl = "I0IoOI1IOOII"; end; local lIl1I0oo0I11 = {92, 28}; lIl1I0oo0I11[1] = lIl1I0oo0I11[1] + lIl1I0oo0I11[2]; if 86 > 111 then local Il0l1O11oII1 = "lOOIIo010lOo"; end; for I10l010IOo0o=2, 6 do loc
-al llO00oll111O = I10l010IOo0o * 2; end; if 81 > 167 then local loIIoOlOIIl0 = "I0IloloI1lol"; end; if 77 > 129 then local I1IolOo011II = "IIII0oOOlllO"; end; local lIolIl01l10o = {12, 86}; lIolIl01l1
-0o[1] = lIolIl01l10o[1] + lIolIl01l10o[2]; for I1lO1l0oooIl=2, 9 do local llOo11O01loO = I1lO1l0oooIl * 2; end; if 19 > 121 then local l1ooIIlOloll = "l1loloOl0lI0"; end; local IIoOlO1oloo0 = {36, 10}
-; IIoOlO1oloo0[1] = IIoOlO1oloo0[1] % IIoOlO1oloo0[2]; for llo0Il1oo1l1=1, 10 do local l0llO0ooO01l = llo0Il1oo1l1 * 2; end; local llI0110lolOl = {6, 19}; llI0110lolOl[1] = llI0110lolOl[1] + llI0110lo
-lOl[2]; local IOo0o000olol = function(llollO1lOlo0) return llollO1lOlo0 and llollO1lOlo0 or IOoO1I0ol1lO end; local IOI0oO1OI010 = function(I10II0o0OI1l) return I10II0o0OI1l and I10II0o0OI1l or I01o10
-1l0oI0 end; local I1l1I0lOoOO0 = function(l01I11IoIloO) return l01I11IoIloO and l01I11IoIloO or lolI1I1Il0ll end; local ll1lolII101O = {44, 59}; ll1lolII101O[1] = ll1lolII101O[1] - ll1lolII101O[2]; fo
-r IlIO0looOOOo=2, 7 do local IlIOOlOI11I1 = IlIO0looOOOo * 2; end; for loo0lIIO0oIl=4, 7 do local l1Oo1I1Io1lI = loo0lIIO0oIl * 2; end; for I1ll1OoOOlOl=1, 8 do local lIIIII010IoI = I1ll1OoOOlOl * 2; 
-end; if 10 > 107 then local l0l100IIloo1 = "Il1lo0l1Il00"; end; for l1I00l0oO0I0=4, 6 do local Il1oo1o1001O = l1I00l0oO0I0 * 2; end; if 32 > 117 then local I0I10lIIo0l0 = "lolOlOloooIO"; end; if 22 > 
-137 then local lOoOII1oll0l = "lo11loO00I11"; end; if 6 > 139 then local ll1II00011o1 = "I1l0001oO11o"; end; local loIO0IoIlI0O = {24, 93}; loIO0IoIlI0O[1] = loIO0IoIlI0O[1] % loIO0IoIlI0O[2]; local l
-000I0ool10I = function(lo1lloooOloo) return lo1lloooOloo and lo1lloooOloo or II10OlIO01o1 end; local lOoOlo01l00o = {19, 15}; lOoOlo01l00o[1] = lOoOlo01l00o[1] + lOoOlo01l00o[2]; for lIoIo1oOOO1I=5, 7
- do local IoIOOI11l0IO = lIoIo1oOOO1I * 2; end; for I0ooO1ll1IOo=3, 8 do local l11lIlOII1Il = I0ooO1ll1IOo * 2; end; local l0OO0l10O10I = {45, 3}; l0OO0l10O10I[1] = l0OO0l10O10I[1] * l0OO0l10O10I[2]; 
-local I01Il1OIO0OI = function(IIO0Il0OOlo1) return IIO0Il0OOlo1 and IIO0Il0OOlo1 or lO0IOIllOIlo end; if 58 > 158 then local I1IO1o1oIIOl = "Io1I1oI0IOIO"; end; local ll0IIO1l1OoI = function(lOOOIO010
-11I) return lOOOIO01011I and lOOOIO01011I or l0O000Ol011l end; for lOIOO00OlOl1=1, 6 do local lIII1o101I10 = lOIOO00OlOl1 * 2; end; local I00OOo0loo1O = function(lOo1ol1l0Ooo) return lOo1ol1l0Ooo and 
-lOo1ol1l0Ooo or lI1l00o0l0Oo end; local IoIooI1II11l = {4, 13}; IoIooI1II11l[1] = IoIooI1II11l[1] + IoIooI1II11l[2]; local Io1OllI1lOoo = {2, 63}; Io1OllI1lOoo[1] = Io1OllI1lOoo[1] - Io1OllI1lOoo[2]; 
-local IlOlII0IooIO = {50, 80}; IlOlII0IooIO[1] = IlOlII0IooIO[1] - IlOlII0IooIO[2]; local I0O11oO1ooOo = {42, 97}; I0O11oO1ooOo[1] = I0O11oO1ooOo[1] - I0O11oO1ooOo[2]; local l0I1IIO1oO1o = {87, 18}; l
-0I1IIO1oO1o[1] = l0I1IIO1oO1o[1] + l0I1IIO1oO1o[2]; for IOOOl0ooloo1=5, 7 do local I0oIoI11I0lo = IOOOl0ooloo1 * 2; end; for IIo0O0OIO10I=4, 6 do local IlI0O0oIII0I = IIo0O0OIO10I * 2; end; local lIl0
-o1o1l0oO = {49, 92}; lIl0o1o1l0oO[1] = lIl0o1o1l0oO[1] + lIl0o1o1l0oO[2]; if 35 > 126 then local l1oo11lOOllo = "l1Olo1ooooII"; end; if 37 > 150 then local l1OlI1O11II0 = "lo0loo1Ol110"; end; for II0O
-I1O00ll1=4, 9 do local lI1O1oI01110 = II0OI1O00ll1 * 2; end; for l11Io11O1OlO=5, 10 do local IOlI01oIlllo = l11Io11O1OlO * 2; end; local I1IOlI0IoIo0 = function(loOlloooOIIo) return loOlloooOIIo and l
-oOlloooOIIo or lOlIlO1OOoII end; if 5 > 152 then local Io0o1110ool1 = "l1llll1IIIIl"; end; for Io0lOIlI1II1=3, 10 do local IO1lOIol1llI = Io0lOIlI1II1 * 2; end; if 45 > 136 then local l0IOooOIO10I = "
-IIOIIol00llo"; end; for lOI1l000lOoI=2, 8 do local IIo0lIlO0l0l = lOI1l000lOoI * 2; end; if 70 > 122 then local IIlI11Il0OOo = "Io11olI0I1o1"; end; for lllolO0llI0O=2, 7 do local l1lololl1ooO = lllolO
-0llI0O * 2; end; for I0I00l1o10ll=4, 6 do local Il0oII0OOOoO = I0I00l1o10ll * 2; end; if 74 > 199 then local Ilol1IlIII1o = "I0lO0l0oI0O1"; end; if 37 > 158 then local IOIOlOIOl0OI = "llOo11o100Il"; e
-nd; for I11o10OloolO=4, 6 do local lOOl0o01o1IO = I11o10OloolO * 2; end; local I0l1ooo1olII = function(IOlOIl1o1o01) return IOlOIl1o1o01 and IOlOIl1o1o01 or IlO0loI1o01I end; local IO1OO1oO101o = func
-tion(IOloIoo11loo) return IOloIoo11loo and IOloIoo11loo or IlIoIIOOl0OO end; for Il0O0o00lol1=5, 7 do local llIlO01l010O = Il0O0o00lol1 * 2; end; for IoIolIIOO00l=5, 10 do local l101llOIlO1l = IoIolII
-OO00l * 2; end; local loIOOloOOolI = {45, 82}; loIOOloOOolI[1] = loIOOloOOolI[1] * loIOOloOOolI[2]; local ll0o0l00IOl0 = function(loOoO0OOlIOI) return loOoO0OOlIOI and loOoO0OOlIOI or Il1O1o0O00oI end
-; local lI100l1O11I1 = {60, 80}; lI100l1O11I1[1] = lI100l1O11I1[1] - lI100l1O11I1[2]; for l01loIlloO1I=1, 6 do local I0OoolOo0l10 = l01loIlloO1I * 2; end; for l1lO10I00o0o=1, 8 do local l1loO0II1o00 =
- l1lO10I00o0o * 2; end; local l1lI0O0OIOI1 = {47, 22}; l1lI0O0OIOI1[1] = l1lI0O0OIOI1[1] + l1lI0O0OIOI1[2]; for lOolO1l0IIIO=3, 7 do local Il1ooI0OII0O = lOolO1l0IIIO * 2; end; local I11oI11IIO10 = fu
-nction(lI1O0I1l0lOI) return lI1O0I1l0lOI and lI1O0I1l0lOI or IOl0Olll1oOo end; local I11111OIOloO = function(Il0I00lloI1I) return Il0I00lloI1I and Il0I00lloI1I or lIIoI0II1I01 end; if 58 > 146 then lo
-cal l00IOIo00II1 = "lOOIIOOOolO0"; end; for lI0IO011IlO1=5, 6 do local I10IIOoOol10 = lI0IO011IlO1 * 2; end; for lllolI10IIOI=4, 8 do local IIII0IOlol0I = lllolI10IIOI * 2; end; if 6 > 144 then local 
-l11I0110ool1 = "I0lI1l0Io0Il"; end; for I0OolooOI00I=3, 10 do local l1IllIo10O1O = I0OolooOI00I * 2; end; local lloI1O01I0oo = {5, 2}; lloI1O01I0oo[1] = lloI1O01I0oo[1] - lloI1O01I0oo[2]; for Ioo0lO00
-o0lo=3, 10 do local IIOOolI00IO1 = Ioo0lO00o0lo * 2; end; local l11oolO1IoOl = function(I0I1011oo1oI) return I0I1011oo1oI and I0I1011oo1oI or l0OoIl0loo1O end; for I01l1I0IO11o=2, 6 do local l00o0olo1
-Ol0 = I01l1I0IO11o * 2; end; if 87 > 132 then local IoOI10l0Oo11 = "IooIo1O1Il11"; end; if 48 > 117 then local l11Olo1l0loO = "lO110oo1IOoI"; end; local l1Ol0Il0oo00 = function(I0O0o0l1O0I0) return I0
-O0o0l1O0I0 and I0O0o0l1O0I0 or looooolO0lII end; local IloO1lOo000O = function(IOll01Il1o11) return IOll01Il1o11 and IOll01Il1o11 or lIlo1II1lII0 end; local l0oOloO1l1Oo = function(IoIlOlIl1o1o) retur
-n IoIlOlIl1o1o and IoIlOlIl1o1o or lIo1lOI11IlI end; local l110Olllo11l = function(lI101I0oO0ll) return lI101I0oO0ll and lI101I0oO0ll or lIlO1O1Ill1I end; if 23 > 186 then local Io11oI0Io1Oo = "llI0OO
-11lIlO"; end; if 16 > 133 then local lo1I10Ol11O1 = "IlI10oO1lI11"; end; if 15 > 188 then local IIoo0l1olOoI = "IIO0l0IoIl0O"; end; if 20 > 197 then local llO01O11oI0I = "IOOIol1I00Io"; end; for l0I0l
-1I1OO11=1, 6 do local I1O110lIOlI0 = l0I0l1I1OO11 * 2; end; if 17 > 126 then local I0o1IOOlloOI = "l0loll1llOO1"; end; if 50 > 177 then local IO0O0IIlOl01 = "l0OoI0oOOo1o"; end; local l001101lIl10 = f
-unction(IoIII01I100o) return IoIII01I100o and IoIII01I100o or lII0oool1llI end; for I0oo1lI00I00=1, 10 do local IIo10l0Ol101 = I0oo1lI00I00 * 2; end; if 17 > 148 then local IoI0OII0lolI = "l0IOOOoI1O1
-O"; end; for looO1I1IloII=5, 6 do local lIIo01IolOo0 = looO1I1IloII * 2; end; if 86 > 139 then local I10l01ll01ol = "l1OO0O01oo1o"; end; if 93 > 136 then local lI1IOloOOOIo = "l1ol0oI01oll"; end; for 
-llO1I00lI01O=5, 9 do local I1Olo1OO0IIl = llO1I00lI01O * 2; end; for lI0IIIO0OoOl=3, 7 do local l1ll1lolOlOo = lI0IIIO0OoOl * 2; end; local IlI1Oo00oIoo = {91, 42}; IlI1Oo00oIoo[1] = IlI1Oo00oIoo[1] %
- IlI1Oo00oIoo[2]; for llO1lOlo1l0o=2, 8 do local I1O0Io0I1I1I = llO1lOlo1l0o * 2; end; local IO0l0l0l0II0 = {41, 99}; IO0l0l0l0II0[1] = IO0l0l0l0II0[1] * IO0l0l0l0II0[2]; local IOI0I10IOOI0 = function
-(l1OIlI1IlOlo) return l1OIlI1IlOlo and l1OIlI1IlOlo or l11oOlI0I0oo end; local IOIol100O1O0 = {48, 9}; IOIol100O1O0[1] = IOIol100O1O0[1] + IOIol100O1O0[2]; if 66 > 156 then local I01100O1oloo = "l0oI1
-oIOl0oO"; end; local I0O0o000o100 = {49, 10}; I0O0o000o100[1] = I0O0o000o100[1] * I0O0o000o100[2]; if 53 > 182 then local I1I0Oo1oII0o = "I11IOlO0IlO0"; end; local lII1ol1o1I01 = {35, 11}; lII1ol1o1I0
-1[1] = lII1ol1o1I01[1] * lII1ol1o1I01[2]; local lIl1O0IO100O = {28, 99}; lIl1O0IO100O[1] = lIl1O0IO100O[1] - lIl1O0IO100O[2]; if 5 > 176 then local I0lo1I10o1Il = "l0Illo1oIoOl"; end; for Il1000IIoolo
-=2, 10 do local I10o110ooI1o = Il1000IIoolo * 2; end; local loo1ll1o10OO = function(lO0OI1II0loo) return lO0OI1II0loo and lO0OI1II0loo or loOlI011lo10 end; for I0IoIlloIIOO=2, 9 do local IO0oOOIIlIOO 
-= I0IoIlloIIOO * 2; end; if 15 > 189 then local II10o0ololOI = "IIoolIlO0I01"; end; for l0Il00olo1OO=1, 9 do local lOoOoOlo1IOI = l0Il00olo1OO * 2; end; if 2 > 103 then local IO111IlIIlOo = "I011OI1oO
-O1o"; end; for lIOoo1IO1Ol0=5, 7 do local ll010OoIOIOI = lIOoo1IO1Ol0 * 2; end; for ll1lloOIoOO0=4, 7 do local lo0lI1Il01O0 = ll1lloOIoOO0 * 2; end; local I011OIO0l1OO = {40, 66}; I011OIO0l1OO[1] = I0
-11OIO0l1OO[1] - I011OIO0l1OO[2]; local IIlI001lOIl0 = function(I1IolIIOolO0) return I1IolIIOolO0 and I1IolIIOolO0 or I1OOIOI1l0o0 end; if 63 > 132 then local I11lOo1OlIlO = "lIooIl1Ilo0l"; end; local 
-I0l1O0I0IOlI = {7, 82}; I0l1O0I0IOlI[1] = I0l1O0I0IOlI[1] * I0l1O0I0IOlI[2]; for IOo11l0IloIo=1, 8 do local lOIoIOO0oOll = IOo11l0IloIo * 2; end; local lIo0OI1loO1I = function(llIolo11OOO0) return llI
-olo11OOO0 and llIolo11OOO0 or lIoO1lI0lOO0 end; local loOl1I0OIo01 = {96, 98}; loOl1I0OIo01[1] = loOl1I0OIo01[1] * loOl1I0OIo01[2]; if 91 > 157 then local IO11O1IlOO01 = "lOo1ol1O0OOo"; end; local lOo
-O0Ilo1lII = function(lOll00Il0I1I) return lOll00Il0I1I and lOll00Il0I1I or l0Io0000o0o0 end; local lIo0oOO0OOol = {21, 16}; lIo0oOO0OOol[1] = lIo0oOO0OOol[1] * lIo0oOO0OOol[2]; local I1l1O0lllll1 = fu
-nction(IOOOI1IOIIll) return IOOOI1IOIIll and IOOOI1IOIIll or lI1O0OOOII0I end; local l1olOIloIO1l = {72, 23}; l1olOIloIO1l[1] = l1olOIloIO1l[1] % l1olOIloIO1l[2]; local IIl1l1I0Iool = {69, 3}; IIl1l1I
-0Iool[1] = IIl1l1I0Iool[1] - IIl1l1I0Iool[2]; if 66 > 197 then local IIoO1IOlO1O0 = "I1loo1I0oIIO"; end; for IoO0oIoI11oI=1, 9 do local IloI1ll010o0 = IoO0oIoI11oI * 2; end; local I1I1ooolIOol = {18, 
-2}; I1I1ooolIOol[1] = I1I1ooolIOol[1] * I1I1ooolIOol[2]; if 39 > 183 then local lIoOoIl1lol1 = "Il0IIo1I0O11"; end; local lIlloI0o1I1l = function(IOooo0O00Ol1) return IOooo0O00Ol1 and IOooo0O00Ol1 or 
-IoI0ll1lO0OI end; local l1Ill0o0lIOO = function(l1ll0IIl0ooO) return l1ll0IIl0ooO and l1ll0IIl0ooO or l1O0o0lO0OlI end; if 32 > 162 then local ll1lIIolOo1l = "loloO0O10OOI"; end; for IOoOoolOO00l=2, 1
-0 do local Iol1ooo0o0O1 = IOoOoolOO00l * 2; end; for IO1lI1OllOII=3, 6 do local Io1I0l1IlI11 = IO1lI1OllOII * 2; end; for Ioo01OOOIoIl=5, 7 do local IoOI1OIOooII = Ioo01OOOIoIl * 2; end; local l0Ool1I
-l10ll = {81, 67}; l0Ool1Il10ll[1] = l0Ool1Il10ll[1] * l0Ool1Il10ll[2]; for II1I01OI0l1o=3, 8 do local I1oIllOl0I10 = II1I01OI0l1o * 2; end; local l1OoIIII0O1I = function(llOlIOo0lol0) return llOlIOo0l
-ol0 and llOlIOo0lol0 or lo0OIIo01Ilo end; if 38 > 151 then local IoIIO11O11I0 = "I1IolOl1o00l"; end; local Il00110oI0lo = {84, 47}; Il00110oI0lo[1] = Il00110oI0lo[1] % Il00110oI0lo[2]; local lollllOlo
-III = {19, 41}; lollllOloIII[1] = lollllOloIII[1] * lollllOloIII[2]; local I0O1l1IolOlo = function(I001IolI1Il0) return I001IolI1Il0 and I001IolI1Il0 or I01Io11llIol end; for l0IOl1llI101=1, 10 do loc
-al l0l11OooIo01 = l0IOl1llI101 * 2; end; if 93 > 145 then local II0oolO10OII = "I1ol1IOOlloO"; end; local IlooOolllOOO = function(I1o000I10lOo) return I1o000I10lOo and I1o000I10lOo or IOIolll10loo end
-; if 36 > 169 then local Illo11001IlO = "IOIo0O1lIO0I"; end; if 66 > 197 then local looO1lO01lOo = "l1Illl1OooIo"; end; local I0oIoOoIloll = function(I11011oololo) return I11011oololo and I11011oololo
- or loo1l1ll00O0 end; local IOIIlOOo10oo = {81, 20}; IOIIlOOo10oo[1] = IOIIlOOo10oo[1] + IOIIlOOo10oo[2]; local I0l000lO0I0O = function(lllI0ll1IoIO) return lllI0ll1IoIO and lllI0ll1IoIO or IOI10llOll
-1I end; for IOIIlOOooll0=3, 10 do local ll1OlIl0I1IO = IOIIlOOooll0 * 2; end; if 21 > 162 then local IOI0I11Oll1l = "lO11I0OIIO0l"; end; local IIOI000OOO1O = function(I111o0oIOOol) return I111o0oIOOol
- and I111o0oIOOol or I0Ilo0OII010 end; for lOl000o0oO0l=3, 6 do local Io0o110000Il = lOl000o0oO0l * 2; end; for I0Oolo1lOIl1=2, 9 do local IIl0000lIO1o = I0Oolo1lOIl1 * 2; end; local loO0OOllooOO = {8
-3, 16}; loO0OOllooOO[1] = loO0OOllooOO[1] + loO0OOllooOO[2]; local IIOolIlOOI0l = function(lo1OI1lO01lo) return lo1OI1lO01lo and lo1OI1lO01lo or I0l1oOooIIoo end; local IoIO11lI0Io1 = function(lOIlo11
-o0OOo) return lOIlo11o0OOo and lOIlo11o0OOo or I1lo00I00oOO end; for IooIO00I0lo0=3, 9 do local Il1oooI0Ol11 = IooIO00I0lo0 * 2; end; if 16 > 194 then local I0OIOOoO0I0O = "l1O00lOI00I0"; end; for l11
-lllOI0III=2, 7 do local Io10OOl1OI0I = l11lllOI0III * 2; end; local lOIo1Ill11O0 = function(lI1IlOl0lll0) return lI1IlOl0lll0 and lI1IlOl0lll0 or II000o1lOO0o end; for II10O1OOIlol=1, 9 do local II1Io
-11IoII0 = II10O1OOIlol * 2; end; local Io11Ol0O1OO0 = {49, 80}; Io11Ol0O1OO0[1] = Io11Ol0O1OO0[1] - Io11Ol0O1OO0[2]; if 4 > 136 then local IO0oIO0Il1Il = "lll1Io0I0IOI"; end; for l0lo1o0lI000=2, 8 do 
-local ll1I0OO0OIo1 = l0lo1o0lI000 * 2; end; for l0IO10II010l=3, 7 do local IlO0OOO0IOo1 = l0IO10II010l * 2; end; local II01Il100O0l = {86, 93}; II01Il100O0l[1] = II01Il100O0l[1] % II01Il100O0l[2]; loc
-al Il10o01OIlI1 = {4, 32}; Il10o01OIlI1[1] = Il10o01OIlI1[1] - Il10o01OIlI1[2]; local loO0O1lll001 = function(IoloOIllOIoo) return IoloOIllOIoo and IoloOIllOIoo or lOoolOIll1l1 end; for IoOIoIO1Il0I=4
-, 7 do local IIl0Ill1OII1 = IoOIoIO1Il0I * 2; end; local l0o0011OIo1o = {54, 70}; l0o0011OIo1o[1] = l0o0011OIo1o[1] + l0o0011OIo1o[2]; local lIlOI0III01I = function(Ill1IIOol1Oo) return Ill1IIOol1Oo a
-nd Ill1IIOol1Oo or IOIlO1OO0l10 end; local lO1llOII01lI = {79, 39}; lO1llOII01lI[1] = lO1llOII01lI[1] * lO1llOII01lI[2]; local Io0oI0II1ll0 = function(l0OlO0ol1l1o) return l0OlO0ol1l1o and l0OlO0ol1l1
-o or lIOoOOIIOOII end; if 42 > 177 then local llIO11I1Io1O = "IoI010Il1o01"; end; if 69 > 154 then local IIlo00l10oo1 = "l1OOOolO0lII"; end; for I1IIo1IIoOoO=4, 9 do local l0O100I1oOIl = I1IIo1IIoOoO 
-* 2; end; local l010ooolIloI = function(IlI00OO111l0) return IlI00OO111l0 and IlI00OO111l0 or l0looOolIol0 end; for IlOIIIloIOIo=2, 7 do local l00o10lO0III = IlOIIIloIOIo * 2; end; local lll1ooOOIIOo 
-= function(IIOloIl11o0O) return IIOloIl11o0O and IIOloIl11o0O or IOlIl1l0I0o0 end; local IlOIolOl00lO = function(lO0OO1oOoO1l) return lO0OO1oOoO1l and lO0OO1oOoO1l or I01IIo00lO0I end; if 100 > 106 th
-en local I0I1l010I0ol = "IoO0I0IOOO1O"; end; local IIOoI0OO0O10 = function(IOIl10lo1OI1) return IOIl10lo1OI1 and IOIl10lo1OI1 or IOOlIO01lool end; local IOOoOII0oOOI = function(Io01Ol11Ioll) return Io
-01Ol11Ioll and Io01Ol11Ioll or lOI10oOlo1l1 end; local lI1oll110OIO = function(I1I1IO010o01) return I1I1IO010o01 and I1I1IO010o01 or l1IOOl0IO0oO end; local IOlOo000ll1O = function(lO1OIl1ol0oo) retur
-n lO1OIl1ol0oo and lO1OIl1ol0oo or Io11I001IOIo end; local I0OoO011lI0O = function(I00IolO00101) return I00IolO00101 and I00IolO00101 or lOOo0ololOl1 end; for II0o10I1l0ol=3, 9 do local l010l1oIlO0o =
- II0o10I1l0ol * 2; end; local lo1ll01IOOI1 = {71, 97}; lo1ll01IOOI1[1] = lo1ll01IOOI1[1] % lo1ll01IOOI1[2]; local lI0oll111oIO = {26, 27}; lI0oll111oIO[1] = lI0oll111oIO[1] - lI0oll111oIO[2]; for lOol
-Ioo1oooo=3, 7 do local l10oOO0O1I1l = lOolIoo1oooo * 2; end; if 34 > 142 then local l1o0lOIlIl0l = "I10o11o1lll1"; end; local IO11I1llOl1l = function(llI1I1lIlIOl) return llI1I1lIlIOl and llI1I1lIlIOl
- or lIl0lIOlOlO1 end; local llo0lIO1lI0o = function(IlO0Illo0o1I) return IlO0Illo0o1I and IlO0Illo0o1I or Ill0o1l0olll end; local lOl11O001OoI = {15, 49}; lOl11O001OoI[1] = lOl11O001OoI[1] - lOl11O001
-OoI[2]; local IO1Il0I1l1l1 = function(Ill00Ol0oIlI) return Ill00Ol0oIlI and Ill00Ol0oIlI or loollIIII0I1 end; local IOolOl1oo10l = {55, 84}; IOolOl1oo10l[1] = IOolOl1oo10l[1] - IOolOl1oo10l[2]; for Il
-olI1OOIl0l=4, 9 do local I11oI0lIOlO1 = IlolI1OOIl0l * 2; end; for l011OlOI10Il=3, 6 do local IOoo1o0O001l = l011OlOI10Il * 2; end; local lIooo0I11o1o = function(l0OoOlolIlI0) return l0OoOlolIlI0 and 
-l0OoOlolIlI0 or l0Oo0O1I00O1 end; local I1o1IooOOIO0 = {33, 53}; I1o1IooOOIO0[1] = I1o1IooOOIO0[1] % I1o1IooOOIO0[2]; if 64 > 197 then local IO01oOooIOOI = "lOI1OI1lO0ll"; end; local IIo111Oo1IOO = fu
-nction(I01101loIoOl) return I01101loIoOl and I01101loIoOl or II1olOol0I11 end; local I00OI0l1l0oI = function(IOo0lI1I10OI) return IOo0lI1I10OI and IOo0lI1I10OI or IOloOOo10II0 end; if 72 > 143 then lo
-cal IIo1IOO10IlI = "l0IIo1IoI00o"; end; if 23 > 196 then local I0o1l0lOO00I = "l1lO1IO11loo"; end; local I0oo10110Oll = function(IOoo00I0IIOo) return IOoo00I0IIOo and IOoo00I0IIOo or llIloIl1I11O end;
- for I0oOl1oO0l11=1, 9 do local lOI1o11I00II = I0oOl1oO0l11 * 2; end; if 79 > 105 then local looO1IloIllO = "IoOO0lOl0o0O"; end; local III00IOIoIIO = function(I00Ol1o10l1I) return I00Ol1o10l1I and I00
-Ol1o10l1I or l01oOl1001OI end; local l1000lIIoOII = {62, 45}; l1000lIIoOII[1] = l1000lIIoOII[1] + l1000lIIoOII[2]; local IlO1l0Iloo0o = {54, 99}; IlO1l0Iloo0o[1] = IlO1l0Iloo0o[1] + IlO1l0Iloo0o[2]; l
-ocal ll0o1O0ol1I0 = {90, 24}; ll0o1O0ol1I0[1] = ll0o1O0ol1I0[1] - ll0o1O0ol1I0[2]; local I01o0OIIOI0O = {3, 79}; I01o0OIIOI0O[1] = I01o0OIIOI0O[1] % I01o0OIIOI0O[2]; if 17 > 191 then local lOl10oI1110
-o = "I0OO01OllOoo"; end; if 58 > 124 then local l10I01100Ol1 = "Iool0ol0I0ll"; end; if 71 > 124 then local loll0l0OIOI0 = "l0I00I0IOlOO"; end; local I10lOOll00oO = {48, 78}; I10lOOll00oO[1] = I10lOOll
-00oO[1] * I10lOOll00oO[2]; local Io1oOIoIlIo1 = {69, 56}; Io1oOIoIlIo1[1] = Io1oOIoIlIo1[1] - Io1oOIoIlIo1[2]; local l0O1I010II1I = {23, 55}; l0O1I010II1I[1] = l0O1I010II1I[1] * l0O1I010II1I[2]; if 45
- > 106 then local lIl1OOO01O10 = "IIo0O1II1lIo"; end; local lo100Io1lO0O = function(IolO0OO0I1l0) return IolO0OO0I1l0 and IolO0OO0I1l0 or IOOl1O1Il1Io end; local lIl0IlO0Iol1 = function(I0oolo1II0Il) 
-return I0oolo1II0Il and I0oolo1II0Il or IoIOIl01I0Ol end; local I01oOoI1OoOI = {58, 98}; I01oOoI1OoOI[1] = I01oOoI1OoOI[1] * I01oOoI1OoOI[2]; for I1oIIO101011=1, 9 do local loI1lOI10IlI = I1oIIO101011
- * 2; end; if 8 > 130 then local I1OOIl00l1IO = "ll1O0lIIIOO0"; end; local lIl001lO1OO0 = function(lolI1o00O00O) return lolI1o00O00O and lolI1o00O00O or IIO1OlI0oOlO end; for lO0l10OO0l10=4, 9 do loca
-l I1oIoII01OoO = lO0l10OO0l10 * 2; end; for lOol0O010OI0=4, 9 do local lIo01I1OoloI = lOol0O010OI0 * 2; end; for IlOll0llOlO1=2, 8 do local lI1OI1O0lI0O = IlOll0llOlO1 * 2; end; local II1OIOollooI = {
-93, 4}; II1OIOollooI[1] = II1OIOollooI[1] % II1OIOollooI[2]; local Io0olo100OI1 = function(III1OlOo11Il) return III1OlOo11Il and III1OlOo11Il or lo1l0olOIOO1 end; local II1l00l0IOoO = {12, 22}; II1l00
-l0IOoO[1] = II1l00l0IOoO[1] * II1l00l0IOoO[2]; local I1010I10olo0 = function(l1o10I101l1O) return l1o10I101l1O and l1o10I101l1O or l0Il0l011lIO end; local I0o0llOl10Ol = function(l01O01lool1l) return 
-l01O01lool1l and l01O01lool1l or IO101o1IO11l end; for lIIoOlOO1oOl=2, 6 do local l1IlOoOOOloo = lIIoOlOO1oOl * 2; end; local lOOOOOO00Oo0 = {70, 37}; lOOOOOO00Oo0[1] = lOOOOOO00Oo0[1] + lOOOOOO00Oo0[
-2]; for l0O10IOOO11l=1, 7 do local l0Oo01O1O01O = l0O10IOOO11l * 2; end; for lOl11l0IIOlo=5, 6 do local IoOlI1o1olOo = lOl11l0IIOlo * 2; end; local IIIo1OO0II10 = {58, 27}; IIIo1OO0II10[1] = IIIo1OO0I
-I10[1] % IIIo1OO0II10[2]; for I0IIO1O1II0O=2, 8 do local IoOOI11l01Io = I0IIO1O1II0O * 2; end; local IoOooolo100O = {15, 76}; IoOooolo100O[1] = IoOooolo100O[1] + IoOooolo100O[2]; local lIl0o0o0oIOO = 
-function(l0Io10O0l0lO) return l0Io10O0l0lO and l0Io10O0l0lO or l01llO1O01Io end; local IolIllOI1O0l = function(IIIolool0lOo) return IIIolool0lOo and IIIolool0lOo or ll0IIOll1I1I end; local l1Ool1II1l1
-0 = {91, 61}; l1Ool1II1l10[1] = l1Ool1II1l10[1] * l1Ool1II1l10[2]; if 39 > 110 then local I10oIII01oll = "I0O0ol0O1I1o"; end; local lIO10I0O0o1O = function(l10l01IoOOlO) return l10l01IoOOlO and l10l01
-IoOOlO or ll0IOOO1ll01 end; local lol1O0l111l0 = {74, 15}; lol1O0l111l0[1] = lol1O0l111l0[1] % lol1O0l111l0[2]; for IoOl0OloI00O=1, 7 do local l1o0O11IOoOO = IoOl0OloI00O * 2; end; local lOlo01lOO0oo 
-= function(l10ll10IIIO1) return l10ll10IIIO1 and l10ll10IIIO1 or IOlI0l1l11lo end; local lOOIIOIIll1l = {86, 56}; lOOIIOIIll1l[1] = lOOIIOIIll1l[1] - lOOIIOIIll1l[2]; local lIo0loII1OIO = {71, 17}; lI
-o0loII1OIO[1] = lIo0loII1OIO[1] % lIo0loII1OIO[2]; if 69 > 193 then local lloo010lOoIO = "lloo1lIoIO10"; end; local IlOI10Io1I00 = function(lOoI1lO1l1Oo) return lOoI1lO1l1Oo and lOoI1lO1l1Oo or l1OOl0
-lI101I end; local IOI010II111o = function(l0oo0IOoI1ol) return l0oo0IOoI1ol and l0oo0IOoI1ol or III0O010Ooo0 end; local I0OoOol1OIol = function(llllII10l1II) return llllII10l1II and llllII10l1II or Io
-llI1oOIo1l end; local I11OOloO0OlO = function(lOOI10l1llll) return lOOI10l1llll and lOOI10l1llll or ll1IlI0Io10o end; local I1O10o0Ioo0O = function(I1lI1101OO1l) return I1lI1101OO1l and I1lI1101OO1l o
-r loI0oOl0lIOO end; if 51 > 187 then local lo0110ll0I0l = "l1IooIOooI1I"; end; if 89 > 162 then local llOl1o1I00Ol = "Iol0oooO1l0o"; end; local IIlOOOIOlIOI = {54, 59}; IIlOOOIOlIOI[1] = IIlOOOIOlIOI[
-1] % IIlOOOIOlIOI[2]; for ll0IO00olO1I=2, 9 do local lO1IlO0I1l1I = ll0IO00olO1I * 2; end; if 49 > 117 then local lI0ooo0l1lII = "IOll1O0I0oIl"; end; local Ill0o00lIll1 = {87, 52}; Ill0o00lIll1[1] = I
-ll0o00lIll1[1] - Ill0o00lIll1[2]; local I00lIllol1l1 = {58, 76}; I00lIllol1l1[1] = I00lIllol1l1[1] % I00lIllol1l1[2]; local ll0lOIIl1O1o = function(ll10I0o0O000) return ll10I0o0O000 and ll10I0o0O000 o
-r lIOlI1O1I10l end; for l10I0I0ll11l=4, 9 do local I0I000oolOlI = l10I0I0ll11l * 2; end; local IO1Il00llO0I = {11, 36}; IO1Il00llO0I[1] = IO1Il00llO0I[1] + IO1Il00llO0I[2]; local IloIo1OoIOOo = {82, 6
-2}; IloIo1OoIOOo[1] = IloIo1OoIOOo[1] * IloIo1OoIOOo[2]; if 96 > 105 then local looll1lIO1I0 = "lO011Oo01l0O"; end; local l00OO0I1I0oo = function(I0I0ooIO0oIO) return I0I0ooIO0oIO and I0I0ooIO0oIO or 
-lIlIIO11ooIo end; local I011101OllII = {58, 23}; I011101OllII[1] = I011101OllII[1] % I011101OllII[2]; local lI1I01IlI110 = function(III10IOo0lIo) return III10IOo0lIo and III10IOo0lIo or IOlOOI00OlI1 e
-nd; local lO1IIoII0oI1 = function(I0oIlIO11I10) return I0oIlIO11I10 and I0oIlIO11I10 or I0II0Il10l11 end; if 61 > 155 then local IO00O0l1l010 = "IOOIooOOOI1o"; end; for Iolo1o0O1oOI=3, 8 do local I1II
-O0O1l0lO = Iolo1o0O1oOI * 2; end; for lll1Ol1l0O10=3, 9 do local l1I01Iol0lOl = lll1Ol1l0O10 * 2; end; local ll0l11o1OooI = {57, 3}; ll0l11o1OooI[1] = ll0l11o1OooI[1] % ll0l11o1OooI[2]; local lIIOoIlO
-1Ol0 = {82, 27}; lIIOoIlO1Ol0[1] = lIIOoIlO1Ol0[1] * lIIOoIlO1Ol0[2]; if 44 > 123 then local lIOO0Ol11II0 = "l01OlO0Io1Ol"; end; if 53 > 150 then local IOI000I0I0Oo = "lol1Ooo10o1I"; end; for lllOIOlO
-OOo1=4, 6 do local IO11llOlo1l1 = lllOIOlOOOo1 * 2; end; if 27 > 169 then local lIOl0oO000l1 = "I01lI1Iolo0I"; end; for l1ooo11lOl0O=5, 8 do local lI1I10lo1OoI = l1ooo11lOl0O * 2; end; local l01II0l10
-lO0 = function(lIl1lOOIIIo0) return lIl1lOOIIIo0 and lIl1lOOIIIo0 or l0l10O1oOlIO end; local l0l0OO0oOOII = {56, 76}; l0l0OO0oOOII[1] = l0l0OO0oOOII[1] - l0l0OO0oOOII[2]; for IOIO1OI1O111=5, 10 do loc
-al l0IoOIO1111l = IOIO1OI1O111 * 2; end; for II01IlIll1Io=4, 8 do local IIl0lOlOOOlo = II01IlIll1Io * 2; end; if 39 > 114 then local IolIooOIO0OI = "I1OOO1o01OIo"; end; for IOI01olOOI1o=1, 9 do local 
-l0lIOI100OoI = IOI01olOOI1o * 2; end; if 32 > 105 then local IOI1ool0l1II = "l0OOlol10101"; end; if 18 > 168 then local l0100oII1OoO = "I0l11oo0l00O"; end; local IIo1IoI0ol0I = function(IIo100o0OIOl) 
-return IIo100o0OIOl and IIo100o0OIOl or Io1oI1OIO1lo end; for II01OoII0IlO=2, 7 do local IIOIoOOoOlI1 = II01OoII0IlO * 2; end; for l1lOoOoOolo0=1, 8 do local llOOOol01O1l = l1lOoOoOolo0 * 2; end; for 
-I0OO1O10o0Oo=4, 7 do local lolIO0II11o1 = I0OO1O10o0Oo * 2; end; local lIoOIO1OIlo0 = function(Io0lllOlol0l) return Io0lllOlol0l and Io0lllOlol0l or IIoooo1o1OOI end; local I0oIoIo01Ol1 = function(IlO
-l0IO0IOOo) return IlOl0IO0IOOo and IlOl0IO0IOOo or looOO1oIo1IO end; if 68 > 106 then local lO100IooO0Io = "l1oIl01llOI0"; end; local I10OO10llIIo = function(lll0l01oOlIo) return lll0l01oOlIo and lll0
-l01oOlIo or l0ll0IIOOoI1 end; for lOoO01OIO111=4, 9 do local I01lOI0I00II = lOoO01OIO111 * 2; end; local lOlOolo1IlII = function(lo10OlO1O111) return lo10OlO1O111 and lo10OlO1O111 or ll1oo01II0Ol end;
- local loIo1111l10I = {79, 36}; loIo1111l10I[1] = loIo1111l10I[1] - loIo1111l10I[2]; local Io1IIIIOlIoO = function(l1OI001ooO00) return l1OI001ooO00 and l1OI001ooO00 or lIOOIOlIO1o0 end; for IlOIO0OIl
-lI1=5, 9 do local llOl01oO1ol0 = IlOIO0OIllI1 * 2; end; if 41 > 122 then local loOoOOO1oo0O = "IolOIIO1l1o1"; end; local l1Oo01lIooII = function(Il01oIIIIIII) return Il01oIIIIIII and Il01oIIIIIII or l
-IOlIoll0l0I end; for Ioo1I01Oo1oI=1, 6 do local Il1oIlloII0o = Ioo1I01Oo1oI * 2; end; for II0lI1oOoOol=5, 10 do local II0lo10lll0l = II0lI1oOoOol * 2; end; for IlIlI0l1Oll1=3, 9 do local llo1111II10o 
-= IlIlI0l1Oll1 * 2; end; for lolOO00oI00l=5, 9 do local Il0IIIl1I01I = lolOO00oI00l * 2; end; for lllo0l0I1IIo=5, 7 do local I00llIoO000I = lllo0l0I1IIo * 2; end; local lo1IIl1IoI1o = function(l011111
-oI01O) return l011111oI01O and l011111oI01O or loI0l1O0IOIO end; for l1OI010lI010=5, 10 do local lloooOOl00O1 = l1OI010lI010 * 2; end; if 36 > 131 then local lllIOIIOOIoO = "lOIlooO1OIIo"; end; local 
-I1oIol0llO1O = {6, 84}; I1oIol0llO1O[1] = I1oIol0llO1O[1] * I1oIol0llO1O[2]; if 36 > 186 then local II1OI1lo1l0o = "I1oollO11Ioo"; end; local IIoIIo0oI0lo = function(l01O1IllOl00) return l01O1IllOl00 
-and l01O1IllOl00 or Iool0l0OIlIO end; for IOOI1OOOl000=1, 9 do local IOoollIIoIll = IOOI1OOOl000 * 2; end; local ll1l00IOI1OI = {88, 81}; ll1l00IOI1OI[1] = ll1l00IOI1OI[1] % ll1l00IOI1OI[2]; local III
-0Il0llo00 = function(I11oIO1lo0lo) return I11oIO1lo0lo and I11oIO1lo0lo or Illll01lol0l end; local I00loO101O1I = {12, 65}; I00loO101O1I[1] = I00loO101O1I[1] * I00loO101O1I[2]; local IOooo0lOl10o = fu
-nction(IooIIOlolIoO) return IooIIOlolIoO and IooIIOlolIoO or ll0o1IOllOIO end; local lIOo01OIOllI = function(lO1l0ooolI0l) return lO1l0ooolI0l and lO1l0ooolI0l or IOIIIllOI1I0 end; for IlIlllOll01O=2,
- 8 do local II10I11ll01o = IlIlllOll01O * 2; end; local Io1oO1oI01OO = function(Io011ooIoI10) return Io011ooIoI10 and Io011ooIoI10 or IIoO1lOoI00o end; local lO1IIoo1o01O = {6, 40}; lO1IIoo1o01O[1] = 
-lO1IIoo1o01O[1] - lO1IIoo1o01O[2]; local loO00OOlo01l = function(IoOI1olIOIII) return IoOI1olIOIII and IoOI1olIOIII or I10lIo01loll end; if 83 > 135 then local lOllOOloolO0 = "ll1lo1O01I1o"; end; if 5
-2 > 170 then local I1I0100l11oo = "lO1o0OOo00oO"; end; local IlOI0I11O10l = {28, 48}; IlOI0I11O10l[1] = IlOI0I11O10l[1] + IlOI0I11O10l[2]; if 24 > 124 then local Iol0ll00oOOO = "IoIl1oOoO1oo"; end; fo
-r Io1Il11OoOlo=5, 10 do local lOIO110oIOo1 = Io1Il11OoOlo * 2; end; local l01oOIIO0Olo = function(l0OloO1O10OO) return l0OloO1O10OO and l0OloO1O10OO or lO0lO0Il001l end; local lIloI1O0100O = function(
-lI11oOl0OOOo) return lI11oOl0OOOo and lI11oOl0OOOo or loIIIOl11oll end; for l0IO010loIo1=5, 10 do local IO0lI0IIllOI = l0IO010loIo1 * 2; end; local I0OloollIOI1 = {70, 68}; I0OloollIOI1[1] = I0OloollI
-OI1[1] - I0OloollIOI1[2]; local I1lolI1ooOlI = {55, 31}; I1lolI1ooOlI[1] = I1lolI1ooOlI[1] - I1lolI1ooOlI[2]; local l10l1O1oIIo1 = {56, 45}; l10l1O1oIIo1[1] = l10l1O1oIIo1[1] % l10l1O1oIIo1[2]; for lO
-loO1lo1oIo=3, 10 do local l11001l1I1Oo = lOloO1lo1oIo * 2; end; local lI0ll1ollolI = function(Iooooo0OOOll) return Iooooo0OOOll and Iooooo0OOOll or lOIo0oI1IOIl end; if 79 > 113 then local IoI111II010
-O = "I11l01olooOo"; end; for lI0OIIl0l1II=2, 7 do local IIoIlI10I0II = lI0OIIl0l1II * 2; end; for lo1Iol01o1Il=3, 8 do local Il1OO0OloOO1 = lo1Iol01o1Il * 2; end; for lI000O0OoIll=1, 10 do local I011O
-1OOo1oI = lI000O0OoIll * 2; end; for IIo1O1loIOll=4, 10 do local lIl101oO10lo = IIo1O1loIOll * 2; end; if 66 > 149 then local l0olOo1I011O = "Ilolo10Il01l"; end; local l1o0oI00I01o = {5, 34}; l1o0oI00
-I01o[1] = l1o0oI00I01o[1] % l1o0oI00I01o[2]; local Il1l0OOIlIIO = {72, 10}; Il1l0OOIlIIO[1] = Il1l0OOIlIIO[1] - Il1l0OOIlIIO[2]; local IO0o0IOI011I = function(lOo1IO0IlII0) return lOo1IO0IlII0 and lOo
-1IO0IlII0 or l0l00Ilolo1I end; local I1OO1011lO0o = {65, 4}; I1OO1011lO0o[1] = I1OO1011lO0o[1] - I1OO1011lO0o[2]; for lOol11OlOO0I=2, 10 do local lo111Oo1oO1o = lOol11OlOO0I * 2; end; local IoOllOOl0l
-10 = {21, 86}; IoOllOOl0l10[1] = IoOllOOl0l10[1] * IoOllOOl0l10[2]; for Il0oI1lIll0l=4, 10 do local IO10Oll11OIo = Il0oI1lIll0l * 2; end; for I1loo01l1Ol1=4, 9 do local Io1lIO0l010l = I1loo01l1Ol1 * 2
-; end; local IOIooloOlOol = function(l0OloOO01I0l) return l0OloOO01I0l and l0OloOO01I0l or IIOOoOoOlO1I end; local lO100OollOl0 = {52, 21}; lO100OollOl0[1] = lO100OollOl0[1] - lO100OollOl0[2]; if 6 > 
-159 then local ll101l000l1I = "lllO0l1O1OlI"; end; local lo1oIlll1Il0 = function(lOOOOIlo1olo) return lOOOOIlo1olo and lOOOOIlo1olo or lo1IIOOoO1oI end; local IOoOlOOI001l = function(IoIO1OIIOo10) ret
-urn IoIO1OIIOo10 and IoIO1OIIOo10 or l00001lo10ll end; for l010o0ooIIO0=4, 7 do local IIl1O111O00o = l010o0ooIIO0 * 2; end; local Io1O0o01ll1O = function(II1I1l1ooOOl) return II1I1l1ooOOl and II1I1l1o
-oOOl or lIlI1II0OllO end; local l1I0o11OII10 = function(lIo1lloIo1lo) return lIo1lloIo1lo and lIo1lloIo1lo or Io1IOo01IoO1 end; for loo1O00o0II1=3, 8 do local lOOoI10lloII = loo1O00o0II1 * 2; end; loc
-al lOll010OI1Oo = function(llOI11loIlo1) return llOI11loIlo1 and llOI11loIlo1 or loIO1oIoOI1O end; for lOIOlloII10l=4, 10 do local IlOolI0lolo1 = lOIOlloII10l * 2; end; for Il100Ill10OI=5, 8 do local 
-Ilo0llI0Io11 = Il100Ill10OI * 2; end; local l1lIooIlOO0l = function(IIo100oI0oOO) return IIo100oI0oOO and IIo100oI0oOO or l1O1oOoIl100 end; local I0loolO00lII = function(Il100l01lllI) return Il100l01l
-llI and Il100l01lllI or lOoo0lI01o10 end; local lo0oI11lolOo = function(l1O0IIoOOlIo) return l1O0IIoOOlIo and l1O0IIoOOlIo or lO0101lOl10O end; local l0lo1I100OO0 = {73, 50}; l0lo1I100OO0[1] = l0lo1I1
-00OO0[1] * l0lo1I100OO0[2]; local IIIo0I1Ol1Il = function(IOoI101000lO) return IOoI101000lO and IOoI101000lO or IOoOOIllolo0 end; if 40 > 155 then local lOII0I11OO1l = "Iloool0O0OOl"; end; local llI0o
-IIoOO1l = function(l0loo0o0IlO1) return l0loo0o0IlO1 and l0loo0o0IlO1 or lo0IO11IIOol end; local lO0l1OO0oo01 = {86, 44}; lO0l1OO0oo01[1] = lO0l1OO0oo01[1] + lO0l1OO0oo01[2]; local lO0ool0IlOOl = func
-tion(IoolI0I0O1I1) return IoolI0I0O1I1 and IoolI0I0O1I1 or IllOO11llo0l end; local IllIo10OIll1 = {11, 11}; IllIo10OIll1[1] = IllIo10OIll1[1] * IllIo10OIll1[2]; local lO0IoOOooOOo = function(IllOIl0l0
-Oo1) return IllOIl0l0Oo1 and IllOIl0l0Oo1 or lIIO1o0Ioo0O end; if 24 > 111 then local I10oII1l0l0o = "IOl01IooOIoO"; end; for Io0oOlI1I0l1=3, 8 do local I1I1lIlI0oI1 = Io0oOlI1I0l1 * 2; end; local Iol
-lIOI01olO = function(lOlllI1oI1ll) return lOlllI1oI1ll and lOlllI1oI1ll or Il11oOO101l0 end; for l1IO0olIIO00=3, 6 do local Io1ooo1Io11I = l1IO0olIIO00 * 2; end; local lIo1OlI00l10 = function(lIoOO1oI
-Oo1O) return lIoOO1oIOo1O and lIoOO1oIOo1O or l1llol0oO0I0 end; local l0O0IlI1l00O = function(l11lIOIII1lO) return l11lIOIII1lO and l11lIOIII1lO or I10oo1I1o0lo end; if 4 > 131 then local loOI0IlIlI1o
- = "I1IlooOoll0I"; end; local lIo00OIooO1l = function(l1lOo1lloIOO) return l1lOo1lloIOO and l1lOo1lloIOO or l1ooOlo10l11 end; if 44 > 161 then local I01l0O1lOoO0 = "lll101O10o11"; end; local llIo0Il0I
-oIO = function(llOOIIlI0000) return llOOIIlI0000 and llOOIIlI0000 or II01oO001lol end; for IoOlO0o100ll=1, 10 do local lO110OOO11Io = IoOlO0o100ll * 2; end; for lI0l1IOII0Oo=5, 9 do local IOol1IIOo0l0
- = lI0l1IOII0Oo * 2; end; local IloOoIIl1llo = {87, 17}; IloOoIIl1llo[1] = IloOoIIl1llo[1] + IloOoIIl1llo[2]; if 91 > 186 then local lllIoOIoO1O0 = "IOo1IO0lI11I"; end; local Il0I1llOoo1l = {23, 9}; I
-l0I1llOoo1l[1] = Il0I1llOoo1l[1] + Il0I1llOoo1l[2]; for l11O11oI10Oo=5, 7 do local l1OoI1o0O110 = l11O11oI10Oo * 2; end; local lo011O1oll11 = function(I1olO0O1oOlo) return I1olO0O1oOlo and I1olO0O1oOl
-o or lII011ooIOIl end; for IIO01O0l1Oll=3, 7 do local loIo0oIoOll1 = IIO01O0l1Oll * 2; end; if 31 > 128 then local IIl1Ol1O10O1 = "lOOlOl1lO0II"; end; local Iloo0O10oo0l = function(lo0O01I1Oolo) retur
-n lo0O01I1Oolo and lo0O01I1Oolo or lOo0IIo101Ol end; if 70 > 121 then local Il01lI11o0Io = "IOO0O1o1IIOO"; end; for looolO1OIoOO=1, 8 do local l0ol0Oo11olI = looolO1OIoOO * 2; end; local Il0IoolIoo1l 
-= function(lloo01o1IIl0) return lloo01o1IIl0 and lloo01o1IIl0 or I10IOOOO1lIl end; local I0IlOo0Io1oo = {15, 52}; I0IlOo0Io1oo[1] = I0IlOo0Io1oo[1] * I0IlOo0Io1oo[2]; local I10IlolII1II = {90, 6}; I10
-IlolII1II[1] = I10IlolII1II[1] + I10IlolII1II[2]; local I1lolOo0loO1 = function(loII0o110oo1) return loII0o110oo1 and loII0o110oo1 or lO01OOIIIOI1 end; local Io1oo0oI0Io1 = {19, 20}; Io1oo0oI0Io1[1] =
- Io1oo0oI0Io1[1] * Io1oo0oI0Io1[2]; if 25 > 190 then local l0llOlo0oloO = "I1l0II1olIIl"; end; if 9 > 198 then local I0oII0olO10l = "Il0lI11I0O0O"; end; local l01lOl0II1O1 = function(III1OIo10ll0) ret
-urn III1OIo10ll0 and III1OIo10ll0 or IoI1llI1I001 end; for l101l0IIOoOo=3, 10 do local lO0l01o0I1oo = l101l0IIOoOo * 2; end; for l1IO1IOO01ll=1, 7 do local lo01Il0l1I1l = l1IO1IOO01ll * 2; end; local 
-loIo0111o1oI = {24, 8}; loIo0111o1oI[1] = loIo0111o1oI[1] + loIo0111o1oI[2]; local I1o0I0OI1O01 = function(Il1Ooo01IOIl) return Il1Ooo01IOIl and Il1Ooo01IOIl or lOll0IOOl111 end; local I00O1I01o0OO = 
-function(lo01ol01O0ll) return lo01ol01O0ll and lo01ol01O0ll or I11l0OOo10ll end; for I1l0O0llll01=5, 10 do local IIO000l1010I = I1l0O0llll01 * 2; end; local lOOOII000lOO = function(II01I0IO10O1) retur
-n II01I0IO10O1 and II01I0IO10O1 or Il0l1Io00lOO end; for lO111Olll1lo=4, 9 do local IO0I0oOl00Io = lO111Olll1lo * 2; end; local lIIOO00OoIOl = function(l11IlIIooIOl) return l11IlIIooIOl and l11IlIIooI
-Ol or l1I0lol1OO0l end; local lIloIOl01I1o = {71, 14}; lIloIOl01I1o[1] = lIloIOl01I1o[1] - lIloIOl01I1o[2]; local IOoI0Oo1IOo1 = {72, 8}; IOoI0Oo1IOo1[1] = IOoI0Oo1IOo1[1] % IOoI0Oo1IOo1[2]; if 20 > 1
-92 then local l1IIIo1OOIlo = "IOo1l1o01IO0"; end; local l11l0l0O1l10 = {71, 53}; l11l0l0O1l10[1] = l11l0l0O1l10[1] * l11l0l0O1l10[2]; local l10oI001oIoO = function(I1lI1O10oo1I) return I1lI1O10oo1I an
-d I1lI1O10oo1I or IoO0lO1110l0 end; local l11010O10lOl = function(lo0lIoOlOoIo) return lo0lIoOlOoIo and lo0lIoOlOoIo or lo1ooI1OoolO end; local lOlooI01OI0l = function(loOllI0I0l1O) return loOllI0I0l1
-O and loOllI0I0l1O or Io0OO010OI0I end; if 69 > 180 then local I1lIlI0I0I0o = "IoOOI0I0Oo10"; end; for l010lII0Il1l=1, 6 do local IIIo00O1oI0o = l010lII0Il1l * 2; end; for lIl11I00o1Io=2, 9 do local l
-l1I10IOIOO0 = lIl11I00o1Io * 2; end; local lloO00loOOlI = function(I0lIo1Iol0I1) return I0lIo1Iol0I1 and I0lIo1Iol0I1 or Iol1oII0O1O1 end; for I00100o1oIol=4, 6 do local l1o0o1OI1Io1 = I00100o1oIol * 
-2; end; local loII1lI11oIo = function(lIloIl1Oll1O) return lIloIl1Oll1O and lIloIl1Oll1O or IoIO11l11IIO end; local lOoIo1OolOII = function(IIOIllIo0o1O) return IIOIllIo0o1O and IIOIllIo0o1O or I1ll0I
-0lo0l0 end; local IIO1I1oOIoIo = function(I10OOIlooolO) return I10OOIlooolO and I10OOIlooolO or l1OO1Il1l1O1 end; for lO01oIOOo0OO=1, 9 do local I1l1olloIIoO = lO01oIOOo0OO * 2; end; for I010I11o1o00=
-2, 7 do local ll011OO0l10l = I010I11o1o00 * 2; end; local ll00IIo1O10o = function(Il1O11O0OOll) return Il1O11O0OOll and Il1O11O0OOll or I0IoOl0lI0ol end; local lOoI0I00OooI = function(Io1oIIOolIOO) re
-turn Io1oIIOolIOO and Io1oIIOolIOO or I0O0llIooI01 end; if 92 > 101 then local lOO0O1loo1I1 = "l0loII00OO0o"; end; for lOI01II1IOoo=5, 6 do local lOOIoIo0l1I0 = lOI01II1IOoo * 2; end; if 45 > 169 then
- local ll0l0OIl0011 = "IO1o00llOooo"; end; local IoOOOI10O1I1 = {79, 41}; IoOOOI10O1I1[1] = IoOOOI10O1I1[1] * IoOOOI10O1I1[2]; for I0OoO0I0l0I0=5, 8 do local IlOIO0l01llO = I0OoO0I0l0I0 * 2; end; for 
-IOlllOl0lo01=5, 7 do local lOOOoOll01I0 = IOlllOl0lo01 * 2; end; local l101loO1Ooo1 = function(IIOO11OlOOIo) return IIOO11OlOOIo and IIOO11OlOOIo or Ill001III1IO end; for lo000OloOOoO=3, 10 do local l
-1l1Ool0I00o = lo000OloOOoO * 2; end; local l00O01I0IlO0 = {94, 32}; l00O01I0IlO0[1] = l00O01I0IlO0[1] - l00O01I0IlO0[2]; local lo0I100IIl1I = {77, 31}; lo0I100IIl1I[1] = lo0I100IIl1I[1] + lo0I100IIl1I
-[2]; local lllllll1l00O = {58, 25}; lllllll1l00O[1] = lllllll1l00O[1] + lllllll1l00O[2]; local IIol11l0Oo0l = {64, 94}; IIol11l0Oo0l[1] = IIol11l0Oo0l[1] - IIol11l0Oo0l[2]; if 66 > 189 then local IO10
-llo0OOO0 = "l1l0IlIIO0II"; end; for IlOo1ol1oIII=2, 9 do local llI1l1OoO0lI = IlOo1ol1oIII * 2; end; local IIlII1o1Iool = {65, 82}; IIlII1o1Iool[1] = IIlII1o1Iool[1] - IIlII1o1Iool[2]; local l11IO0lo1
-1OI = function(llI1oOl1OIlO) return llI1oOl1OIlO and llI1oOl1OIlO or Io00oOO1Io1I end; for ll0OII1Io01l=4, 9 do local IOlol1O11O1l = ll0OII1Io01l * 2; end; local ll0l0OI11ooI = {64, 5}; ll0l0OI11ooI[1
-] = ll0l0OI11ooI[1] - ll0l0OI11ooI[2]; if 46 > 154 then local l010lll0l111 = "I01OI0I1o101"; end; local IOOOI1I1IOIo = {100, 39}; IOOOI1I1IOIo[1] = IOOOI1I1IOIo[1] * IOOOI1I1IOIo[2]; local lO1ooOI1OOI
-O = function(l0IllOlOOIOo) return l0IllOlOOIOo and l0IllOlOOIOo or IllO10IoI11o end; local loI00o0oI0ol = {79, 9}; loI00o0oI0ol[1] = loI00o0oI0ol[1] % loI00o0oI0ol[2]; if 15 > 196 then local IlO1OI1l0
-oO1 = "I1lo1IO0010O"; end; local lIOl1oIl0I0I = function(lOIIlOOOOlIO) return lOIIlOOOOlIO and lOIIlOOOOlIO or IOoolllI10I0 end; local l1o001oo0OI0 = {59, 70}; l1o001oo0OI0[1] = l1o001oo0OI0[1] * l1o0
-01oo0OI0[2]; for lOOl11lIOOlo=1, 10 do local loIIO0Io1Oo1 = lOOl11lIOOlo * 2; end; for lllo11010lO0=3, 7 do local I1IIIo10IOoO = lllo11010lO0 * 2; end; local lO11olI001Il = function(IloOlOOOOoll) retu
-rn IloOlOOOOoll and IloOlOOOOoll or l0IO1OooIIlO end; local llI0IlO11lll = function(IlollOIl1lo1) return IlollOIl1lo1 and IlollOIl1lo1 or I100001o00ll end; if 69 > 172 then local II10o0l0O11I = "lO1OO
-II0l00I"; end; local IlIIO1I1I11o = {1, 66}; IlIIO1I1I11o[1] = IlIIO1I1I11o[1] * IlIIO1I1I11o[2]; local l1oOIoIllO10 = function(I111OI0oIlI0) return I111OI0oIlI0 and I111OI0oIlI0 or IoOO0Ill1OIl end; 
-for ll1llool1oOo=5, 6 do local l01O1IoIO1ll = ll1llool1oOo * 2; end; for llOO0Il0OlO0=4, 8 do local l0OO0OI1lO0o = llOO0Il0OlO0 * 2; end; if 66 > 170 then local l1OO0oO0lol0 = "IOoo110o1o00"; end; for
- I0OI0oO0ol1O=5, 10 do local l00II10loO1I = I0OI0oO0ol1O * 2; end; local lIo01IloIo11 = {46, 91}; lIo01IloIo11[1] = lIo01IloIo11[1] - lIo01IloIo11[2]; for Il01oOoIII0o=2, 10 do local ll001Io1l010 = Il
-01oOoIII0o * 2; end; for l1I1IIl10oIO=1, 8 do local lIIl1IlIo000 = l1I1IIl10oIO * 2; end; for IIOo01IolOl0=1, 7 do local lOOO1l0oIIl0 = IIOo01IolOl0 * 2; end; for lO0Ioo0OO0l0=2, 8 do local lo1o0oOl0o
-1I = lO0Ioo0OO0l0 * 2; end; local l10looO0o0Io = {27, 56}; l10looO0o0Io[1] = l10looO0o0Io[1] * l10looO0o0Io[2]; local l01oOOI1Io1I = function(Io000l0I0l11) return Io000l0I0l11 and Io000l0I0l11 or Il10
-lo1OIlll end; local lo101lOIoIoO = {16, 27}; lo101lOIoIoO[1] = lo101lOIoIoO[1] + lo101lOIoIoO[2]; local I1OlO0I0lOIO = function(l0O0lOo0Ol11) return l0O0lOo0Ol11 and l0O0lOo0Ol11 or l1I0o00O110l end; 
-if 82 > 122 then local IOoIoOOolo1I = "l1II0llOo0Ol"; end; for I00101oIlO1l=4, 8 do local lII0OoOO0OO1 = I00101oIlO1l * 2; end; for loOI1OI0l0Ol=2, 8 do local I0O0l0o0000o = loOI1OI0l0Ol * 2; end; loc
-al l1oO0IO0OO0l = {61, 84}; l1oO0IO0OO0l[1] = l1oO0IO0OO0l[1] - l1oO0IO0OO0l[2]; if 10 > 161 then local lo0lloIIO1O0 = "I0lIlo1I1I1l"; end; for l0II0ool10lO=3, 9 do local l0000oIOlIlo = l0II0ool10lO *
- 2; end; local IlIlI1o0I0o0 = {66, 96}; IlIlI1o0I0o0[1] = IlIlI1o0I0o0[1] * IlIlI1o0I0o0[2]; local IOooOoOlIOoO = function(lI0II1OoIOoI) return lI0II1OoIOoI and lI0II1OoIOoI or l1ll0OllI00l end; local
- lO100lI01OOO = function(l1oIOOloIOlI) return l1oIOOloIOlI and l1oIOOloIOlI or lI0OOIoOO0oO end; local Io01Olo1l010 = function(l1loO1ll010o) return l1loO1ll010o and l1loO1ll010o or Ill1IlIII0I1 end; i
-f 1 > 140 then local lol1ooollIl1 = "IOOI10oI0o00"; end; for I0oIlOo01ooo=5, 10 do local I1loO00O0IOI = I0oIlOo01ooo * 2; end; local lOlI1OIOol1l = {87, 100}; lOlI1OIOol1l[1] = lOlI1OIOol1l[1] + lOlI1
-OIOol1l[2]; local l00OOlO00010 = function(I1olOO1OI101) return I1olOO1OI101 and I1olOO1OI101 or lIll10o01Ol1 end; local IlOI0Il0Oo0I = {33, 49}; IlOI0Il0Oo0I[1] = IlOI0Il0Oo0I[1] + IlOI0Il0Oo0I[2]; if
- 97 > 106 then local IIOIolloIllo = "I01o01oolOoO"; end; local l0Oo101l0l01 = function(lIIlII0oII0I) return lIIlII0oII0I and lIIlII0oII0I or I01oIIO0ll01 end; local lIololoIlO0I = function(Io0IOlooOlO
-1) return Io0IOlooOlO1 and Io0IOlooOlO1 or lOO0Ol1IOI1l end; for lIl0l10o1oo0=4, 6 do local loOO0o1l11o1 = lIl0l10o1oo0 * 2; end; if 4 > 102 then local l1l0ol1lIo10 = "IolooIoI1o0I"; end; local lI1IIO
-OIl0lO = {80, 64}; lI1IIOOIl0lO[1] = lI1IIOOIl0lO[1] + lI1IIOOIl0lO[2]; for lOI1IOooOO0o=5, 6 do local ll0O0lo01O11 = lOI1IOooOO0o * 2; end; for l0O0o1OOIo0I=4, 8 do local II0OIlI010oO = l0O0o1OOIo0I 
-* 2; end; local I00lOlIO1o0l = {36, 61}; I00lOlIO1o0l[1] = I00lOlIO1o0l[1] * I00lOlIO1o0l[2]; local IlO1l1IO00II = {67, 35}; IlO1l1IO00II[1] = IlO1l1IO00II[1] + IlO1l1IO00II[2]; for Il10o0O1Olll=4, 6 
-do local lOIIoII01loO = Il10o0O1Olll * 2; end; if 88 > 197 then local Ill00110I1l0 = "l01llOlO11o0"; end; local IIl01Il1I0O0 = function(Il01l0o1OlIl) return Il01l0o1OlIl and Il01l0o1OlIl or lI1III0OIO
-1o end; local l010llIIO001 = function(lOIloOOll11I) return lOIloOOll11I and lOIloOOll11I or IIo1OOOIOIO0 end; local I0OOoo1O0oI0 = {24, 77}; I0OOoo1O0oI0[1] = I0OOoo1O0oI0[1] * I0OOoo1O0oI0[2]; local 
-IlO1I10o0O01 = function(lI0OIlIII101) return lI0OIlIII101 and lI0OIlIII101 or IO0O0oOo1O01 end; for l0010lll00I0=4, 7 do local IIoolOllloo0 = l0010lll00I0 * 2; end; local l0oo11O0ooOO = {2, 86}; l0oo1
-1O0ooOO[1] = l0oo11O0ooOO[1] % l0oo11O0ooOO[2]; if 65 > 122 then local I1lI1O11OII1 = "ll1oIOIoll0O"; end; for III0OOlI1OoI=3, 8 do local IIOl0o1I1lOl = III0OOlI1OoI * 2; end; local lo11I1l1I0O1 = fun
-ction(IlIoI01IOOlo) return IlIoI01IOOlo and IlIoI01IOOlo or l0l1olll0OII end; for Il1OI0011o00=3, 9 do local IlO0O0OO1IOl = Il1OI0011o00 * 2; end; local I0O1Io0011Il = {38, 40}; I0O1Io0011Il[1] = I0O1
-Io0011Il[1] % I0O1Io0011Il[2]; for IoooIIO10oO1=5, 6 do local IOOl01oIIOlo = IoooIIO10oO1 * 2; end; for IO0Oo1Iol0O0=1, 7 do local IOO1l1o001Oo = IO0Oo1Iol0O0 * 2; end; for I10oIl1OOl1l=2, 10 do local
- I10o1IIl0lOl = I10oIl1OOl1l * 2; end; local lIOIlloOOOlo = function(Ilo1l00Ilo0I) return Ilo1l00Ilo0I and Ilo1l00Ilo0I or IlO1OoOo1oll end; for IoIO10lO11oI=2, 7 do local l010oOIOOlol = IoIO10lO11oI 
-* 2; end; for IIoolI0ol11l=3, 9 do local Io01IllOI1O1 = IIoolI0ol11l * 2; end; local IlOl0100loIo = function(I1l10II0011o) return I1l10II0011o and I1l10II0011o or I1I0Io1o01lO end; if 35 > 122 then lo
-cal IooOoIOl1010 = "IOOIoO00o0O1"; end; for l0OIO01Io01I=4, 10 do local l10O0oIIoIll = l0OIO01Io01I * 2; end; local Il1o1OOo0llO = {17, 78}; Il1o1OOo0llO[1] = Il1o1OOo0llO[1] % Il1o1OOo0llO[2]; for IO
-OOII00IIlo=5, 9 do local Ioo11l1OI011 = IOOOII00IIlo * 2; end; for IOOIIOl1ll01=3, 7 do local IIIo1loo0lIo = IOOIIOl1ll01 * 2; end; local lo00lI01l0oo = {88, 9}; lo00lI01l0oo[1] = lo00lI01l0oo[1] * lo
-00lI01l0oo[2]; if 36 > 180 then local lIOooIl0oI11 = "IoIooOlO01oo"; end; local Ioooolo1l1lI = function(I1llOO0OolOI) return I1llOO0OolOI and I1llOO0OolOI or IOoI1IlOOl0l end; for IOOOlIIoO1ol=2, 6 do
- local IOO01010lOOl = IOOOlIIoO1ol * 2; end; local IIIol10Ill11 = function(I1Il1loIoo0o) return I1Il1loIoo0o and I1Il1loIoo0o or IOO0Il0I1Ool end; local Il10lIll0001 = {6, 23}; Il10lIll0001[1] = Il10l
-Ill0001[1] - Il10lIll0001[2]; for IIOl1l00000l=1, 7 do local I11o1OOlIOo0 = IIOl1l00000l * 2; end; if 51 > 109 then local lIloOOII11IO = "IoIlO01I1oII"; end; for loolloO1OO0O=4, 6 do local I1I1OIlO0Io
-1 = loolloO1OO0O * 2; end; for IlO10llOOOIO=2, 9 do local I0ooO1OOO1Ol = IlO10llOOOIO * 2; end; local IIlIoo1oOo1I = {47, 32}; IIlIoo1oOo1I[1] = IIlIoo1oOo1I[1] + IIlIoo1oOo1I[2]; for Io0II0OOO1ol=5, 
-10 do local IOl1l1l11o1I = Io0II0OOO1ol * 2; end; if 92 > 142 then local Io10lOllIOl0 = "Il10IolIOOl1"; end; local IOIOIoIl0oIO = {80, 89}; IOIOIoIl0oIO[1] = IOIOIoIl0oIO[1] % IOIOIoIl0oIO[2]; local l
-oIOOlI1Ioo1 = {82, 71}; loIOOlI1Ioo1[1] = loIOOlI1Ioo1[1] - loIOOlI1Ioo1[2]; local l0lIO1lOllOI = function(llIOl1oooo0o) return llIOl1oooo0o and llIOl1oooo0o or Iol011I11ol0 end; if 29 > 158 then loca
-l IO1Ol0o1111l = "Il11Ol10o1O1"; end; local lloO1O0llolo = function(IoI01olOl10o) return IoI01olOl10o and IoI01olOl10o or l101Il11o0l1 end; if 45 > 154 then local IoOlI1ol0lIO = "l0O1oIIoOOoI"; end; l
-ocal lO1o0l1111Ol = function(IO000ooIIooI) return IO000ooIIooI and IO000ooIIooI or I011lo0o0IlI end; if 33 > 110 then local l0lI1100Oool = "II0II0100I0O"; end; for I1o1ol10Oo10=5, 8 do local lO1I1o0I0
-0O1 = I1o1ol10Oo10 * 2; end; local llOOlo1IO1lO = {3, 44}; llOOlo1IO1lO[1] = llOOlo1IO1lO[1] % llOOlo1IO1lO[2]; local IOl11Ol0loIl = function(IooOI1l10IlI) return IooOI1l10IlI and IooOI1l10IlI or lll0
-0o1lloOI end; for llloIlI0OIO1=4, 8 do local lI1oIO000lI0 = llloIlI0OIO1 * 2; end; local I0I0IlOO110l = {66, 37}; I0I0IlOO110l[1] = I0I0IlOO110l[1] % I0I0IlOO110l[2]; local lI00OOOlo01I = {69, 84}; lI
-00OOOlo01I[1] = lI00OOOlo01I[1] * lI00OOOlo01I[2]; local IOllI011100I = function(lllllIl1l001) return lllllIl1l001 and lllllIl1l001 or Ioool0o1OoIo end; for l1llo1o0IlIo=4, 10 do local l1llo11IoIlI = 
-l1llo1o0IlIo * 2; end; if 67 > 104 then local lOII00olIl00 = "lIl1IIIlO0Ol"; end; local IlIooIo1l0O1 = function(l0l1llIo1Ill) return l0l1llIo1Ill and l0l1llIo1Ill or II0loo1lIo1O end; local l1ol110OI0
-Oo = function(I1101IlO11o0) return I1101IlO11o0 and I1101IlO11o0 or l1oO0OI0II11 end; for lI00o0olIlIo=3, 9 do local Io0OO11II110 = lI00o0olIlIo * 2; end; for I0lO1OoIlO1o=2, 9 do local l0l0OlI1loOl =
- I0lO1OoIlO1o * 2; end; local IoOI1Olo1Io0 = {16, 23}; IoOI1Olo1Io0[1] = IoOI1Olo1Io0[1] * IoOI1Olo1Io0[2]; local I11oOIIllOI1 = {76, 99}; I11oOIIllOI1[1] = I11oOIIllOI1[1] - I11oOIIllOI1[2]; if 100 >
- 134 then local l0Ol0oIIIIOO = "lll0lo0l0O0O"; end; if 33 > 194 then local I11IlIOl1lIO = "I0100l0101oI"; end; for lol10Io1loIl=2, 7 do local lllOooOo1lOO = lol10Io1loIl * 2; end; local Il0lllOlIlOO =
- {82, 97}; Il0lllOlIlOO[1] = Il0lllOlIlOO[1] * Il0lllOlIlOO[2]; for lolIoIoIO001=2, 6 do local loIOI10lll0O = lolIoIoIO001 * 2; end; local I0oOOOooIoOo = {35, 72}; I0oOOOooIoOo[1] = I0oOOOooIoOo[1] % 
-I0oOOOooIoOo[2]; for l0I0I1OoIo1I=3, 6 do local l10oOOlOoIlo = l0I0I1OoIo1I * 2; end; local loIOlOo0O000 = function(l10lO1o0IIIo) return l10lO1o0IIIo and l10lO1o0IIIo or ll0I0Il10OlO end; for I0lOOllo
-1Oo0=2, 6 do local Illo0O0o0OOl = I0lOOllo1Oo0 * 2; end; local llo1o11OlOlI = {62, 46}; llo1o11OlOlI[1] = llo1o11OlOlI[1] * llo1o11OlOlI[2]; if 82 > 138 then local l0O11lOOIllI = "Ioo1Oo1lOlOO"; end; 
-for I0OOO10o1Oo0=4, 9 do local lI1O1llll1O0 = I0OOO10o1Oo0 * 2; end; if 16 > 171 then local ll0looo0O00o = "ll11olloolIO"; end; local I1o1I10II1I0 = {27, 86}; I1o1I10II1I0[1] = I1o1I10II1I0[1] * I1o1I
-10II1I0[2]; for loOOIoI0ooIo=3, 9 do local IlO00lllll1l = loOOIoI0ooIo * 2; end; if 36 > 200 then local IOoOolII0Ill = "l100OOOO1I0O"; end; if 68 > 124 then local IlI0OlO0O1lo = "I00I1Olo010l"; end; l
-ocal IIO0ooo1lII0 = function(l1Il0O11IoOI) return l1Il0O11IoOI and l1Il0O11IoOI or Io1IO0100I0O end; local I11000lIO1Oo = function(lIOo10OIIIol) return lIOo10OIIIol and lIOo10OIIIol or IIOIl000loIo en
-d; local llo1l0IOOoI0 = {73, 74}; llo1l0IOOoI0[1] = llo1l0IOOoI0[1] * llo1l0IOOoI0[2]; for IOIO0Ilolll0=2, 9 do local loIOo1llo101 = IOIO0Ilolll0 * 2; end; for l1OllI1o0l0O=5, 7 do local l1o1oI0IIo11 
-= l1OllI1o0l0O * 2; end; for II0Oo0oOloOI=3, 10 do local lIIOIO0l1ooO = II0Oo0oOloOI * 2; end; local IOOII1lOOl1l = function(lo11l0loooOl) return lo11l0loooOl and lo11l0loooOl or l1llIII1OO1I end; loc
-al I1o1IolIl0lo = function(llIIoOOIllIo) return llIIoOOIllIo and llIIoOOIllIo or lo00OoO0oooI end; for IlO10oOllllI=5, 6 do local I1lOO0oOlOol = IlO10oOllllI * 2; end; for Ioll0IOoIOIl=3, 6 do local I
-IoOOI0llO1I = Ioll0IOoIOIl * 2; end; local l00ooO0OOlOI = function(lIOll11Oo00I) return lIOll11Oo00I and lIOll11Oo00I or I110l1IIOl11 end; local Io0I0lII11o1 = function(Ill0IO1olllI) return Ill0IO1oll
-lI and Ill0IO1olllI or Ioo1o0OI1O0o end; if 27 > 171 then local lOo0oOloIoo1 = "II10IllOo1lI"; end; if 67 > 134 then local IIOIoIl1OI0o = "II1IOlO1ol00"; end; if 39 > 156 then local I10o11ol1o1I = "Il
-oOoO00IoOI"; end; local l01OI1oo1O1O = {85, 30}; l01OI1oo1O1O[1] = l01OI1oo1O1O[1] % l01OI1oo1O1O[2]; local l0oo0oIIoI01 = {80, 9}; l0oo0oIIoI01[1] = l0oo0oIIoI01[1] + l0oo0oIIoI01[2]; local ll1IooIIl
-1lI = {39, 21}; ll1IooIIl1lI[1] = ll1IooIIl1lI[1] + ll1IooIIl1lI[2]; for IIll0OloIIlo=3, 10 do local IIIl0IOOO011 = IIll0OloIIlo * 2; end; for lOIoIO0l0lIO=5, 6 do local I1OOOOI00I11 = lOIoIO0l0lIO * 
-2; end; local loOI01lI11I0 = {73, 1}; loOI01lI11I0[1] = loOI01lI11I0[1] % loOI01lI11I0[2]; if 83 > 168 then local looool01I111 = "I0Io01o0I0OI"; end; local I1OOIl0O101l = function(IO11ol1ol11O) return
- IO11ol1ol11O and IO11ol1ol11O or lII01IoIoOI1 end; local l10III0lIIIl = function(lOI00O1oIO1O) return lOI00O1oIO1O and lOI00O1oIO1O or l1O00o0lOll0 end; local lII111o00IOo = {85, 14}; lII111o00IOo[1]
- = lII111o00IOo[1] + lII111o00IOo[2]; for lOOI0IloIIOI=5, 6 do local I0o1111l1oll = lOOI0IloIIOI * 2; end; for I1ol1loIOOO0=4, 10 do local Io0Ill01oIIO = I1ol1loIOOO0 * 2; end; local l1Oo1IllloO0 = {4
-, 10}; l1Oo1IllloO0[1] = l1Oo1IllloO0[1] + l1Oo1IllloO0[2]; local IooOll0o0ll0 = {24, 56}; IooOll0o0ll0[1] = IooOll0o0ll0[1] % IooOll0o0ll0[2]; if 100 > 134 then local I11lOOoI0oo1 = "Io10oo00IIIl"; e
-nd; for IOo11oI0Ilol=4, 8 do local llo11oo010I0 = IOo11oI0Ilol * 2; end; if 84 > 180 then local l1Oo10IO0lOI = "Io110ool1IoO"; end; local lIl0lOlOo111 = function(I1OoOO1OI0Io) return I1OoOO1OI0Io and 
-I1OoOO1OI0Io or IOlIololIOII end; local IolI0olol1Oo = {23, 48}; IolI0olol1Oo[1] = IolI0olol1Oo[1] * IolI0olol1Oo[2]; for II1l1O01I100=1, 7 do local IIIoOI01oOl0 = II1l1O01I100 * 2; end; for l0IOO0IOo
-1I0=2, 10 do local loolo1oI1ol1 = l0IOO0IOo1I0 * 2; end; local ll1oOoloO0OO = function(l1loIo1O1l1o) return l1loIo1O1l1o and l1loIo1O1l1o or lO0lIO01ooIO end; local I1IOolOIIlII = {61, 75}; I1IOolOIIl
-II[1] = I1IOolOIIlII[1] + I1IOolOIIlII[2]; local I0Io1IO01IIl = function(IOlO110O01Il) return IOlO110O01Il and IOlO110O01Il or lOIolI0olI01 end; local I0I1OOIIO0oo = {65, 50}; I0I1OOIIO0oo[1] = I0I1OO
-IIO0oo[1] + I0I1OOIIO0oo[2]; local IOIo0I1oOlII = function(ll1O10Il000l) return ll1O10Il000l and ll1O10Il000l or llIo1oIOlolI end; local II0IOloO1I0l = {52, 61}; II0IOloO1I0l[1] = II0IOloO1I0l[1] + II
-0IOloO1I0l[2]; local l00O0llI1000 = function(II11lOo1l0oo) return II11lOo1l0oo and II11lOo1l0oo or IIooll1IIIIO end; local lOIlooIO0Ol1 = {11, 34}; lOIlooIO0Ol1[1] = lOIlooIO0Ol1[1] + lOIlooIO0Ol1[2];
- local IollIlIlOI0I = {99, 74}; IollIlIlOI0I[1] = IollIlIlOI0I[1] * IollIlIlOI0I[2]; if 82 > 152 then local lIlIOlooOIl0 = "IoO0lIlI0l0o"; end; local lO1ll0lol0Oo = function(ll0O1o00ll1o) return ll0O1
-o00ll1o and ll0O1o00ll1o or IIII11llIIo0 end; for lO110OIO0l1l=4, 6 do local lI0lIo1OI0lI = lO110OIO0l1l * 2; end; local I0IOoIOo1Il0 = {14, 12}; I0IOoIOo1Il0[1] = I0IOoIOo1Il0[1] + I0IOoIOo1Il0[2]; l
-ocal I0llOlIlollI = function(llloO111o1O0) return llloO111o1O0 and llloO111o1O0 or IooI1Ollolol end; if 60 > 160 then local Io10I0OoO1I1 = "IO0OIl0I1o0l"; end; local IOlOl0Il01Io = {64, 37}; IOlOl0Il0
-1Io[1] = IOlOl0Il01Io[1] * IOlOl0Il01Io[2]; if 9 > 196 then local lI0OO0oO1OII = "lO1Oo0ol1O10"; end; if 62 > 121 then local lO0o01oo0loI = "IOI000lIl0O0"; end; for I1III0oo0ll0=2, 6 do local I10IlOo1
-1Il0 = I1III0oo0ll0 * 2; end; local lIO0o1IIOOll = function(IlIooI0OIOlO) return IlIooI0OIOlO and IlIooI0OIOlO or I11o11100oIO end; for IlOIoII0Oo0o=5, 8 do local l1O1OlOo1II1 = IlOIoII0Oo0o * 2; end;
- local l10ol11lllIO = {96, 12}; l10ol11lllIO[1] = l10ol11lllIO[1] - l10ol11lllIO[2]; for IIl0o0IoO1oI=2, 10 do local I0111ll110O0 = IIl0o0IoO1oI * 2; end; for IoIo000IOIO1=3, 9 do local l01llIlIo0Oo =
- IoIo000IOIO1 * 2; end; local I0110loII10O = {86, 51}; I0110loII10O[1] = I0110loII10O[1] % I0110loII10O[2]; if 20 > 138 then local II0ll0I110O0 = "I0Ol1Oo1lOl0"; end; local II0Il1Olo0OO = function(lIl
-11ooOOooI) return lIl11ooOOooI and lIl11ooOOooI or I11o0olo01OO end; local l0IlOIIl01lO = function(I1ll1o10lOlo) return I1ll1o10lOlo and I1ll1o10lOlo or lOo1OooO00IO end; local IOIo1l01IlOo = {45, 1};
- IOIo1l01IlOo[1] = IOIo1l01IlOo[1] % IOIo1l01IlOo[2]; if 68 > 118 then local l01lOoIIooOO = "lOIlIOlOO10I"; end; if 7 > 150 then local IOOO11o0looI = "Il0I0Ollo11O"; end; local IIOI1I10Ollo = function
-(I111100lI1o0) return I111100lI1o0 and I111100lI1o0 or Io1100lI0Io1 end; local Ilo00olOI0ol = {75, 16}; Ilo00olOI0ol[1] = Ilo00olOI0ol[1] + Ilo00olOI0ol[2]; local l0l1OOoO0ooO = function(lOoo1O1o0o0o)
- return lOoo1O1o0o0o and lOoo1O1o0o0o or Io0IllI0001O end; local IOl01l1oI0oo = {18, 19}; IOl01l1oI0oo[1] = IOl01l1oI0oo[1] + IOl01l1oI0oo[2]; local lIol0oOlI110 = {86, 22}; lIol0oOlI110[1] = lIol0oOl
-I110[1] + lIol0oOlI110[2]; local l1oolloOlO00 = {88, 10}; l1oolloOlO00[1] = l1oolloOlO00[1] + l1oolloOlO00[2]; for Ill1O1lo000I=3, 6 do local IlO1o1lo1Ill = Ill1O1lo000I * 2; end; local I1lo1Io0OOII =
- {64, 91}; I1lo1Io0OOII[1] = I1lo1Io0OOII[1] - I1lo1Io0OOII[2]; for IllI1llolOlO=3, 8 do local IIooO01O11o0 = IllI1llolOlO * 2; end; for llollloIlooo=5, 6 do local I11Ilo0O1OlO = llollloIlooo * 2; end
-; local l1OIl1o1O00l = {73, 7}; l1OIl1o1O00l[1] = l1OIl1o1O00l[1] + l1OIl1o1O00l[2]; for lO1OoIoIOoII=4, 10 do local Iooo01Iolo1l = lO1OoIoIOoII * 2; end; for lO1l00lIooI0=1, 10 do local II1ol1I0oo01 
-= lO1l00lIooI0 * 2; end; if 51 > 160 then local lIllo1loo1I0 = "lo1loloOIloO"; end; local l011I1IO1I0O = function(I1o0lollll1I) return I1o0lollll1I and I1o0lollll1I or lII0llI01OoO end; local I1oo0OIo
-I1II = function(lI0OOOI0l1IO) return lI0OOOI0l1IO and lI0OOOI0l1IO or Io10IO1ll0IO end; local ll10lO10ol1I = {63, 1}; ll10lO10ol1I[1] = ll10lO10ol1I[1] - ll10lO10ol1I[2]; local Ill01loIl0IO = function
-(lOIIlI1OOlOl) return lOIIlI1OOlOl and lOIIlI1OOlOl or Io1o1I00O1ol end; if 19 > 166 then local IllIlI1olo01 = "lloIO110oOOI"; end; if 18 > 148 then local I11ll1lo1II0 = "l1olIoIoOolo"; end; if 22 > 1
-37 then local llo110l10ooO = "IoI0O0O01oOl"; end; for IOIIOoll0Oo0=3, 7 do local lo100ooo0IO1 = IOIIOoll0Oo0 * 2; end; if 15 > 109 then local ll0ooO00o0Oo = "IO00I1OO0lOO"; end; if 39 > 195 then local
- loO11OOO1Ilo = "IIloOo0llI1O"; end; local I11OO0IOI0Io = {83, 73}; I11OO0IOI0Io[1] = I11OO0IOI0Io[1] + I11OO0IOI0Io[2]; for l011II11Oo1l=4, 8 do local l00OI1OIIoO0 = l011II11Oo1l * 2; end; local Il1I
-lIoII0IO = function(lIIO0OooloOI) return lIIO0OooloOI and lIIO0OooloOI or lOoIo1OO0o1O end; if 42 > 185 then local Io00IIOOo1l0 = "Ioo0o00lolO0"; end; local ll1oOoIolO1I = {93, 91}; ll1oOoIolO1I[1] = 
-ll1oOoIolO1I[1] + ll1oOoIolO1I[2]; for lIOOOIo0OOo0=2, 6 do local lO0O11loI0o0 = lIOOOIo0OOo0 * 2; end; if 42 > 134 then local lOoOOl0I0oo0 = "IIO1lIlOIloo"; end; local lOIo0olOl010 = function(lll0lI1
-O1I10) return lll0lI1O1I10 and lll0lI1O1I10 or ll001ll1OoIO end; local l1ooloO10oOO = {52, 34}; l1ooloO10oOO[1] = l1ooloO10oOO[1] - l1ooloO10oOO[2]; local l1I0lO1IlI01 = function(Io1O1llooooo) return 
-Io1O1llooooo and Io1O1llooooo or I0O1I01OoIOI end; local I01OlIIO0OIl = {46, 88}; I01OlIIO0OIl[1] = I01OlIIO0OIl[1] % I01OlIIO0OIl[2]; if 79 > 198 then local IO01lIl10oII = "loOooOlool0o"; end; local 
-l0o1I1lOlooo = {40, 43}; l0o1I1lOlooo[1] = l0o1I1lOlooo[1] % l0o1I1lOlooo[2]; if 3 > 160 then local Il1I0o1lol1O = "lool1lllOllI"; end; for l0101OO1IO1I=3, 9 do local llI10lO0oOl1 = l0101OO1IO1I * 2; 
-end; local IOIo1IlloII0 = {56, 21}; IOIo1IlloII0[1] = IOIo1IlloII0[1] - IOIo1IlloII0[2]; local IIo00O10o1lO = function(l0I1o0ol11O1) return l0I1o0ol11O1 and l0I1o0ol11O1 or IOolO00OolI0 end; local l00
-O10l1l0O1 = {2, 27}; l00O10l1l0O1[1] = l00O10l1l0O1[1] - l00O10l1l0O1[2]; for I1O1l0O10l0O=5, 8 do local l1I01oOoI0I1 = I1O1l0O10l0O * 2; end; for IO1I0OoIOo1l=5, 8 do local l11Ol01lOOlI = IO1I0OoIOo1
-l * 2; end; local loOOI0OOo100 = {74, 58}; loOOI0OOo100[1] = loOOI0OOo100[1] + loOOI0OOo100[2]; if 79 > 173 then local l111I01IO1II = "l0I1oooOI1Ol"; end; for IOOOO00l0o0O=5, 7 do local l1I01l1Ol1I0 =
- IOOOO00l0o0O * 2; end; for l01I11IOl1ol=5, 7 do local loI10IOOooOI = l01I11IOl1ol * 2; end; if 30 > 179 then local l11Oo0IooI0I = "loO1Il1oO1Ol"; end; local lI1O0IlIIo1I = function(llO10IlII0lI) retu
-rn llO10IlII0lI and llO10IlII0lI or l111000110Oo end; local Il11IoOOOolO = function(I1oOI00ll0lo) return I1oOI00ll0lo and I1oOI00ll0lo or loIOlIIlllOO end; if 71 > 105 then local lI1lOoll0IlO = "I0OIl
-loII10I"; end; local l0l00l1ol01o = {28, 15}; l0l00l1ol01o[1] = l0l00l1ol01o[1] * l0l00l1ol01o[2]; local lI0oIlO1IO0O = function(lo00o1lI1Ilo) return lo00o1lI1Ilo and lo00o1lI1Ilo or lO0O0l0O0I00 end;
- if 78 > 116 then local I10lOOOOOolI = "lIooooIOO1oo"; end; for IoO1O0O1Ioll=4, 8 do local lOl0oIll11I1 = IoO1O0O1Ioll * 2; end; for l00oo1oOOl0O=2, 7 do local lIo0oI1IoO0o = l00oo1oOOl0O * 2; end; lo
-cal IoI1oOOOlIOo = function(lo0o10llo1oI) return lo0o10llo1oI and lo0o10llo1oI or loOoOo1IO1II end; if 59 > 184 then local I1olIoOO0o10 = "l1lOo1l1llOO"; end; for l010l10oO1o1=5, 8 do local lOIlI1lI1l
-oI = l010l10oO1o1 * 2; end; for IllIoIoo00Oo=4, 10 do local l1O0l0Io1OII = IllIoIoo00Oo * 2; end; if 19 > 112 then local lllOoIoI00ll = "I1O1o1IoOI1o"; end; for IO1l010lI10I=4, 6 do local I000OlOI1Ool
- = IO1l010lI10I * 2; end; for IIo0oIO00Ol1=2, 6 do local l1IO01I1ol00 = IIo0oIO00Ol1 * 2; end; if 10 > 199 then local I1lI0o00IoOO = "I011oOoOIoIl"; end; local l01oIOIOlI0I = function(Io11I0lOo0oI) re
-turn Io11I0lOo0oI and Io11I0lOo0oI or lOI1lIlO0l0O end; local lO10OO1oI11O = {97, 55}; lO10OO1oI11O[1] = lO10OO1oI11O[1] - lO10OO1oI11O[2]; if 75 > 190 then local lOIIOOIl0Io1 = "lo0lll1ll0O1"; end; l
-ocal lOloOO11O1o1 = function(Ilol1OI0OlO1) return Ilol1OI0OlO1 and Ilol1OI0OlO1 or loollIoO1l00 end; if 58 > 168 then local IOlIl1lOI1lO = "loI01oooOoOI"; end; local l1O0OllIOoO0 = function(IIIO1OoolI
-0I) return IIIO1OoolI0I and IIIO1OoolI0I or lo1l100Il1Oo end; local I01ol10l1010 = function(I0IO0O1lIo00) return I0IO0O1lIo00 and I0IO0O1lIo00 or lOII0OoooO1I end; if 66 > 178 then local Io1lO0IO0lI0 
-= "lOoIo1IOlOOl"; end; local Ioo101l1010l = function(I0IOoOO0IolO) return I0IOoOO0IolO and I0IOoOO0IolO or Io0I1lO10O0l end; local II11o0lO0loI = {20, 99}; II11o0lO0loI[1] = II11o0lO0loI[1] * II11o0lO
-0loI[2]; for l0oo1IOoo0o1=5, 8 do local lIIO0OOI0I01 = l0oo1IOoo0o1 * 2; end; for IoI00o1oOl10=1, 6 do local IOoIoOollIOO = IoI00o1oOl10 * 2; end; local Io1oo0I1I0o1 = {52, 94}; Io1oo0I1I0o1[1] = Io1o
-o0I1I0o1[1] + Io1oo0I1I0o1[2]; if 18 > 139 then local lOo0lIOloIoI = "l0I01110III0"; end; local lIOIO1looOoo = {7, 74}; lIOIO1looOoo[1] = lIOIO1looOoo[1] % lIOIO1looOoo[2]; if 4 > 198 then local lOlI1
-000o11l = "Ill1lOl1O00l"; end; if 96 > 105 then local loo0o1I1010o = "Io10I1o0o1Il"; end; local lo1olIIOollO = function(llI0l0I10I11) return llI0l0I10I11 and llI0l0I10I11 or l1loo0o1oOlI end; local IO
-I11I1llo1o = {7, 20}; IOI11I1llo1o[1] = IOI11I1llo1o[1] + IOI11I1llo1o[2]; if 93 > 177 then local loOIlIOIoO11 = "lo1OI0IIloI0"; end; local llO10IlIoOOo = {31, 32}; llO10IlIoOOo[1] = llO10IlIoOOo[1] %
- llO10IlIoOOo[2]; for IOI1IOoIl11o=1, 6 do local Iol0o0O11oOl = IOI1IOoIl11o * 2; end; for I10I010010OO=3, 7 do local Iol0oIlll1I1 = I10I010010OO * 2; end; if 46 > 103 then local I1Olo01IIlll = "lloO1
-1ooIol1"; end; local l00o1II10OIO = function(II1llolO1Ooo) return II1llolO1Ooo and II1llolO1Ooo or l1Il1100llo0 end; local lO1IOo0I0I00 = function(IOO01loOIO1o) return IOO01loOIO1o and IOO01loOIO1o or
- loOO00lll0oI end; for I1oI1OIOO01I=3, 10 do local Ioo1ool0101l = I1oI1OIOO01I * 2; end; for l0O1I1oI1OOl=4, 8 do local I0oo11O1lOOI = l0O1I1oI1OOl * 2; end; for IO1011O0ooo1=2, 8 do local loIl0O0oI0O
-0 = IO1011O0ooo1 * 2; end; for lOIIIOOIo0l0=1, 8 do local l10Il11Io0II = lOIIIOOIo0l0 * 2; end; local IOo10oOol0O1 = function(l1lO0I1oI10I) return l1lO0I1oI10I and l1lO0I1oI10I or lOIIo0ooI1ll end; lo
-cal lIIoo11I1l00 = {53, 62}; lIIoo11I1l00[1] = lIIoo11I1l00[1] - lIIoo11I1l00[2]; local l110IIll0O0I = {35, 64}; l110IIll0O0I[1] = l110IIll0O0I[1] * l110IIll0O0I[2]; if 98 > 170 then local I1O10IOo1lI
-I = "I1oO1II111o0"; end; for llII01lOooI1=1, 10 do local lO0IO11ll00I = llII01lOooI1 * 2; end; local lOI0Ill01oo1 = function(I11lo1oolo0I) return I11lo1oolo0I and I11lo1oolo0I or l1l1OIO1llIo end; for
- I1l11lOO1IoI=3, 10 do local Io1lOlloIo0l = I1l11lOO1IoI * 2; end; if 35 > 170 then local Io01lOoIIlI0 = "l011llo0I11o"; end; if 5 > 129 then local IlOolOO10Olo = "IlIOolIIIO0l"; end; for Ilo1O10I0OoI
-=1, 10 do local l01O1lO1OloI = Ilo1O10I0OoI * 2; end; for I00lllO0III1=4, 8 do local l10oO1IO1ooO = I00lllO0III1 * 2; end; if 36 > 189 then local I11oOl1lO0oo = "llO0l1lI0IOl"; end; for l11OO101OOll=3
-, 9 do local lIOI11lO1o0l = l11OO101OOll * 2; end; for II0O10o010oo=5, 8 do local l0IlO0Oo11Io = II0O10o010oo * 2; end; local Ilo1oII1oOlo = {10, 12}; Ilo1oII1oOlo[1] = Ilo1oII1oOlo[1] * Ilo1oII1oOlo[
-2]; for lIlOoIo1IllI=3, 8 do local IOI110oI010I = lIlOoIo1IllI * 2; end; if 33 > 117 then local lo0ooO1OlOOO = "llllol10Io01"; end; local lOO110llIOIo = {54, 96}; lOO110llIOIo[1] = lOO110llIOIo[1] - l
-OO110llIOIo[2]; for loO011O1Olo1=2, 9 do local IO11Oo0l1l0l = loO011O1Olo1 * 2; end; if 57 > 140 then local lo0IlII00Oo0 = "IOIooO10lOoI"; end; local IOIOloI0OIII = {31, 87}; IOIOloI0OIII[1] = IOIOloI
-0OIII[1] % IOIOloI0OIII[2]; for llOIo1oOollI=3, 6 do local I1llo1l1o0oI = llOIo1oOollI * 2; end; for I0oIIl0olIO0=2, 9 do local lOO1O1I00O11 = I0oIIl0olIO0 * 2; end; local lOO1Io1o1IO0 = {44, 48}; lOO
-1Io1o1IO0[1] = lOO1Io1o1IO0[1] % lOO1Io1o1IO0[2]; for I10oll0Oo01O=5, 9 do local loIIl11ooll0 = I10oll0Oo01O * 2; end; local ll1ooOI11IO0 = {84, 85}; ll1ooOI11IO0[1] = ll1ooOI11IO0[1] + ll1ooOI11IO0[2
-]; if 3 > 153 then local lII0101olOoO = "l0oOI1ooO0lI"; end; local lo1Ol0OIII1l = function(IO1010OoOI11) return IO1010OoOI11 and IO1010OoOI11 or II11l10lOolI end; if 14 > 178 then local lOl0oo000lOI =
- "lI011l1IolOI"; end; local l1ooI1O0000o = {55, 64}; l1ooI1O0000o[1] = l1ooI1O0000o[1] % l1ooI1O0000o[2]; for IIOl001O000O=4, 9 do local I1oOoOoOoIO1 = IIOl001O000O * 2; end; local I0Io1OlooII0 = {58,
- 87}; I0Io1OlooII0[1] = I0Io1OlooII0[1] % I0Io1OlooII0[2]; local llIlIIOo0lIO = function(lloOo1Il0OII) return lloOo1Il0OII and lloOo1Il0OII or Io0OO0oIoOI0 end; if 25 > 163 then local lo1ollIOool1 = "
-l1OIl0l1lOll"; end; for lloOIoOollI1=5, 6 do local IOII0lI1ooIl = lloOIoOollI1 * 2; end; local lll0loIo0OI1 = function(lOlllIIoOIOI) return lOlllIIoOIOI and lOlllIIoOIOI or I0o11011IO0l end; for l1o0I
-0o0OIll=5, 7 do local l1O1lo1I0o1o = l1o0I0o0OIll * 2; end; local l0lI0oIlOIol = {30, 91}; l0lI0oIlOIol[1] = l0lI0oIlOIol[1] * l0lI0oIlOIol[2]; local l1OO11IlIO01 = {2, 85}; l1OO11IlIO01[1] = l1OO11Il
-IO01[1] * l1OO11IlIO01[2]; local Io1OI01IoIoO = {40, 29}; Io1OI01IoIoO[1] = Io1OI01IoIoO[1] - Io1OI01IoIoO[2]; local I00I11Oll1o0 = {100, 84}; I00I11Oll1o0[1] = I00I11Oll1o0[1] * I00I11Oll1o0[2]; for 
-IOOO00Ooool0=2, 9 do local loI0OoOlIllO = IOOO00Ooool0 * 2; end; if 56 > 192 then local ll1ooI1l11ol = "lI1OllO1loll"; end; local I0olOl0OlO0o = function(lIIlIoIo0lO1) return lIIlIoIo0lO1 and lIIlIoIo
-0lO1 or IoOlo1oololl end; local l11I0l0I1o00 = {98, 17}; l11I0l0I1o00[1] = l11I0l0I1o00[1] % l11I0l0I1o00[2]; for IooolllO0l10=2, 8 do local l0IlIlolIIOO = IooolllO0l10 * 2; end; local l10o1ll0oI01 = 
-{73, 22}; l10o1ll0oI01[1] = l10o1ll0oI01[1] * l10o1ll0oI01[2]; if 93 > 126 then local ll1I0IO01Io0 = "lO0o00llIlOo"; end; local l00I10oOIOIo = {5, 67}; l00I10oOIOIo[1] = l00I10oOIOIo[1] % l00I10oOIOIo
-[2]; local I0Ill00lI1l1 = {23, 94}; I0Ill00lI1l1[1] = I0Ill00lI1l1[1] - I0Ill00lI1l1[2]; for IoOIIIO10ol0=3, 10 do local I1O0ol1IO00I = IoOIIIO10ol0 * 2; end; for l1IOlol0OI0l=2, 7 do local I00Io00l11
-Io = l1IOlol0OI0l * 2; end; local I1l0I1101IOo = {53, 98}; I1l0I1101IOo[1] = I1l0I1101IOo[1] % I1l0I1101IOo[2]; if 12 > 195 then local IllI01lOl0ol = "l0loO0I1O1oo"; end; for l0OloOOOl1ol=3, 7 do loca
-l I0O0lll1OIOo = l0OloOOOl1ol * 2; end; if 88 > 123 then local Il1IlOoI00l1 = "l0I0IlO0oooI"; end; local lo0IoIOOo1o0 = {19, 11}; lo0IoIOOo1o0[1] = lo0IoIOOo1o0[1] + lo0IoIOOo1o0[2]; local lO0OII010I1
-o = {10, 66}; lO0OII010I1o[1] = lO0OII010I1o[1] + lO0OII010I1o[2]; if 67 > 165 then local l0loOI1loIOI = "lIO0l0011Io1"; end; for lIOO0l1IllIl=4, 6 do local Io0100IIlOO0 = lIOO0l1IllIl * 2; end; local
- loo11IlO1O0o = function(lOI0IllI011O) return lOI0IllI011O and lOI0IllI011O or IIoOl00I1ll1 end; local I1ooI0l0lo0I = function(lO0IoIoII0lo) return lO0IoIoII0lo and lO0IoIoII0lo or lO1I0l011olI end; l
-ocal I1oOoO0ll11l = function(lOOIOIooo1O1) return lOOIOIooo1O1 and lOOIOIooo1O1 or lIol00lo1000 end; if 47 > 103 then local IO0o10101O10 = "ll1OlIl1Oo1O"; end; for III0O0lOOoIO=2, 9 do local I01OIooIl
-Oo1 = III0O0lOOoIO * 2; end; local IlIoI1O1Io1I = function(lIOI1l1OI0IO) return lIOI1l1OI0IO and lIOI1l1OI0IO or ll1o0O0OoOIo end; local loIloIlIOO0O = function(IIO1ol1I0IIl) return IIO1ol1I0IIl and I
-IO1ol1I0IIl or IOo0II1Olo00 end; if 71 > 151 then local IoI11oIo1OOI = "I1O0IoOIo0OO"; end; local I1OOIoIoOlOl = {29, 50}; I1OOIoIoOlOl[1] = I1OOIoIoOlOl[1] % I1OOIoIoOlOl[2]; local lOO1lI1II01I = {6,
- 25}; lOO1lI1II01I[1] = lOO1lI1II01I[1] % lOO1lI1II01I[2]; local IllO0O0IoIIl = function(I00l011l0OOO) return I00l011l0OOO and I00l011l0OOO or lI0o1Ol1lOl1 end; for I00ol0ooll1l=4, 6 do local IlO1ol0o
-OIo0 = I00ol0ooll1l * 2; end; if 81 > 166 then local l1oIo0IoIlOl = "IIIIIIl1olol"; end; for IOo1O01Oo0Ol=5, 9 do local l011lII0IoOo = IOo1O01Oo0Ol * 2; end; for I1oOlol00O1o=2, 8 do local Io0IO1lIIlO
-1 = I1oOlol00O1o * 2; end; for lO0O0o0o00II=5, 7 do local lI1O0I101OIo = lO0O0o0o00II * 2; end; if 74 > 183 then local IOOIolIIIoOO = "lo0lO0o0lo0o"; end; for IIo11lI0oIo0=2, 9 do local IIIOl0oololI =
- IIo11lI0oIo0 * 2; end; local l1lOI0OllOo1 = function(IIIo1oo1oOlO) return IIIo1oo1oOlO and IIIo1oo1oOlO or IlIOlIOo10OO end; for IlI0oI0OOIOo=4, 6 do local l1OoII1011oO = IlI0oI0OOIOo * 2; end; for I
-1OIOlII0IOO=4, 10 do local lOIoOl01lIOl = I1OIOlII0IOO * 2; end; local loloII01I0I1 = function(l0llIIloI1Io) return l0llIIloI1Io and l0llIIloI1Io or IOoooI10IIO1 end; for I11Iol00OOo0=5, 6 do local I1
-0II11OIlO0 = I11Iol00OOo0 * 2; end; for Ilol1ooOoO00=2, 8 do local l0o1Il1lO0IO = Ilol1ooOoO00 * 2; end; for I0O1IlII1OOO=5, 9 do local lIlIol0OoIll = I0O1IlII1OOO * 2; end; local lI01I0I0ool1 = {98, 
-33}; lI01I0I0ool1[1] = lI01I0I0ool1[1] % lI01I0I0ool1[2]; local lIoII1I0ol10 = function(IIoIIlOIoIIl) return IIoIIlOIoIIl and IIoIIlOIoIIl or l0OO00II1Ioo end; local llIOIlol01Oo = {32, 39}; llIOIlol0
-1Oo[1] = llIOIlol01Oo[1] % llIOIlol01Oo[2]; local l1OIl0Il1101 = function(llOOO1IoOoOI) return llOOO1IoOoOI and llOOO1IoOoOI or I1llo1lo10o1 end; local lOoI00IOIoIO = {34, 6}; lOoI00IOIoIO[1] = lOoI00
-IOIoIO[1] * lOoI00IOIoIO[2]; local Io1ol0I1lllI = function(Il0lIIl10loO) return Il0lIIl10loO and Il0lIIl10loO or II0Ill1O1IO0 end; if 9 > 182 then local IoO1OOlIOOO1 = "I0110o1OI1Oo"; end; for IlOO10O
-I1o1o=1, 10 do local IIo1Oo1I1olo = IlOO10OI1o1o * 2; end; local I011lollOOOo = function(I100ollO00Io) return I100ollO00Io and I100ollO00Io or IO00lI1I1O00 end; if 44 > 105 then local l0011o10l01o = "
-l001IOl0Ilol"; end; local IoIoI1lll0l1 = {17, 19}; IoIoI1lll0l1[1] = IoIoI1lll0l1[1] % IoIoI1lll0l1[2]; if 94 > 150 then local I1OO0OI00oOl = "I1oO11IO111l"; end; local Ioo1IolIoI11 = {73, 72}; Ioo1Io
-lIoI11[1] = Ioo1IolIoI11[1] * Ioo1IolIoI11[2]; local IllIolllo0II = {93, 26}; IllIolllo0II[1] = IllIolllo0II[1] - IllIolllo0II[2]; local l01OOoOoO1I0 = {46, 58}; l01OOoOoO1I0[1] = l01OOoOoO1I0[1] + l0
-1OOoOoO1I0[2]; for I1OooOolOIOo=5, 8 do local l0OOol00o0lO = I1OooOolOIOo * 2; end; local lO1IOlIO1lo0 = {9, 99}; lO1IOlIO1lo0[1] = lO1IOlIO1lo0[1] * lO1IOlIO1lo0[2]; local IO0l11ol001O = function(l0I
-I0O0I1lo0) return l0II0O0I1lo0 and l0II0O0I1lo0 or l0IoooIll1lO end; local IIl0OoI0l1I1 = function(IIlO1o0OIl10) return IIlO1o0OIl10 and IIlO1o0OIl10 or lIO1IOIIo1I0 end; if 65 > 168 then local llOIlO
-11oooo = "I1o0o1001I1O"; end; local II1oo1I0OO1o = {89, 94}; II1oo1I0OO1o[1] = II1oo1I0OO1o[1] % II1oo1I0OO1o[2]; local lIIlolO1IOl0 = {36, 68}; lIIlolO1IOl0[1] = lIIlolO1IOl0[1] * lIIlolO1IOl0[2]; lo
-cal IOlO0IooOl01 = {46, 50}; IOlO0IooOl01[1] = IOlO0IooOl01[1] * IOlO0IooOl01[2]; for IO110IooIIoO=2, 10 do local lO1OIO1oIOo0 = IO110IooIIoO * 2; end; if 7 > 111 then local lIlIOllIO10I = "lOI1OolllO
-lI"; end; local I1ooIIloO01o = {40, 17}; I1ooIIloO01o[1] = I1ooIIloO01o[1] - I1ooIIloO01o[2]; local l10o00loIl1I = function(IlllO01I0O0o) return IlllO01I0O0o and IlllO01I0O0o or I00l1llIOool end; loca
-l I0I0lol1Oll1 = {59, 100}; I0I0lol1Oll1[1] = I0I0lol1Oll1[1] - I0I0lol1Oll1[2]; if 8 > 103 then local lIIOo0l0oool = "llIOl1I1lo0O"; end; local lO1lllloOoI0 = function(l000OIol0lIl) return l000OIol0l
-Il and l000OIol0lIl or IlolOo00II1I end; local IOIO0Io101lO = {60, 88}; IOIO0Io101lO[1] = IOIO0Io101lO[1] + IOIO0Io101lO[2]; local I1Io110I1oO1 = {90, 18}; I1Io110I1oO1[1] = I1Io110I1oO1[1] - I1Io110I
-1oO1[2]; local Il0OlOllIOoI = function(ll00Oo1oIo0l) return ll00Oo1oIo0l and ll00Oo1oIo0l or lI0I0ooO0Iol end; if 11 > 118 then local I0Ill1OIOOII = "IOIIOlI00IOl"; end; local IooO0OOIIOO0 = {70, 90};
- IooO0OOIIOO0[1] = IooO0OOIIOO0[1] % IooO0OOIIOO0[2]; for IOl1ol001Ioo=2, 10 do local I0olO011o0lo = IOl1ol001Ioo * 2; end; if 33 > 171 then local l11l1loI11Io = "l1oIl1IIoO0I"; end; local lOo1ll10ooo
-I = {1, 16}; lOo1ll10oooI[1] = lOo1ll10oooI[1] + lOo1ll10oooI[2]; local I1olOIlIIIo0 = {100, 73}; I1olOIlIIIo0[1] = I1olOIlIIIo0[1] + I1olOIlIIIo0[2]; for Io10101O0IOl=4, 10 do local lOoIlO01oooI = Io
-10101O0IOl * 2; end; local Il0oOoll11Oo = {6, 15}; Il0oOoll11Oo[1] = Il0oOoll11Oo[1] % Il0oOoll11Oo[2]; if 76 > 146 then local Iooll0OlO1Oo = "Ilo11lIl0100"; end; if 85 > 154 then local lOol1Ool0IIl =
- "IIOo001IoOOo"; end; local lo1Io0OOlOIl = function(IO10oOIoIO01) return IO10oOIoIO01 and IO10oOIoIO01 or llIo10I010oo end; if 26 > 151 then local l00I1llloO1l = "I0llOlO1o0oI"; end; local IIloIIooOlI
-O = function(IlIIlOOOlOOI) return IlIIlOOOlOOI and IlIIlOOOlOOI or Ioo1111lOllI end; local llool1OlI01I = function(llIlIo10Io00) return llIlIo10Io00 and llIlIo10Io00 or IoI1l0011Oo1 end; local lOl0O1O
-0oo0O = function(I1lI1OII0O10) return I1lI1OII0O10 and I1lI1OII0O10 or l1O00I1OIO10 end; for lOO01oll0Ilo=4, 7 do local l00II1lO0ol0 = lOO01oll0Ilo * 2; end; for lOoOl0OI1lOo=5, 10 do local lIl0ooIOl0
-01 = lOoOl0OI1lOo * 2; end; if 45 > 126 then local llooO1I0Oo0I = "IloI10oIol1o"; end; if 61 > 107 then local IlOll1I11l1I = "llIolOoIl0Ol"; end; local l11IolI0OI1l = function(IO0111OIl00I) return IO0
-111OIl00I and IO0111OIl00I or lOoloO1lI0I0 end; if 83 > 129 then local II01lI0IoOol = "Ioolol1oI00O"; end; local l100lIlOOOl0 = function(Illlool0oo0O) return Illlool0oo0O and Illlool0oo0O or I1IOoI1ll
-lII end; for I1ololllOOo0=3, 10 do local l01oO1Iol1oO = I1ololllOOo0 * 2; end; local lIIIoo0lIOI1 = function(lo0IO0OIl0oO) return lo0IO0OIl0oO and lo0IO0OIl0oO or IoO0l000OOll end; local I1II0Ilo0o0l 
-= function(IO0lOI1OI1ol) return IO0lOI1OI1ol and IO0lOI1OI1ol or lO0OOl0O00II end; for Il1o1l1lOllO=3, 9 do local I11O1oOOIIIO = Il1o1l1lOllO * 2; end; for l1oloI01011o=1, 8 do local I000I100lI0I = l1
-oloI01011o * 2; end; if 21 > 200 then local llO1oOI1loOl = "Il00I1oI101l"; end; local lolIo0IIOlOO = {61, 56}; lolIo0IIOlOO[1] = lolIo0IIOlOO[1] * lolIo0IIOlOO[2]; local I1O11O0O11lO = function(lOIlo0
-I01I1I) return lOIlo0I01I1I and lOIlo0I01I1I or loo0l0lOOI1o end; for l0Io0lo00IoI=3, 7 do local loOOooIl1O0I = l0Io0lo00IoI * 2; end; for ll0OoO100I1l=2, 8 do local looI1Ol1lOol = ll0OoO100I1l * 2; e
-nd; if 33 > 164 then local lOoI1o1lo0II = "l11o0oIo1IoI"; end; if 6 > 161 then local l0l1l1oI11lo = "IIlI0IlOII1O"; end; local I1IIoO1O00lO = function(IloI10I0OI1o) return IloI10I0OI1o and IloI10I0OI1
-o or llIIo0lOIIl0 end; local IIIoool1O0I1 = function(IllloOOoOIIo) return IllloOOoOIIo and IllloOOoOIIo or l0llo00oo1OO end; if 27 > 140 then local IIOl001110O1 = "l1OlolII1OIo"; end; local llo1O0O01I
-l1 = function(IIoIIIoIl01O) return IIoIIIoIl01O and IIoIIIoIl01O or IIlOl1oOI1oO end; for I0lOooI1OIIl=1, 9 do local l1lOIlI101OI = I0lOooI1OIIl * 2; end; if 94 > 103 then local lol00oIlO1Ol = "IOOI0O
-0l10ol"; end; local III0l00oo0OI = {19, 68}; III0l00oo0OI[1] = III0l00oo0OI[1] % III0l00oo0OI[2]; if 9 > 116 then local Il1OOoOOOIol = "lIlIO0110ll1"; end; local IoIlOOOO0lOo = function(IIoOO00l0l00) 
-return IIoOO00l0l00 and IIoOO00l0l00 or I0110loo001o end; local Il010OIloOol = {27, 76}; Il010OIloOol[1] = Il010OIloOol[1] + Il010OIloOol[2]; local IoIOll1ll1I1 = function(I1l0IoI1ol01) return I1l0IoI
-1ol01 and I1l0IoI1ol01 or l0o000oI0loo end; local lO0Ioo11l010 = function(l1lI101l0lOI) return l1lI101l0lOI and l1lI101l0lOI or lOO010OoIIOI end; local IlllI111lOO0 = {67, 72}; IlllI111lOO0[1] = IlllI
-111lOO0[1] - IlllI111lOO0[2]; local I1lOl10000l0 = function(l1lo11OOlOII) return l1lo11OOlOII and l1lo11OOlOII or IIOIlIOolooo end; if 11 > 165 then local l1oOI11o00O1 = "l10llll00lIo"; end; if 30 > 1
-75 then local IO1llOI0lOI0 = "Io1I0IlI0Io1"; end; for l0001IO1ool0=5, 6 do local IO00IlO11oo1 = l0001IO1ool0 * 2; end; local Il0loOIll10I = function(I1oO110OllI0) return I1oO110OllI0 and I1oO110OllI0 
-or I1IIoOllIO0o end; local IoIllIO0lO10 = function(IlIlOlOlII0I) return IlIlOlOlII0I and IlIlOlOlII0I or IlloO1IO00lI end; local lO1O0IllI0I1 = {45, 53}; lO1O0IllI0I1[1] = lO1O0IllI0I1[1] + lO1O0IllI0
-I1[2]; for l0I0oI00oo0o=5, 7 do local lIOIlollII10 = l0I0oI00oo0o * 2; end; for lolllOoll00O=5, 10 do local IOo0OoIIOloI = lolllOoll00O * 2; end; local IOOOo0lOI0o0 = {54, 75}; IOOOo0lOI0o0[1] = IOOOo
-0lOI0o0[1] % IOOOo0lOI0o0[2]; local l1Ol100oO0l1 = {67, 87}; l1Ol100oO0l1[1] = l1Ol100oO0l1[1] % l1Ol100oO0l1[2]; local lol0olO0lo01 = function(Il1l1O1OI1ll) return Il1l1O1OI1ll and Il1l1O1OI1ll or ll
-oOOl0lI0Il end; if 50 > 186 then local looolll10O0O = "lO1IIl1lIIOI"; end; for IoI0l1I0olll=3, 7 do local III000Il11II = IoI0l1I0olll * 2; end; local I1ll1llo11oI = function(loI1100IOOOO) return loI11
-00IOOOO and loI1100IOOOO or I101Oool10l0 end; for lOo0Ill1Io11=5, 7 do local I111l11oIIlI = lOo0Ill1Io11 * 2; end; for llI1l00oI1I0=2, 8 do local lIOllIloOIO1 = llI1l00oI1I0 * 2; end; if 64 > 200 then
- local I1I011lloI1O = "I011o0OO0l10"; end; local I1oolo0o1O0O = {5, 69}; I1oolo0o1O0O[1] = I1oolo0o1O0O[1] + I1oolo0o1O0O[2]; local l0loo10I1I0o = function(I0ooII110lO0) return I0ooII110lO0 and I0ooII
-110lO0 or lI011loo1lII end; local lIO1ooIO0Ooo = function(lIo1OOl1001l) return lIo1OOl1001l and lIo1OOl1001l or IlIolIoIll01 end; local lOIIoIOl1Oo0 = {30, 82}; lOIIoIOl1Oo0[1] = lOIIoIOl1Oo0[1] % lOI
-IoIOl1Oo0[2]; for I11loOIoOo10=2, 7 do local IloOlo0OloO0 = I11loOIoOo10 * 2; end; local I0oo00oIolll = function(l0l10ol1ooIl) return l0l10ol1ooIl and l0l10ol1ooIl or loIOol1o1OOI end; local I1I1Il00l
-1Ol = {19, 34}; I1I1Il00l1Ol[1] = I1I1Il00l1Ol[1] % I1I1Il00l1Ol[2]; local l1lo10ooOI00 = function(I1oO0OoOIIIl) return I1oO0OoOIIIl and I1oO0OoOIIIl or lI1O1O0OlO10 end; local Io0Oo10o01O1 = function
-(IIoOolooI0lo) return IIoOolooI0lo and IIoOolooI0lo or lOlOlol01100 end; local IIOO11l00olI = function(I11o1l1oIo0l) return I11o1l1oIo0l and I11o1l1oIo0l or IloO0II1I0o0 end; for I0O11lOO1l0o=5, 8 do 
-local I10oI0001oIo = I0O11lOO1l0o * 2; end; for loI1o0oll001=5, 6 do local llIlIoooI11o = loI1o0oll001 * 2; end; local ll0lOloO01l0 = function(I1lIlI0Ol00l) return I1lIlI0Ol00l and I1lIlI0Ol00l or IOO
-0oOlOlI0I end; local lo10OoOI0o00 = function(IO1II01lOO1o) return IO1II01lOO1o and IO1II01lOO1o or l01IoO1OOl10 end; local I0O1llOloI0O = function(Il0II1l1l1Il) return Il0II1l1l1Il and Il0II1l1l1Il or
- IOIlo10I0OoO end; local I1olO0l1o0OO = {2, 77}; I1olO0l1o0OO[1] = I1olO0l1o0OO[1] % I1olO0l1o0OO[2]; local loO0I1lolOO0 = function(lloO0OIo11Oo) return lloO0OIo11Oo and lloO0OIo11Oo or IooI1IOIO1oI e
-nd; if 20 > 159 then local l1oOlOl0O11o = "l00Oloo0ooOo"; end; local lO00oIlo000O = function(llOIO00110oo) return llOIO00110oo and llOIO00110oo or IOoO1oOoOO1O end; for loollO1OIOol=4, 7 do local I1II
-lOoloOoo = loollO1OIOol * 2; end; for ll1l0l1o0ooo=2, 8 do local l0IllloOl01I = ll1l0l1o0ooo * 2; end; if 41 > 174 then local l00OlIl0IoO0 = "Il0Il00oO1II"; end; if 27 > 110 then local I0O1oI10lo01 = 
-"l1lI10IIoOl0"; end; local IlIOIIIollO1 = function(IlIolIl1lo0l) return IlIolIl1lo0l and IlIolIl1lo0l or loOo11IOO1Ol end; local lOoIO01O10Il = function(IlI1l1l100O1) return IlI1l1l100O1 and IlI1l1l10
-0O1 or lO00o1lIOI11 end; local lI0ol1IOl0lO = function(IoI01O10lO1l) return IoI01O10lO1l and IoI01O10lO1l or Il0ooOloIOIo end; local lOllO01o0Oo0 = function(IOoI1I0IOoII) return IOoI1I0IOoII and IOoI1
-I0IOoII or I1oO0Oo10I1l end; local llooO0IoO0Io = {6, 58}; llooO0IoO0Io[1] = llooO0IoO0Io[1] * llooO0IoO0Io[2]; if 77 > 109 then local IOI0I0oool1o = "lo1I00o0lI1O"; end; for loO0OOoOlOl1=3, 6 do loca
-l lIoOOI01lIll = loO0OOoOlOl1 * 2; end; if 79 > 101 then local Io0oIolOOoOl = "ll00loO11IIO"; end; if 20 > 149 then local l1IO010Ol011 = "lIl0IlOI1OIO"; end; if 57 > 153 then local IolOO1olIO11 = "l0I
-0OO10IoI0"; end; local IOIO110IIOlO = {45, 62}; IOIO110IIOlO[1] = IOIO110IIOlO[1] % IOIO110IIOlO[2]; for IoO0OOIO0lO1=4, 9 do local II1o11oo11Ol = IoO0OOIO0lO1 * 2; end; for lo1lIOOO0o00=2, 10 do loca
-l IIoo0lIO1010 = lo1lIOOO0o00 * 2; end; for l1o1OIO1II11=4, 7 do local II1I1I0I0O1I = l1o1OIO1II11 * 2; end; local I0o1Io1IoIO0 = {2, 56}; I0o1Io1IoIO0[1] = I0o1Io1IoIO0[1] * I0o1Io1IoIO0[2]; local Il
-OoIOooo00l = function(l1oO1lOl0OIl) return l1oO1lOl0OIl and l1oO1lOl0OIl or lOl1Oo1Ioll1 end; for IoOoIoOlol1l=5, 10 do local Iol00I1o1100 = IoOoIoOlol1l * 2; end; local Io1OlOIoIOlo = function(lIo1O0
-100l0I) return lIo1O0100l0I and lIo1O0100l0I or I1loIOlOIl1o end; local ll0oOIl1oI0o = function(lI0lOIIoIl01) return lI0lOIIoIl01 and lI0lOIIoIl01 or I0o1lIo01OlO end; local ll000l1lO11O = {89, 52}; l
-l000l1lO11O[1] = ll000l1lO11O[1] * ll000l1lO11O[2]; local I00I0lIOOOI0 = {50, 4}; I00I0lIOOOI0[1] = I00I0lIOOOI0[1] * I00I0lIOOOI0[2]; local Il0olIl10oOO = {7, 92}; Il0olIl10oOO[1] = Il0olIl10oOO[1] +
- Il0olIl10oOO[2]; local lIl11011l11o = function(Iol0l1IlIOIO) return Iol0l1IlIOIO and Iol0l1IlIOIO or I1o001OO00O0 end; local I0II001OloO0 = function(lIIOOlOO1111) return lIIOOlOO1111 and lIIOOlOO1111
- or I0lo1IIo1Ooo end; for l1OOool10O0O=1, 9 do local Il110Io00lO0 = l1OOool10O0O * 2; end; local IloI00o1ll1l = {48, 65}; IloI00o1ll1l[1] = IloI00o1ll1l[1] % IloI00o1ll1l[2]; local IlO1oO0I1OOo = func
-tion(II11o0OloOoO) return II11o0OloOoO and II11o0OloOoO or IOO1O0ll1o11 end; for I0Io1I100loO=2, 7 do local IolOl1ol0olo = I0Io1I100loO * 2; end; local lOIoO0OlIIo1 = {99, 70}; lOIoO0OlIIo1[1] = lOIoO
-0OlIIo1[1] - lOIoO0OlIIo1[2]; local I1lO1l0oO1OO = {1, 18}; I1lO1l0oO1OO[1] = I1lO1l0oO1OO[1] - I1lO1l0oO1OO[2]; local I001I1I11Ill = {65, 94}; I001I1I11Ill[1] = I001I1I11Ill[1] % I001I1I11Ill[2]; if 
-4 > 121 then local lOl1l0l11IIo = "Illo01Il1OlI"; end; if 44 > 163 then local loo10oO0o0Io = "lo10l1lol1I1"; end; local lIOO0lIO0I1l = {92, 89}; lIOO0lIO0I1l[1] = lIOO0lIO0I1l[1] + lIOO0lIO0I1l[2]; fo
-r IoIOl001IO1l=5, 10 do local I0IlI00o0loI = IoIOl001IO1l * 2; end; local Io1o0lOlIIll = function(l1OlI11oIol0) return l1OlI11oIol0 and l1OlI11oIol0 or lO00O1oOo0I0 end; local ll11oo1IoOOl = function(
-llO0oO1OOlO1) return llO0oO1OOlO1 and llO0oO1OOlO1 or llloOloo1lo1 end; local l000ol10O01o = {90, 36}; l000ol10O01o[1] = l000ol10O01o[1] * l000ol10O01o[2]; local lll0O1o010Oo = function(IIo1lO0Ooo01) 
-return IIo1lO0Ooo01 and IIo1lO0Ooo01 or lOlI10IIollI end; local lIlII10OIloO = function(I1lI10IIl110) return I1lI10IIl110 and I1lI10IIl110 or lO100oOI101o end; local IlOI1lOoI1IO = {18, 72}; IlOI1lOoI
-1IO[1] = IlOI1lOoI1IO[1] % IlOI1lOoI1IO[2]; local l00lIoIloO01 = function(lO11I0IOolO1) return lO11I0IOolO1 and lO11I0IOolO1 or Il10101l1011 end; for Il0oOllOlI1I=4, 7 do local l0IIl00OllI0 = Il0oOllO
-lI1I * 2; end; local IoooOOooloo0 = function(llooOo0Io0lo) return llooOo0Io0lo and llooOo0Io0lo or ll11oOo01IOl end; local Iol1O1Io00OI = function(IO10lloIOlO1) return IO10lloIOlO1 and IO10lloIOlO1 or
- llOI1OIO00I0 end; local I11O0OIIl0l0 = function(loo0I0lo0llO) return loo0I0lo0llO and loo0I0lo0llO or lIlIooooo000 end; for lOIlIo1l0Il0=3, 9 do local I001o0Ol1lo0 = lOIlIo1l0Il0 * 2; end; for l1lIIO
-00ooII=5, 8 do local ll11o0IoOO10 = l1lIIO00ooII * 2; end; for lOO1o11100I0=2, 8 do local IoIoIO0Oll01 = lOO1o11100I0 * 2; end; for ll1l100Olool=1, 8 do local IoooII0o0l01 = ll1l100Olool * 2; end; loc
-al lIOlIllo00l0 = {57, 29}; lIOlIllo00l0[1] = lIOlIllo00l0[1] * lIOlIllo00l0[2]; local IlIOI0IO1I0l = {79, 56}; IlIOI0IO1I0l[1] = IlIOI0IO1I0l[1] - IlIOI0IO1I0l[2]; if 61 > 176 then local IoI1IOOlOoIO
- = "l11l01l1I01o"; end; local ll0I0IIOIIOl = function(I0II01lOIo10) return I0II01lOIo10 and I0II01lOIo10 or IO00o1l1IlOO end; for l0Oooo11O0Oo=5, 6 do local lO1IO11ll11o = l0Oooo11O0Oo * 2; end; local
- Io1o1OO0lO0l = {35, 75}; Io1o1OO0lO0l[1] = Io1o1OO0lO0l[1] * Io1o1OO0lO0l[2]; for llOI00lIllol=3, 7 do local lO1IlOlloI1O = llOI00lIllol * 2; end; local II101Ooo1OOo = function(l01oll1I1OO0) return l
-01oll1I1OO0 and l01oll1I1OO0 or lo01OO1Oool0 end; local I00l111OOOol = function(Io1lOo0IIOoO) return Io1lOo0IIOoO and Io1lOo0IIOoO or lOoI001olOIo end; local IOll001lOIOO = {37, 44}; IOll001lOIOO[1] =
- IOll001lOIOO[1] * IOll001lOIOO[2]; local Ill0o10ll0ll = function(l011OolOo1I0) return l011OolOo1I0 and l011OolOo1I0 or lI101lIO1l0l end; local IO1O1Oo10oI0 = function(IolOO00II0lI) return IolOO00II0l
-I and IolOO00II0lI or I0OOIOoO01lo end; local l1ll111o11O0 = {29, 30}; l1ll111o11O0[1] = l1ll111o11O0[1] + l1ll111o11O0[2]; for lO11oOloI1II=2, 7 do local IOO1011101O1 = lO11oOloI1II * 2; end; for loI
-lo1Iol10l=1, 9 do local ll1O1o1OolI1 = loIlo1Iol10l * 2; end; local lo1OI0l000oI = function(Io1O1lO1oO1I) return Io1O1lO1oO1I and Io1O1lO1oO1I or IOloIolO001O end; if 19 > 169 then local I01IOlOIO0lo 
-= "lo1IIlIl1ooO"; end; local IloOOol1o1I0 = {98, 44}; IloOOol1o1I0[1] = IloOOol1o1I0[1] + IloOOol1o1I0[2]; for lIo0lIOO1lOl=1, 6 do local ll11lo1ll0Io = lIo0lIOO1lOl * 2; end; local IIO01Ill00Oo = fun
-ction(IlIOooIOl1IO) return IlIOooIOl1IO and IlIOooIOl1IO or IOOIlOO0o0oo end; local Iol1l0OII000 = function(l0ll0IlI010l) return l0ll0IlI010l and l0ll0IlI010l or I0III00oOIlI end; for lOl1o0o1Io1I=3, 
-9 do local Io0OO0I0Iloo = lOl1o0o1Io1I * 2; end; if 84 > 180 then local I100o11O0O1l = "II1l0IO1I1Oo"; end; local l1IoIoolI1lO = {59, 75}; l1IoIoolI1lO[1] = l1IoIoolI1lO[1] - l1IoIoolI1lO[2]; local lO
-o1IOI0I0lo = {32, 37}; lOo1IOI0I0lo[1] = lOo1IOI0I0lo[1] - lOo1IOI0I0lo[2]; if 25 > 188 then local IoI101oOo001 = "I10OIllOoI0I"; end; local II0o1OIO1o1o = function(IO1oO1Oooo11) return IO1oO1Oooo11 a
-nd IO1oO1Oooo11 or IO1IO10OlIlO end; if 16 > 161 then local IO01l1oo0o0I = "I1IoIlOI11ol"; end; local loloOIIOlI11 = function(IO00l0ol1oIO) return IO00l0ol1oIO and IO00l0ol1oIO or IIlo0o0oO1O0 end; lo
-cal l0l0l0ooO0I0 = function(IOOOOII11IO1) return IOOOOII11IO1 and IOOOOII11IO1 or I1I0llloIIo1 end; local I000l0I1l1O1 = function(lOIo01lO0Ilo) return lOIo01lO0Ilo and lOIo01lO0Ilo or I111ll1I1Oo1 end
-; if 26 > 136 then local lo1l0011OO0O = "IOIOoo000I00"; end; if 5 > 111 then local I110oO1OlI0I = "lIIo110olOOl"; end; for II0011oO01Il=1, 7 do local ll1oooIOo0OI = II0011oO01Il * 2; end; local l1o01O
-ooOoo1 = function(I0IoOII00ooO) return I0IoOII00ooO and I0IoOII00ooO or l1OOlo1oOOIo end; if 65 > 149 then local IIIIOllOl0Io = "IlIl01OoO00I"; end; local lI00I111Ill0 = {51, 43}; lI00I111Ill0[1] = lI
-00I111Ill0[1] + lI00I111Ill0[2]; if 36 > 121 then local IlOOlO0O0ol1 = "l1I0lOI1oIOl"; end; local I1111OIoIO0l = function(lo1lIIl0l1o0) return lo1lIIl0l1o0 and lo1lIIl0l1o0 or l0O0OooI101O end; local 
-I0O1OOlO1OIo = {16, 29}; I0O1OOlO1OIo[1] = I0O1OOlO1OIo[1] % I0O1OOlO1OIo[2]; local IIooO1lOl0oo = function(I1olOO1O1llo) return I1olOO1O1llo and I1olOO1O1llo or IlIlO10O0oIl end; local lll1O10lo0lO =
- {86, 80}; lll1O10lo0lO[1] = lll1O10lo0lO[1] * lll1O10lo0lO[2]; for lIo0llll00ol=1, 7 do local I10IOOoooIll = lIo0llll00ol * 2; end; for lOOI0OI0OoIO=4, 10 do local IOI111o0OIl0 = lOOI0OI0OoIO * 2; en
-d; for l0lo0I00O00o=3, 8 do local IIl1O1olIIOo = l0lo0I00O00o * 2; end; for lIOO0Iol0OoI=3, 7 do local l1Ol0O1o1loO = lIOO0Iol0OoI * 2; end; for l10O0lOIIO1l=3, 8 do local looIIl1l1IoI = l10O0lOIIO1l 
-* 2; end; for IOoooOlOIIIo=3, 8 do local lO0IooIIoOoI = IOoooOlOIIIo * 2; end; for IOIlI00o0Oo1=4, 7 do local lI0o1o111oI1 = IOIlI00o0Oo1 * 2; end; local IO1lOOo111I0 = {15, 80}; IO1lOOo111I0[1] = IO1
-lOOo111I0[1] * IO1lOOo111I0[2]; if 42 > 107 then local IOIl1IO11111 = "l1l1OO010ol0"; end; if 85 > 134 then local IlOolll0l010 = "l01II0Ilo1OO"; end; if 74 > 104 then local l00II00oIo00 = "llO0OoIOI10
-l"; end; if 78 > 127 then local IOI0ol1I1l0I = "lOO0lll1lOl0"; end; local lIIOlll0o1lO = {37, 63}; lIIOlll0o1lO[1] = lIIOlll0o1lO[1] - lIIOlll0o1lO[2]; local I1ooOOIIo1l0 = function(l1oIo101I0Ol) retu
-rn l1oIo101I0Ol and l1oIo101I0Ol or IlIo0O0o1O0I end; if 17 > 151 then local Ioo011lOooI0 = "lIlO0lOl1I0I"; end; local loO001Oo1OI0 = {47, 45}; loO001Oo1OI0[1] = loO001Oo1OI0[1] - loO001Oo1OI0[2]; if 
-8 > 151 then local II11I0lO00oI = "I0l11l1l11oO"; end; local l0IIOOolllo0 = {67, 61}; l0IIOOolllo0[1] = l0IIOOolllo0[1] % l0IIOOolllo0[2]; if 54 > 137 then local l10lO0oOOOl1 = "llOl0l11O0O0"; end; if
- 53 > 199 then local lo0I01l11O0O = "lI11Oo10oO0I"; end; local l1o0l01I01oI = function(IO01OI0OO10O) return IO01OI0OO10O and IO01OI0OO10O or IIIoo0lIOO0o end; local llOI0o0l1l0l = function(lIIOo0o0O1I
-O) return lIIOo0o0O1IO and lIIOo0o0O1IO or I0II1oIo00II end; local lo0oOIll1OIO = {38, 57}; lo0oOIll1OIO[1] = lo0oOIll1OIO[1] + lo0oOIll1OIO[2]; local IOOlOOIOlIlO = function(lOO000llI0lo) return lOO0
-00llI0lo and lOO000llI0lo or llooolO11I10 end; if 79 > 155 then local I10lOoo0I1oI = "Iooo1Il10OII"; end; local llol10lIOOo1 = function(IoI0I0O0lOOO) return IoI0I0O0lOOO and IoI0I0O0lOOO or IoOIOo0lol
-II end; for Ioo1O1O0oloo=3, 9 do local IOIOol1Ol1IO = Ioo1O1O0oloo * 2; end; for l11O1ol0O0lo=3, 9 do local I1olI1lOlI1O = l11O1ol0O0lo * 2; end; local lO11oIIoIlo0 = {88, 74}; lO11oIIoIlo0[1] = lO11o
-IIoIlo0[1] * lO11oIIoIlo0[2]; local IlI1O0O010Oo = {18, 55}; IlI1O0O010Oo[1] = IlI1O0O010Oo[1] * IlI1O0O010Oo[2]; local I0IOOI1O1O11 = function(lOI1I1OO00l1) return lOI1I1OO00l1 and lOI1I1OO00l1 or lI
-I1OoI1II1l end; local l0lIlO0lIIO0 = function(I01IllI1IoIl) return I01IllI1IoIl and I01IllI1IoIl or llIol100ooI0 end; if 24 > 183 then local IIll01100IlO = "IO11Ol1lo0l1"; end; for IIOO10Io110I=5, 9 d
-o local IooIOloo1I00 = IIOO10Io110I * 2; end; if 2 > 101 then local l00O1IO0IIIO = "l0loI1l110OO"; end; local Il1o0IlI1OI0 = function(lo0llo1Ool1O) return lo0llo1Ool1O and lo0llo1Ool1O or I1oI0oo1Oool
- end; if 37 > 111 then local Io0O01oO1o1O = "Io1IIO1IIo10"; end; for looO1O0l1IIo=4, 9 do local l01lO1Il01Io = looO1O0l1IIo * 2; end; if 35 > 172 then local lIOII0oOll00 = "l0Il0oO0I100"; end; if 31 >
- 199 then local lIIO0o0IIIoO = "II1I10l1101I"; end; if 23 > 166 then local I01l10lIOoll = "lloO00ol1lI0"; end; if 48 > 190 then local llOO0Illo01O = "l00I0O10O10I"; end; local IlO0Oo110IlO = {32, 73};
- IlO0Oo110IlO[1] = IlO0Oo110IlO[1] * IlO0Oo110IlO[2]; local llIIIOll1lIO = {72, 32}; llIIIOll1lIO[1] = llIIIOll1lIO[1] + llIIIOll1lIO[2]; local lIoIoIlO11Io = function(Ill0001oIO1O) return Ill0001oIO1
-O and Ill0001oIO1O or lol1l11lI0I1 end; for I1001lOooO0O=5, 10 do local lOl1OOoooolO = I1001lOooO0O * 2; end; local l0oIoIO1OOIl = {52, 54}; l0oIoIO1OOIl[1] = l0oIoIO1OOIl[1] % l0oIoIO1OOIl[2]; if 23 
-> 124 then local lOO0Ol00lo0O = "loI0I111oIII"; end; local l0OOoI11OOlI = {64, 66}; l0OOoI11OOlI[1] = l0OOoI11OOlI[1] % l0OOoI11OOlI[2]; local Il1OIOIIO01O = function(l0Ioo11o01I1) return l0Ioo11o01I1
- and l0Ioo11o01I1 or lo00oOO00l1o end; local I1loOlo01IlI = {75, 76}; I1loOlo01IlI[1] = I1loOlo01IlI[1] - I1loOlo01IlI[2]; local II1oIIo1OIOO = function(lIoI0I01Il0l) return lIoI0I01Il0l and lIoI0I01I
-l0l or lI0IIOI11l0O end; local l0lO00l0Ol11 = {34, 44}; l0lO00l0Ol11[1] = l0lO00l0Ol11[1] + l0lO00l0Ol11[2]; if 55 > 103 then local IoOlIII00O0I = "IOlI01l00o00"; end; for l0o01o0IOlll=1, 10 do local 
-llo0IOI01oIO = l0o01o0IOlll * 2; end; local I00o10Iollo1 = function(loIOO1OOOI1O) return loIOO1OOOI1O and loIOO1OOOI1O or IOOoIllIlO01 end; local Io100ol1lol1 = {23, 73}; Io100ol1lol1[1] = Io100ol1lol
-1[1] - Io100ol1lol1[2]; local I011IOlOoolo = function(IOl1010O11oO) return IOl1010O11oO and IOl1010O11oO or llOlO1I1OooO end; for lIllloOl0Il1=2, 6 do local l1Olllo0IOIl = lIllloOl0Il1 * 2; end; for I
-ooOI1llo110=2, 7 do local I0OIll1ll1lo = IooOI1llo110 * 2; end; local Ioo1l0O01o1l = function(lIl0ll00o001) return lIl0ll00o001 and lIl0ll00o001 or l0O1o1lOOolI end; for IO001OO1OIOl=1, 8 do local I10
-IIIlO0lOl = IO001OO1OIOl * 2; end; if 76 > 121 then local II0lOoOI1I01 = "II11o1IloOOl"; end; for IIloo0IO001O=2, 10 do local lOOlI00l1o0o = IIloo0IO001O * 2; end; if 96 > 194 then local IOo11IoI1Ool 
-= "lIoIO11O0lIo"; end; for lI00l0OlO10l=2, 8 do local IlOo01I1l01o = lI00l0OlO10l * 2; end; local IIOoo0oI1oO1 = function(I1olOl1lll1O) return I1olOl1lll1O and I1olOl1lll1O or Il11llO1O0I1 end; for lO
-00l0OoIIOl=3, 6 do local IoO1OO111ool = lO00l0OoIIOl * 2; end; for l0Il0oOo1llO=4, 9 do local lIoIO1ool10l = l0Il0oOo1llO * 2; end; local I0llOl0oI1o0 = {64, 58}; I0llOl0oI1o0[1] = I0llOl0oI1o0[1] * I
-0llOl0oI1o0[2]; if 84 > 152 then local IO0IoIol1IIl = "lIoOO1ll1I00"; end; local I0IlIOI01I1I = {19, 46}; I0IlIOI01I1I[1] = I0IlIOI01I1I[1] % I0IlIOI01I1I[2]; local lo0O011IOOl1 = {49, 65}; lo0O011IOO
-l1[1] = lo0O011IOOl1[1] * lo0O011IOOl1[2]; local IO0lolo10111 = {94, 25}; IO0lolo10111[1] = IO0lolo10111[1] * IO0lolo10111[2]; for loO11Io0oo00=2, 8 do local lO1OIlIOlOO0 = loO11Io0oo00 * 2; end; for 
-l0O0Iol1IIO0=4, 7 do local lIlllolO1lo0 = l0O0Iol1IIO0 * 2; end; if 89 > 133 then local IIIIIo11oo1o = "IlOOollOIIo0"; end; local l011Iol00lol = function(Ioo0l01OoO0I) return Ioo0l01OoO0I and Ioo0l01O
-oO0I or IIoOO1lIlOlI end; local lOlII1o00l11 = function(lOlI1OI101oI) return lOlI1OI101oI and lOlI1OI101oI or ll1l11oO0llo end; local l101I1IlOI1l = {97, 30}; l101I1IlOI1l[1] = l101I1IlOI1l[1] * l101I
-1IlOI1l[2]; local I0lI00O1ll0O = {28, 94}; I0lI00O1ll0O[1] = I0lI00O1ll0O[1] - I0lI00O1ll0O[2]; local IO1OOo10Io0o = {75, 91}; IO1OOo10Io0o[1] = IO1OOo10Io0o[1] - IO1OOo10Io0o[2]; if 91 > 178 then loc
-al lIo0ooo0oO01 = "IllIl00l1loI"; end; local IoI0O10l1o0l = function(IO0IOlloIoOl) return IO0IOlloIoOl and IO0IOlloIoOl or IoooloIoIIIl end; local IO0lollo0OI1 = function(IOI1Io11Ol0I) return IOI1Io11
-Ol0I and IOI1Io11Ol0I or I1OI0looIo0I end;
+local Ioo1oOlo1ool = function(lO1Ol0oloO10) return lO1Ol0oloO10 and lO1Ol0oloO10 or "lIloOlIIIo1O" end; if 27 > 101 then 
+local l11l01Ioo0ol = "l1OloIIoOo1o"; end; local IoIl1oOl0Ooo = function(l01OI1Io0oI1) return l01OI1Io0oI1 and 
+l01OI1Io0oI1 or "I0O0OoIIIOl1" end; local looo1lIo011I = function(Io11Il10ooII) return Io11Il10ooII and Io11Il10ooII or 
+"Iol0oo0l00oo" end; local Io0lo1lIIo0l = function(l010IlIII1Il) return l010IlIII1Il and l010IlIII1Il or "IOO1IllOll1l" 
+end; if 71 > 112 then local looolI1o0Ill = "lOl0o10oOo1I"; end; if 71 > 198 then local IO100lI0lOIO = "Il1Oo0o10Olo"; 
+end; local IlOOoo01oOO1 = {80, 59}; IlOOoo01oOO1[1] = IlOOoo01oOO1[1] - IlOOoo01oOO1[2]; for IlO10O0olIoI=1, 9 do local 
+lOlIIllo0lO0 = IlO10O0olIoI * 2; end; local lIoOIOoooOO1 = function(lIo10lO1l0oo) return lIo10lO1l0oo and lIo10lO1l0oo 
+or "l1O0l1O0O0II" end; if 15 > 113 then local lOOIOo0IlI00 = "lOO1llIII1o1"; end; local lOIOIooIIOOO = {20, 98}; 
+lOIOIooIIOOO[1] = lOIOIooIIOOO[1] - lOIOIooIIOOO[2]; local loOloII01I1O = {46, 11}; loOloII01I1O[1] = loOloII01I1O[1] + 
+loOloII01I1O[2]; local IoIol10ol0oI = function(lO0O01lIlIlO) return lO0O01lIlIlO and lO0O01lIlIlO or "lOIO11oOI10O" end; 
+local lOIOlIOooOO1 = function(IIl0II00OooO) return IIl0II00OooO and IIl0II00OooO or "I1I1OII1OlOO" end; local 
+l11IoIIoIoOl = {38, 87}; l11IoIIoIoOl[1] = l11IoIIoIoOl[1] * l11IoIIoIoOl[2]; local lO1OIl01lloI = {47, 27}; 
+lO1OIl01lloI[1] = lO1OIl01lloI[1] % lO1OIl01lloI[2]; local IloII0oo1Ilo = function(lOOoOIlI0oOO) return lOOoOIlI0oOO and 
+lOOoOIlI0oOO or "IOI0IlIlOll0" end; local looOllOollO1 = {31, 42}; looOllOollO1[1] = looOllOollO1[1] % looOllOollO1[2]; 
+local lolllIOOolI1 = function(lO0lll001O1l) return lO0lll001O1l and lO0lll001O1l or "l1o01IOOoooo" end; local 
+lI00Ol1O0I00 = {16, 69}; lI00Ol1O0I00[1] = lI00Ol1O0I00[1] * lI00Ol1O0I00[2]; local I1I11lloo0o1 = 
+function(I0o0OIIoIoIl) return I0o0OIIoIoIl and I0o0OIIoIoIl or "l11IooI00I0o" end; local lO0lOoI0ooo0 = 
+function(Iol1IIlI1O1l) return Iol1IIlI1O1l and Iol1IIlI1O1l or "lo1lO0l01II1" end; local l0IoI0O00ll0 = {62, 20}; 
+l0IoI0O00ll0[1] = l0IoI0O00ll0[1] % l0IoI0O00ll0[2]; local IOOll1l1looO = {53, 71}; IOOll1l1looO[1] = IOOll1l1looO[1] - 
+IOOll1l1looO[2]; if 43 > 124 then local I1l0l1O0I00o = "lloOIOOI1O1O"; end; for loIIlo0OOIol=5, 9 do local looI11I11Oo1 
+= loIIlo0OOIol * 2; end; for Io0Io10011I0=5, 8 do local IIo1IooI11ll = Io0Io10011I0 * 2; end; local I1Oo0OO0oo0o = {15, 
+60}; I1Oo0OO0oo0o[1] = I1Oo0OO0oo0o[1] + I1Oo0OO0oo0o[2]; if 7 > 138 then local l0l1O0OoOoI1 = "II10IIol100I"; end; 
+local l0OII0l1lOIO = {39, 6}; l0OII0l1lOIO[1] = l0OII0l1lOIO[1] * l0OII0l1lOIO[2]; for Illll0OIII1o=5, 6 do local 
+llIllIoIIloo = Illll0OIII1o * 2; end; for II1olllI00OO=1, 6 do local Io1oII1OloIo = II1olllI00OO * 2; end; local 
+lO0IlOlo0IlI = {45, 95}; lO0IlOlo0IlI[1] = lO0IlOlo0IlI[1] % lO0IlOlo0IlI[2]; local I0llo11ol1Oo = {11, 1}; 
+I0llo11ol1Oo[1] = I0llo11ol1Oo[1] * I0llo11ol1Oo[2]; local I0I000OoI10I = function(llO1IO00o01l) return llO1IO00o01l and 
+llO1IO00o01l or "lloO100oOl0I" end; for Io11olI1oOOo=1, 8 do local Ilo00o10Iol1 = Io11olI1oOOo * 2; end; for 
+lO0o00lOl1OI=1, 7 do local IIoIolOIo0o0 = lO0o00lOl1OI * 2; end; if 72 > 121 then local lo0II000OIl0 = "I0I11o10lIlO"; 
+end; local II1o0Io01ooO = function(IOollo0o1oll) return IOollo0o1oll and IOollo0o1oll or "IoIl0o10lO11" end; for 
+Il1O0oloolOO=2, 6 do local l1OooI1l1OI1 = Il1O0oloolOO * 2; end; local l1lIIO10II0O = function(l0olII010ooo) return 
+l0olII010ooo and l0olII010ooo or "IoOoI0OOOoo0" end; local l01ooI0o0o10 = function(lOII0OO0olo0) return lOII0OO0olo0 and 
+lOII0OO0olo0 or "IOlIoI0Ioo0I" end; if 35 > 124 then local lIlllOoO1o0O = "I1o1I0l11IoO"; end; local lI1OI11l000I = {28, 
+55}; lI1OI11l000I[1] = lI1OI11l000I[1] % lI1OI11l000I[2]; local lOOlOI11I1OO = {92, 56}; lOOlOI11I1OO[1] = 
+lOOlOI11I1OO[1] + lOOlOI11I1OO[2]; local IO1Ioo10l11O = function(IoO1OIIo001o) return IoO1OIIo001o and IoO1OIIo001o or 
+"l0l1o0IloO00" end; local IolI0IO0l10I = {1, 89}; IolI0IO0l10I[1] = IolI0IO0l10I[1] * IolI0IO0l10I[2]; local 
+lIllIOIlol00 = function(II11oI1lo1o0) return II11oI1lo1o0 and II11oI1lo1o0 or "l11Oll1IIloo" end; local loloOlO011Il = 
+function(IIOo01OI1o11) return IIOo01OI1o11 and IIOo01OI1o11 or "Il1olI11l0oI" end; for lIlOIOOIo00I=5, 8 do local 
+I1I10l1OooII = lIlOIOOIo00I * 2; end; for lOOlllOooOol=3, 6 do local I00OlOIoIoIl = lOOlllOooOol * 2; end; if 65 > 196 
+then local loollOloIooO = "IlllI00Io1I1"; end; local IIIO0o1IO0Il = function(lloIIl0010lo) return lloIIl0010lo and 
+lloIIl0010lo or "I1ol1I00O11O" end; for Ioo1OO0loOIO=5, 7 do local IO1O00l11I0O = Ioo1OO0loOIO * 2; end; local 
+IoO00OO0loIO = {89, 36}; IoO00OO0loIO[1] = IoO00OO0loIO[1] - IoO00OO0loIO[2]; local loO10I1oOlO0 = 
+function(l1O1l1l0O1Ol) return l1O1l1l0O1Ol and l1O1l1l0O1Ol or "IO1O0o1OIo00" end; for lo1loOOolIl0=5, 10 do local 
+l0lI1l10O1Il = lo1loOOolIl0 * 2; end; if 31 > 150 then local IOIo0l0lolOI = "l010O00lIll1"; end; local I0Oo0llIlolO = 
+{13, 71}; I0Oo0llIlolO[1] = I0Oo0llIlolO[1] + I0Oo0llIlolO[2]; local I1O1lOl00oo0 = {95, 34}; I1O1lOl00oo0[1] = 
+I1O1lOl00oo0[1] * I1O1lOl00oo0[2]; for l1o1O10lO00o=4, 10 do local I0I0ooI0ol00 = l1o1O10lO00o * 2; end; for 
+lIOOoIOI0Oo0=1, 6 do local IIO01l0O1OOO = lIOOoIOI0Oo0 * 2; end; if 96 > 200 then local I1l1OoII1ol0 = "I1l10Ooo01oo"; 
+end; if 16 > 175 then local lo1o1o00O1O1 = "lOIOIlllOIOl"; end; for IOO1Ol11l0l0=1, 6 do local lOOO1Oll01I0 = 
+IOO1Ol11l0l0 * 2; end; local l101OOl1oo0O = function(IO1ooooO0l1l) return IO1ooooO0l1l and IO1ooooO0l1l or 
+"IoOlII01loO1" end; for l1O10II010lO=5, 9 do local l0Il11ll0O0O = l1O10II010lO * 2; end; if 60 > 179 then local 
+IolOIOI01ooo = "Illlll00ol0o"; end; local IOOoO000II01 = function(IolooOO1OO1o) return IolooOO1OO1o and IolooOO1OO1o or 
+"Io11oIoO1Io0" end; local l101O1lI1o11 = function(IO0llolooolI) return IO0llolooolI and IO0llolooolI or "l0010Ioo00lI" 
+end; if 8 > 139 then local I01Oo1IOlOI1 = "Ilo0o0lOIoI1"; end; local III0O1o1l0I0 = function(IIO0OI0oOOIO) return 
+IIO0OI0oOOIO and IIO0OI0oOOIO or "I0Io11o01II0" end; local l0oI1Ooll010 = {14, 45}; l0oI1Ooll010[1] = l0oI1Ooll010[1] - 
+l0oI1Ooll010[2]; if 90 > 145 then local l1I11OloOlIl = "l0111oO11lIO"; end; local llOlIlO001lI = function(I0Ooll0Io1ll) 
+return I0Ooll0Io1ll and I0Ooll0Io1ll or "IoOo0Il10III" end; local II0l10IIO1lO = {84, 54}; II0l10IIO1lO[1] = 
+II0l10IIO1lO[1] - II0l10IIO1lO[2]; local lOI00O0I0oOl = {92, 83}; lOI00O0I0oOl[1] = lOI00O0I0oOl[1] % lOI00O0I0oOl[2]; 
+local IIoI00ooOIlI = function(IOloo0I1l1I0) return IOloo0I1l1I0 and IOloo0I1l1I0 or "I111l1011IO1" end; for 
+llooo1O0oIO1=2, 7 do local l100IOI00Ooo = llooo1O0oIO1 * 2; end; local Il1Iolol0OI0 = {29, 44}; Il1Iolol0OI0[1] = 
+Il1Iolol0OI0[1] + Il1Iolol0OI0[2]; if 22 > 166 then local Ilolol11o010 = "IOoIIl101OoO"; end; local IO11IoIoll0l = {38, 
+72}; IO11IoIoll0l[1] = IO11IoIoll0l[1] + IO11IoIoll0l[2]; if 18 > 191 then local llo1OOl01O01 = "IoIo1l10Il1I"; end; if 
+93 > 111 then local IoIo1ooIOOoO = "llool1o1Oo1I"; end; local ll0Ill1l0IOO = function(I01IoIOI1OlO) return I01IoIOI1OlO 
+and I01IoIOI1OlO or "llI1IllI11Ol" end; local IOO0l101I0O1 = {45, 99}; IOO0l101I0O1[1] = IOO0l101I0O1[1] % 
+IOO0l101I0O1[2]; local l1Oo0000l01l = {73, 6}; l1Oo0000l01l[1] = l1Oo0000l01l[1] % l1Oo0000l01l[2]; local loOo110O11l1 = 
+function(lI0OIII1o011) return lI0OIII1o011 and lI0OIII1o011 or "lOO10lIool0O" end; if 52 > 139 then local l1Ioo1o0Oool = 
+"lIl0lIIO011l"; end; local lloO0llIoo1l = {27, 27}; lloO0llIoo1l[1] = lloO0llIoo1l[1] - lloO0llIoo1l[2]; local 
+lIOO00ol1OlI = function(lIolIIlIolIo) return lIolIIlIolIo and lIolIIlIolIo or "IolI01l01010" end; local III0IIIoo1ol = 
+function(lIol1OoIOo00) return lIol1OoIOo00 and lIol1OoIOo00 or "IllO0Io1IO0l" end; if 49 > 191 then local I10lI0lIOOIo = 
+"lIllOOlIIOII"; end; for I01olOI10I0O=2, 9 do local lI11Ol1llI1l = I01olOI10I0O * 2; end; local I0lOO0I1IolI = 
+function(loOll1OO1IO1) return loOll1OO1IO1 and loOll1OO1IO1 or "l1lII10IOl0l" end; local I0oO1oO0OO1o = {53, 38}; 
+I0oO1oO0OO1o[1] = I0oO1oO0OO1o[1] * I0oO1oO0OO1o[2]; local IoO10llI1olo = {1, 3}; IoO10llI1olo[1] = IoO10llI1olo[1] % 
+IoO10llI1olo[2]; for lloOl01ol11O=4, 9 do local Io1Olo00lo1o = lloOl01ol11O * 2; end; local llo101lo0100 = {51, 30}; 
+llo101lo0100[1] = llo101lo0100[1] * llo101lo0100[2]; local lI00IIlO0O1o = function(I01lIoIo0ooo) return I01lIoIo0ooo and 
+I01lIoIo0ooo or "IIllollI11Oo" end; if 67 > 182 then local ll1o00olOO10 = "I11oOlo0I00I"; end; if 21 > 194 then local 
+IlOOlIlI111O = "lOO1Ilo10o0O"; end; local Io1I0111I1oo = {52, 99}; Io1I0111I1oo[1] = Io1I0111I1oo[1] % Io1I0111I1oo[2]; 
+local IOl1l0oo1O0o = function(I1I01l0O11l0) return I1I01l0O11l0 and I1I01l0O11l0 or "l1OIll11Illo" end; for 
+lO1oIlIIll0I=3, 6 do local I11I101I1OlI = lO1oIlIIll0I * 2; end; local IO1o0lOllO00 = {15, 2}; IO1o0lOllO00[1] = 
+IO1o0lOllO00[1] - IO1o0lOllO00[2]; for I011ollll0OO=5, 9 do local IOO0loloI1I1 = I011ollll0OO * 2; end; local 
+lIOl0ol010oI = function(IIoOoool1OoI) return IIoOoool1OoI and IIoOoool1OoI or "II10oI11Olo1" end; local l0oIoI11oIIo = 
+{3, 73}; l0oIoI11oIIo[1] = l0oIoI11oIIo[1] % l0oIoI11oIIo[2]; for lloloII01lo1=4, 6 do local lOlI1O01Il00 = lloloII01lo1 
+* 2; end; local IIOI0o0IIl0l = {17, 70}; IIOI0o0IIl0l[1] = IIOI0o0IIl0l[1] % IIOI0o0IIl0l[2]; for loOlo00o001O=1, 9 do 
+local l0o0Illlll1l = loOlo00o001O * 2; end; local lIO001l0lOO1 = function(IloOIo11l0l1) return IloOIo11l0l1 and 
+IloOIo11l0l1 or "I0loolo01l00" end; local lO10llOlIIIl = function(I1100ol0l110) return I1100ol0l110 and I1100ol0l110 or 
+"I1Oll1I1lIOo" end; local l00l1O0lOO10 = {87, 38}; l00l1O0lOO10[1] = l00l1O0lOO10[1] % l00l1O0lOO10[2]; for 
+IlIOOo1Il0lI=2, 10 do local l1lIo0ll0oII = IlIOOo1Il0lI * 2; end; for I1IolO1I0olo=4, 8 do local lllo0l0III1l = 
+I1IolO1I0olo * 2; end; local IooII0ol1lI0 = function(l10oIOI0O001) return l10oIOI0O001 and l10oIOI0O001 or 
+"Il0Ol0II0lOI" end; local lOIoOI0OlIO0 = function(lI0oI0l10I01) return lI0oI0l10I01 and lI0oI0l10I01 or "l10100oOO01O" 
+end; local I1IIool0Oo1I = {67, 55}; I1IIool0Oo1I[1] = I1IIool0Oo1I[1] % I1IIool0Oo1I[2]; if 13 > 169 then local 
+I1oIoIl1oIlI = "I01lI0lOOo0o"; end; local IoI0OIoOo11o = function(loOOoOloIO11) return loOOoOloIO11 and loOOoOloIO11 or 
+"loo1011O01O1" end; local Ioo00lIIo11o = function(lOIIllol00oO) return lOIIllol00oO and lOIIllol00oO or "lO11001lIl0l" 
+end; local loo01OOoO011 = function(lIoII1100IOl) return lIoII1100IOl and lIoII1100IOl or "lol1lI1Ol001" end; local 
+llIOI0OlIlo1 = function(llIIO1I11loo) return llIIO1I11loo and llIIO1I11loo or "l1II1O1oolO0" end; local l00oIO0O1l10 = 
+{60, 72}; l00oIO0O1l10[1] = l00oIO0O1l10[1] % l00oIO0O1l10[2]; local lOIIOOOIol11 = function(l00I1IlOIO0l) return 
+l00I1IlOIO0l and l00I1IlOIO0l or "IIooI11oOIIo" end; local II01oIOOo0ol = function(lloIlOl1II0l) return lloIlOl1II0l and 
+lloIlOl1II0l or "IoIoIO0lolII" end; if 75 > 177 then local I1lII0O1IOo1 = "lO0100ooooo0"; end; local IIol1lI1O10l = 
+function(IO0OI0IOo1Io) return IO0OI0IOo1Io and IO0OI0IOo1Io or "lllO1OOIO0OI" end; if 56 > 136 then local I0o0Oo0O1o0O = 
+"IloIO0lO1Ol1"; end; local Iool0ooOlOo0 = {79, 75}; Iool0ooOlOo0[1] = Iool0ooOlOo0[1] * Iool0ooOlOo0[2]; local 
+I0Iol0l01oIo = function(l0oOI1lI1oOI) return l0oOI1lI1oOI and l0oOI1lI1oOI or "l11O1ll0l0ol" end; local lI0OoOooIoo0 = 
+{91, 91}; lI0OoOooIoo0[1] = lI0OoOooIoo0[1] - lI0OoOooIoo0[2]; local IO1O1IO1IIO1 = {62, 44}; IO1O1IO1IIO1[1] = 
+IO1O1IO1IIO1[1] - IO1O1IO1IIO1[2]; for llo1O00oIIo0=5, 6 do local lOO010OII10o = llo1O00oIIo0 * 2; end; local 
+l10oO0olOIo1 = {92, 66}; l10oO0olOIo1[1] = l10oO0olOIo1[1] - l10oO0olOIo1[2]; local ll0o1IoO0oll = {35, 47}; 
+ll0o1IoO0oll[1] = ll0o1IoO0oll[1] + ll0o1IoO0oll[2]; local l0o1loOo10II = function(l11llIoO100O) return l11llIoO100O and 
+l11llIoO100O or "I10I0oOl11oO" end; for IoI1oo1IolOI=1, 6 do local I1ollooo0lIo = IoI1oo1IolOI * 2; end; if 3 > 140 then 
+local I0o0oOoo1O0I = "Io0llIlOlllI"; end; local l1100l1O1l10 = {57, 71}; l1100l1O1l10[1] = l1100l1O1l10[1] * 
+l1100l1O1l10[2]; if 48 > 144 then local I1Ioo1l1IlO1 = "lIIoIIo10oO1"; end; if 17 > 160 then local l1OoO0olo110 = 
+"IlIlOol1o00I"; end; for I0oIIOI101IO=3, 10 do local l0l10ll1IO01 = I0oIIOI101IO * 2; end; if 62 > 143 then local 
+lI00lll001lo = "I10l10lol11O"; end; if 99 > 117 then local I1IOOI0oI0OO = "lOolIo001loO"; end; local I1lI00lllI1O = {22, 
+73}; I1lI00lllI1O[1] = I1lI00lllI1O[1] % I1lI00lllI1O[2]; local I1I1Io0oO1lI = function(III00I0I0OI1) return 
+III00I0I0OI1 and III00I0I0OI1 or "l01lIIoo0o11" end; for Io0o1OIlIlO1=1, 8 do local l1I0IloIOoIo = Io0o1OIlIlO1 * 2; 
+end; local IO10Il1I0l1O = function(IolO1o01l1ol) return IolO1o01l1ol and IolO1o01l1ol or "Io1OlO1oIO0o" end; local 
+lo11IIo1I11O = function(llo0I1I10l1o) return llo0I1I10l1o and llo0I1I10l1o or "l0101oIloO1o" end; local Il0IoO1oO10l = 
+function(loooI00IO10o) return loooI00IO10o and loooI00IO10o or "Io0O0I01oIOI" end; local l11IoI0Oloo0 = {60, 37}; 
+l11IoI0Oloo0[1] = l11IoI0Oloo0[1] - l11IoI0Oloo0[2]; local loOoooI00l0I = function(l1OOOlIIOl1l) return l1OOOlIIOl1l and 
+l1OOOlIIOl1l or "l1Il1Ol1o0o1" end; local llloI00oloOo = {35, 5}; llloI00oloOo[1] = llloI00oloOo[1] % llloI00oloOo[2]; 
+local Io0O0ooo0ll1 = function(IOl0O01O1IOl) return IOl0O01O1IOl and IOl0O01O1IOl or "l1I110oloI0o" end; for 
+IoIOoOl1lo0I=3, 7 do local IOOoOo1ll1Ol = IoIOoOl1lo0I * 2; end; local I1ooOl0Ool00 = function(I01lO01Oll00) return 
+I01lO01Oll00 and I01lO01Oll00 or "l10Ill0l01l1" end; local I11I1Ill00ll = function(I0o1I0o0OOlo) return I0o1I0o0OOlo and 
+I0o1I0o0OOlo or "IO1ll1lI01O1" end; local Io00ll11O11O = {24, 54}; Io00ll11O11O[1] = Io00ll11O11O[1] * Io00ll11O11O[2]; 
+if 66 > 142 then local lIo1o0OOIO0o = "lIo1llolI1O1"; end; local IOOIoOIO1OII = function(I0O1O0Oll1IO) return 
+I0O1O0Oll1IO and I0O1O0Oll1IO or "I0loo0lo011O" end; if 11 > 200 then local I01O1lOlIIlO = "l010110oll00"; end; local 
+lI0oo1II0o1O = {20, 91}; lI0oo1II0o1O[1] = lI0oo1II0o1O[1] % lI0oo1II0o1O[2]; local l1olOo0IIl1o = {74, 26}; 
+l1olOo0IIl1o[1] = l1olOo0IIl1o[1] + l1olOo0IIl1o[2]; local lOOloO1oI0I0 = {76, 67}; lOOloO1oI0I0[1] = lOOloO1oI0I0[1] % 
+lOOloO1oI0I0[2]; for l01IloOo1loO=3, 7 do local I011l0I1I0II = l01IloOo1loO * 2; end; local loo10ll1ll1O = 
+function(Io0011o0OOI0) return Io0011o0OOI0 and Io0011o0OOI0 or "lIO0lOoIIOoI" end; local IIo1I1II0O1l = 
+function(l0O1l1IO1IO0) return l0O1l1IO1IO0 and l0O1l1IO1IO0 or "I101O1IoOOI1" end; local l00olO10O1ll = 
+function(Ioooo1Ol0IO1) return Ioooo1Ol0IO1 and Ioooo1Ol0IO1 or "Io10Io0OIolO" end; local loO0Ooo1loI0 = 
+function(IolOooI1OIIO) return IolOooI1OIIO and IolOooI1OIIO or "loll0l000IoO" end; local I00O0IIOlOl0 = 
+function(l1oII00oO10o) return l1oII00oO10o and l1oII00oO10o or "l0Oo01Oo01O0" end; local Il1111olll1o = 
+function(l0oO1o1II1O1) return l0oO1o1II1O1 and l0oO1o1II1O1 or "lIol000lIo1O" end; local lOoOIIlOI00O = 
+function(lo00l01l0ol0) return lo00l01l0ol0 and lo00l01l0ol0 or "looloOOOIIIo" end; local IIOIl11101ll = 
+function(lloIIl1o1Il1) return lloIIl1o1Il1 and lloIIl1o1Il1 or "l0O1ooOol1O1" end; for l1lI0OoIl1o1=5, 10 do local 
+IllI0ol0O0oI = l1lI0OoIl1o1 * 2; end; for I10oI0IllllO=4, 9 do local l0oIo00IoOI1 = I10oI0IllllO * 2; end; local 
+lOl1I0lIo011 = {44, 47}; lOl1I0lIo011[1] = lOl1I0lIo011[1] + lOl1I0lIo011[2]; local lo1IloIoo10O = 
+function(lO1oOIOll0Il) return lO1oOIOll0Il and lO1oOIOll0Il or "l100IO0IIO0l" end; local IoIlIlOOoIIO = 
+function(I1IIO0I1l0II) return I1IIO0I1l0II and I1IIO0I1l0II or "Io0o1ll01O0I" end; local lIO1III1ll01 = 
+function(Il00OI01lOo0) return Il00OI01lOo0 and Il00OI01lOo0 or "I0I1oI0IO0lo" end; local I0IloOo0Il11 = 
+function(lO0OO0oII1I1) return lO0OO0oII1I1 and lO0OO0oII1I1 or "IOo0oloOO10o" end; local l0o100OllIlo = 
+function(llo0IIoO000o) return llo0IIoO000o and llo0IIoO000o or "I0lI0I0Il0lo" end; local lOooo10ll1O1 = {88, 12}; 
+lOooo10ll1O1[1] = lOooo10ll1O1[1] + lOooo10ll1O1[2]; local I0Ool0llo10O = function(IloOlol10o1l) return IloOlol10o1l and 
+IloOlol10o1l or "I1oolO0O1100" end; for lo01I0OIIll0=1, 9 do local l10o1O0O11OI = lo01I0OIIll0 * 2; end; if 76 > 163 
+then local IIlOlo01olIl = "I1Io11o0Oo00"; end; local IOIlOOol01o0 = {27, 71}; IOIlOOol01o0[1] = IOIlOOol01o0[1] - 
+IOIlOOol01o0[2]; local I1Io1l11olll = {73, 35}; I1Io1l11olll[1] = I1Io1l11olll[1] * I1Io1l11olll[2]; local Il0O1I10Ol1l 
+= function(I0l1lOlo1IoO) return I0l1lOlo1IoO and I0l1lOlo1IoO or "l1l0O01OoOoO" end; if 83 > 134 then local l00I011l1OoO 
+= "II111O10IOl0"; end; if 36 > 122 then local IolIIlOI01OI = "lO1o1OI11OOl"; end; local lolIol11IIO1 = {64, 91}; 
+lolIol11IIO1[1] = lolIol11IIO1[1] % lolIol11IIO1[2]; if 24 > 181 then local IOIIOIlIOllI = "lllI0I1I1Ol0"; end; for 
+I1l00O0l1oo0=5, 9 do local l00O10l0IlI0 = I1l00O0l1oo0 * 2; end; if 8 > 181 then local Ioo0o0l0I1IO = "IoO0O0oO11I0"; 
+end; if 51 > 163 then local IOOl01IOoIoo = "Io00lO1IIl1o"; end; local Illl0IO10I00 = function(lOO1oO1IlIol) return 
+lOO1oO1IlIol and lOO1oO1IlIol or "lO1I11oIIO01" end; if 4 > 175 then local Iol1o00000Io = "II0IllIlOloo"; end; for 
+loOoIIO11O1o=1, 8 do local I100IooOollI = loOoIIO11O1o * 2; end; if 33 > 195 then local I111ol011oO0 = "loO01OllI110"; 
+end; local I01olOOo1IIO = function(l0O01l1o0IoO) return l0O01l1o0IoO and l0O01l1o0IoO or "I000OOOOoIoO" end; local 
+l0olIOOO1IoO = {65, 90}; l0olIOOO1IoO[1] = l0olIOOO1IoO[1] + l0olIOOO1IoO[2]; if 63 > 140 then local llo1lol00Iol = 
+"I11l0l1o110I"; end; if 52 > 108 then local Il101O1lIIll = "IolIl1Oo1o1l"; end; if 20 > 107 then local Iol11llIoOIo = 
+"l01ll0OOllll"; end; if 53 > 178 then local I11o1lI0IOII = "ll100II11O10"; end; for l0IIl0Ol0o0I=2, 7 do local 
+IO0l1IIIOOOo = l0IIl0Ol0o0I * 2; end; for IOo0O0II11Oo=4, 7 do local llIlI0lOolOI = IOo0O0II11Oo * 2; end; for 
+IIool10OI1lO=4, 7 do local llo01lIlo00O = IIool10OI1lO * 2; end; if 95 > 110 then local l0I1oO1IOOlo = "lOOO0o0I01II"; 
+end; local Io01lloOol0l = function(IlO0oI11lol1) return IlO0oI11lol1 and IlO0oI11lol1 or "Iollo1lloO01" end; if 1 > 146 
+then local l0Iol1Io1lOO = "lool1oIl1loo"; end; local IOo1ol101lOI = {90, 13}; IOo1ol101lOI[1] = IOo1ol101lOI[1] % 
+IOo1ol101lOI[2]; for IIll0lO11110=2, 7 do local Io1I0IOo1Io0 = IIll0lO11110 * 2; end; for lIOo0ollolO0=5, 8 do local 
+lIOOI1I1o1ll = lIOo0ollolO0 * 2; end; for IoooIOl0ollo=2, 7 do local lIIOl1Iol0Oo = IoooIOl0ollo * 2; end; local 
+l0IlooIloo1I = {84, 62}; l0IlooIloo1I[1] = l0IlooIloo1I[1] + l0IlooIloo1I[2]; if 65 > 182 then local IIlooO100oOl = 
+"I0010o1oo010"; end; local IO1OIOOll1O1 = function(IO01I00l10O1) return IO01I00l10O1 and IO01I00l10O1 or "lll1Iol0OloO" 
+end; for I10O0OoolO1I=5, 10 do local Ioo0Il11OO10 = I10O0OoolO1I * 2; end; local I11lolo01010 = function(IIlII1oI1o11) 
+return IIlII1oI1o11 and IIlII1oI1o11 or "I0IoOO0O01oO" end; for I11OoIo0oI0I=4, 10 do local IOIllII0l101 = I11OoIo0oI0I 
+* 2; end; local IO1o1l1O0l00 = {98, 32}; IO1o1l1O0l00[1] = IO1o1l1O0l00[1] + IO1o1l1O0l00[2]; if 88 > 175 then local 
+Il0OlOo1oO10 = "IO1IOooI0OoO"; end; if 90 > 185 then local lOlI11o1o00O = "IO0010l1o1Il"; end; local lo0O010ol1o0 = {10, 
+35}; lo0O010ol1o0[1] = lo0O010ol1o0[1] + lo0O010ol1o0[2]; if 37 > 170 then local l0O1oOIOlO0I = "IlOOllOIOolo"; end; 
+local l0O10l011O0I = function(I001o1olo011) return I001o1olo011 and I001o1olo011 or "lI00o1oIl111" end; if 46 > 195 then 
+local Ilool1IOoOI0 = "IOI1lIOlI0I1"; end; local IOI10oIooloI = function(l0l101lol11l) return l0l101lol11l and 
+l0l101lol11l or "llI0lIO0llo0" end; for lOl1oOlO11I1=5, 10 do local lO1O10ll1IOO = lOl1oOlO11I1 * 2; end; local 
+l10I11IOO011 = {82, 61}; l10I11IOO011[1] = l10I11IOO011[1] - l10I11IOO011[2]; local IoIl1olO011O = 
+function(l1OlOIolloO0) return l1OlOIolloO0 and l1OlOIolloO0 or "IIlll1o1I01l" end; local I10oIlloO1IO = {25, 86}; 
+I10oIlloO1IO[1] = I10oIlloO1IO[1] - I10oIlloO1IO[2]; if 19 > 175 then local lolIl0oOIl00 = "l0l0OIO11l10"; end; local 
+IOl11lOIlO1O = function(IolooIl0OIll) return IolooIl0OIll and IolooIl0OIll or "II01o0IO0oo1" end; for II00I0OI11lo=2, 8 
+do local IO1OoO10oO1o = II00I0OI11lo * 2; end; local llOloOl1lloo = function(lo0OoI0Ilo1O) return lo0OoI0Ilo1O and 
+lo0OoI0Ilo1O or "loOO1ol1O1O0" end; local lOIIO0OoO1ll = {22, 25}; lOIIO0OoO1ll[1] = lOIIO0OoO1ll[1] - lOIIO0OoO1ll[2]; 
+for lIOII0Ol010o=2, 7 do local l1I1000oo0oo = lIOII0Ol010o * 2; end; if 61 > 109 then local IOoo10oolo00 = 
+"l0OO1OolIOIl"; end; for l01oI1lIoIII=3, 8 do local Iol0Io0110l0 = l01oI1lIoIII * 2; end; for I00IIoIIl1lO=4, 8 do local 
+l01o1lI10llo = I00IIoIIl1lO * 2; end; for IOOI01oOlIOl=5, 7 do local lI0l1OIo1l11 = IOOI01oOlIOl * 2; end; if 31 > 173 
+then local lo0I00ooI0oO = "loI1I1OIl0lO"; end; if 73 > 137 then local ll100O1OOlol = "I1IOIOl0OI00"; end; for 
+I1001IO0Io1I=3, 9 do local IO1lOIII110O = I1001IO0Io1I * 2; end; local I0oOl11OOI10 = {80, 53}; I0oOl11OOI10[1] = 
+I0oOl11OOI10[1] + I0oOl11OOI10[2]; if 58 > 180 then local lOO00o0Ooloo = "llIIOI00oo0l"; end; local loo0I10Oo1ll = {96, 
+89}; loo0I10Oo1ll[1] = loo0I10Oo1ll[1] - loo0I10Oo1ll[2]; local lloOI11OO0O0 = {75, 52}; lloOI11OO0O0[1] = 
+lloOI11OO0O0[1] * lloOI11OO0O0[2]; local l100l0Oo10Ol = function(lOOI011O0l0I) return lOOI011O0l0I and lOOI011O0l0I or 
+"loIOI0ol0oOO" end; if 90 > 128 then local l0OIllOIIolo = "I11l00IOI01O"; end; local I0IIlOll1oI1 = 
+function(l00o01olO0oO) return l00o01olO0oO and l00o01olO0oO or "loll00I0IOl1" end; local IOI0o1OoIol0 = {24, 28}; 
+IOI0o1OoIol0[1] = IOI0o1OoIol0[1] - IOI0o1OoIol0[2]; if 63 > 172 then local llIoO10OoIoI = "l1O1o0l1I0oo"; end; if 46 > 
+167 then local I1lI0ll11000 = "Il11III0oIlO"; end; local lO0IlIOO0O1l = function(lO0oI011OOIO) return lO0oI011OOIO and 
+lO0oI011OOIO or "lI0OlOIO01Oo" end; local lolIOO0l1IOo = {84, 64}; lolIOO0l1IOo[1] = lolIOO0l1IOo[1] % lolIOO0l1IOo[2]; 
+for lIlIo0oI1Ioo=4, 7 do local IloOo00OlOlO = lIlIo0oI1Ioo * 2; end; local l1oIIOOlIII0 = {43, 68}; l1oIIOOlIII0[1] = 
+l1oIIOOlIII0[1] - l1oIIOOlIII0[2]; for l11Ol0l11l1o=5, 8 do local lo0lIOooo1Io = l11Ol0l11l1o * 2; end; for 
+I110Ioo1loI1=2, 10 do local l01lll1oI0I0 = I110Ioo1loI1 * 2; end; for llollOol011I=1, 7 do local l1I1l0lII101 = 
+llollOol011I * 2; end; for I1lIIo1oI01l=5, 7 do local IlOIlololOOo = I1lIIo1oI01l * 2; end; for llo1oo1lll0l=2, 6 do 
+local llIIIloOOo0o = llo1oo1lll0l * 2; end; if 63 > 160 then local lI01o0o1I1Io = "lo0oO111l1Oo"; end; local 
+lIOoolll10Ol = {13, 5}; lIOoolll10Ol[1] = lIOoolll10Ol[1] * lIOoolll10Ol[2]; local IIoI1l1llIIo = {85, 58}; 
+IIoI1l1llIIo[1] = IIoI1l1llIIo[1] * IIoI1l1llIIo[2]; if 87 > 170 then local lOlOIoo1I0lI = "IIIOOl00Il1O"; end; local 
+l0OOoO10OOIO = function(I0ll1Olll0l1) return I0ll1Olll0l1 and I0ll1Olll0l1 or "llll0Ooo0l01" end; local lO1oo011l00I = 
+{37, 79}; lO1oo011l00I[1] = lO1oo011l00I[1] + lO1oo011l00I[2]; local IloooI0OO1Oo = {67, 1}; IloooI0OO1Oo[1] = 
+IloooI0OO1Oo[1] * IloooI0OO1Oo[2]; local lI1ol1IIO011 = function(l1Ol1IIIOoO1) return l1Ol1IIIOoO1 and l1Ol1IIIOoO1 or 
+"Io1oIIllIo10" end; local lI0II1OO111I = function(IlI1oII0l10I) return IlI1oII0l10I and IlI1oII0l10I or "lo111IIIIlI0" 
+end; local l0lOoO0oIo0o = function(lOII00oOI1ll) return lOII00oOI1ll and lOII00oOI1ll or "lolOo00IIO0O" end; if 49 > 190 
+then local IllIOOo1lO10 = "lOOo1OlIOlIl"; end; local IIOlO0I11O1l = {68, 35}; IIOlO0I11O1l[1] = IIOlO0I11O1l[1] * 
+IIOlO0I11O1l[2]; for IIl0Ol0OoO0I=3, 7 do local I1o00ooOoO0l = IIl0Ol0OoO0I * 2; end; local Il010I1IIoOl = {92, 9}; 
+Il010I1IIoOl[1] = Il010I1IIoOl[1] % Il010I1IIoOl[2]; local llI1O1llo1OI = function(Io000loIOoo1) return Io000loIOoo1 and 
+Io000loIOoo1 or "lIl000Ooolo0" end; if 25 > 192 then local lO1lI1OlIOoo = "lIOI0lIIoOlo"; end; if 89 > 153 then local 
+l1l0loo1011I = "lIlll1I0I00o"; end; for Il01110oIoIO=5, 6 do local lI0oIO0oIl0I = Il01110oIoIO * 2; end; if 4 > 125 then 
+local ll0IO1I0lI1O = "Iol1lIl0oIIl"; end; if 94 > 151 then local lIo1loIIOIo1 = "loO011Ooo0Il"; end; for IIo0OIlI1I11=4, 
+9 do local IlllOloolo1o = IIo0OIlI1I11 * 2; end; for lIOoOlol10oI=5, 9 do local Io0o1I1o0OIl = lIOoOlol10oI * 2; end; 
+local lI0oIol000Ol = {61, 3}; lI0oIol000Ol[1] = lI0oIol000Ol[1] + lI0oIol000Ol[2]; local IIoI0100loOl = 
+function(I01lOI0I011l) return I01lOI0I011l and I01lOI0I011l or "IoO0O0lll1Oo" end; for IOl1o1o0ol00=5, 7 do local 
+Il1I0ooo00o0 = IOl1o1o0ol00 * 2; end; local l101O0010I1o = {54, 36}; l101O0010I1o[1] = l101O0010I1o[1] - 
+l101O0010I1o[2]; local Il00l1OoolI1 = {71, 2}; Il00l1OoolI1[1] = Il00l1OoolI1[1] + Il00l1OoolI1[2]; local l001l10OoIoI = 
+{18, 22}; l001l10OoIoI[1] = l001l10OoIoI[1] + l001l10OoIoI[2]; local IlO11I00IIOO = {52, 30}; IlO11I00IIOO[1] = 
+IlO11I00IIOO[1] * IlO11I00IIOO[2]; if 42 > 152 then local I1O0l0lIO1O1 = "llOoOlIIooIO"; end; if 76 > 134 then local 
+lOooOOO1Ol00 = "II0lO0I0OIll"; end; local l1IO1OO100ol = {87, 38}; l1IO1OO100ol[1] = l1IO1OO100ol[1] % l1IO1OO100ol[2]; 
+if 49 > 124 then local loIoloO0Ol1I = "l0l11OIOo1I1"; end; for lIll01IoIoOI=5, 8 do local IIOOoolI11o1 = lIll01IoIoOI * 
+2; end; local IIl0IIOOl0Il = {81, 35}; IIl0IIOOl0Il[1] = IIl0IIOOl0Il[1] + IIl0IIOOl0Il[2]; if 72 > 142 then local 
+IOIl00Oo0IOo = "IOI01lo1O110"; end; for IlIlO000OIIO=3, 10 do local l00oo1Ol1OO0 = IlIlO000OIIO * 2; end; local 
+II0lIoOO1I10 = function(I11l000o0lll) return I11l000o0lll and I11l000o0lll or "l1oo1IIIII00" end; for IIl0I10011o1=3, 6 
+do local lIlOOIlOOl11 = IIl0I10011o1 * 2; end; for I0IIlOoII1I0=3, 7 do local lo0IlO0ol0lo = I0IIlOoII1I0 * 2; end; for 
+IO001O0l1010=4, 10 do local llloI1OololI = IO001O0l1010 * 2; end; local I010o0I1oolI = {17, 17}; I010o0I1oolI[1] = 
+I010o0I1oolI[1] + I010o0I1oolI[2]; if 87 > 183 then local l0ol011ool0I = "lOO1oOO0IIO1"; end; if 12 > 128 then local 
+l1lIooo1oOl0 = "IO0l0Ol0lOoI"; end; local I10llIOOO00I = function(I0000ol01l0o) return I0000ol01l0o and I0000ol01l0o or 
+"lIlllllIIOII" end; local loI0oIoIolIl = {51, 10}; loI0oIoIolIl[1] = loI0oIoIolIl[1] % loI0oIoIolIl[2]; local 
+looOOI0000OO = {87, 54}; looOOI0000OO[1] = looOOI0000OO[1] - looOOI0000OO[2]; local Io0OI00Oo0O1 = {37, 92}; 
+Io0OI00Oo0O1[1] = Io0OI00Oo0O1[1] % Io0OI00Oo0O1[2]; local l11000OOoIOo = {3, 72}; l11000OOoIOo[1] = l11000OOoIOo[1] % 
+l11000OOoIOo[2]; local IoIIIO0O0l0I = function(lOooIO0OoI1I) return lOooIO0OoI1I and lOooIO0OoI1I or "llII0IIl0lo0" end; 
+if 36 > 132 then local lOI1ol0oO0O1 = "ll10OOIOoOII"; end; local Il0IOl01Oo10 = {46, 42}; Il0IOl01Oo10[1] = 
+Il0IOl01Oo10[1] - Il0IOl01Oo10[2]; local Il01lIl0loI1 = function(I0lOo011O0l0) return I0lOo011O0l0 and I0lOo011O0l0 or 
+"II0000l1OoOo" end; for l111oI1o11o0=3, 7 do local I11I0oIlOO11 = l111oI1o11o0 * 2; end; for I00l00IoIIOI=1, 10 do local 
+loI0I100Ill0 = I00l00IoIIOI * 2; end; local lOo1l1O1l0Il = function(IlIol011o0oo) return IlIol011o0oo and IlIol011o0oo 
+or "II0OoloOOO11" end; if 51 > 133 then local llI0O0ol000o = "lo11Olll01Io"; end; if 65 > 101 then local IIoo0lo1ll1I = 
+"l1IO01oOOoOo"; end; if 64 > 168 then local IO1I0Ooolo1I = "lOI1oO1oIllo"; end; local lo00lI101O1o = 
+function(IlIl1OOIIOoo) return IlIl1OOIIOoo and IlIl1OOIIOoo or "lIo1OlO100ll" end; if 74 > 196 then local I1lI00oIlI0I = 
+"I010loo0lllO"; end; local lololOl10IIo = {93, 72}; lololOl10IIo[1] = lololOl10IIo[1] + lololOl10IIo[2]; local 
+IO1IOI0o1O0O = function(I0l0o0oI1O1I) return I0l0o0oI1O1I and I0l0o0oI1O1I or "llO00lolO11l" end; for I001000OlOO1=1, 10 
+do local Iolo1O0oO0I0 = I001000OlOO1 * 2; end; if 68 > 113 then local l00llOol01Oo = "l11II1O1oOl1"; end; if 9 > 162 
+then local Il1I1Io0l01O = "Il0Iooo00Io1"; end; local Io1lOIlIoIOO = function(IlOIollO11O0) return IlOIollO11O0 and 
+IlOIollO11O0 or "IoooloI0ollO" end; local lI0lOl0OllI1 = {20, 58}; lI0lOl0OllI1[1] = lI0lOl0OllI1[1] % lI0lOl0OllI1[2]; 
+for I01l00OIOo1l=5, 9 do local I1I1o0IlO101 = I01l00OIOo1l * 2; end; for ll0ol001o110=2, 9 do local l0Ol111oO10I = 
+ll0ol001o110 * 2; end; local l0O10o1Il1OO = {87, 1}; l0O10o1Il1OO[1] = l0O10o1Il1OO[1] - l0O10o1Il1OO[2]; local 
+llIIII1II1lI = function(l10Olo0OI1O0) return l10Olo0OI1O0 and l10Olo0OI1O0 or "lOl00ol1Ill0" end; if 93 > 142 then local 
+l0o1OOOO00Io = "I0o10O00loo0"; end; for l0oo1llI00O0=4, 8 do local I0I1oo1I1011 = l0oo1llI00O0 * 2; end; if 87 > 119 
+then local lIo111O00II1 = "IOoOOO1oIl10"; end; if 98 > 143 then local I1O0lOlo0Oll = "I1IloOIl0l1l"; end; for 
+lII0oI0II1OO=4, 6 do local IO0oI0IOOO01 = lII0oI0II1OO * 2; end; if 93 > 173 then local IololII1lIo1 = "lII1oOII01OO"; 
+end; local l00o1OooI0ol = {64, 78}; l00o1OooI0ol[1] = l00o1OooI0ol[1] * l00o1OooI0ol[2]; if 22 > 171 then local 
+ll01O1IloII0 = "ll0o1Io1l10O"; end; local lOIo0OIl1O0I = function(l1l11IO000lo) return l1l11IO000lo and l1l11IO000lo or 
+"l0o1I010IllI" end; local IlIIO0Oo1I1O = function(II1o11I1101l) return II1o11I1101l and II1o11I1101l or "l011OOll1Il0" 
+end; if 76 > 174 then local l0oloOol01Il = "ll10OOIoOll1"; end; for Io0IIOll1Ilo=2, 8 do local I1IIl1I10IIo = 
+Io0IIOll1Ilo * 2; end; local l1o0111Ol0Oo = function(loIIllOo1loI) return loIIllOo1loI and loIIllOo1loI or 
+"loOIO0llo1o0" end; if 28 > 132 then local l1I1oolloO1I = "lIl01l0o11II"; end; for llO1OIlooO10=5, 6 do local 
+lIOIIoOOlOlI = llO1OIlooO10 * 2; end; if 8 > 180 then local IoI1I0Il11Io = "lOoIlO1Iolol"; end; if 2 > 123 then local 
+lOoIlO01oO1o = "lloO0O10OOI1"; end; if 20 > 183 then local l1O0lOll1IO0 = "lOl0OOlIOl00"; end; local lIO1o1Ol1I10 = 
+function(l0IOOI0Ol1II) return l0IOOI0Ol1II and l0IOOI0Ol1II or "II100OlOO010" end; if 100 > 137 then local IO0l1Oll0loo 
+= "ll1l0oI1l0oo"; end; for l111II1Il0ll=2, 6 do local IlI0O1l0I1lO = l111II1Il0ll * 2; end; for lIlooIIOII1O=5, 7 do 
+local lI1OI1Oo0IO1 = lIlooIIOII1O * 2; end; if 27 > 153 then local I1llIol110OI = "lOI0IIo0oI0I"; end; local 
+I1IOo10olOoO = function(Il00IO01IO01) return Il00IO01IO01 and Il00IO01IO01 or "I01O1l00OOl0" end; if 23 > 109 then local 
+lOOIlI0Ill1I = "l00o10Ol10Oo"; end; if 39 > 178 then local l101OoIOOOII = "lI1l0I1lo10o"; end; local lllIIIO1O0Io = 
+function(I0lIoI00olIl) return I0lIoI00olIl and I0lIoI00olIl or "l1olO10010lO" end; if 19 > 129 then local I0ooIlOIOoOI = 
+"I10OOoI0OoO1"; end; local l1l1II1IlllI = {60, 10}; l1l1II1IlllI[1] = l1l1II1IlllI[1] * l1l1II1IlllI[2]; local 
+l1l0loooIo1o = function(Il10oO0o0IOl) return Il10oO0o0IOl and Il10oO0o0IOl or "lOlOIO1OIIoO" end; if 61 > 158 then local 
+IlOI11ooo11o = "IoooIl1oI1oo"; end; local IO0l0l0OIIOo = function(lll1OoooOlo1) return lll1OoooOlo1 and lll1OoooOlo1 or 
+"lOOOl1O1lO00" end; if 58 > 105 then local lol1010ooIol = "IIOOOIoII0oo"; end; local I10Ooo10ll1I = {80, 14}; 
+I10Ooo10ll1I[1] = I10Ooo10ll1I[1] + I10Ooo10ll1I[2]; local l0IoIIolO010 = {55, 74}; l0IoIIolO010[1] = l0IoIIolO010[1] - 
+l0IoIIolO010[2]; for IIIl0oIOI0ll=1, 6 do local lIlOloI0l1O0 = IIIl0oIOI0ll * 2; end; local Illl1IOOOOll = 
+function(I00OlO010IIO) return I00OlO010IIO and I00OlO010IIO or "lOOlIll1010I" end; for IOllI1I0IlO1=4, 8 do local 
+I00lol10II00 = IOllI1I0IlO1 * 2; end; if 40 > 144 then local l001lIll0IIo = "ll0ol0l1O1ll"; end; local IO01lOloo1I1 = 
+{47, 38}; IO01lOloo1I1[1] = IO01lOloo1I1[1] * IO01lOloo1I1[2]; local l1o0O00lOI10 = function(lo1o1Ioo0Ool) return 
+lo1o1Ioo0Ool and lo1o1Ioo0Ool or "I101llO00II0" end; local l10IoOl1oIOO = function(I0l0oI0IOlo0) return I0l0oI0IOlo0 and 
+I0l0oI0IOlo0 or "IO01OOIO1l1o" end; for IOI0ol101llo=1, 7 do local Io1ol01Ooooo = IOI0ol101llo * 2; end; local 
+lIl010I1O11l = {34, 46}; lIl010I1O11l[1] = lIl010I1O11l[1] * lIl010I1O11l[2]; local III01ol011lO = {23, 39}; 
+III01ol011lO[1] = III01ol011lO[1] * III01ol011lO[2]; for IoI0o01oooOl=3, 6 do local IO0OO0olo0lI = IoI0o01oooOl * 2; 
+end; local IOooOOoO0Oll = {42, 93}; IOooOOoO0Oll[1] = IOooOOoO0Oll[1] - IOooOOoO0Oll[2]; local l000ol0101IO = 
+function(l0oI0OoIo100) return l0oI0OoIo100 and l0oI0OoIo100 or "lI010O1O1IoO" end; local l0O1loIIl0ol = {70, 95}; 
+l0O1loIIl0ol[1] = l0O1loIIl0ol[1] - l0O1loIIl0ol[2]; for I0o0O1lOlOlI=5, 6 do local Ill1llI1Oo11 = I0o0O1lOlOlI * 2; 
+end; local l111l1lIoO1o = function(llo1lolOoIIl) return llo1lolOoIIl and llo1lolOoIIl or "I0lIlo0I0oo0" end; local 
+IIOOIOo0o0oO = {58, 31}; IIOOIOo0o0oO[1] = IIOOIOo0o0oO[1] + IIOOIOo0o0oO[2]; local l11OIoo1ooOI = 
+function(I1oIIlo0IO0l) return I1oIIlo0IO0l and I1oIIlo0IO0l or "l0OIlIOOIlo0" end; if 43 > 151 then local l10loIl010I1 = 
+"Ilo0011101lI"; end; local Io0loI0111I0 = function(l1lIl0OOOll0) return l1lIl0OOOll0 and l1lIl0OOOll0 or "IoollOOI0l1l" 
+end; local lOOoOlI010oo = {74, 60}; lOOoOlI010oo[1] = lOOoOlI010oo[1] - lOOoOlI010oo[2]; if 73 > 152 then local 
+IOoIOloI11IO = "lI0l0OOIll10"; end; local lo0ol1OoIoIl = function(l01101000O1O) return l01101000O1O and l01101000O1O or 
+"lIOOol11101O" end; if 31 > 195 then local llllIIlI0ll1 = "lOOOO0o0lo1o"; end; local IlIIllIIllIl = bit32 and bit32.bxor 
+or function(a,b) local p,c=1,0 while a>0 and b>0 do local ra,rb=a%2,b%2 if ra~=rb then c=c+p end 
+a,b,p=(a-ra)/2,(b-rb)/2,p*2 end if a<b then a=b end while a>0 do local ra=a%2 if ra>0 then c=c+p end a,p=(a-ra)/2,p*2 
+end return c end; local lIIllIlIIllI = {129,131,120,127,133,57,51,89,116,125,125,126,49,102,126,131,125,117,48,51,56}; 
+local llIlIIllIlII = ((1043 * 2 + 0) - 1957); local IlIlIlIlIlIl = ((2189 * 2 + 1) - 4235); local lOIIIII1l0l1 = {77, 
+92}; lOIIIII1l0l1[1] = lOIIIII1l0l1[1] % lOIIIII1l0l1[2]; if 79 > 151 then local lOo110000olO = "llooolI1Il0I"; end; 
+local I1I1Oo0Illl1 = function(ll0O0l1oI0lI) return ll0O0l1oI0lI and ll0O0l1oI0lI or "loOlloO0I1Io" end; if 12 > 175 then 
+local lo1O1ooOoo0O = "IoO1lI1ol101"; end; if 89 > 103 then local lI1o0I0IIoOl = "l0II00ll100l"; end; for l1l0O0lOlO01=1, 
+9 do local I1ol0oolo0Io = l1l0O0lOlO01 * 2; end; local I0I0IIO1loI1 = function(I110O10Oo0oI) return I110O10Oo0oI and 
+I110O10Oo0oI or "IlOIo0II01Ol" end; local lol0I111looo = {8, 61}; lol0I111looo[1] = lol0I111looo[1] + lol0I111looo[2]; 
+local Illll11oII0I = {32, 3}; Illll11oII0I[1] = Illll11oII0I[1] * Illll11oII0I[2]; local IlIIOl0lO1lI = 
+function(IlI0I1Oo1Il1) return IlI0I1Oo1Il1 and IlI0I1Oo1Il1 or "Iol0I00010OO" end; local I011oOll010I = 
+function(I11o0oO0I0OO) return I11o0oO0I0OO and I11o0oO0I0OO or "lloOlOIolO0I" end; if 16 > 143 then local IoI010O1lI0O = 
+"I1OoOol0o0I1"; end; local IIol1O11Ooll = function(I01OO0o01010) return I01OO0o01010 and I01OO0o01010 or "I01l00O10o0l" 
+end; if 30 > 195 then local lI00olIo0llo = "lII10I0O0ll1"; end; local llIIo111oOI1 = {33, 16}; llIIo111oOI1[1] = 
+llIIo111oOI1[1] + llIIo111oOI1[2]; local I0o01llO1loo = {1, 34}; I0o01llO1loo[1] = I0o01llO1loo[1] - I0o01llO1loo[2]; 
+for ll1loO10o11o=1, 10 do local lll0IlIlI1Ol = ll1loO10o11o * 2; end; if 76 > 119 then local l1l00Ool0lll = 
+"lIol00lI1110"; end; if 89 > 190 then local I101OOIO0ol1 = "IIO0llOlIO1I"; end; local ll0I1I01OoIl = 
+function(ll01110IOOIl) return ll01110IOOIl and ll01110IOOIl or "lIOooI0OOl0l" end; local Il0o11II111I = {82, 25}; 
+Il0o11II111I[1] = Il0o11II111I[1] * Il0o11II111I[2]; if 37 > 125 then local l0I0I0lOoo11 = "lIOIOo011loI"; end; local 
+l0llo1lO1Oo0 = function(lOI11l0O0Ool) return lOI11l0O0Ool and lOI11l0O0Ool or "Il10O1IOOO1o" end; local IIo0IOlO0o1l = 
+{74, 46}; IIo0IOlO0o1l[1] = IIo0IOlO0o1l[1] % IIo0IOlO0o1l[2]; for IOl1I0OI1lI0=3, 8 do local IO0Il10OIOoI = 
+IOl1I0OI1lI0 * 2; end; if 42 > 136 then local I1oIOllOoO1O = "Illlol0o1oOO"; end; local l1OlI0IIl0Il = {6, 9}; 
+l1OlI0IIl0Il[1] = l1OlI0IIl0Il[1] - l1OlI0IIl0Il[2]; if 23 > 101 then local IIO0o000Illo = "l0oOlI0OOO1O"; end; local 
+I111Io1o0l00 = {80, 95}; I111Io1o0l00[1] = I111Io1o0l00[1] - I111Io1o0l00[2]; local l01olllOOOOo = {8, 80}; 
+l01olllOOOOo[1] = l01olllOOOOo[1] % l01olllOOOOo[2]; for lOoo1o010oO0=4, 6 do local l1O1OOO1lOOO = lOoo1o010oO0 * 2; 
+end; local IllIlIl1oll1 = {40, 39}; IllIlIl1oll1[1] = IllIlIl1oll1[1] - IllIlIl1oll1[2]; for loOOIllOII0O=5, 10 do local 
+l1oI10O10101 = loOOIllOII0O * 2; end; if 43 > 121 then local l0IOI1oIIl0I = "l1o0o1loOIlI"; end; for IO11Il1I1O0I=4, 7 
+do local IOoI01I0ol0O = IO11Il1I1O0I * 2; end; local IOOoO10Ol10l = function(IooO0001loOo) return IooO0001loOo and 
+IooO0001loOo or "lo1I1o1olool" end; local II10I0lOOlIl = {20, 98}; II10I0lOOlIl[1] = II10I0lOOlIl[1] % II10I0lOOlIl[2]; 
+local IO1llolo1lo1 = {4, 92}; IO1llolo1lo1[1] = IO1llolo1lo1[1] % IO1llolo1lo1[2]; for IOoI0ll0OI1O=2, 7 do local 
+II1O0lOololl = IOoI0ll0OI1O * 2; end; for Il111o1lolO0=5, 6 do local IlOIlloOllO1 = Il111o1lolO0 * 2; end; if 60 > 107 
+then local Il10l00Io0OO = "l0oOOl0Io0IO"; end; if 50 > 155 then local I1O0lolloOIl = "l0o1loo1l0oO"; end; local 
+IIO10I1Ioo11 = function(IoIl1IO1o0OO) return IoIl1IO1o0OO and IoIl1IO1o0OO or "l1lIOoOO0011" end; if 47 > 176 then local 
+llolooI0010l = "lIl0lOIOOO1I"; end; local I111II0oO1lI = {85, 23}; I111II0oO1lI[1] = I111II0oO1lI[1] % I111II0oO1lI[2]; 
+local l0Io10oI1OlI = {36, 10}; l0Io10oI1OlI[1] = l0Io10oI1OlI[1] * l0Io10oI1OlI[2]; local IIlOO0IOOO10 = 
+function(I0OoIoIloll1) return I0OoIoIloll1 and I0OoIoIloll1 or "I1OIOO10IoI1" end; if 60 > 166 then local l0ll1OloIOII = 
+"Io0O001Ilo10"; end; local IOoIoIlOo1l1 = function(IIoo11OIIool) return IIoo11OIIool and IIoo11OIIool or "Io1lIIlOlOOl" 
+end; local I11l000l0l1l = {77, 91}; I11l000l0l1l[1] = I11l000l0l1l[1] % I11l000l0l1l[2]; local lOIo0oI0I0Il = 
+function(I0oo1olOo010) return I0oo1olOo010 and I0oo1olOo010 or "llolIOoo1ooO" end; local IIOoOII0lOlO = {30, 87}; 
+IIOoOII0lOlO[1] = IIOoOII0lOlO[1] + IIOoOII0lOlO[2]; local II0oo11oOIl1 = function(I0100lIlloo1) return I0100lIlloo1 and 
+I0100lIlloo1 or "lOllII00oI1O" end; local lIIOIo0II1I0 = {36, 35}; lIIOIo0II1I0[1] = lIIOIo0II1I0[1] * lIIOIo0II1I0[2]; 
+for I0I010oO0O0o=4, 9 do local lloO11lI0Il0 = I0I010oO0O0o * 2; end; for l0lIOlllI0Io=1, 8 do local l011oo0IlOI0 = 
+l0lIOlllI0Io * 2; end; local lI0010OloOlO = function(loO0O00O0lOo) return loO0O00O0lOo and loO0O00O0lOo or 
+"lOlooooIl01l" end; if 15 > 139 then local IoIO1O1o0olo = "IOIoOOIOI10o"; end; local loIOOO111ol0 = 
+function(l01I1loO111o) return l01I1loO111o and l01I1loO111o or "I11lIl1l101O" end; local l11Ioo110o10 = 
+function(Ill1IIOIOo1l) return Ill1IIOIOo1l and Ill1IIOIOo1l or "IllOo000o0O1" end; for I1Il0IO011l1=5, 9 do local 
+II00Iol0loO1 = I1Il0IO011l1 * 2; end; local lolo0IIIlOll = function(l0IloO11110o) return l0IloO11110o and l0IloO11110o 
+or "l111lo001010" end; if 77 > 131 then local llo10OOOlOOO = "I10O0Illlo0l"; end; local II01lIoOooOo = {19, 37}; 
+II01lIoOooOo[1] = II01lIoOooOo[1] + II01lIoOooOo[2]; local Il1OIllO0Il0 = function(I1oO0IlllooI) return I1oO0IlllooI and 
+I1oO0IlllooI or "lolIIo0O10lO" end; for Ill0I01oo0o1=4, 10 do local lo0I1olooII1 = Ill0I01oo0o1 * 2; end; local 
+IIOOl1lO0oOl = {15, 43}; IIOOl1lO0oOl[1] = IIOOl1lO0oOl[1] * IIOOl1lO0oOl[2]; for lo1l1O0OIIIl=4, 10 do local 
+l1Ol0loo0O10 = lo1l1O0OIIIl * 2; end; local IolI00OoI1II = function(llIoOlool0I1) return llIoOlool0I1 and llIoOlool0I1 
+or "loolllO11o11" end; local IIIl11oI10oo = function(lI0lOl0lI11I) return lI0lOl0lI11I and lI0lOl0lI11I or 
+"I00OOo11OIlO" end; local I0OOoO011OII = function(I00Io1I1oOlI) return I00Io1I1oOlI and I00Io1I1oOlI or "IIlOo00oooII" 
+end; local I0110OO100oo = {95, 23}; I0110OO100oo[1] = I0110OO100oo[1] + I0110OO100oo[2]; for lI1OlIIlloO0=2, 7 do local 
+lIOIol1O0o00 = lI1OlIIlloO0 * 2; end; for llloIl1000Ol=1, 10 do local l1IoI0IoOoIl = llloIl1000Ol * 2; end; local 
+IlloOl0o1O0O = function(I0Oo0lo11oOo) return I0Oo0lo11oOo and I0Oo0lo11oOo or "II1lO0O0o0lo" end; local I0OOlO00lIoI = 
+function(l0Oo0Il00llI) return l0Oo0Il00llI and l0Oo0Il00llI or "II0O1oIlIo1I" end; for l1OoOl0l11lI=3, 9 do local 
+lIOo1I10I01O = l1OoOl0l11lI * 2; end; if 89 > 120 then local lloo000oOoIO = "I0l0lo1OoIII"; end; if 40 > 173 then local 
+lOloO11oOOO0 = "lIO1l11I10II"; end; for lloo10oIoO0O=1, 9 do local I0IoOl10o1OO = lloo10oIoO0O * 2; end; local 
+IOolO0O1o1II = {47, 8}; IOolO0O1o1II[1] = IOolO0O1o1II[1] % IOolO0O1o1II[2]; local lIIOO0oI1Ill = {94, 98}; 
+lIIOO0oI1Ill[1] = lIIOO0oI1Ill[1] + lIIOO0oI1Ill[2]; for l1lIlO1lOl11=4, 10 do local l10OOl1l0o1o = l1lIlO1lOl11 * 2; 
+end; if 67 > 170 then local lOOI0o0IoII0 = "IIIolI110o01"; end; local lOl11IO0O100 = function(l1IOlOlo0Io1) return 
+l1IOlOlo0Io1 and l1IOlOlo0Io1 or "I11olI1IolII" end; local III00oll1l10 = function(lI10O11OI010) return lI10O11OI010 and 
+lI10O11OI010 or "I00IOl0l1ol1" end; if 51 > 150 then local IOI01l0Ol1oo = "IOlol0II0o1l"; end; local I1111l10o0Oo = {89, 
+49}; I1111l10o0Oo[1] = I1111l10o0Oo[1] + I1111l10o0Oo[2]; if 29 > 167 then local lIlIIl11Io1I = "IOI1OoI0I0lI"; end; for 
+lIoOO1I00oo0=1, 7 do local loII10100OI1 = lIoOO1I00oo0 * 2; end; for lOI0ll10O0II=4, 8 do local l1Oo011oOIlO = 
+lOI0ll10O0II * 2; end; if 15 > 120 then local lloIIloO01II = "lI0ll01lOoIO"; end; if 99 > 139 then local lOI1ooooloO1 = 
+"lIlOOllIIoIl"; end; if 5 > 179 then local l0o0OIIO10O0 = "loIllo0oI11l"; end; for Il100I00I0O1=5, 10 do local 
+IIllII1olI1l = Il100I00I0O1 * 2; end; local Il0Ilo1Ioo1I = function(IlO0llOI01l1) return IlO0llOI01l1 and IlO0llOI01l1 
+or "loIO0OoO01ol" end; if 46 > 178 then local IlI10oIIo0Il = "llo0Ilo1OOol"; end; for IOo1I0oII1o1=2, 10 do local 
+lIOO0OoOOl1I = IOo1I0oII1o1 * 2; end; local lO10O0OoO0Ol = function(I001o0lOOO01) return I001o0lOOO01 and I001o0lOOO01 
+or "IO101OlOoo00" end; if 6 > 133 then local I1OlOO11OIIO = "IOOlI01100II"; end; local lOooI1o1Iol0 = {60, 13}; 
+lOooI1o1Iol0[1] = lOooI1o1Iol0[1] - lOooI1o1Iol0[2]; local l11OlO1l0OoI = function(l011oo1llOoo) return l011oo1llOoo and 
+l011oo1llOoo or "llI1001lOOlI" end; local I0O0IOl0OIII = {1, 79}; I0O0IOl0OIII[1] = I0O0IOl0OIII[1] + I0O0IOl0OIII[2]; 
+for I0I11llIlIIO=1, 8 do local I0I01OOOlOlO = I0I11llIlIIO * 2; end; local IlolooIIlI0I = {21, 89}; IlolooIIlI0I[1] = 
+IlolooIIlI0I[1] - IlolooIIlI0I[2]; local IOIl1Io0I0oI = {40, 97}; IOIl1Io0I0oI[1] = IOIl1Io0I0oI[1] - IOIl1Io0I0oI[2]; 
+for l10lllI00l11=2, 8 do local I0I0O1oOIoo0 = l10lllI00l11 * 2; end; local IO001o01O00I = {28, 74}; IO001o01O00I[1] = 
+IO001o01O00I[1] - IO001o01O00I[2]; local lOOlo1o0O0ol = function(IOlOIO1OOI0o) return IOlOIO1OOI0o and IOlOIO1OOI0o or 
+"Il01oo100OOI" end; local I0I1O0o0IO1O = function(Iol1OIIIl1ol) return Iol1OIIIl1ol and Iol1OIIIl1ol or "lO1loI0lo1oI" 
+end; local lo1O11lo1OlI = function(IIloo1OOO0lI) return IIloo1OOO0lI and IIloo1OOO0lI or "IO0IloIl1000" end; local 
+l00O01lIII0O = {38, 96}; l00O01lIII0O[1] = l00O01lIII0O[1] % l00O01lIII0O[2]; for lIIlolOO0llI=2, 8 do local 
+II1Il0o1lOIO = lIIlolOO0llI * 2; end; local IlIlO0II0II0 = {91, 41}; IlIlO0II0II0[1] = IlIlO0II0II0[1] - 
+IlIlO0II0II0[2]; for I0OIOIlo0001=3, 7 do local IIo00OI1ll1o = I0OIOIlo0001 * 2; end; for llIl0lIII01I=5, 9 do local 
+IOOl0OI1IlO0 = llIl0lIII01I * 2; end; if 91 > 141 then local l1011Iol1OI1 = "IIoIO0l0l0II"; end; if 13 > 121 then local 
+IIo1o0olIOOo = "lo1oIoo1IolI"; end; for IIool0OlloOo=4, 8 do local IllloIO00Il0 = IIool0OlloOo * 2; end; if 79 > 131 
+then local II0oolIl11I0 = "II010IIoIoO0"; end; local lIolo1OllOo0 = {8, 3}; lIolo1OllOo0[1] = lIolo1OllOo0[1] + 
+lIolo1OllOo0[2]; for l111O1Il110I=1, 7 do local I0lOlIolOo0I = l111O1Il110I * 2; end; for I1lo10l1lI0l=1, 8 do local 
+l11oOOOIIOo0 = I1lo10l1lI0l * 2; end; local lO0OIOI1OoO1 = function(lOl1llo1OO1I) return lOl1llo1OO1I and lOl1llo1OO1I 
+or "lI0lO0oOllO0" end; if 58 > 175 then local I1IOIolo00Oo = "I01I1I1Oo0ol"; end; local Ioool0OOO1o0 = 
+function(loO0llO0Io01) return loO0llO0Io01 and loO0llO0Io01 or "l1lIO0Ooo1ol" end; for I1I1l1olO0II=3, 7 do local 
+IlOOIOO0O1Oo = I1I1l1olO0II * 2; end; local IIloII1Il1Il = function(IO0II0l1o01l) return IO0II0l1o01l and IO0II0l1o01l 
+or "l10loOO1II1l" end; if 34 > 124 then local Iolll00OolI1 = "ll1o00I0loIo"; end; for lIlO1IoII1Oo=5, 10 do local 
+lo10l1ll1II1 = lIlO1IoII1Oo * 2; end; for l01l10OOoloI=5, 6 do local lo0o00IOolII = l01l10OOoloI * 2; end; if 47 > 175 
+then local lo1loOIoIoOo = "lol1IooIO0Io"; end; if 74 > 128 then local l0oO1O1IOI0l = "loo0111ll0OI"; end; local 
+lolIlOO0IIo1 = function(I11I1oo1ooI0) return I11I1oo1ooI0 and I11I1oo1ooI0 or "IooO10I1IIoI" end; local IlII11o1O0o0 = 
+{100, 85}; IlII11o1O0o0[1] = IlII11o1O0o0[1] + IlII11o1O0o0[2]; local IolIIIo1111I = {1, 61}; IolIIIo1111I[1] = 
+IolIIIo1111I[1] * IolIIIo1111I[2]; local Io1I00o0100O = function(l1lOI10oOO1I) return l1lOI10oOO1I and l1lOI10oOO1I or 
+"l0OoOO010lI1" end; for l01IO1l1loIl=4, 10 do local Ilo0Ool1lOlI = l01IO1l1loIl * 2; end; for l0lIIllI1IO1=4, 8 do local 
+IOIO010o11o0 = l0lIIllI1IO1 * 2; end; local IOOIl00O0lIo = function(Io0o0O0O0IoI) return Io0o0O0O0IoI and Io0o0O0O0IoI 
+or "IO1l101OO1II" end; local Il100I0ol0I0 = {63, 100}; Il100I0ol0I0[1] = Il100I0ol0I0[1] - Il100I0ol0I0[2]; local 
+lI1lOI0Ioll0 = {75, 51}; lI1lOI0Ioll0[1] = lI1lOI0Ioll0[1] % lI1lOI0Ioll0[2]; local IIlIIO0ooI1I = {19, 57}; 
+IIlIIO0ooI1I[1] = IIlIIO0ooI1I[1] + IIlIIO0ooI1I[2]; local IO0Io0lOll11 = function(lo00o1oo010I) return lo00o1oo010I and 
+lo00o1oo010I or "III11Ool1111" end; local I1olOOo1OIOO = function(Ill0oIO11I0O) return Ill0oIO11I0O and Ill0oIO11I0O or 
+"l0ll1olIIO1I" end; local IOIII0oo1olO = function(Ilo11O1lOoIo) return Ilo11O1lOoIo and Ilo11O1lOoIo or "l1IIIOo1OI0I" 
+end; local l1oo10lOo0O1 = {18, 45}; l1oo10lOo0O1[1] = l1oo10lOo0O1[1] * l1oo10lOo0O1[2]; for IoIIl0O1l0O0=5, 10 do local 
+lIOO1OoOO0OI = IoIIl0O1l0O0 * 2; end; local IoIoII1IIooO = {57, 64}; IoIoII1IIooO[1] = IoIoII1IIooO[1] - 
+IoIoII1IIooO[2]; local lI1lOlo011I1 = {99, 27}; lI1lOlo011I1[1] = lI1lOlo011I1[1] * lI1lOlo011I1[2]; local IOllO0l01IO1 
+= {56, 17}; IOllO0l01IO1[1] = IOllO0l01IO1[1] * IOllO0l01IO1[2]; if 68 > 111 then local IOI10oO10ll0 = "IoI11ol1ll11"; 
+end; for IO1oOlI0O0O1=4, 10 do local IllIO00ol00o = IO1oOlI0O0O1 * 2; end; if 61 > 190 then local lIo0I0llIo00 = 
+"lOIo1IlI0l0l"; end; local IIoOoolOO1Io = {6, 34}; IIoOoolOO1Io[1] = IIoOoolOO1Io[1] * IIoOoolOO1Io[2]; local 
+IlOoI0Iol1O0 = function(I110oI11oOOl) return I110oI11oOOl and I110oI11oOOl or "Iolo1lOI111I" end; local II0100I1O1ll = 
+{75, 88}; II0100I1O1ll[1] = II0100I1O1ll[1] - II0100I1O1ll[2]; local Iol110OlI1o0 = {100, 71}; Iol110OlI1o0[1] = 
+Iol110OlI1o0[1] * Iol110OlI1o0[2]; local lol0o1l0oI0o = {49, 100}; lol0o1l0oI0o[1] = lol0o1l0oI0o[1] % lol0o1l0oI0o[2]; 
+local I1O101IIOOOO = {77, 85}; I1O101IIOOOO[1] = I1O101IIOOOO[1] % I1O101IIOOOO[2]; if 27 > 135 then local Io01Il1010Il 
+= "loIollO111Ol"; end; local IIlOloOOl1Il = {32, 90}; IIlOloOOl1Il[1] = IIlOloOOl1Il[1] - IIlOloOOl1Il[2]; for 
+IOoI0IlI1l1l=2, 7 do local IoI0lo11oIO1 = IOoI0IlI1l1l * 2; end; for IOoloO0010oI=1, 8 do local lOIIl1oO01Ol = 
+IOoloO0010oI * 2; end; local l000l011IloI = {87, 44}; l000l011IloI[1] = l000l011IloI[1] % l000l011IloI[2]; local 
+lOIoooIlIoOI = {53, 15}; lOIoooIlIoOI[1] = lOIoooIlIoOI[1] - lOIoooIlIoOI[2]; for IoIlOoIlIO1I=1, 6 do local 
+l11O1II0l0O1 = IoIlOoIlIO1I * 2; end; local lloIIoII0IO0 = {69, 98}; lloIIoII0IO0[1] = lloIIoII0IO0[1] * 
+lloIIoII0IO0[2]; for lI00I1Ol1OOl=3, 7 do local lOo0loo00l0l = lI00I1Ol1OOl * 2; end; for Il01I0OlIOI1=5, 7 do local 
+IIO11O0l00lO = Il01I0OlIOI1 * 2; end; if 38 > 111 then local IOooll001oOo = "llOoI11I11o0"; end; local I011IlOlO0IO = 
+{43, 67}; I011IlOlO0IO[1] = I011IlOlO0IO[1] - I011IlOlO0IO[2]; if 82 > 101 then local Il0IOO0OIIoO = "IoO0I0Iol010"; 
+end; if 76 > 163 then local Ill1lO01l0oI = "lOOOo01oOo1O"; end; if 45 > 165 then local IIloI0O0O01l = "II0I11IIIIOl"; 
+end; for I00OI1llll0O=4, 8 do local I1Il1oolooII = I00OI1llll0O * 2; end; local I1o1l1o1OI1l = function(I0I1o1l0O0lI) 
+return I0I1o1l0O0lI and I0I1o1l0O0lI or "llOIol001lo0" end; if 68 > 154 then local IO1lIIo1OIOO = "IO0I0IOOoOlo"; end; 
+local llOoO0I0IlIo = {36, 46}; llOoO0I0IlIo[1] = llOoO0I0IlIo[1] + llOoO0I0IlIo[2]; local lo0o1O101o1l = 
+function(l1oOl01IO1lI) return l1oOl01IO1lI and l1oOl01IO1lI or "lo01OlIo0oO1" end; for lII110010lIO=2, 9 do local 
+l00Oo000lOoO = lII110010lIO * 2; end; if 81 > 148 then local IlllOOIIIl11 = "Ilool10O0IOl"; end; if 57 > 195 then local 
+lIo0IOIlIO0I = "lolO0I0l1O11"; end; if 16 > 184 then local lI0l0O1IoOIo = "I1l10O1l1o0I"; end; local l10l00I1lI1o = 
+function(I1OO1llOoOIO) return I1OO1llOoOIO and I1OO1llOoOIO or "I10l1oo11o0O" end; local Ioo00IIOo111 = 
+function(llO0Ill0lIo0) return llO0Ill0lIo0 and llO0Ill0lIo0 or "I1l0oo1II1lO" end; for Il1l0IOooolo=1, 8 do local 
+Il00oo00o0I0 = Il1l0IOooolo * 2; end; if 77 > 128 then local l1OIO00oIOO1 = "looIoOIl01oo"; end; for Il011lIl0o0o=3, 7 
+do local I0l1l10lIO11 = Il011lIl0o0o * 2; end; local l10o0lIlo1Io = {68, 38}; l10o0lIlo1Io[1] = l10o0lIlo1Io[1] + 
+l10o0lIlo1Io[2]; if 77 > 117 then local lIOO1O1oOIlo = "IO0I0oooOO1o"; end; local l01o1olI110I = {19, 81}; 
+l01o1olI110I[1] = l01o1olI110I[1] - l01o1olI110I[2]; for lolIoIlOoIII=1, 6 do local IIO0ll0oOoOl = lolIoIlOoIII * 2; 
+end; if 20 > 106 then local lII0o11oIOlO = "llOI0olIO0II"; end; if 99 > 181 then local IllIl0OIOl1o = "lllo01ollOII"; 
+end; for l0IoIIlIloO0=2, 10 do local IlI110o01loI = l0IoIIlIloO0 * 2; end; if 62 > 153 then local loll0OOIIl00 = 
+"loloI1IIIO10"; end; local Io000l0l0o0O = {57, 39}; Io000l0l0o0O[1] = Io000l0l0o0O[1] - Io000l0l0o0O[2]; local 
+lOolololI1OI = {95, 99}; lOolololI1OI[1] = lOolololI1OI[1] * lOolololI1OI[2]; for l010I0I01oO0=1, 10 do local 
+loOOo11OIol1 = l010I0I01oO0 * 2; end; local IlIIlIlIlIlI = {}; for llIlIlIlIlIl = 1, #lIIllIlIIllI do local lIIlIlIlIlIl 
+= lIIllIlIIllI[llIlIlIlIlIl]; lIIlIlIlIlIl = (lIIlIlIlIlIl - IlIlIlIlIlIl) % 256; IlIIlIlIlIlI[llIlIlIlIlIl] = 
+string.char(IlIIllIIllIl(lIIlIlIlIlIl, llIlIIllIlII)); end; local IIllIlIIllIl = table.concat(IlIIlIlIlIlI); local 
+lIlIlIlIlIlI = (getgenv and getgenv()) or (getfenv and getfenv()) or _G; local IIlIlIlIlIlI = lIlIlIlIlIlI.loadstring or 
+loadstring; if IIlIlIlIlIlI then local _f, _e = IIlIlIlIlIlI(IIllIlIIllIl, "@oxi_v9"); if _f then if setfenv then 
+pcall(setfenv, _f, lIlIlIlIlIlI) end; local _s, _r = pcall(function() return task and task.spawn(_f) or spawn(_f) or 
+_f() end); end; end; for IOIO0Oolo101=1, 9 do local I1O11llloOO0 = IOIO0Oolo101 * 2; end; local lI10o11llOlo = 
+function(l1OoIIOo1llo) return l1OoIIOo1llo and l1OoIIOo1llo or "IIIOIol1Io1l" end; if 27 > 150 then local l10ol1o1oOl0 = 
+"lOl10l1oOI0I"; end; local Ill0Io0OIoIO = {40, 19}; Ill0Io0OIoIO[1] = Ill0Io0OIoIO[1] - Ill0Io0OIoIO[2]; local 
+IolooOOOO0l1 = {14, 38}; IolooOOOO0l1[1] = IolooOOOO0l1[1] - IolooOOOO0l1[2]; for llIoIlIOlllo=4, 10 do local 
+Il0OolO1lIo0 = llIoIlIOlllo * 2; end; for Il1OO111lolI=3, 10 do local lI1l0OoIoloo = Il1OO111lolI * 2; end; local 
+II101o0011Io = function(IIOlI01l0lI1) return IIOlI01l0lI1 and IIOlI01l0lI1 or "lIIIIO1OllII" end; local IllOOOIII0o0 = 
+{63, 36}; IllOOOIII0o0[1] = IllOOOIII0o0[1] - IllOOOIII0o0[2]; for loooIOoIIOll=1, 8 do local Io0O1loOolOO = 
+loooIOoIIOll * 2; end; if 83 > 196 then local l0011lloo11o = "lIO0o011O0II"; end; for I1I0oO1l0IO0=1, 8 do local 
+Io0Ol0110lOO = I1I0oO1l0IO0 * 2; end; local looll0O1llOl = function(IlIl10oII0I0) return IlIl10oII0I0 and IlIl10oII0I0 
+or "Io1oIIl1oI0l" end; for lolOooIolol0=5, 9 do local l11Io1OOI1o1 = lolOooIolol0 * 2; end; local ll1110ol1oll = {67, 
+80}; ll1110ol1oll[1] = ll1110ol1oll[1] * ll1110ol1oll[2]; local IIoo0o1oo1Ol = function(lIlIOO100ooO) return 
+lIlIOO100ooO and lIlIOO100ooO or "loO0oIlIlll1" end; local l0Ol0OlIloIO = function(lOO0oOO1OolI) return lOO0oOO1OolI and 
+lOO0oOO1OolI or "I0OI0o0olOol" end; local II0Io11O1l1l = {100, 62}; II0Io11O1l1l[1] = II0Io11O1l1l[1] % II0Io11O1l1l[2]; 
+for lOl11001OO1o=1, 6 do local IlOol0I01l0I = lOl11001OO1o * 2; end; for l00111O0lOII=2, 10 do local l0IIoOl0o0l1 = 
+l00111O0lOII * 2; end; for IOlO0o0lOI10=4, 8 do local I0O1Oo1o0I01 = IOlO0o0lOI10 * 2; end; for l0OlOoIo0l0o=4, 7 do 
+local lOoOllO011ol = l0OlOoIo0l0o * 2; end; local I0IO1I0OlO01 = {100, 2}; I0IO1I0OlO01[1] = I0IO1I0OlO01[1] + 
+I0IO1I0OlO01[2]; local I101011Illll = {2, 14}; I101011Illll[1] = I101011Illll[1] * I101011Illll[2]; for II10lOollIlo=4, 
+10 do local l01II1o1o1o0 = II10lOollIlo * 2; end; local l1Ilo0l00o1l = {51, 56}; l1Ilo0l00o1l[1] = l1Ilo0l00o1l[1] % 
+l1Ilo0l00o1l[2]; local IIo0llllOOl1 = {71, 49}; IIo0llllOOl1[1] = IIo0llllOOl1[1] * IIo0llllOOl1[2]; local Io11IoO01lO0 
+= {19, 61}; Io11IoO01lO0[1] = Io11IoO01lO0[1] + Io11IoO01lO0[2]; if 69 > 190 then local l0o01oool01o = "lOolOOOI1I1o"; 
+end; local IOololol0O10 = {8, 79}; IOololol0O10[1] = IOololol0O10[1] * IOololol0O10[2]; local lo1ooOlllloo = {22, 93}; 
+lo1ooOlllloo[1] = lo1ooOlllloo[1] + lo1ooOlllloo[2]; local l01oolo0O0l0 = {92, 50}; l01oolo0O0l0[1] = l01oolo0O0l0[1] % 
+l01oolo0O0l0[2]; for I1l1IIO0oIII=5, 10 do local l0oIIII1oIO0 = I1l1IIO0oIII * 2; end; if 55 > 101 then local 
+lo0loIO1OO1I = "Io0lO11OOlO0"; end; local IOl000l0OOI1 = function(I01o0OoIo0oO) return I01o0OoIo0oO and I01o0OoIo0oO or 
+"IO11lo1oooII" end; local IloIO0oo0011 = {60, 1}; IloIO0oo0011[1] = IloIO0oo0011[1] - IloIO0oo0011[2]; for 
+IOol0l1Oolol=3, 8 do local IoO0OOIloOll = IOol0l1Oolol * 2; end; local l1IolOlIo1II = function(I1I0oOolloOI) return 
+I1I0oOolloOI and I1I0oOolloOI or "II101OOII1IO" end; if 33 > 143 then local I0O0l0l01llO = "ll0ol01lO01o"; end; local 
+I1ollOIOIlo1 = function(llIool1oo0lI) return llIool1oo0lI and llIool1oo0lI or "l01II1oIOO01" end; local IoO1l0o001l1 = 
+{45, 13}; IoO1l0o001l1[1] = IoO1l0o001l1[1] % IoO1l0o001l1[2]; local l01I0I1l1oOl = function(IIlOoolO1o0o) return 
+IIlOoolO1o0o and IIlOoolO1o0o or "Il100l1I0oll" end; local IloOOlo0I0Oo = function(IlO0oOollOo0) return IlO0oOollOo0 and 
+IlO0oOollOo0 or "lOol00oOooI1" end; if 90 > 124 then local IIOIOIloo010 = "l10oooI10Oo1"; end; local IolIlO11O0ol = {28, 
+41}; IolIlO11O0ol[1] = IolIlO11O0ol[1] - IolIlO11O0ol[2]; if 82 > 171 then local II0oO10oIOO1 = "I111lOoI0loO"; end; 
+local I1IO0OI10OO0 = function(l1o11l0II0ll) return l1o11l0II0ll and l1o11l0II0ll or "IllO1o0Il0OI" end; for 
+lO101Il1l0Il=1, 6 do local IOlI00o100OI = lO101Il1l0Il * 2; end; for lIl1l0IoOlll=5, 8 do local l0l1OolooI10 = 
+lIl1l0IoOlll * 2; end; local IllII01I0loI = {59, 56}; IllII01I0loI[1] = IllII01I0loI[1] + IllII01I0loI[2]; local 
+I0ll10ll1o1I = function(I01I1l1IOOlI) return I01I1l1IOOlI and I01I1l1IOOlI or "IOooOo1O0lI1" end; for lOll0IolIOOo=4, 7 
+do local l0IIl0O1lO1o = lOll0IolIOOo * 2; end; for Il0lI0O01olo=1, 10 do local l1IO110o0I1I = Il0lI0O01olo * 2; end; for 
+ll1Ol01Oo1l0=5, 9 do local IIo0lll0O0IO = ll1Ol01Oo1l0 * 2; end; if 1 > 170 then local II0O11OIIlO1 = "IOl00Il1OOoI"; 
+end; local lIo1l10IoI10 = function(l10ooO1OO1lO) return l10ooO1OO1lO and l10ooO1OO1lO or "l0o00oI11oo1" end; local 
+lo0IoIol0loo = {71, 34}; lo0IoIol0loo[1] = lo0IoIol0loo[1] % lo0IoIol0loo[2]; local IOOl1lo0OI0O = {79, 2}; 
+IOOl1lo0OI0O[1] = IOOl1lo0OI0O[1] * IOOl1lo0OI0O[2]; if 44 > 155 then local I0II10l1looO = "l01Ilol11Ill"; end; if 1 > 
+199 then local IoIO0OO10IOl = "IOI0lloOO11l"; end; for II1oo101O01o=4, 6 do local l0lI01OO1olO = II1oo101O01o * 2; end; 
+local I1IooOIlooOl = function(lolOoOIOOo0l) return lolOoOIOOo0l and lolOoOIOOo0l or "l1I11ooII11o" end; if 87 > 165 then 
+local IllIl111o1l1 = "llloO101lI0I"; end; local lOllO1IOlII0 = function(I0010olo0Ooo) return I0010olo0Ooo and 
+I0010olo0Ooo or "lOooO1o0III1" end; for IIO1OlOO1lo1=5, 8 do local IOIo0lIIOlI1 = IIO1OlOO1lo1 * 2; end; local 
+l01lOllo10lo = function(Ioo10O10o1Io) return Ioo10O10o1Io and Ioo10O10o1Io or "l00oO0ooI11O" end; if 41 > 199 then local 
+I1O1l1oIOlll = "loOol0o1Olo1"; end; local l1lI1Il011o1 = {15, 17}; l1lI1Il011o1[1] = l1lI1Il011o1[1] * l1lI1Il011o1[2]; 
+if 38 > 110 then local I0IoO0oIllll = "IlIIO1I1lO00"; end; if 52 > 167 then local IooI0O11IIo0 = "IoO00OoOo1ll"; end; 
+local loOO1olIlol1 = function(lllOloOIlO0O) return lllOloOIlO0O and lllOloOIlO0O or "lloOIIlIlllI" end; local 
+lO1IoIllolII = {71, 30}; lO1IoIllolII[1] = lO1IoIllolII[1] * lO1IoIllolII[2]; local Il01Il1Il111 = {82, 67}; 
+Il01Il1Il111[1] = Il01Il1Il111[1] - Il01Il1Il111[2]; local looO0Oo0o10l = function(lIOo10III0ll) return lIOo10III0ll and 
+lIOo10III0ll or "I1lO0oI0O0ll" end; local I0IIOoI0o00O = function(l1oO1OOOOo1o) return l1oO1OOOOo1o and l1oO1OOOOo1o or 
+"IlIoo0Oll001" end; local I000100oIolo = {64, 8}; I000100oIolo[1] = I000100oIolo[1] + I000100oIolo[2]; for 
+Io0o011llloo=1, 10 do local llI0o1O01I01 = Io0o011llloo * 2; end; if 78 > 168 then local lOOolOOoOl0l = "loI0IOI1o1oI"; 
+end; local IIl01OI10lIl = function(lIoo010OO1l0) return lIoo010OO1l0 and lIoo010OO1l0 or "I1O0IO0l0OO0" end; if 27 > 187 
+then local IoI01IIoOoI0 = "IlO0ll11l000"; end; local IlOl11OolIOO = {31, 78}; IlOl11OolIOO[1] = IlOl11OolIOO[1] * 
+IlOl11OolIOO[2]; local l11Io11lI1O0 = function(IIOI1I0OlIoo) return IIOI1I0OlIoo and IIOI1I0OlIoo or "lOol0lo1IoII" end; 
+local lO1Io1OoO0lI = function(I00I0OOl11lO) return I00I0OOl11lO and I00I0OOl11lO or "lOO1Il1OI000" end; local 
+IOOOOO01lII1 = {32, 33}; IOOOOO01lII1[1] = IOOOOO01lII1[1] % IOOOOO01lII1[2]; local ll1oo0IoOolI = {66, 30}; 
+ll1oo0IoOolI[1] = ll1oo0IoOolI[1] + ll1oo0IoOolI[2]; for llOlO0Il1101=1, 8 do local lO11IloIl1oo = llOlO0Il1101 * 2; 
+end; if 42 > 107 then local I010001001Il = "Ilo0I1O0ol0I"; end; for IIoOl1lOI1OO=2, 6 do local I0lOII0IOoOl = 
+IIoOl1lOI1OO * 2; end; local loIIOOll1o0O = {98, 59}; loIIOOll1o0O[1] = loIIOOll1o0O[1] + loIIOOll1o0O[2]; local 
+I1lOOoOl0ll0 = function(lo0lIoI0Ool0) return lo0lIoI0Ool0 and lo0lIoI0Ool0 or "IIO1I0oOIoO1" end; local l0olOO1oI1lI = 
+{90, 97}; l0olOO1oI1lI[1] = l0olOO1oI1lI[1] - l0olOO1oI1lI[2]; if 39 > 120 then local lIO0oolo0o01 = "Io1ll0O001O1"; 
+end; local l0l1O0lO1Iol = function(loo1010loOIl) return loo1010loOIl and loo1010loOIl or "llOo11OO1Ilo" end; if 28 > 118 
+then local l0ll00IO0II0 = "lOoIIOI0l1Oo"; end; if 57 > 110 then local llIo0o0o0Il0 = "IO010l0Illo0"; end; if 42 > 186 
+then local III1IO1oOOll = "IOooII1OoooI"; end; local II1Ollollol1 = function(l0Ol10O011O1) return l0Ol10O011O1 and 
+l0Ol10O011O1 or "IOO0OOll111O" end; local lo010I1111I0 = {54, 10}; lo010I1111I0[1] = lo010I1111I0[1] + lo010I1111I0[2]; 
+local Io1O0Oll01l1 = {99, 59}; Io1O0Oll01l1[1] = Io1O0Oll01l1[1] * Io1O0Oll01l1[2]; for llIOII1oOllI=2, 10 do local 
+l1Io1IlO0ooI = llIOII1oOllI * 2; end; if 86 > 125 then local llI011o1l0lO = "Il1Io0l0l0OO"; end; for l1O1o1O1l11O=2, 6 
+do local I10o0l0lOI11 = l1O1o1O1l11O * 2; end; local lOo100II1o0l = function(Iolo0Ol1IO10) return Iolo0Ol1IO10 and 
+Iolo0Ol1IO10 or "l01OOOIl1Olo" end; if 3 > 170 then local looIO0Oo0I10 = "IlO0OO0lOIOl"; end; if 28 > 107 then local 
+ll01o1I0O0O0 = "lI1lOIo11OIl"; end; for IoIOoO1o0IOl=1, 7 do local IIOoO110l1OI = IoIOoO1o0IOl * 2; end; if 89 > 169 
+then local loIl100o1Il1 = "IIo0loI1o1Io"; end; local lOlO1I0o0O1l = {10, 49}; lOlO1I0o0O1l[1] = lOlO1I0o0O1l[1] * 
+lOlO1I0o0O1l[2]; for IO0llI0IlO1O=3, 6 do local I1O011o10I1o = IO0llI0IlO1O * 2; end; local loO1ool1lOo0 = 
+function(llI0I0olOOl0) return llI0I0olOOl0 and llI0I0olOOl0 or "IOoO11lI1Il0" end; local IOI110IllOIO = {83, 25}; 
+IOI110IllOIO[1] = IOI110IllOIO[1] % IOI110IllOIO[2]; if 75 > 139 then local Io01Io0I10I1 = "IOO1l00IOllo"; end; for 
+lIl1I10010Il=5, 6 do local lloIO001OOll = lIl1I10010Il * 2; end; local I10IloOl001l = {70, 80}; I10IloOl001l[1] = 
+I10IloOl001l[1] % I10IloOl001l[2]; local III0oIOlllI1 = {88, 84}; III0oIOlllI1[1] = III0oIOlllI1[1] - III0oIOlllI1[2]; 
+local lIlI0OOI0oOO = {69, 51}; lIlI0OOI0oOO[1] = lIlI0OOI0oOO[1] - lIlI0OOI0oOO[2]; local I0ollo1Oo110 = 
+function(II1IO1I0oOl0) return II1IO1I0oOl0 and II1IO1I0oOl0 or "IOOI1oOooOO1" end; local ll0OIoOooI0l = {15, 99}; 
+ll0OIoOooI0l[1] = ll0OIoOooI0l[1] % ll0OIoOooI0l[2]; if 30 > 123 then local lol0011l1Ioo = "IOo01Ool11ll"; end; local 
+l0IololO001I = function(lo1l0I00Ol10) return lo1l0I00Ol10 and lo1l0I00Ol10 or "III1I1I1Io01" end; local Il0Io00llO1o = 
+function(IIl1Ol0IIO1O) return IIl1Ol0IIO1O and IIl1Ol0IIO1O or "l110OO1IOoo0" end; if 62 > 105 then local lO10I1OI11l0 = 
+"lo0oIIIOllIO"; end; for IIoIOo0OoOO1=4, 7 do local Io1olIo100I1 = IIoIOo0OoOO1 * 2; end; local IlOoO0IIIlo1 = {11, 97}; 
+IlOoO0IIIlo1[1] = IlOoO0IIIlo1[1] - IlOoO0IIIlo1[2]; for IO0o1oOo0olO=2, 9 do local l1I111O0Io00 = IO0o1oOo0olO * 2; 
+end; if 19 > 190 then local Io1OO0OIlIO0 = "I0IoooOOOolO"; end; if 63 > 160 then local IOll11l0o1ll = "I10l0IIo1ol0"; 
+end; local lo1Ooo1lIIOO = function(IOl1ooOO01ol) return IOl1ooOO01ol and IOl1ooOO01ol or "IOIo0I1ooI1I" end; if 87 > 193 
+then local lO0oIlOoIIll = "I011IO0llO1I"; end; for lI10lIIooIl0=5, 8 do local l0llOI1ol1l1 = lI10lIIooIl0 * 2; end; if 
+58 > 174 then local IooO11IIOOI1 = "loOolIIO1I1l"; end; if 55 > 109 then local I1l0OoOlOOoI = "I1OI01oo1oI1"; end; for 
+I010IlOlll1o=5, 7 do local I0o001o10oOI = I010IlOlll1o * 2; end; local IIO1ool1Iol0 = {44, 17}; IIO1ool1Iol0[1] = 
+IIO1ool1Iol0[1] % IIO1ool1Iol0[2]; local I1lIOI0IO01I = {96, 19}; I1lIOI0IO01I[1] = I1lIOI0IO01I[1] * I1lIOI0IO01I[2]; 
+local Io01l1I0OOIl = function(l01I1ol0l0Il) return l01I1ol0l0Il and l01I1ol0l0Il or "I01loOoooOOo" end; if 74 > 144 then 
+local lO1Ilo11lO0O = "lIO0IollI1ol"; end; for lOOOl1I0o0lI=3, 6 do local l0o0OI0OIOll = lOOOl1I0o0lI * 2; end; if 9 > 
+175 then local IOlo0I01l010 = "lIo0lIIOIOOl"; end; if 46 > 108 then local looO11OIOO0O = "l0loOO0ool01"; end; local 
+I1o0100lOo1I = function(I101IlO0IlIo) return I101IlO0IlIo and I101IlO0IlIo or "lOlooIolol1O" end; if 13 > 183 then local 
+lol000Io0IIo = "I1l01OOo1ooO"; end; local lo00Ool1OoOl = function(lO01IOoIOII0) return lO01IOoIOII0 and lO01IOoIOII0 or 
+"l0O0l00011lO" end; local lOIIOO00I0I0 = {53, 29}; lOIIOO00I0I0[1] = lOIIOO00I0I0[1] + lOIIOO00I0I0[2]; local 
+IOO0ol110O1O = function(ll00Ol1Oolll) return ll00Ol1Oolll and ll00Ol1Oolll or "I0OIo0lO1O1I" end; local l0o0olI0I0l0 = 
+function(l0l11olloIO1) return l0l11olloIO1 and l0l11olloIO1 or "IO01oOl0Oo1O" end; local loIlOoIll0lO = 
+function(lOOlI1OIIo0o) return lOOlI1OIIo0o and lOOlI1OIIo0o or "l0I11O10II10" end; local I1O1OOIOO0ll = {32, 81}; 
+I1O1OOIOO0ll[1] = I1O1OOIOO0ll[1] - I1O1OOIOO0ll[2]; if 68 > 193 then local l10llO0lloO0 = "I0lOO0lIo0I1"; end; local 
+I0lO0o1l0l1l = {82, 71}; I0lO0o1l0l1l[1] = I0lO0o1l0l1l[1] + I0lO0o1l0l1l[2]; if 90 > 144 then local lO00o001OlO1 = 
+"I0IOoo00IIOO"; end; for III0I0l0IO0l=3, 7 do local looI1OlIII1o = III0I0l0IO0l * 2; end; if 9 > 117 then local 
+I11Ooo11Ol11 = "IOlolIIol0Oo"; end; for lolll0O0011l=4, 7 do local l0lo0lO0IlOI = lolll0O0011l * 2; end; local 
+lI01Il11ooOo = function(IlO0I1oOI0IO) return IlO0I1oOI0IO and IlO0I1oOI0IO or "lI1ooIlo00Io" end; local IoO1lIIo00oo = 
+{22, 19}; IoO1lIIo00oo[1] = IoO1lIIo00oo[1] + IoO1lIIo00oo[2]; if 47 > 144 then local I011lo010lll = "llo1IIo0IIo0"; 
+end; for lOIloIOo00OI=1, 6 do local loIoIIoO0OO0 = lOIloIOo00OI * 2; end; for l01o1o00O1O0=3, 7 do local ll1olOool011 = 
+l01o1o00O1O0 * 2; end; local ll0oolO001OI = function(lI1l001I0Ooo) return lI1l001I0Ooo and lI1l001I0Ooo or 
+"II1I0Io011lO" end; for I0Ol0o1oOl0I=5, 10 do local ll0011IlOOO0 = I0Ol0o1oOl0I * 2; end; local IIO1101ooO10 = 
+function(II1IlIlII10O) return II1IlIlII10O and II1IlIlII10O or "IoI10IlollI1" end; local llOollOOo0Oo = 
+function(l1O0IIlo1O1I) return l1O0IIlo1O1I and l1O0IIlo1O1I or "I0O11llIIlIl" end; if 27 > 105 then local II00oIOIo11O = 
+"l1Ol0OI00ol1"; end; local IooIIoO0o0oo = {66, 93}; IooIIoO0o0oo[1] = IooIIoO0o0oo[1] + IooIIoO0o0oo[2]; if 5 > 192 then 
+local IIIOIOIo0IoO = "lOO1O00IO1Io"; end; local lI01O1o1l0O0 = {65, 90}; lI01O1o1l0O0[1] = lI01O1o1l0O0[1] % 
+lI01O1o1l0O0[2]; if 64 > 177 then local I0OIl11OooOl = "lOO0l1o0lIll"; end; local l101ooIIO1Io = {47, 47}; 
+l101ooIIO1Io[1] = l101ooIIO1Io[1] - l101ooIIO1Io[2]; if 79 > 182 then local l1l11o11IOlO = "l1ll0o0l0I1l"; end; local 
+lIl100I0101o = function(l0o10IoO0I10) return l0o10IoO0I10 and l0o10IoO0I10 or "I1o10o1OII1o" end; for IoIOO00Ioool=4, 10 
+do local II0O001OlolO = IoIOO00Ioool * 2; end; if 5 > 102 then local loIIoll0oOIo = "Il0lI0O11lIl"; end; if 18 > 157 
+then local l10I1I1IIloI = "lI01IOl0o0IO"; end; local l1OOO1ooolol = function(lI0ooOIIOIlI) return lI0ooOIIOIlI and 
+lI0ooOIIOIlI or "lO1oI1110ool" end; if 14 > 117 then local IOlIO1oI101O = "l0Ol0I1lloI1"; end; local II0Oo0oOl11o = {23, 
+13}; II0Oo0oOl11o[1] = II0Oo0oOl11o[1] + II0Oo0oOl11o[2]; local l00OO0oll1OI = {17, 44}; l00OO0oll1OI[1] = 
+l00OO0oll1OI[1] - l00OO0oll1OI[2]; local IoI10OOoIO01 = {92, 61}; IoI10OOoIO01[1] = IoI10OOoIO01[1] - IoI10OOoIO01[2]; 
+local llIo0IIoo1o0 = function(loI1l11o1Il0) return loI1l11o1Il0 and loI1l11o1Il0 or "I0IlIooI0o0I" end; if 28 > 115 then 
+local IOo0Olo1o1l0 = "IOo0oI0I0l1I"; end; if 29 > 125 then local lOloolOIOOO1 = "IlII1lIlI0OI"; end; for l11OlIo0ooO1=5, 
+7 do local l1000loo0O01 = l11OlIo0ooO1 * 2; end; local I1OoIoI11lIo = {56, 87}; I1OoIoI11lIo[1] = I1OoIoI11lIo[1] * 
+I1OoIoI11lIo[2]; local lOo0lIOOOolo = function(lIO010IIO1oI) return lIO010IIO1oI and lIO010IIO1oI or "I001O0OolIl1" end; 
+local IlIlll1o0IIl = function(IooO1olIO0o0) return IooO1olIO0o0 and IooO1olIO0o0 or "II0lIIoIo1o1" end; for 
+lo01oOl0Oooo=5, 6 do local IOO1Ol1l0ol0 = lo01oOl0Oooo * 2; end; for Io1Oo01l0ol0=2, 6 do local IO0l01I0lo1I = 
+Io1Oo01l0ol0 * 2; end; local IlllIOO0OoOl = function(IOl0IIOo0OI1) return IOl0IIOo0OI1 and IOl0IIOo0OI1 or 
+"l10O0oOoOO0l" end; for lOO00ll0ll1O=3, 6 do local IO10O1o1Ol00 = lOO00ll0ll1O * 2; end; local Il0I1lloI0O1 = {13, 60}; 
+Il0I1lloI0O1[1] = Il0I1lloI0O1[1] + Il0I1lloI0O1[2]; if 30 > 104 then local loO11I1O1oOI = "IIO10IoO1l10"; end; if 33 > 
+190 then local IIIOllIo1l0O = "I00o0l0l0O1I"; end; local lOOOI0llI1lI = function(I10l0IO0I1o1) return I10l0IO0I1o1 and 
+I10l0IO0I1o1 or "lolOIllo0l0I" end; if 33 > 145 then local I1ol1O0OI10I = "l0OIollO00o1"; end; for lI0IooIIlOoo=5, 10 do 
+local lloOI0ol1oOO = lI0IooIIlOoo * 2; end; if 82 > 116 then local IoO1O1Il10o0 = "l0OI0Ioo11OI"; end; for 
+IO00lo000IO1=5, 6 do local IIolO0Il101I = IO00lo000IO1 * 2; end; local l10I101I0IOI = function(IIo1OOo0IlOI) return 
+IIo1OOo0IlOI and IIo1OOo0IlOI or "loOIlI1lollI" end; if 1 > 110 then local Illo0oIl11oI = "I1lo10O00O0l"; end; local 
+IIl0I1l0olOo = {87, 97}; IIl0I1l0olOo[1] = IIl0I1l0olOo[1] + IIl0I1l0olOo[2]; for IIoooIl0lIIO=3, 7 do local 
+Il0loIIOooI1 = IIoooIl0lIIO * 2; end; if 100 > 159 then local lI1OOllolI0O = "IlII1oOOolII"; end; for loOo110O11l0=5, 9 
+do local l0IOOlI0II1l = loOo110O11l0 * 2; end; local Iooo0oII10Ol = function(ll1oI0lOIOIl) return ll1oI0lOIOIl and 
+ll1oI0lOIOIl or "Ilo1OlOOOll0" end; local II101l1OO1I1 = {77, 70}; II101l1OO1I1[1] = II101l1OO1I1[1] * II101l1OO1I1[2]; 
+for IololIoI11o0=3, 9 do local I11oIll0lI1I = IololIoI11o0 * 2; end; if 2 > 148 then local loIIoIll000l = 
+"l0ol1Oloolol"; end; local lOlOo1lI00ol = function(loo1oIIloIIO) return loo1oIIloIIO and loo1oIIloIIO or "ll1Ilooolo00" 
+end; local IIOllIlIoI0I = function(l0O01o01OloI) return l0O01o01OloI and l0O01o01OloI or "II0oo11lI0ol" end; for 
+II1l1I00l1OI=5, 10 do local lO1I0lII0o1I = II1l1I00l1OI * 2; end; local lOI01IOOO1o0 = {84, 35}; lOI01IOOO1o0[1] = 
+lOI01IOOO1o0[1] + lOI01IOOO1o0[2]; local IlIIoO11loOl = function(l0ooI11100l1) return l0ooI11100l1 and l0ooI11100l1 or 
+"l0l1Il1olOOo" end; for ll01oIO11010=5, 8 do local Il0l0Io00lO1 = ll01oIO11010 * 2; end; local IO1oO1ooIIOo = {76, 7}; 
+IO1oO1ooIIOo[1] = IO1oO1ooIIOo[1] * IO1oO1ooIIOo[2]; if 50 > 129 then local l00oO1Ooll1O = "Il0ooooOool0"; end; local 
+IIl0OIoIlIIO = function(III0OI1l0OIl) return III0OI1l0OIl and III0OI1l0OIl or "lIoOI0o1lI0I" end; for IlOloO0Oo1OI=2, 9 
+do local Il1OO111Oo01 = IlOloO0Oo1OI * 2; end; local lo11OOIOI01I = {14, 55}; lo11OOIOI01I[1] = lo11OOIOI01I[1] + 
+lo11OOIOI01I[2]; local lO0IlolOO0O0 = {49, 20}; lO0IlolOO0O0[1] = lO0IlolOO0O0[1] - lO0IlolOO0O0[2]; local lo0O1loOOII1 
+= {74, 10}; lo0O1loOOII1[1] = lo0O1loOOII1[1] * lo0O1loOOII1[2]; local l0I1ool000l1 = function(IO11l1olOI1l) return 
+IO11l1olOI1l and IO11l1olOI1l or "IlI01O01111I" end; for l011lI1l1Oo0=4, 10 do local II0oOOIoO1Io = l011lI1l1Oo0 * 2; 
+end; local II1Oo1l10O0l = function(lollOoloI0o0) return lollOoloI0o0 and lollOoloI0o0 or "lO0o1OO0lIOl" end; for 
+lo11ollI1OOo=5, 8 do local II0101I0O1o0 = lo11ollI1OOo * 2; end; if 28 > 150 then local lo1I0ol1oOO1 = "lo0ooI0Ol0OO"; 
+end; local lO1l1lolO1o1 = function(I1I0o1l01lIl) return I1I0o1l01lIl and I1I0o1l01lIl or "Io10o1OI1oII" end; local 
+I000oIoI0OOl = function(Io0OllolO101) return Io0OllolO101 and Io0OllolO101 or "llOlI0loIIIO" end; local IIO1I10lll0o = 
+function(l11IOlOl0O0l) return l11IOlOl0O0l and l11IOlOl0O0l or "l1OoOoloO00o" end; if 47 > 104 then local I0OoOlooOlll = 
+"IOOI0OII0oll"; end; for lllol0IllOOO=2, 6 do local lIOIl0IO1lo0 = lllol0IllOOO * 2; end; local IollIOI0oolI = {95, 45}; 
+IollIOI0oolI[1] = IollIOI0oolI[1] * IollIOI0oolI[2]; local Il1IOI0OOoII = {27, 70}; Il1IOI0OOoII[1] = Il1IOI0OOoII[1] - 
+Il1IOI0OOoII[2]; local lo1lo111oIo0 = function(IlOOoo0II0Ol) return IlOOoo0II0Ol and IlOOoo0II0Ol or "I0oOlllIO01O" end; 
+for lOoOoOl0lOo1=1, 6 do local lol0olo0OlO0 = lOoOoOl0lOo1 * 2; end; for I00II0OoolOO=1, 7 do local IIIOllo111ll = 
+I00II0OoolOO * 2; end; for ll1lIOIoI0ol=3, 7 do local I0OOoII1lO0I = ll1lIOIoI0ol * 2; end; local I0ollo1lI100 = 
+function(lIlOOlo0OOl0) return lIlOOlo0OOl0 and lIlOOlo0OOl0 or "I1oO0lIllIoI" end; for IOO00OOolIOl=1, 10 do local 
+I1I0oll0OIIO = IOO00OOolIOl * 2; end; for lOoOOl101OII=4, 6 do local lI11001o0oo0 = lOoOOl101OII * 2; end; local 
+Il11o0Io0IlI = {92, 28}; Il11o0Io0IlI[1] = Il11o0Io0IlI[1] - Il11o0Io0IlI[2]; local IoIllol0OI1O = {36, 63}; 
+IoIllol0OI1O[1] = IoIllol0OI1O[1] - IoIllol0OI1O[2]; if 65 > 138 then local l110o0OoI0Ol = "I1O101101oo1"; end; local 
+IIo0oo0ll01l = function(IIIll0IoIO00) return IIIll0IoIO00 and IIIll0IoIO00 or "IOl00l1lIO01" end; for IIOoOOlOloIo=5, 6 
+do local ll01IlooI10I = IIOoOOlOloIo * 2; end; for lOl11lO011lO=2, 8 do local l0oIOo1IIloI = lOl11lO011lO * 2; end; for 
+IOl0o10IllO0=2, 6 do local lo1IoOOoIoOO = IOl0o10IllO0 * 2; end; local I1O1ooIlI01O = {59, 15}; I1O1ooIlI01O[1] = 
+I1O1ooIlI01O[1] - I1O1ooIlI01O[2]; local I0ol0IlolO11 = function(Il11Il0loOoO) return Il11Il0loOoO and Il11Il0loOoO or 
+"IIO1ll1OI0I1" end; local I010IlIO01ol = function(IIl000Illol0) return IIl000Illol0 and IIl000Illol0 or "lOIloOoOlI0l" 
+end; local lo11olOI01l0 = {81, 80}; lo11olOI01l0[1] = lo11olOI01l0[1] * lo11olOI01l0[2]; if 4 > 122 then local 
+IoI000Ill110 = "lo0OI001lllo"; end; local lIooI111OOoO = function(lI1o0l0l0Oo0) return lI1o0l0l0Oo0 and lI1o0l0l0Oo0 or 
+"llo0l0010oo1" end; local looIolOololI = function(loIIOolll100) return loIIOolll100 and loIIOolll100 or "I11OllOl110o" 
+end; local Il011lo1IlII = {44, 69}; Il011lo1IlII[1] = Il011lo1IlII[1] * Il011lo1IlII[2]; local Io0OlO1l01ll = {30, 90}; 
+Io0OlO1l01ll[1] = Io0OlO1l01ll[1] % Io0OlO1l01ll[2]; local IoIO10loIIo1 = {85, 47}; IoIO10loIIo1[1] = IoIO10loIIo1[1] * 
+IoIO10loIIo1[2]; for llllooIIIIO1=5, 10 do local Iool0Io0OOl1 = llllooIIIIO1 * 2; end; local I1O11Il0l1II = 
+function(l1o10llloIo0) return l1o10llloIo0 and l1o10llloIo0 or "Io1o1o001lOo" end; local II100o1OOoOl = {31, 100}; 
+II100o1OOoOl[1] = II100o1OOoOl[1] * II100o1OOoOl[2]; if 44 > 180 then local lIOollI0I0O1 = "lo1OOl00oOII"; end; local 
+lo11O1O1Il0l = function(I00OIlI0Il0O) return I00OIlI0Il0O and I00OIlI0Il0O or "IIIl010I01Il" end; local lOoIlll1olII = 
+{85, 94}; lOoIlll1olII[1] = lOoIlll1olII[1] - lOoIlll1olII[2]; local lo1oOl1llIIl = function(lI0l0lo1IIIO) return 
+lI0l0lo1IIIO and lI0l0lo1IIIO or "IIOOI01OIl1O" end; if 90 > 192 then local llIlI10IOl0O = "ll0Illol01OI"; end; for 
+lOOO11l0O1Io=2, 6 do local lollllOOOo0l = lOOO11l0O1Io * 2; end; for IIO1IIIOI0ol=4, 6 do local lIIO1loIlI0O = 
+IIO1IIIOI0ol * 2; end; for I111oooIOII1=5, 7 do local IollI1l010O0 = I111oooIOII1 * 2; end; local IlI0lo1oIoI0 = {24, 
+36}; IlI0lo1oIoI0[1] = IlI0lo1oIoI0[1] - IlI0lo1oIoI0[2]; if 14 > 177 then local IOIll0I10Ioo = "l1l10ooIoO0o"; end; 
+local Il1IOIlolO1l = {43, 83}; Il1IOIlolO1l[1] = Il1IOIlolO1l[1] * Il1IOIlolO1l[2]; local IOl10l0O0I1O = 
+function(Io1ol0I11OoI) return Io1ol0I11OoI and Io1ol0I11OoI or "IOoIIo100I0o" end; for IOlolO1Il1Io=1, 10 do local 
+l0IlIlIl01OI = IOlolO1Il1Io * 2; end; local IO0OI1o1lo0o = {12, 20}; IO0OI1o1lo0o[1] = IO0OI1o1lo0o[1] - 
+IO0OI1o1lo0o[2]; local l1oI1OI1lO1o = {47, 62}; l1oI1OI1lO1o[1] = l1oI1OI1lO1o[1] - l1oI1OI1lO1o[2]; local l0lO1IIo0lI0 
+= function(Ilo0OO1oOlll) return Ilo0OO1oOlll and Ilo0OO1oOlll or "I1OIo0OoIIl0" end; if 10 > 199 then local I0111l0oIlII 
+= "loo10IOoIOlo"; end; local IIO1IIOlolIl = function(llI00Oll111l) return llI00Oll111l and llI00Oll111l or 
+"Io1IOIo0OOoo" end; if 3 > 162 then local I111o00l1oOl = "IIo00olO0IOI"; end; for IIl1Oo0IIII0=1, 8 do local 
+I0l01l110l11 = IIl1Oo0IIII0 * 2; end; if 12 > 135 then local lO1lIIOlOIIo = "I0I0ool1O011"; end; local lOO0l0OOlIo0 = 
+{1, 68}; lOO0l0OOlIo0[1] = lOO0l0OOlIo0[1] * lOO0l0OOlIo0[2]; if 98 > 122 then local ll0oo0lO0o11 = "I0oIOO111I00"; end; 
+for looOlIOl1IOl=4, 7 do local lOIl0IIll0oI = looOlIOl1IOl * 2; end; if 93 > 176 then local I1IoOoIo01I0 = 
+"IlolOIoooO00"; end; local I0Ool1II000I = function(l111oI1llIOI) return l111oI1llIOI and l111oI1llIOI or "lOlooO0l10IO" 
+end; local lIlOOoloOo01 = {83, 42}; lIlOOoloOo01[1] = lIlOOoloOo01[1] * lIlOOoloOo01[2]; for I1Il0Ioo0O01=5, 10 do local 
+lI01O0OO1oO1 = I1Il0Ioo0O01 * 2; end; if 77 > 171 then local IooI1l0olOOO = "lIllOoO010o1"; end; for lo0llOOIllOo=1, 6 
+do local IOoI1oO0II00 = lo0llOOIllOo * 2; end; local IOlIl1o0oOoO = {67, 8}; IOlIl1o0oOoO[1] = IOlIl1o0oOoO[1] - 
+IOlIl1o0oOoO[2]; local I0ollol1Ooo1 = {38, 34}; I0ollol1Ooo1[1] = I0ollol1Ooo1[1] + I0ollol1Ooo1[2]; if 26 > 113 then 
+local l1oOIOI0l00o = "l10OI00lo11I"; end; if 98 > 185 then local lO110l0I0o0I = "IOIOo1OIIl11"; end; local I01olo0loOOO 
+= {34, 40}; I01olo0loOOO[1] = I01olo0loOOO[1] + I01olo0loOOO[2]; local II1l0O01l1ol = function(l1o0OOOlooIo) return 
+l1o0OOOlooIo and l1o0OOOlooIo or "Io10OI0o0OI1" end; local IIOI1ol1OOIo = {30, 1}; IIOI1ol1OOIo[1] = IIOI1ol1OOIo[1] + 
+IIOI1ol1OOIo[2]; for I1o1O11OI0ll=2, 7 do local I111l0O0lo0o = I1o1O11OI0ll * 2; end; local l10oolI0IoIO = {80, 98}; 
+l10oolI0IoIO[1] = l10oolI0IoIO[1] * l10oolI0IoIO[2]; for IOO1IIIooO0O=3, 6 do local lOo1I1O00l1o = IOO1IIIooO0O * 2; 
+end; local l001001Ol1I1 = {83, 12}; l001001Ol1I1[1] = l001001Ol1I1[1] % l001001Ol1I1[2]; local Il0lO1Il1l1I = 
+function(l1IOI0oolIII) return l1IOI0oolIII and l1IOI0oolIII or "llOO0O1lll1I" end; local l0I0O10o0l10 = 
+function(I1OOIO0OloOO) return I1OOIO0OloOO and I1OOIO0OloOO or "lOIOoolIOIOI" end; if 75 > 155 then local l0oO1oo1Io10 = 
+"lIOIlllOoo1l"; end; local l1010O1oOo1o = function(lo01lOIlo0l0) return lo01lOIlo0l0 and lo01lOIlo0l0 or "IOoolIIIoIl0" 
+end; local I1Ill1I0ll10 = {65, 49}; I1Ill1I0ll10[1] = I1Ill1I0ll10[1] - I1Ill1I0ll10[2]; for I01oIo1l1oIO=3, 6 do local 
+Io0O0Ooll1l1 = I01oIo1l1oIO * 2; end; for l1lo1l0IO01l=5, 8 do local lI0O0O00OIO1 = l1lo1l0IO01l * 2; end; local 
+Ill1I0Ill0O1 = {94, 21}; Ill1I0Ill0O1[1] = Ill1I0Ill0O1[1] * Ill1I0Ill0O1[2]; if 92 > 171 then local Io1Il0o1O1IO = 
+"Io0l1OIIoOlI"; end; local lIol11OlOll0 = {31, 97}; lIol11OlOll0[1] = lIol11OlOll0[1] + lIol11OlOll0[2]; if 76 > 183 
+then local l0ool1l0l11O = "llI101OI0IoO"; end; local IOIOo1l1O01l = {86, 82}; IOIOo1l1O01l[1] = IOIOo1l1O01l[1] * 
+IOIOo1l1O01l[2]; for ll0oO1OI1IlI=1, 9 do local I101O0Ill11O = ll0oO1OI1IlI * 2; end; if 50 > 182 then local 
+IOIoI1lO0ooo = "I000lI1looI0"; end; if 4 > 146 then local I0Oolo01lll0 = "III011lOoOlI"; end; local II0l0IOoIlol = 
+function(I01OlIlooolI) return I01OlIlooolI and I01OlIlooolI or "II1l1OIIlll1" end; for lIoI1lOOIo1O=3, 7 do local 
+l0O1OOO1o1lO = lIoI1lOOIo1O * 2; end; for lO01I1OO1ooO=4, 7 do local l0ll0o01l00o = lO01I1OO1ooO * 2; end; local 
+I11o0l0l1Iol = function(l0I1I00000II) return l0I1I00000II and l0I1I00000II or "l10lOlIIOlIo" end; for lOI0IO1oOl1l=2, 7 
+do local I0llo1ll0lI1 = lOI0IO1oOl1l * 2; end; local I1I0IlIOO0Io = function(IlIlII1IO11l) return IlIlII1IO11l and 
+IlIlII1IO11l or "Ilo1l10ol1oI" end; local III1ol10llOI = function(l01IO1olo1lI) return l01IO1olo1lI and l01IO1olo1lI or 
+"I11l1oO0lo1o" end; local lIoO11OIooOo = {11, 58}; lIoO11OIooOo[1] = lIoO11OIooOo[1] * lIoO11OIooOo[2]; local 
+l100IolOI1o1 = function(IoIloo0OO00l) return IoIloo0OO00l and IoIloo0OO00l or "lI0oIO0l001l" end; local I0l1IOO1o1OI = 
+function(llllO1IoI00o) return llllO1IoI00o and llllO1IoI00o or "lI1OoIlO100o" end; local loOo01110oOo = {81, 41}; 
+loOo01110oOo[1] = loOo01110oOo[1] + loOo01110oOo[2]; local llI0Ol1OIoll = {82, 15}; llI0Ol1OIoll[1] = llI0Ol1OIoll[1] % 
+llI0Ol1OIoll[2]; local looOI0O1l11l = {93, 46}; looOI0O1l11l[1] = looOI0O1l11l[1] % looOI0O1l11l[2]; if 55 > 192 then 
+local l101ooI1lOl0 = "IoIOoI0lO1oI"; end; local loO11OI1111l = function(II0o0II1110o) return II0o0II1110o and 
+II0o0II1110o or "IO1llIOIoo01" end; local lo10oOl0ooIl = function(lOI1lo1olO00) return lOI1lo1olO00 and lOI1lo1olO00 or 
+"lO1II1I0I1ol" end; local lo01olOo1ol0 = {23, 44}; lo01olOo1ol0[1] = lo01olOo1ol0[1] * lo01olOo1ol0[2]; local 
+I1l01OI0O000 = function(II0O1l1OOlol) return II0O1l1OOlol and II0O1l1OOlol or "IIOII0lO01lo" end; local ll00I001llO0 = 
+function(lI01oI1Io0II) return lI01oI1Io0II and lI01oI1Io0II or "IooOl0OO1O01" end; local I1oIIO10l010 = 
+function(IIOlo10OI0ll) return IIOlo10OI0ll and IIOlo10OI0ll or "lOo11oOoIoO1" end; local l1101lIOO0l0 = 
+function(I10O0Ol1Ill0) return I10O0Ol1Ill0 and I10O0Ol1Ill0 or "l0IIo10OIO00" end; if 58 > 166 then local I000l1l01OII = 
+"I0lIOOO0I0I0"; end; local lIOo0oOO0o1O = function(l0Oo0Oo1O1l1) return l0Oo0Oo1O1l1 and l0Oo0Oo1O1l1 or "IoooOOl0Ill0" 
+end; for I00oIOOI00oO=2, 7 do local Il1I1I01Ol00 = I00oIOOI00oO * 2; end; local ll01OloIoooI = function(I1IIo1oII1oO) 
+return I1IIo1oII1oO and I1IIo1oII1oO or "lo0OIOOOI0l1" end; for l1lI1lllI11o=1, 8 do local ll1OI00I00lI = l1lI1lllI11o * 
+2; end; local loI0l0l00l11 = function(I1Ioll00IIII) return I1Ioll00IIII and I1Ioll00IIII or "I000I1OIo0oo" end; for 
+l111OlOOOl01=2, 7 do local Il0olIolo100 = l111OlOOOl01 * 2; end; local IO00I1lIIl00 = function(I0Oo0O0o1ooo) return 
+I0Oo0O0o1ooo and I0Oo0O0o1ooo or "loOO1o0IIOll" end; for I0Oo1OOI0001=1, 8 do local II00lolloOo0 = I0Oo1OOI0001 * 2; 
+end; for I10Io00OI0ll=2, 8 do local Io10I1ool0Il = I10Io00OI0ll * 2; end; for l1loIll1IOo0=5, 7 do local ll1lO0O0ooI0 = 
+l1loIll1IOo0 * 2; end; if 46 > 195 then local lOO001o0OOO0 = "IlOIOl1IIoOO"; end; for IOl1Oo1OI1lO=2, 10 do local 
+lIolo0II0oOl = IOl1Oo1OI1lO * 2; end; for Ioo00ooOoool=4, 8 do local lIIlIO11Il10 = Ioo00ooOoool * 2; end; if 1 > 155 
+then local l1l0OIoI1lOO = "Il00ooO100l0"; end; if 76 > 133 then local lI1011OoO1oO = "I01I0lIoIl00"; end; for 
+l0l111l1OoOl=3, 9 do local lOOlOOO11I10 = l0l111l1OoOl * 2; end; if 45 > 154 then local I01Oool0Ol00 = "IllOlOoOlloI"; 
+end; local llIo0ol0IlO0 = {66, 11}; llIo0ol0IlO0[1] = llIo0ol0IlO0[1] + llIo0ol0IlO0[2]; for IOIOI10110II=4, 8 do local 
+l1O1ool0lOO1 = IOIOI10110II * 2; end; local II010l1Oo0I0 = {73, 29}; II010l1Oo0I0[1] = II010l1Oo0I0[1] % 
+II010l1Oo0I0[2]; local Ill1o1l1o0IO = {10, 64}; Ill1o1l1o0IO[1] = Ill1o1l1o0IO[1] + Ill1o1l1o0IO[2]; local lO0lOoO1o1lo 
+= function(lllI1lII10o0) return lllI1lII10o0 and lllI1lII10o0 or "lolOOOoOl0Io" end; if 91 > 152 then local IOo0I10lOoO0 
+= "lo1100O0000I"; end; for I01lloOOIl1I=3, 9 do local lOOlIlI0lOl0 = I01lloOOIl1I * 2; end; if 79 > 116 then local 
+IOI1oO0ll1ll = "Il1lIl1OI00I"; end; local I01l01ll1lIl = {24, 32}; I01l01ll1lIl[1] = I01l01ll1lIl[1] % I01l01ll1lIl[2]; 
+local Il0OOoOo1Ool = function(ll1lo0IIO10I) return ll1lo0IIO10I and ll1lo0IIO10I or "Ilo0lO01olI0" end; for 
+I1llolOIl10l=5, 8 do local I0I0o0OIOl10 = I1llolOIl10l * 2; end; if 89 > 140 then local l0o10001111I = "lOOl1IoOo0II"; 
+end; if 22 > 174 then local llo0OllO0oOo = "I0lIl1OO101O"; end; local l1Ol1olOIO00 = {87, 74}; l1Ol1olOIO00[1] = 
+l1Ol1olOIO00[1] * l1Ol1olOIO00[2]; local IO01IlOOlO0O = {59, 81}; IO01IlOOlO0O[1] = IO01IlOOlO0O[1] - IO01IlOOlO0O[2]; 
+for lIOlIOo01OlO=4, 10 do local llOlIl1lOlo1 = lIOlIOo01OlO * 2; end; for l00IOoIlOo1l=2, 7 do local lloo1Ooo0lIl = 
+l00IOoIlOo1l * 2; end; local I1O0IlIol00o = {33, 54}; I1O0IlIol00o[1] = I1O0IlIol00o[1] + I1O0IlIol00o[2]; if 77 > 158 
+then local l0o0Io0l1I0I = "lO1lo0oO0OII"; end; if 97 > 110 then local l0Oo1Iol0OoI = "l0oo01I0l11I"; end; if 42 > 174 
+then local lOol01lo1IOo = "lol0I0oIl11o"; end; for I1oooOO0l001=4, 9 do local l1OllO11Oloo = I1oooOO0l001 * 2; end; 
+local I0ooI1o11I0I = {46, 75}; I0ooI1o11I0I[1] = I0ooI1o11I0I[1] + I0ooI1o11I0I[2]; local I10OlOI01I1o = {47, 70}; 
+I10OlOI01I1o[1] = I10OlOI01I1o[1] - I10OlOI01I1o[2]; for IO1o0o0I0o0O=2, 6 do local Ill00lO1IIIl = IO1o0o0I0o0O * 2; 
+end; local IoI010Ool1ll = function(IoIOO0IOI111) return IoIOO0IOI111 and IoIOO0IOI111 or "loooO1OlII11" end; for 
+l11IoO100ooO=2, 7 do local lloOoO1OlIol = l11IoO100ooO * 2; end; if 24 > 139 then local IOO0ol1lIIl0 = "IIoIo1lI1lIl"; 
+end; local I00l1l1olI00 = function(I00OIlO0O11l) return I00OIlO0O11l and I00OIlO0O11l or "IoIo0lOo01o0" end; local 
+I01llIoo1lol = function(l1111II00II0) return l1111II00II0 and l1111II00II0 or "l1l1OO1o0l00" end; for l0ll1Ol0O1Io=4, 6 
+do local IloIll1looII = l0ll1Ol0O1Io * 2; end; if 80 > 134 then local l1Illl1ool0o = "I1oOloOOloll"; end; local 
+Il0oIll0I100 = function(lo0l1o1oo0OO) return lo0l1o1oo0OO and lo0l1o1oo0OO or "II1oO1lIl0II" end; local IO0o00lool1l = 
+function(I1oIo1oI1l1l) return I1oIo1oI1l1l and I1oIo1oI1l1l or "I00IO1oloII1" end; if 37 > 132 then local lOO00l0I0100 = 
+"l1OolI00ol1o"; end; for l0OoI0I0ollI=1, 6 do local llI11ll11Ol0 = l0OoI0I0ollI * 2; end; for I0o1ollO00Io=1, 8 do local 
+IlIlOOOO1IlO = I0o1ollO00Io * 2; end; local loIll1oOO01I = {51, 21}; loIll1oOO01I[1] = loIll1oOO01I[1] - 
+loIll1oOO01I[2]; for IIl0l1IOoolo=1, 9 do local l0001lO0loll = IIl0l1IOoolo * 2; end; for lIIIlIO000ll=4, 9 do local 
+l0lOoo0l1ooo = lIIIlIO000ll * 2; end; local IlllolO1Il0O = function(lllolo0OoOo0) return lllolo0OoOo0 and lllolo0OoOo0 
+or "IoIo0O011lO0" end; if 89 > 155 then local loIOooo00I10 = "IllO0llOo0O1"; end; for IoOO0lo1llll=4, 10 do local 
+l1loOOlIl11l = IoOO0lo1llll * 2; end; local Il1OOIOOOlol = function(lI1ll0IOll01) return lI1ll0IOll01 and lI1ll0IOll01 
+or "lOI1lOoIII01" end; local lOIOIl1o0II1 = function(lO0oI1Olo110) return lO0oI1Olo110 and lO0oI1Olo110 or 
+"l0000lllI0I1" end; if 100 > 145 then local lO00o0010OoI = "IlIoIol0lIIl"; end; local I01ol1O01O01 = {24, 29}; 
+I01ol1O01O01[1] = I01ol1O01O01[1] - I01ol1O01O01[2]; for I10OlO000o11=2, 6 do local IO11llIlO00O = I10OlO000o11 * 2; 
+end; local lOlOoloOIoO0 = function(I1IO11IOlOIO) return I1IO11IOlOIO and I1IO11IOlOIO or "I0Ol1lOIoI1O" end; for 
+I0o11O11oll0=4, 7 do local l1olI0OOol1I = I0o11O11oll0 * 2; end; local lIl1o1O1O0lI = function(lIIl0IolOI11) return 
+lIIl0IolOI11 and lIIl0IolOI11 or "lI0IoOoI1O0l" end; if 23 > 104 then local Ioo00oO0o1oI = "lIoII01Ol000"; end; local 
+l0IO1O1l10oI = {46, 73}; l0IO1O1l10oI[1] = l0IO1O1l10oI[1] % l0IO1O1l10oI[2]; for lIOllI0l1011=1, 6 do local 
+Il001lI1l0Io = lIOllI0l1011 * 2; end; local lll0l0llolOo = {15, 14}; lll0l0llolOo[1] = lll0l0llolOo[1] + 
+lll0l0llolOo[2]; local I1OOO1o0OIll = {56, 24}; I1OOO1o0OIll[1] = I1OOO1o0OIll[1] % I1OOO1o0OIll[2]; for l1IloO00OOOI=3, 
+6 do local lOo111O01oo0 = l1IloO00OOOI * 2; end; for lIoOIIolI1Oo=5, 8 do local llOl11IoO0O0 = lIoOIIolI1Oo * 2; end; 
+local IIll0I00OloO = function(lOlo11o1OlO0) return lOlo11o1OlO0 and lOlo11o1OlO0 or "I1OO1OoIo1ol" end; local 
+llIoI0lOIoII = {82, 97}; llIoI0lOIoII[1] = llIoI0lOIoII[1] - llIoI0lOIoII[2]; for IIloIIIlIIll=2, 8 do local 
+lo10lOO1I0lO = IIloIIIlIIll * 2; end; local l0loI1oo1o10 = {33, 26}; l0loI1oo1o10[1] = l0loI1oo1o10[1] + 
+l0loI1oo1o10[2]; for lOIOlOoO0IOo=5, 10 do local Io1I0OOOIO10 = lOIOlOoO0IOo * 2; end; for IO0oIOl1100O=5, 10 do local 
+I0oOlIl001oo = IO0oIOl1100O * 2; end; local l01O10llo1IO = function(I0l0I0I1OIl0) return I0l0I0I1OIl0 and I0l0I0I1OIl0 
+or "lIo101IO1OO1" end; local lOl10I0OlOOl = function(IIIll11olOO0) return IIIll11olOO0 and IIIll11olOO0 or 
+"loO11IIOl11l" end; local loOo1O11lI11 = {30, 1}; loOo1O11lI11[1] = loOo1O11lI11[1] + loOo1O11lI11[2]; for 
+IO01010I111I=1, 6 do local loooo1IOIOOo = IO01010I111I * 2; end; local lll001III1ll = function(l1IOooolo011) return 
+l1IOooolo011 and l1IOooolo011 or "I111Ioo0Iol1" end; for l0l1l001O0lO=2, 10 do local IOO0l1I010ol = l0l1l001O0lO * 2; 
+end; if 33 > 103 then local lI1Ol1oIlloI = "IlIIIlo0ooo1"; end; local IOOo100Ol0O1 = {88, 63}; IOOo100Ol0O1[1] = 
+IOOo100Ol0O1[1] - IOOo100Ol0O1[2]; if 23 > 190 then local IlolOIoI1o1I = "I1IoIII11IOl"; end; if 9 > 175 then local 
+III11oIOOOO0 = "I1oIIl1lI1oO"; end; for III11IIlOoOo=2, 7 do local I0Ol01II0O1I = III11IIlOoOo * 2; end; local 
+loOIl0I0Ol11 = {72, 25}; loOIl0I0Ol11[1] = loOIl0I0Ol11[1] % loOIl0I0Ol11[2]; for I1l1O01OOo1l=2, 8 do local 
+l1Ol10l011Oo = I1l1O01OOo1l * 2; end; local l1OOOlOoO0OI = {94, 69}; l1OOOlOoO0OI[1] = l1OOOlOoO0OI[1] + 
+l1OOOlOoO0OI[2]; if 18 > 139 then local IIoololI0I00 = "l10o1010o01I"; end; for lOooIooIoIIO=2, 10 do local Ioo00IlIIlII 
+= lOooIooIoIIO * 2; end; local IIlllIIO0l0O = {74, 35}; IIlllIIO0l0O[1] = IIlllIIO0l0O[1] % IIlllIIO0l0O[2]; local 
+IOoI0l00lllo = function(Io0IoI000o1o) return Io0IoI000o1o and Io0IoI000o1o or "Il1IOOl0ll0O" end; local IIl0Ol1IoI11 = 
+{26, 3}; IIl0Ol1IoI11[1] = IIl0Ol1IoI11[1] % IIl0Ol1IoI11[2]; if 86 > 105 then local I0lIIllO0011 = "l01o1OIoollO"; end; 
+local l010Oo1OIlO0 = function(IllOI1o100OO) return IllOI1o100OO and IllOI1o100OO or "IlOI0lolO1OI" end; for 
+IIO00IoOOOlo=4, 6 do local I0IOIl001l1l = IIO00IoOOOlo * 2; end; if 72 > 128 then local IoloI10l0o0I = "IIOOI1OIl1ll"; 
+end; local lO000OII1O1I = {35, 22}; lO000OII1O1I[1] = lO000OII1O1I[1] + lO000OII1O1I[2]; local lOI0OoooIl0I = 
+function(lo110lIIloO1) return lo110lIIloO1 and lo110lIIloO1 or "IoOOolo1l0IO" end; local Il011O1lOI0o = 
+function(IOloOlOOl1Ol) return IOloOlOOl1Ol and IOloOlOOl1Ol or "II1Il00100OO" end; for IolO00lOlIIO=2, 8 do local 
+l00l11o01Ool = IolO00lOlIIO * 2; end; local l1oI0Io0oI01 = function(l0IloIIIIOOI) return l0IloIIIIOOI and l0IloIIIIOOI 
+or "I01O1I0Ol101" end; local lIO0lo1Ioool = {84, 84}; lIO0lo1Ioool[1] = lIO0lo1Ioool[1] % lIO0lo1Ioool[2]; local 
+II01O1O0IIIo = function(l0IOIIOI0IO1) return l0IOIIOI0IO1 and l0IOIIOI0IO1 or "lO1loOI001I1" end; local I100l0I11l00 = 
+{37, 27}; I100l0I11l00[1] = I100l0I11l00[1] % I100l0I11l00[2]; local lI00o11looo1 = function(I10Oo0oI0l01) return 
+I10Oo0oI0l01 and I10Oo0oI0l01 or "I1lIoIlOol0O" end; if 27 > 104 then local lloOIIIloI10 = "I10Ol0llol01"; end; for 
+IIo00O11I111=1, 6 do local I00lIII1oll0 = IIo00O11I111 * 2; end; local IloI10O0OOO0 = {34, 29}; IloI10O0OOO0[1] = 
+IloI10O0OOO0[1] - IloI10O0OOO0[2]; local IIIIo1l1101O = {99, 32}; IIIIo1l1101O[1] = IIIIo1l1101O[1] * IIIIo1l1101O[2]; 
+local loo1II0O0O01 = function(lIOoll1oO1OO) return lIOoll1oO1OO and lIOoll1oO1OO or "I0oO1lIIIoOO" end; if 86 > 144 then 
+local I1lI1lO1OOl0 = "I1IO10I1OOoo"; end; if 51 > 197 then local I10olIolIoI0 = "I10I11OoOOIl"; end; local IIO0l1100l1o 
+= {31, 47}; IIO0l1100l1o[1] = IIO0l1100l1o[1] * IIO0l1100l1o[2]; local I00lIl01II0o = function(II10Il0I1oII) return 
+II10Il0I1oII and II10Il0I1oII or "l1OOo0lI11oo" end; for IO0IloOOI000=5, 6 do local IIOolllolIl1 = IO0IloOOI000 * 2; 
+end; for Io0III1lO1I0=2, 9 do local l11oOoOlO0Ol = Io0III1lO1I0 * 2; end; for IlOlIO000OOO=3, 10 do local IO10O1IO01OI = 
+IlOlIO000OOO * 2; end; for l01oO1lo0lII=5, 7 do local l1o11I0OIOoo = l01oO1lo0lII * 2; end; if 85 > 200 then local 
+IIIO1OIOOIl1 = "l0OIoolO1OIl"; end; local l1O001lIoloI = function(l01I1l01Ool0) return l01I1l01Ool0 and l01I1l01Ool0 or 
+"IlI0oo110OIo" end; for I1ll0OlO1O0I=2, 7 do local IIolI0oOooI1 = I1ll0OlO1O0I * 2; end; local lOIOooOllOoI = 
+function(lOlI0l1IlIo0) return lOlI0l1IlIo0 and lOlI0l1IlIo0 or "l0lIIoO1ll0l" end; local lI111lII1l11 = 
+function(lIOO1I000oo0) return lIOO1I000oo0 and lIOO1I000oo0 or "IO1OloO1Oolo" end; local Ilo0IoII0OIo = 
+function(l11IlOoIl0o1) return l11IlOoIl0o1 and l11IlOoIl0o1 or "llIOIlO0Il0I" end; local IO1l1olO00o0 = 
+function(IOI1OloI1O00) return IOI1OloI1O00 and IOI1OloI1O00 or "IlIIl00o0Il0" end; for Ilo1IIoIlol1=3, 9 do local 
+Ioo0OIoOl1o1 = Ilo1IIoIlol1 * 2; end; if 49 > 141 then local lIl1I0ooIOOo = "l1oI1IoO0ol1"; end; for lolOl0O10OlI=3, 7 
+do local lo1IllI1OI1l = lolOl0O10OlI * 2; end; for IoIl1IOIO00l=2, 7 do local Io1IoIlI0l10 = IoIl1IOIO00l * 2; end; 
+local l1oOI1O1IO0O = {77, 74}; l1oOI1O1IO0O[1] = l1oOI1O1IO0O[1] * l1oOI1O1IO0O[2]; if 56 > 116 then local lOllOllOIl11 
+= "lllloooollll"; end; for l0O0OIlOloI1=3, 7 do local IIlOlI0100I0 = l0O0OIlOloI1 * 2; end; if 80 > 179 then local 
+lOIl1OOIllo0 = "IO01l1IIIO1o"; end; for lloo1o1IIo1l=5, 8 do local loOO10Io10OI = lloo1o1IIo1l * 2; end; local 
+loO0IOIOIoIO = function(ll1OoOIl1Ioo) return ll1OoOIl1Ioo and ll1OoOIl1Ioo or "I0IoO11o111o" end; local II1oOlolOIol = 
+function(lO111o0I0oOO) return lO111o0I0oOO and lO111o0I0oOO or "l0oO1I1IIo1I" end; for I01lO11o1o0I=2, 7 do local 
+l01O1OIlllo0 = I01lO11o1o0I * 2; end; if 1 > 167 then local lo1IIOIIo1l0 = "IO1ooOoOOlIo"; end; if 54 > 143 then local 
+IoOO1Olll1ll = "llollol0o0oI"; end; local lOoooII11l0o = function(IO0l1IoOIlol) return IO0l1IoOIlol and IO0l1IoOIlol or 
+"IOoO1lOo001l" end; for lo10Ilo1loI0=2, 6 do local I1o000IOIo0I = lo10Ilo1loI0 * 2; end; for lOoIl011I10l=4, 10 do local 
+l0llOll0OIo0 = lOoIl011I10l * 2; end; for IoIOOIIl0IIo=1, 8 do local lOlO1oI1l0o0 = IoIOOIIl0IIo * 2; end; local 
+IloO1OOOo00l = function(l01011OoOOo0) return l01011OoOOo0 and l01011OoOOo0 or "Il1o0OOIO0I0" end; for lO10O0Io0lol=3, 9 
+do local I1olooooIoo1 = lO10O0Io0lol * 2; end; local IooI1oo01110 = function(I1IlI11IOIo1) return I1IlI11IOIo1 and 
+I1IlI11IOIo1 or "Io0oo1I1l00l" end; local Io1OOO1lOIOO = function(II1oOI0lo000) return II1oOI0lo000 and II1oOI0lo000 or 
+"l11OllIIIO11" end; local lOol1IlIOl01 = {97, 42}; lOol1IlIOl01[1] = lOol1IlIOl01[1] - lOol1IlIOl01[2]; local 
+Il0I11Oo1I1o = {39, 71}; Il0I11Oo1I1o[1] = Il0I11Oo1I1o[1] + Il0I11Oo1I1o[2]; local ll101IO1000l = 
+function(lI00lO0IO00O) return lI00lO0IO00O and lI00lO0IO00O or "I01I00IO10OI" end; if 90 > 148 then local lIo01olOIlOO = 
+"IOOOOOIIo1o0"; end; local lOII11l0lO1I = function(lO1oIOO00Oo1) return lO1oIOO00Oo1 and lO1oIOO00Oo1 or "Iloool111O11" 
+end; local I0ooO0I1I0I0 = {74, 25}; I0ooO0I1I0I0[1] = I0ooO0I1I0I0[1] * I0ooO0I1I0I0[2]; for lIO1oIlOIlIO=5, 9 do local 
+I10lll11loO0 = lIO1oIlOIlIO * 2; end; local lIoOIlIOOII0 = {62, 17}; lIoOIlIOOII0[1] = lIoOIlIOOII0[1] % 
+lIoOIlIOOII0[2]; local looIIIl0I0o0 = function(I0lolO1l0oOO) return I0lolO1l0oOO and I0lolO1l0oOO or "l1lO010OOO0l" end; 
+if 7 > 101 then local IIIl11lO1Oll = "l1011011lIo1"; end; if 75 > 113 then local l0oooOo0II1o = "IO1ll11O00I0"; end; for 
+IOIOOOO000II=5, 10 do local IOoOIO10IIOl = IOIOOOO000II * 2; end; for lO1II0IOl1I0=4, 9 do local l00I0OIl1OOO = 
+lO1II0IOl1I0 * 2; end; for I0Oo11IoI1OO=2, 9 do local I1I1l11Ololl = I0Oo11IoI1OO * 2; end; for IOlOoool1OIl=2, 6 do 
+local l1oIO0l1oo10 = IOlOoool1OIl * 2; end; local lIlo1lIl1olo = function(l00lOO1I1I11) return l00lOO1I1I11 and 
+l00lOO1I1I11 or "IooO1IoIOl0o" end; if 16 > 154 then local IIOlIo0O11O0 = "I0OOO1oo1Il1"; end; local I1OO0oOo0llO = {73, 
+89}; I1OO0oOo0llO[1] = I1OO0oOo0llO[1] * I1OO0oOo0llO[2]; if 69 > 191 then local II11011oO0OI = "lIIoOo0oOIOo"; end; for 
+loO1OOlo0011=1, 9 do local l1llolOO00I0 = loO1OOlo0011 * 2; end; if 63 > 154 then local lOO111O0I0OI = "I0ol1IOl1lOl"; 
+end; local ll1o1IlIlOll = function(I0010olI0OOl) return I0010olI0OOl and I0010olI0OOl or "II0l0I1o1I1l" end; local 
+loo1I111O1O0 = {76, 100}; loo1I111O1O0[1] = loo1I111O1O0[1] - loo1I111O1O0[2]; local lllOO1I1II1O = 
+function(l0o0o1llOlO0) return l0o0o1llOlO0 and l0o0o1llOlO0 or "l1I0OloIool1" end; for I01I0loO1O0I=4, 10 do local 
+IIlOo1O1o10I = I01I0loO1O0I * 2; end; local lI00l0IOo0o1 = function(looOIOO0l0lO) return looOIOO0l0lO and looOIOO0l0lO 
+or "Il00loO1010l" end; if 48 > 199 then local Io01oOO1oOl0 = "l11ll0loOo10"; end; local IoOooooOlII1 = {84, 67}; 
+IoOooooOlII1[1] = IoOooooOlII1[1] + IoOooooOlII1[2]; local IOIo1I00IOll = function(II0O0o000101) return II0O0o000101 and 
+II0O0o000101 or "Io0o1O0110o0" end; for Il1llIO0oO1O=3, 7 do local loIO0IllIol0 = Il1llIO0oO1O * 2; end; for 
+lI000O0OOoIO=1, 6 do local lI1O011O1o1O = lI000O0OOoIO * 2; end; local l0IOoo10llOl = {11, 80}; l0IOoo10llOl[1] = 
+l0IOoo10llOl[1] - l0IOoo10llOl[2]; local IlOol011I001 = function(l01I0OO0ol0I) return l01I0OO0ol0I and l01I0OO0ol0I or 
+"lOOo1IIoOI0O" end; for lOlll0l0oO1o=4, 6 do local IooOollIlo1I = lOlll0l0oO1o * 2; end; if 33 > 121 then local 
+I0o1ol00ooO1 = "IloO1011l10o"; end; local l00lOooOIIl1 = function(l1lIo0oO0lIl) return l1lIo0oO0lIl and l1lIo0oO0lIl or 
+"IOIoIOo0lO0o" end; local lOolooOI00oI = {48, 52}; lOolooOI00oI[1] = lOolooOI00oI[1] % lOolooOI00oI[2]; local 
+Io1Oo0o1OlOI = {50, 49}; Io1Oo0o1OlOI[1] = Io1Oo0o1OlOI[1] - Io1Oo0o1OlOI[2]; for III0oIOOIoo1=5, 6 do local 
+lOOo0oooOlOO = III0oIOOIoo1 * 2; end; local I1oOIo1O0oll = function(lOo0oOO11IO1) return lOo0oOO11IO1 and lOo0oOO11IO1 
+or "I1I0lloO11OO" end; local l0OOlI0Il01O = {91, 74}; l0OOlI0Il01O[1] = l0OOlI0Il01O[1] + l0OOlI0Il01O[2]; for 
+Il10IOlo0oOI=3, 7 do local lo0loolO0oOl = Il10IOlo0oOI * 2; end; for IoO0Ilo01l11=5, 10 do local I1001ollIl1l = 
+IoO0Ilo01l11 * 2; end; local l10lo00lOll1 = {1, 6}; l10lo00lOll1[1] = l10lo00lOll1[1] * l10lo00lOll1[2]; if 74 > 119 
+then local llolOooO01oO = "lo1llIIoII0l"; end; local I0l1l0IoOo1l = {60, 88}; I0l1l0IoOo1l[1] = I0l1l0IoOo1l[1] * 
+I0l1l0IoOo1l[2]; for l011l0IoOl0O=4, 6 do local Io1Oo1o1O0O1 = l011l0IoOl0O * 2; end; local I101I1IllI01 = 
+function(llollo0I1011) return llollo0I1011 and llollo0I1011 or "IIIoOl0looO0" end; local lOI1o00IooIO = 
+function(l1I1Ol01I0ol) return l1I1Ol01I0ol and l1I1Ol01I0ol or "l1OIIlllo0Oo" end; local Ill1lo1oO0II = 
+function(lllOOo0O011I) return lllOOo0O011I and lllOOo0O011I or "IoIlOOooOlI1" end; local Io1lo1oO000O = 
+function(lO0IIoOIl1lO) return lO0IIoOIl1lO and lO0IIoOIl1lO or "IOl1IO1Ollo1" end; local IOl00ooo1OOO = 
+function(I0IOl0oIolIo) return I0IOl0oIolIo and I0IOl0oIolIo or "lloO1oO11Oo1" end; local IoIOIO0l1o01 = 
+function(I1llo0OoIl1o) return I1llo0OoIl1o and I1llo0OoIl1o or "l1oO01lO0OO0" end; for IIo1OOloOoIO=2, 7 do local 
+Il1Ol0OooloO = IIo1OOloOoIO * 2; end; for lo1l011IoIO0=1, 7 do local IIoIOl011I0I = lo1l011IoIO0 * 2; end; local 
+IO00llIIlOoO = function(Iol1II1lOlOO) return Iol1II1lOlOO and Iol1II1lOlOO or "Ilooo0l1IolI" end; local I0o11lIol0Io = 
+function(IOIOlOo1O11o) return IOIOlOo1O11o and IOIOlOo1O11o or "l1O0OOIO01oI" end; if 80 > 170 then local lloolO0lOIoO = 
+"l0lOlOI1O0o1"; end; if 90 > 123 then local lOIolIOoO011 = "lIIooOOooIII"; end; for l1IlI10lOOO1=2, 6 do local 
+I11OlooI11O1 = l1IlI10lOOO1 * 2; end; for Il00l0OIoOII=1, 9 do local l0I1O11oOIIo = Il00l0OIoOII * 2; end; local 
+l00ooOOo0IoO = {61, 80}; l00ooOOo0IoO[1] = l00ooOOo0IoO[1] + l00ooOOo0IoO[2]; local lI10I0OI00II = 
+function(lo0OoI1IIl1o) return lo0OoI1IIl1o and lo0OoI1IIl1o or "IIII1O0OIOOl" end; local loO10l0OlolO = {6, 57}; 
+loO10l0OlolO[1] = loO10l0OlolO[1] % loO10l0OlolO[2]; if 82 > 115 then local IIolo0OO0001 = "lOOoo0oOIoOO"; end; for 
+Il10IoO1OO1o=4, 10 do local Il1l0olIlooO = Il10IoO1OO1o * 2; end; if 96 > 185 then local I0lI0Olol0l1 = "lolOI1o1I0ll"; 
+end; local III000IO1IOO = {47, 97}; III000IO1IOO[1] = III000IO1IOO[1] * III000IO1IOO[2]; for I10I10llo0lO=3, 10 do local 
+IIlOloloooIO = I10I10llo0lO * 2; end; for lOo1oI1lIOI1=4, 10 do local lO00l1OOo10o = lOo1oI1lIOI1 * 2; end; local 
+lOo1oI0Oo1I0 = function(llI0lIo0ol1I) return llI0lIo0ol1I and llI0lIo0ol1I or "IIlOI0lOIIIl" end; local I10OlOolIll0 = 
+{6, 98}; I10OlOolIll0[1] = I10OlOolIll0[1] - I10OlOolIll0[2]; local II1lOl0000o1 = function(l0OIol10lIOO) return 
+l0OIol10lIOO and l0OIol10lIOO or "loO0OI0ooOo0" end; local I00oo1OOIlll = function(IOoIOo0OIlIo) return IOoIOo0OIlIo and 
+IOoIOo0OIlIo or "IoIolO00O0II" end; local l000OI1OlIlO = function(l0l1ooIllI01) return l0l1ooIllI01 and l0l1ooIllI01 or 
+"IIO0IolIIO0l" end; local lolo00lO0ool = {30, 77}; lolo00lO0ool[1] = lolo00lO0ool[1] - lolo00lO0ool[2]; if 57 > 159 then 
+local ll000oOl00O1 = "I10o0ool11oo"; end; local lIII1I0OI00l = {26, 58}; lIII1I0OI00l[1] = lIII1I0OI00l[1] - 
+lIII1I0OI00l[2]; local l0I1lOo0IlOo = {31, 66}; l0I1lOo0IlOo[1] = l0I1lOo0IlOo[1] + l0I1lOo0IlOo[2]; if 91 > 191 then 
+local l1oIlI1O01OI = "IIOIIl100ll0"; end; local lol0ooO1IoO1 = {99, 11}; lol0ooO1IoO1[1] = lol0ooO1IoO1[1] - 
+lol0ooO1IoO1[2]; local lIOl0II0oo1l = {93, 21}; lIOl0II0oo1l[1] = lIOl0II0oo1l[1] - lIOl0II0oo1l[2]; local I1lOlO0OI1l0 
+= function(lI1Oo0lI1OoO) return lI1Oo0lI1OoO and lI1Oo0lI1OoO or "loool11lIO0O" end; local l1o11lOoOo01 = 
+function(lo1IIloIlo1I) return lo1IIloIlo1I and lo1IIloIlo1I or "lo0IoIOoO10o" end; local I1lll10IO01l = 
+function(l0lOO11lI01I) return l0lOO11lI01I and l0lOO11lI01I or "IIl111llo0OI" end; if 79 > 199 then local Io1l01Il1lII = 
+"l1O1l01OII0O"; end; if 70 > 196 then local II1lO1lo1l00 = "l0l1101O100I"; end; if 22 > 122 then local IOOlo001o0oO = 
+"l0o1IlIO0OOo"; end; for III01lOlIo0O=1, 10 do local l1O0O1Il1Oo1 = III01lOlIo0O * 2; end; if 38 > 143 then local 
+l1o110oO0100 = "I0o0ooI00OI1"; end; local Iool1Il0O0oI = {17, 95}; Iool1Il0O0oI[1] = Iool1Il0O0oI[1] + Iool1Il0O0oI[2]; 
+if 57 > 198 then local llOllIOOIO0l = "IloloOoloo10"; end; for I1IO01oo10lI=5, 9 do local loO0loolIO0I = I1IO01oo10lI * 
+2; end; local l001OlOlOOOo = {72, 34}; l001OlOlOOOo[1] = l001OlOlOOOo[1] - l001OlOlOOOo[2]; local ll0IoI1l1O0O = {8, 
+94}; ll0IoI1l1O0O[1] = ll0IoI1l1O0O[1] * ll0IoI1l1O0O[2]; local II1IOoO1lO1I = function(I01OO11llOo1) return 
+I01OO11llOo1 and I01OO11llOo1 or "lIOI1OIIOooo" end; local I1l0Ol01o11O = {59, 31}; I1l0Ol01o11O[1] = I1l0Ol01o11O[1] + 
+I1l0Ol01o11O[2]; local lOo0oIooIIOO = {53, 17}; lOo0oIooIIOO[1] = lOo0oIooIIOO[1] * lOo0oIooIIOO[2]; local I0OIlloOolOl 
+= {70, 56}; I0OIlloOolOl[1] = I0OIlloOolOl[1] - I0OIlloOolOl[2]; for lI0ll0O001lO=3, 10 do local loo1o01lOIo0 = 
+lI0ll0O001lO * 2; end; for l0Ool111Ilol=5, 10 do local Il1ll10l0olI = l0Ool111Ilol * 2; end; local l00oII0ol00O = {49, 
+35}; l00oII0ol00O[1] = l00oII0ol00O[1] * l00oII0ol00O[2]; local llo0Ol11II0l = {61, 77}; llo0Ol11II0l[1] = 
+llo0Ol11II0l[1] * llo0Ol11II0l[2]; for Io11IIl00O10=2, 6 do local IoooIOoolo1I = Io11IIl00O10 * 2; end; local 
+l0IIoO0oIOoO = function(l1IOo0IO01Io) return l1IOo0IO01Io and l1IOo0IO01Io or "Io1ooI01oI0I" end; local lO11ool011o1 = 
+{6, 47}; lO11ool011o1[1] = lO11ool011o1[1] - lO11ool011o1[2]; for lIOoI0IOlIo0=4, 10 do local ll1Oll1lOloo = 
+lIOoI0IOlIo0 * 2; end;
