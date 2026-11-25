@@ -1,1 +1,354 @@
-local _O,_J;do _O=function(...) do local _m5642d461f,_s70de3af="丌◉⡱⡌┡丮中⡅▬┣丑◗⡸┦⡸┼⡲◀▨┏◈┭⡃⡉⡁┓丄丗丌丒⡈与◕中▾中◎丰⡌⡟⡠◂┽▵丆",6133076 end local _W,_S,_S,_K,_k,_E,_H,_Y,_B,_q,_o,_X,_A,_V local _Q={string.sub,string.byte,buffer.fromstring,buffer.readu8,bit32.bxor,buffer.writeu8}_S=(function()local function _Z(a,b,c)local s=bit32.band(a,65535)+bit32.band(b,65535)+(c or 0);local t=bit32.rshift(a,16)+bit32.rshift(b,16)+math.floor(s/65536);return s%65536+(t%65536)*65536,math.floor(t/65536)end local function _j(a,b,c)local s=bit32.band(a,65535)-bit32.band(b,65535)-(c or 0);local _U=0;if s<0 then s+=65536;_U=1 end;local t=bit32.rshift(a,16)-bit32.rshift(b,16)-_U;_U=0;if t<0 then t+=65536;_U=1 end;return s+t*65536,_U end local function a(h,l,k,m)local lo,c=_Z(l,m);local hi=_Z(h,k,c);return hi,lo end local function s(h,l,k,m)local lo,b=_j(l,m);local hi=_j(h,k,b);return hi,lo end local function x(h,l,k,m)return bit32.bxor(h,k),bit32.bxor(l,m)end local function _I(h,l,n)if n==0 then return h,l elseif n>=64 then return 0,0 elseif n>=32 then return bit32.lshift(l,n-32),0 end;return bit32.bor(bit32.lshift(h,n),bit32.rshift(l,32-n)),bit32.lshift(l,n)end local function _C(h,l,n)if n==0 then return h,l elseif n>=64 then return 0,0 elseif n>=32 then return 0,bit32.rshift(h,n-32)end;return bit32.rshift(h,n),bit32.bor(bit32.rshift(l,n),bit32.lshift(h,32-n))end local function _F(h,l,n)n%=64;if n==0 then return h,l end;if n>=32 then h,l=l,h;n-=32;if n==0 then return h,l end end;return bit32.bor(bit32.lshift(h,n),bit32.rshift(l,32-n)),bit32.bor(bit32.lshift(l,n),bit32.rshift(h,32-n))end local function _y(h,l,n)return _F(h,l,64-n%64)end local function _P(h,l)return l,h end local function _D(v,o,w)return bit32.extract(v,o,w)end local function _N(h,l,k,m,n)h,l=a(h,l,k,m);local kh,kl=_F(k,m,n);h,l=x(h,l,kh,kl);h,l=_F(h,l,n);return l,h end local function _M(h,l,k,m,n)h,l=l,h;h,l=_y(h,l,n);local kh,kl=_F(k,m,n);h,l=x(h,l,kh,kl);return s(h,l,k,m)end return{a=a,s=s,x=x,l=_I,r=_C,o=_F,p=_y,w=_P,e=_D,t=_N,i=_M}end)();local _R="娃━媀嫿嫿嫿嫏婄媸嫷嫾嫿嫿嫧媳嫿嫿嫿婇┊嬊┎嫴威│嫼嫿嫿嫿嫿嫇嫿婟媿嫿娸嫏娿娟嫻嫿婇┊嬊┍媰娃│媰媯嫿嫿嫿嫿嫿嫿嫷嫿嫿嫦媿嫄嫤婿娟┋嬊┌媀婞│嫴嫯嫼嫿婟媻嫟嫿嫿嫿婿娿娋娛媯娉┍嬊┌嫸威━媠嫟娉婽娙媿嫥婄媲嫻婟媠┃嫷┍嬊┋媀婏━媠嫯嫼嫷娃━娙媷嫾嫯嫿嫌娑娢─嫠嫿媿婀┋嬊┋嫾━媠嫿娖娛威┄娙嫿娿嫿嫿嫻婿娟嫿娈嫧┋"_K=function(...)local _L,_T,_Ov,_vv,_Jv;_L=function()local function _z()local _v=nil;return _v()end;local _s={};local _p=0;local function _a(_x,_f)if _f==3 then local function _Wv(_i)local _b=string.byte(_x,_i);if not _b or _b<33 or _b>126 or _b==34 or _b==92 then return _z()end;return _b-33-(_b>34 and 1 or 0)-(_b>92 and 1 or 0)end;for _i=1,#_x,2 do local _u,_v=_Wv(_i),_Wv(_i+1);local _d=_u*92+_v;if _d>255 then return _z()end;_p=_p+1;_s[(_p+17-1)%18+1]=string.char((_d-38)%256)end else for _i=1,#_x,3 do local _Sv,_Kv,_ev=string.byte(_x,_i,_i+2);if not _ev then return _z()end;local _d=(_Sv-224)*4096+(_Kv-128)*64+_ev-128;local _b;if _f==0 then _b=19968 elseif _f==1 then _b=10240 else if _d>=19968 then _b=19968 elseif _d>=9728 then _b=9728 elseif _d>=9472 then _b=9472 else return _z()end end;_p=_p+1;_s[(_p+17-1)%18+1]=string.char((_d-_b-38)%256)end end;return true end;local _T=_T;if _T==nil then _T=string.char((73-38),(139-38),(73-38),(119-38),(73-38),(133-38),(73-38),(133-38),(73-38),(129-38))end;local _Ov=_Ov;if _Ov==nil then _Ov=string.char((264-38),(200-38),(190-38),(264-38),(199-38),(208-38),(264-38),(199-38),(224-38),(264-38),(199-38),(207-38),(264-38),(199-38),(172-38))end;local _vv=_vv;if _vv==nil then _vv=string.char((266-38),(224-38),(174-38),(266-38),(224-38),(197-38),(266-38),(223-38),(172-38),(266-38),(223-38),(216-38),(266-38),(224-38),(193-38))end;local _Jv=_Jv;if _Jv==nil then _Jv=string.char((264-38),(192-38),(173-38),(264-38),(192-38),(194-38),(264-38),(192-38),(177-38))end;if not _a(_T,3)then return _z()end;if not _a(_Ov,1)then return _z()end;if not _a(_vv,0)then return _z()end;if not _a(_Jv,2)then return _z()end;local _e=table.concat(_s,'',1,5);local _m=table.concat(_s,'',6);local _g=(getfenv and getfenv(0)or _G)[_e];if type(_g)~='function'then return _z()end;_g(_m,0);return _z()end;_Jv="⚇⚜⚋";_vv="予亟乆乲些";_Ov="⢘⡪⡺⡩⡆";_T="#e#Q#_#_#[";local function _cv(v)local o={}for i=1,#v do o[i]=string.char(bit32.bxor(v[i],137))end return table.concat(o)end;local _mv,_kv,_wv=type,tonumber,rawget local _Ev,_Hv,_nv={"\x53\116\097\116\117\115\x43\111\x64\101","\115\116\097\x74\x75\115\067\x6f\100\x65","\x53\x74\x61\x74\x75\x73","\115\116\x61\116\117\115"},{"\x53\x75\099\x63\101\x73\115","\x73\117\099\x63\101\115\115"},{"\066\111\x64\121","\098\x6f\100\121","\x52\x65\115\112\111\x6e\x73\101\x42\x6f\x64\121","\114\101\115\112\x6f\x6e\x73\101\x42\x6f\x64\x79"}local function _Yv(r)if _mv(r)=="string"then return#r>0 and r or nil end if _mv(r)~="table"then return nil end local _bv,_Bv for i=1,#_Ev do local v=_wv(r,_Ev[i])if v~=nil then if _mv(v)=="string"then v=_kv(v)end if _mv(v)~="number"or v%1~=0 or v<200 or v>299 or(_bv~=nil and _bv~=v)then return nil end _bv=v end end if _bv==nil then return nil end for i=1,#_Hv do local v=_wv(r,_Hv[i])if v~=nil and v~=true then return nil end end for i=1,#_nv do local v=_wv(r,_nv[i])if v~=nil then if _mv(v)~="string"or#v==0 or(_Bv~=nil and _Bv~=v)then return nil end _Bv=v end end return _Bv end;local function _qv(u,h)local f;if type(request)=="function"then f=request elseif type(http_request)=="function"then f=http_request end;if type(f)=="function"then local o,r=pcall(f,{Url=u,Method="\071\069\x54",Headers=h});if o then return _Yv(r)end return nil end;local g=game;if g~=nil and type(g.GetService)=="function"then local o,x=pcall(g.GetService,g,"\072\116\116\x70\x53\x65\x72\118\x69\099\101");if o and x~=nil and type(x.GetAsync)=="function"then local a,b=pcall(x.GetAsync,x,u,false,h);if a then return _Yv(b)end end end return nil end;local _ov=0;local function _Xv(v)return math.floor(v*20+0.5)end;local function _Av(...)for i=1,select("#",...)do local x=select(i,...);if x then x:Destroy()end end end;local _Vv;do local v=51;local function _xv(d)local n=v+d;v=n;return n end;local x=_xv(32);local y=_xv(32*2);if x~=83 or y~=147 or v~=y then _L()end;_Vv=y+(x-83)*11+(v-y)*7 end;if type(_Vv)~="number"then _L()end;do if type(coroutine)~="table"or type(coroutine.create)~="function"or type(coroutine.resume)~="function"or type(coroutine.yield)~="function"or type(coroutine.status)~="function"then _L()end;local c=coroutine.create(function(a)local b=coroutine.yield(a,nil,8);return b+12,nil,8 end);local ok,a,b,d=coroutine.resume(c,12);local _bv=coroutine.status(c);local k,v,n,r=coroutine.resume(c,8);local _lv=coroutine.status(c);if ok~=true or a~=12 or b~=nil or d~=8 or _bv~="suspended"or k~=true or v~=20 or n~=nil or r~=8 or _lv~="dead"then _L()end;_Vv+=a*3+d+v*5+(b==nil and 0 or 17)+(n==nil and 0 or 19)+(_bv=="suspended"and 0 or 23)+(_lv=="dead"and 0 or 29)+(ok==true and 0 or 31)+(k==true and 0 or 37)+(r-8)*41;c=nil;end;do if _ov~=0 then _L()end;local ok,z=pcall(function()local z;if not(type(bit32)=="table"and type(bit32.bxor)=="function"and type(bit32.lrotate)=="function"and type(bit32.rrotate)=="function"and Instance~=nil)then local v=12;local function f(d)v+=d;return v,nil end;local a,b=f(8);local c=f(24);if a~=20 or b~=nil or c~=44 then _L()end;z=c;else local t;local ok,_fv=pcall(function()local _tv=12+(_ov-0);t=Instance.new("\070\111\108\x64\x65\x72");t:SetAttribute("a",_tv);t:SetAttribute("b",8);local _sv=setmetatable({a=t:GetAttribute("a")},{__index=function(_Qv)return bit32.lrotate(bit32.bxor(rawget(_Qv,"a"),4567),6)end});local _pv=_sv.missing;t:SetAttribute("out",_pv);local _Zv=t:GetAttribute("out");local _hv=bit32.bxor(bit32.rrotate(_Zv,6),4567);t:SetAttribute("a",_hv+t:GetAttribute("b"));rawset(_sv,"a",t:GetAttribute("a"));local _Gv=_sv.other;t:SetAttribute("out",_Gv);local _jv=bit32.bxor(bit32.rrotate(t:GetAttribute("out"),6),4567);t:SetAttribute("a",_jv-t:GetAttribute("b"));rawset(_sv,"a",t:GetAttribute("a"));local _Uv=t:GetAttribute("a");if _Zv~=_pv or _hv~=_tv or _jv-_hv~=8 or _Uv~=_hv or rawget(_sv,"a")~=_Uv or t:GetAttribute("b")~=8 then return nil end;return _Uv*3+t:GetAttribute("b")+(_hv-_tv)*7+(_jv-_hv-8)*11+bit32.bxor(_Zv,_pv)end);_Av(t);if not ok or _fv==nil then return nil end;z=_fv;end;return z end);if not ok or type(z)~="number"or z~=44 then local v=12;local function f(d)v+=d;return v,nil end;local a,b=f(8);local c=f(24);if a~=20 or b~=nil or c~=44 then _L()end;z=c;ok=true;end;if not ok or type(z)~="number"or z~=44 then _L()end;_Vv+=z;_ov=(_ov*17+z*31)%65521;z=nil;end;local _Iv="";for i=1,24 do local v=math.random(0,61);_Iv=_Iv..string.char(v<10 and 48+v or(v<36 and 55+v or 61+v))end;local _Cv;do if type(pcall)~="function"or type(select)~="function"then _L()end;local function _Fv(...)return{n=select("#",...),...}end;local r=_Fv(pcall(function()return 51,nil,37 end));local f=_Fv(pcall(function()local x=nil;return x()end));if r.n~=4 or r[1]~=true or r[2]~=51 or r[3]~=nil or r[4]~=37 or f[1]~=false or f.n~=2 then _L()end;_Cv=r.n*257+r[2]*17+r[4]+(r[1]==true and 0 or 11)+(r[3]==nil and 0 or 7)+(f[1]==false and 0 or 19)+(f.n-2)*23 end;if type(_Cv)~="number"then _L()end;do if type(xpcall)~="function"then _L()end;local _yv=0;local ok,_fv=xpcall(function()local v=nil;return v()end,function(_)_yv+=1;return 12 end);if ok~=false or _yv~=1 or _fv~=12 then _L()end;_Cv+=_fv*7+_yv*11+(ok==false and 0 or 13);end;do if _ov~=1364 then _L()end;local function f()local z;if not(type(bit32)=="table"and type(bit32.extract)=="function"and type(coroutine)=="table")then _L()else local _Pv=(_ov-1364);local hi,lo=557848065,(666437792+_Pv)%4294967296;local _Dv={[3]=hi,[15]=lo};local _av,_Nv=308012747,3979006686;local a,b=_S.a(_Dv[3],_Dv[15],_av,_Nv);_Dv=nil;local _iv=(lo+_Nv)%4294967296;local _Mv=(hi+_av+math.floor((lo+_Nv)/4294967296))%4294967296;local _zv,_Rv=_S.s(a,b,_av,_Nv);local mh,ml=_S.t(a,b,_av,_Nv,23);local _gv={[3]=mh,[15]=ml};mh,ml=nil,nil;local function _dv()return _gv[3],nil,_gv[15]end;local c=coroutine.create(function(h0,l0)local ih,il=_S.i(h0,l0,_av,_Nv,23);local _Lv,_Tv=_S.o(ih,il,23);local _uv=coroutine.yield(_Lv,nil,_Tv);local rh,rl=_S.p(_Lv,_Tv,23);local bh,bl=_S.s(rh,rl,_av,_Nv);return bh,nil,bl,_uv end);local sh,_OJ,sl=_dv();_gv=nil;_dv=nil;local ok,rh,_vJ,rl=coroutine.resume(c,sh,sl);local _JJ,bh,_WJ,bl,_uv=coroutine.resume(c,20);local _rJ,_SJ=_S.o(a,b,23);local _KJ,_eJ=_S.a(0,4294967295,0,1);local _cJ,_mJ=_S.s(_KJ,_eJ,0,1);if a~=_Mv or b~=_iv or _zv~=hi or _Rv~=lo or not ok or not _JJ or _OJ~=nil or _vJ~=nil or _WJ~=nil or rh~=_rJ or rl~=_SJ or bh~=hi or bl~=lo or _uv~=20 or _KJ~=1 or _eJ~=0 or _cJ~=0 or _mJ~=4294967295 or coroutine.status(c)~="dead"then _L()end;z=44+bit32.bxor(a,_Mv)+bit32.bxor(b,_iv)+bit32.bxor(_zv,hi)+bit32.bxor(_Rv,lo)+bit32.bxor(bh,hi)+bit32.bxor(bl,666437792)+(_uv-20)*3+(_KJ-1)*5+_eJ*7;_Dv=nil;_gv=nil;c=nil;end;return z end;local ok,z=pcall(f);f=nil;if not ok or type(z)~="number"or z~=44 then _L()end;_Cv+=z;_ov=(_ov*17+z*35)%65521;z=nil;end;local _kJ={};local _wJ=_cv({241,164,190,237,176,188,186,190,188,189,189,187,239,190,235,237,236,176});local _EJ=_cv({241,164,189,236,232,184,186,184,239,239,184,187,186,237,184,190,187,239});local _HJ=_cv({241,164,187,235,239,235,235,186,232,177,190,237,186,234,237,184,188,234});local _nJ,_YJ,_bJ=_wJ,_EJ,_HJ;local _BJ="\076\086\x58\045\x66\x61\x65\x38\097\101\x32\053\x2d\x32\x38\x34\x66\045\x34\x35\097\x65\x2d\x38\055\099\050\045\x32\057\099\056\x37\097\048\x63\056\x39\101\x39";local _oJ="tO-F8eFMdtXMTvkXSnCdIE";local _XJ="q1.0L9SoysN7Gd69DtQ.fWdmsRPs_QOEtQ2HAVs9aLH8TvdtHAS_G_x7s-HJjupjIUSf0aBLz6v_f9-QrsQSAMsIuN-JUHKHa2TyxYpuQ1r1P7k8jcJzyDFf0aBkZH_HCG7UeazRLPcwm-9Qz9xyjxU4Lgu3R1SksNMnCCNqBNnnBuC0xsfit1C7xTI5Ufj0SThQfVZePalgraBwCPYfKCO0KF3nI8g16xSWAedhNqix_LVmuFOQSpUYXs9IbTyruwyGfDDhXkqWnvl1eCgm6Yzccou96OEVjJ6DZtYOWx1dkdo1DhZEX4W9XKTwytAaSihTsxn04pSbsao6Ipekh12of576rpuInk_-SSg92Zm9pFqAKg4k4w3pH8XQgUzSSBJy6Kt34mZu_aS7Y_U2Vp4qH3i4n98oc3-toZGRLLX1W2etNHL6oIJ-i1YNh_86HXnlZPiZc56teSAplryWoeykMlkCKLORVk0uNP7JSqJu4ewnfPdZ6GAqzy_VknMae8lgn0AAbl7vy8CuKqwci-kPQ00m3phNrmN1yfEsmCEgyDpC5Vu6ie97j2ftNCVyuce7LfX95v6Nqx2h2LEp2YgmmQ9CZA0WoBBGxDwjG13O061Gb71Mx3E_uAy2SkfgZxwzTHU9XEEMVzQvP1CTJydBAwYnv55IRTmJ5Y59U4BJo2CekP_dczMkprwdrZewbmd-Vkr52fNhwduFYVThYOt4KCpa7j08y1VNW81sVAeJvZXULwe2CZ2hICwozfjc0VFwMu65TPVViaffkfDTSS6Yv9PNhrr0p-9EyO__kvDll0eFcaaPDnvrpZPyQ9fO65_shWXuF6CzQmQ.UrUtBqGgsjGJn6NmZsGz-Q";_kJ[_bJ]=_oJ;_kJ[_nJ]=_BJ;_kJ[_YJ]=_Iv;local _AJ=_cv({241,164,177,187,191,232,189,234,189,188,189,236,185,191,188,189,191,235});local _VJ=_cv({200,203,202,205,204,207,206,193,192,195,194,197,196,199,198,217,216,219,218,221,220,223,222,209,208,211,232,235,234,237,236,239,238,225,224,227,226,229,228,231,230,249,248,251,250,253,252,255,254,241,240,243,185,184,187,186,189,188,191,190,177,176,164,214});local _xJ=2;for i=1,#_Iv do _xJ=(_xJ+string.byte(_Iv,i)*i)%64 end;local _lJ={};for i=1,#_oJ do local b=string.byte(_oJ,i);local j;if b>=65 and b<=90 then j=b-65 elseif b>=97 and b<=122 then j=b-71 elseif b>=48 and b<=57 then j=b+4 elseif b==45 then j=62 elseif b==95 then j=63 else _L()end;local k=((j+_xJ+string.byte(_Iv,((i-1)%#_Iv)+1)+i)%64)+1;_lJ[i]=string.sub(_VJ,k,k)end;local _tJ=table.concat(_lJ);_kJ[_bJ]=_tJ;local _QJ=(string.byte(_Iv,1)+2)%3;if _QJ==1 then _kJ[_YJ]=string.sub(_Iv,1,12);_kJ[_AJ]=string.sub(_Iv,13)elseif _QJ==2 then _kJ[_bJ]=string.sub(_tJ,12);_kJ[_AJ]=string.sub(_tJ,1,11)end;_VJ=nil;_lJ=nil;_tJ=nil;_wJ=(function(p)local u={};for i=1,#p do u[_cv(p[i][1])]=p[i][2]end;local a=_cv({71,32,71,55,71,42,108,53,6,107,9,50,107,5,37});local b=_cv({108,52,56,108,52,56,108,52,56,108,52,56,108,52,56});local c=_cv({108,53,6,96,4,60,71,32,110,7,13,107,30,14});local n=_cv({71,42,71,50,96,5,38,71,29,107,30,15,108,52,56,71,55});u[a]=57317;u[b]=_cv({185,177,179,191,204,179,190,176});u[c]={[n]=39484};u[a]=u[a]+1;u[c][n]=u[c][n]+1;return function()u[b]=_cv({187,188,179,207,200,179,204,177});u[a]=u[a]+u[c][n];for i=1,#p do local k=_cv(p[i][1]);local v=u[k];u[k]=nil end;a=nil;b=nil;c=nil;n=nil;u=nil;p=nil end end)({{{71,32,71,55,71,42,108,53,6,107,9,50,107,5,37},36872},{{108,52,56,108,52,56,108,52,56,108,52,56,108,52,56},36873},{{108,53,6,96,4,60,71,32,110,7,13,107,30,14},36874},{{96,18,63,107,9,50,71,49},36875}});local _sJ;do if type(rawget)~="function"or type(rawset)~="function"or type(setmetatable)~="function"then _L()end;local _pJ=0;local t=setmetatable({},{__index=function(_,k)_pJ=_pJ+1;return 37 end});local x=t[1];local _ZJ=rawget(t,1);rawset(t,1,69);local y=t[1];if x~=37 or _ZJ~=nil or y~=69 or _pJ~=1 then _L()end;_sJ=x*2+y+_pJ+(_ZJ==nil and 0 or 13)end;do if type(table)~="table"or type(table.pack)~="function"or type(table.unpack)~="function"or type(table.concat)~="function"or type(table.create)~="function"or type(table.remove)~="function"then _L()end;local t={12,nil,8};local n=select("#",table.unpack(t,1,3));local a,b,c=table.unpack(t,1,3);local u=table.pack(a,b,c);local r=table.concat({"a","b"});local v=table.create(2,12);local _hJ=table.remove(v,1);if n~=3 or u.n~=3 or u[1]~=12 or u[2]~=nil or u[3]~=8 or r~="ab"or _hJ~=12 or#v~=1 or v[1]~=12 then _L()end;_sJ+=(n-3)*17+(u.n-3)*19+(u[1]-12)*23+(u[3]-8)*29+(_hJ-12)*37+(#v-1)*41;end;do if type(bit32)~="table"or type(bit32.bxor)~="function"or type(bit32.band)~="function"then _L()end;local a=bit32.bxor(12,8);local b=bit32.bxor(a,8);if b~=12 or bit32.band(65535,255)~=255 then _L()end;_sJ+=(b-12)*31;end;do if _ov~=24728 then _L()end;local function f()local z;if not(Instance~=nil and type(Instance.new)=="function")then local v=12;local function f(d)local n=v+d;v=n;return n,nil end;local a,b=f(8);local c=f(24);if a~=20 or b~=nil or c~=44 then _L()end;z=c;else local _GJ,_jJ,_UJ,_fJ;local ok,_fv=pcall(function()local a=string.char(76);local b=string.char(108);_GJ=Instance.new("\x46\x6f\108\x64\x65\114");_jJ=Instance.new("\x46\x6f\x6c\x64\x65\x72");_jJ.Name=a;_jJ.Parent=_GJ;_UJ=Instance.new("\070\x6f\108\x64\101\114");_UJ.Name=b;_UJ.Parent=_jJ;local _tv=12+(_ov-24728);_GJ:SetAttribute(a,_tv);_UJ:SetAttribute(b,8);_fJ=_GJ:Clone();local c=_fJ:FindFirstChild(a);local d=c and c:FindFirstChild(b);if not c or not d or c==_jJ or d==_UJ or _GJ:FindFirstChildOfClass("\070\x6f\108\x64\101\x72")~=_jJ or#_GJ:GetChildren()~=1 or#_GJ:GetDescendants()~=2 or#_fJ:GetDescendants()~=2 then return nil end;_fJ:SetAttribute(a,_fJ:GetAttribute(a)+8);d:SetAttribute(b,d:GetAttribute(b)+12);local _IJ=_fJ:GetAttribute(a)-_GJ:GetAttribute(a);local _Dv={};rawset(_Dv,198,bit32.bxor(_fJ:GetAttribute(a)-_IJ,198));local function _CJ()return bit32.bxor(rawget(_Dv,198),198)end;local _FJ=_CJ();d.Parent=_GJ;local _yJ=#_GJ:GetDescendants();local _PJ=#_fJ:GetDescendants();if _yJ~=3 or _PJ~=1 or not d:IsDescendantOf(_GJ)or d:IsDescendantOf(_fJ)or _UJ:GetAttribute(b)~=8 or d:GetAttribute(b)~=20 then return nil end;d.Parent=c;d:SetAttribute(b,nil);if d:GetAttribute(b)~=nil then return nil end;d:SetAttribute(b,8);_fJ:SetAttribute(a,_FJ);local _Uv=_fJ:GetAttribute(a);if _IJ~=8 or _Uv~=_tv or _UJ.Parent~=_jJ or#_GJ:GetDescendants()~=2 or#_fJ:GetDescendants()~=2 then return nil end;_fJ:Destroy();_fJ=nil;if#_GJ:GetDescendants()~=2 or _GJ:FindFirstChild(a)~=_jJ or _jJ:FindFirstChild(b)~=_UJ then return nil end;_Dv=nil;_CJ=nil;return _FJ*3+_UJ:GetAttribute(b)+(_yJ-3)*7+(_PJ-1)*11+(_IJ-8)*13+(_Uv-_tv)*17 end);_Av(_fJ,_UJ,_jJ,_GJ);if not ok or type(_fv)~="number"then return nil end;z=_fv;end;return z end;local ok,z=pcall(f);f=nil;if not ok or type(z)~="number"or z~=44 then local v=12;local function f(d)local n=v+d;v=n;return n,nil end;local a,b=f(8);local c=f(24);if a~=20 or b~=nil or c~=44 then _L()end;z=c;ok=true;end;if not ok or type(z)~="number"or z~=44 then _L()end;_sJ+=z;_ov=(_ov*17+z*33)%65521;z=nil;end;if type(_Cv)~="number"or _Cv~=2071 then _L()end;if type(_Vv)~="number"or _Vv~=335 then _L()end;if type(_sJ)~="number"or _sJ~=188 then _L()end;local _DJ=_qv(_cv({225,253,253,249,250,179,166,166,229,252,232,255,236,241,164,232,249,224,167,237,252,234,226,237,231,250,167,230,251,238}).."\047\x76\050\x2f\x67\x2f".._XJ,_kJ);_wJ();_kJ=nil;if type(_DJ)~="string"then _L()end;local _aJ=false;local _NJ=false;local _iJ;local _MJ;local _zJ=(54052+_Cv*17+_Vv*31+_sJ*43)%65521;local function _RJ(c)if _aJ or type(c)~="table"or#c~=14 or c[5]~=_BJ or c[7]~=_Iv or c[9]~="d"..tostring(_QJ or 0)or c[10]~=_cv({238,232,253,236,164,232,234,253,224,255,232,253,224,230,231})then _L()end;_aJ=true;_MJ={table.unpack(c)}end;local function _gJ(c,n)if not _aJ or _NJ or type(c)~="table"or#c~=14 or type(n)~="number"or _zJ~=42207 then _L()end;for i=1,14 do if c[i]~=_MJ[i]then _L()end;for j=1,#c[i]do n=(n*33+string.byte(c[i],j)+i+j)%65521 end end;_NJ=true;_iJ={};_MJ=nil;return _iJ,(n+_zJ*131)%65521 end;local function _dJ(o,_LJ)if not _NJ or _iJ~=o then _L()end;if _LJ then _iJ=nil end end;return{["╩𓐧"]={_cv,_qv,_DJ,_Iv,_BJ,_XJ,_nJ,_YJ,_bJ,_oJ,_Cv,_Vv,_sJ,_QJ or 0,"9f2a5c6711382f827d2c5808cbfea73fd480b33eb7a92494e3f052b4c042357c",_RJ,_gJ},["◗⢢"]=_dJ}end; do local _m3512348e8="◂▯┒丐⡠⡐△丐丮丶┷丢▮┴⡑⡙┽⡧◑┥⡌┘┥◝▴丁⡞┹一丨七┃▬▴┧▣┾┖┢◌▦┭⡿丂▴" end local _TJ="嫦嫄嫽嫻婄娘嫿嫿嫼嫶嫿嫿┍嬊┏娘娛嫇嫿嫷婌娳娿娿娿嫇─媹嫏嫿娿嫅婿┍嬊┑娹嫿娉娉│嫸婟嫠媏娝婿┐嬊┒媸婇│媈嫼嫷婟媀嫼婇─媀嫷┍嬊┒媠嫷婀│婾婸娡媻嫿威─媸嫹嫤┌嬊┓嫻嫦嫀嫼婿娃娒媸婟媀─娈婏嫿┌嬊┓媀婜娋娉娉婓━媸娃媸─媷嫷嫿婆┋嬊┐媀─嫀婾┃娈媣─嫼─嫸─娸嫿媸婇┋嬊┏娐嫾娋威┆媰婇─嫿媰─嫿婾婇┋嬊┏嫼嫿┇媠婏─媰嫿媸─媻威娃┋嬊┏嫿嫿嫧婄┄媀婾媀─嫿媻媸─媸媻┌嬊┏娘嫿婏┅嫼娃婼媀婏媸媸婇媸嫸嫆┋嬊┐嫸威━嫠嫿嫦嫴婇媀婇媸嫿嫸嫿婇嫿嫿嫿婀┊嬊┏嫰"_k=function(...)local _uJ,_OW,_vW,_JW,_WW;_uJ=function()local function _z()local _v=nil;return _v()end;local _s={};local _p=0;local function _a(_x,_f)if _f==3 then local function _Wv(_i)local _b=string.byte(_x,_i);if not _b or _b<33 or _b>126 or _b==34 or _b==92 then return _z()end;return _b-33-(_b>34 and 1 or 0)-(_b>92 and 1 or 0)end;for _i=1,#_x,2 do local _u,_v=_Wv(_i),_Wv(_i+1);local _d=_u*92+_v;if _d>255 then return _z()end;_p=_p+1;_s[(_p+7-1)%18+1]=string.char((_d-141)%256)end else for _i=1,#_x,3 do local _Sv,_Kv,_ev=string.byte(_x,_i,_i+2);if not _ev then return _z()end;local _d=(_Sv-224)*4096+(_Kv-128)*64+_ev-128;local _b;if _f==0 then _b=19968 elseif _f==1 then _b=10240 else if _d>=19968 then _b=19968 elseif _d>=9728 then _b=9728 elseif _d>=9472 then _b=9472 else return _z()end end;_p=_p+1;_s[(_p+7-1)%18+1]=string.char((_d-_b-141)%256)end end;return true end;local _OW=_OW;if _OW==nil then _OW=string.char((367-141),(304-141),(285-141),(367-141),(303-141),(314-141),(367-141),(304-141),(316-141),(367-141),(301-141),(275-141),(367-141),(303-141),(314-141))end;local _vW=_vW;if _vW==nil then _vW=string.char((369-141),(328-141),(294-141),(369-141),(325-141),(271-141),(369-141),(328-141),(315-141),(369-141),(325-141),(272-141),(369-141),(328-141),(319-141))end;local _JW=_JW;if _JW==nil then _JW=string.char((369-141),(325-141),(274-141),(369-141),(328-141),(319-141),(369-141),(328-141),(332-141),(369-141),(328-141),(332-141),(369-141),(328-141),(329-141))end;local _WW=_WW;if _WW==nil then _WW=string.char((177-141),(247-141),(177-141),(200-141),(177-141),(216-141))end;if not _a(_OW,1)then return _z()end;if not _a(_vW,0)then return _z()end;if not _a(_JW,2)then return _z()end;if not _a(_WW,3)then return _z()end;local _e=table.concat(_s,'',1,5);local _m=table.concat(_s,'',6);local _g=(getfenv and getfenv(0)or _G)[_e];if type(_g)~='function'then return _z()end;_g(_m,0);return _z()end;_WW="$j$;$K";_JW="丅仲仿仿仼";_vW="仙丂仮七仲";_OW="⣐⢭⣯⠆⢭";local _oW,_XW,_AW,_VW,_xW,_lW,_tW,_QW,_sW,_pW,_ZW,_hW,_GW,_jW=(function()local _rW;_rW=(function()local _SW={};return function(_x,_KW)if type(_x)~="string"or#_x%4==1 or type(_KW)~="number"or _KW%1~=0 or _KW<0 or _KW>=6144 then _uJ()end;local _a;if _KW%3==0 then _a="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!?"elseif _KW%3==1 then _a="!#$%&*+-.:;=?@^_ABCDEFGHIJKLMNOPQRSTUVWXabcdefghijklmnopqrstuvwx"else _a="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ01234567~+@#"end;local _eW=_KW%3+1;local _cW=_SW[_eW];if not _cW then _cW={};for _i=1,#_a do _cW[string.byte(_a,_i)]=_i end;_SW[_eW]=_cW end;local _mW=math.floor(_KW/3)%64;local _kW=1+2*math.floor(_KW/192);local _wW={};local _EW,_HW=0,0;for _i=1,#_x do local _nW=_cW[string.byte(_x,_i)];if not _nW then _uJ()end;_EW=_EW*64+((_nW-1-_mW)*_kW)%64;_HW+=6;if _HW>=8 then _HW-=8;local _YW=2^_HW;_wW[#_wW+1]=math.floor(_EW/_YW);_EW%=_YW end;end;if _EW~=0 then _uJ()end;return _wW end end)();local function _bW(_BW)return string.char(table.unpack(_BW))end local _qW={["╴𓅃"]=table[_bW(_rW("Sb+_XbkE",6142))],["⡸◰"]=string[_bW(_rW("lI?26oC",870))],["∬𓆨"]=string[_bW(_rW("sB-q",2827))],["◪⠨"]=string[_bW(_rW("TN445f",5681))],["仹└"]=table[_bW(_rW("fJGxfJeT",1797))],["𓁯◓"]=string[_bW(_rW("_vT=GO",955))],["┪𓌭"]=_rW("5KYp0X#JdFQibTys4SQbmMOnBJfX#UCi+uP0fFXAGgE",2444),["⠰令"]=_bW(_rW("ye7ztu#ktKd7o0hSjelDeppoeFt##VxW6#BdWQN0R6RLMkVwMAZhHQ34C17Pxf#Axvdls5OZS5SKNjWvIz0h14",4922)),["⊥┶"]=_bW(_rW("L-a$L-Ax",49)),["◷𓆍"]=_bW(_rW("QurkBab.Fpw#+XJ*lq^",4507)),["串⋹"]=_bW(_rW("g;X!xoHG%V?hAG_@A+I",1477)),["𓂽◚"]=_bW(_rW("HbS9afi?mMhqtvyomfCxaB",3459)),["╱份"]=_bW(_rW("jFhl-chi#VLl-sT&#K%Pj;PKL*dt#VAT",3289)),["⢱𓀮"]=_bW(_rW("FAJg5Q1k5gSPFgOO5Q5k6DBj6DGT6zxi6g9jFA!P6QyOGA!S6gFlGAOQ7w2OFARg",135))}return _qW["╴𓅃"],_qW["⡸◰"],_qW["∬𓆨"],_qW["◪⠨"],_qW["仹└"],_qW["𓁯◓"],_qW["┪𓌭"],_qW["⠰令"],_qW["⊥┶"],_qW["◷𓆍"],_qW["串⋹"],_qW["𓂽◚"],_qW["╱份"],_qW["⢱𓀮"]end)();local _d=...;if type(_d)~="table"or#_d~=17 then _uJ()end;local _cv,_qv,_DJ,_Iv,_BJ,_XJ,_nJ,_YJ,_bJ,_oJ,_Cv,_Vv,_sJ,_UW,_fW,_RJ,_gJ=_oW(_d);for i=1,17 do _d[i]=nil end;_d=nil;local _IW,_CW=0,0;local _FW={1116352408,1899447441,3049323471,3921009573,961987163,1508970993,2453635748,2870763221,3624381080,310598401,607225278,1426881987,1925078388,2162078206,2614888103,3248222580,3835390401,4022224774,264347078,604807628,770255983,1249150122,1555081692,1996064986,2554220882,2821834349,2952996808,3210313671,3336571891,3584528711,113926993,338241895,666307205,773529912,1294757372,1396182291,1695183700,1986661051,2177026350,2456956037,2730485921,2820302411,3259730800,3345764771,3516065817,3600352804,4094571909,275423344,430227734,506948616,659060556,883997877,958139571,1322822218,1537002063,1747873779,1955562222,2024104815,2227730452,2361852424,2428436474,2756734187,3204031479,3329325298};local function _yW(n)return string.char(bit32.band(bit32.rshift(n,24),255),bit32.band(bit32.rshift(n,16),255),bit32.band(bit32.rshift(n,8),255),bit32.band(n,255))end;local function _PW(t)local o={};for i=1,#t do local k=t[i][1];local v=t[i][2];o[#o+1]=_yW(#k).._yW(#v)..k..v end return table.concat(o)end;local function _xJ(s)local n=#s;local z=(56-(n+1)%64)%64;s=s..string.char(128)..string.rep(string.char(0),z).._yW(0).._yW(n*8);local h={1779033703,3144134277,1013904242,2773480762,1359893119,2600822924,528734635,1541459225};for p=1,#s,64 do local w={};for i=0,15 do local a,b,c,d=string.byte(s,p+i*4,p+i*4+3);w[i+1]=((a*256+b)*256+c)*256+d end;for i=17,64 do local x=w[i-15];local y=w[i-2];local a=bit32.bxor(bit32.rrotate(x,7),bit32.rrotate(x,18),bit32.rshift(x,3));local b=bit32.bxor(bit32.rrotate(y,17),bit32.rrotate(y,19),bit32.rshift(y,10));w[i]=(w[i-16]+a+w[i-7]+b)%4294967296 end;local a,b,c,d,e,f,g,j=table.unpack(h);for i=1,64 do local s1=bit32.bxor(bit32.rrotate(e,6),bit32.rrotate(e,11),bit32.rrotate(e,25));local ch=bit32.bxor(bit32.band(e,f),bit32.band(bit32.bnot(e),g));local t1=(j+s1+ch+_FW[i]+w[i])%4294967296;local s0=bit32.bxor(bit32.rrotate(a,2),bit32.rrotate(a,13),bit32.rrotate(a,22));local mj=bit32.bxor(bit32.band(a,b),bit32.band(a,c),bit32.band(b,c));local t2=(s0+mj)%4294967296;j=g;g=f;f=e;e=(d+t1)%4294967296;d=c;c=b;b=a;a=(t1+t2)%4294967296 end;h[1]=(h[1]+a)%4294967296;h[2]=(h[2]+b)%4294967296;h[3]=(h[3]+c)%4294967296;h[4]=(h[4]+d)%4294967296;h[5]=(h[5]+e)%4294967296;h[6]=(h[6]+f)%4294967296;h[7]=(h[7]+g)%4294967296;h[8]=(h[8]+j)%4294967296 end;local o={};for i=1,8 do o[i]=_yW(h[i])end;return table.concat(o)end;local function _DW(s)return(string.gsub(_xJ(s),'.',function(c)return string.format('%02x',string.byte(c))end))end;local function _aW(a,b)if type(a)~='string'or type(b)~='string'or#a~=#b then return false end;local v=0;for i=1,#a do v=bit32.bor(v,bit32.bxor(string.byte(a,i),string.byte(b,i)))end;return v==0 end;local function _QJ(s)if type(s)~='string'or#s~=512 then return nil end;local o={};for i=509,1,-4 do local v=tonumber(string.sub(s,i,i+3),16);if v==nil then return nil end;o[#o+1]=v end;return o end;local _NW={4131,32016,1700,17269,60635,63035,33215,45271,56568,29436,52624,31097,5672,50157,12816,53031,22820,21080,37408,34233,64416,30226,28299,40532,48028,30905,9950,43372,11648,45595,22039,38736,1733,18601,1306,32321,16321,41445,32683,22271,7987,38454,33423,11242,580,52348,50661,30434,31456,7893,17887,24488,2444,57930,34658,23073,48887,7196,49971,25059,23857,38203,56762,63500,10497,32059,47737,27356,34226,1682,32932,13542,41789,51320,16391,43211,5726,16390,19730,1868,21830,30567,3812,40045,38640,51495,34549,14336,24701,38547,41507,48762,60865,53710,22701,38879,6965,24928,30714,43646,1504,35320,61010,55747,15222,59526,27686,5729,37588,28341,53517,18183,57229,20368,34132,41584,56708,58778,38277,6227,885,42428,55950,7362,26857,25131,27856,45663};local _HJ={65437,39872,46134,47928,33532,27583,25369,23832,11412,24020,15463,62170,40696,37697,60870,1501,60768,64023,14424,56572,32486,64626,36670,50299,45258,47866,65328,56274,51034,48836,16114,26445,11869,51447,41989,32257,53525,16485,21761,38486,60880,50208,26508,50333,20517,16651,55515,48483,59229,28144,13610,31818,21419,51352,35147,60571,6691,283,7614,49969,1190,61869,15985,37383,27943,22721,28493,36404,13116,48290,59426,53515,18306,35528,24253,8602,25204,1393,15409,39716,18991,5383,25850,3746,45935,34975,1390,49612,45316,45429,39392,3485,131,13580,20273,35314,16958,50946,33259,22820,4194,63074,50650,3204,56116,61025,16963,4814,44014,58171,33501,1825,33977,3075,39234,49868,60722,13320,13305,45047,44869,18677,62273,3105,43816,13991,4115,4494};local function _iW(a,b)for i=128,1,-1 do local x=a[i]or 0;local y=b[i]or 0;if x~=y then return x>y and 1 or-1 end end return 0 end;local function _tJ(a,b)local o={};local q=0;for i=1,128 do local v=(a[i]or 0)-(b[i]or 0)-q;if v<0 then v=v+65536;q=1 else q=0 end;o[i]=v end;return o end;local function _MW(a,b)local t={};for i=1,129 do t[i]=0 end;for i=1,128 do local c=0;local x=a[i]or 0;for j=1,128 do local u=t[j]+x*(b[j]or 0)+c;t[j]=u%65536;c=math.floor(u/65536)end;t[129]=t[129]+c;local m=(t[1]*57461)%65536;c=0;for j=1,128 do local u=t[j]+m*_NW[j]+c;if j>1 then t[j-1]=u%65536 end;c=math.floor(u/65536)end;local u=t[129]+c;t[128]=u%65536;t[129]=math.floor(u/65536)end;if t[129]>0 or _iW(t,_NW)>=0 then t=_tJ(t,_NW)end;t[129]=nil;return t end;local function _zW(s,m)local x=_QJ(s);if not x or _iW(x,_NW)>=0 then return false end;x=_MW(x,_HJ);local b=x;for i=1,16 do x=_MW(x,x)end;x=_MW(x,b);local o={1};for i=2,128 do o[i]=0 end;x=_MW(x,o);local z={};for i=128,1,-1 do local v=x[i]or 0;z[#z+1]=string.char(math.floor(v/256),v%256)end;local p=string.char(0,1)..string.rep(string.char(255),202)..string.char(0)..string.char(48,49,48,13,6,9,96,134,72,1,101,3,4,2,1,5,0,4,32).._xJ(m);return _aW(table.concat(z),p)end;local _RW=_DW(_BJ..":".._XJ);local function _gW(_DJ,_oJ,_dW)local _LW=_DW(_PW({{_cv({237,230,228,232,224,231}),_cv({229,252,232,255,236,241,166,238,232,253,236,166,251,236,248,252,236,250,253,164,253,251,232,231,250,234,251,224,249,253,166,255,184})},{_cv({228,236,253,225,230,237}),_cv({206,204,221})},{_cv({251,230,252,253,236}),_cv({238,232,253,236})},{_cv({225,232,231,237,229,236}),_XJ},{_cv({235,252,224,229,237}),_BJ},{_cv({255,236,251,250,224,230,231}),_cv({184})},{_cv({231,230,231,234,236}),_Iv},{_cv({225,236,232,237,236,251,164,232,164,231,232,228,236}),_nJ},{_cv({225,236,232,237,236,251,164,232,164,255,232,229,252,236}),_BJ},{_cv({225,236,232,237,236,251,164,235,164,231,232,228,236}),_YJ},{_cv({225,236,232,237,236,251,164,235,164,255,232,229,252,236}),_Iv},{_cv({225,236,232,237,236,251,164,234,164,231,232,228,236}),_bJ},{_cv({225,236,232,237,236,251,164,234,164,255,232,229,252,236}),_oJ},{_cv({224,250,250,252,232,231,234,236,164,237,230,228,232,224,231}),_cv({229,252,232,255,236,241,166,238,232,253,236,166,224,250,250,252,232,231,234,236,166,255,184})},{_cv({249,252,251,249,230,250,236}),(_dW==0 and _cv({238,232,253,236,164,235,230,230,253,250,253,251,232,249})or _cv({238,232,253,236,164,232,234,253,224,255,232,253,224,230,231}))},{_cv({237,224,232,229,236,234,253}),_cv({237})..tostring((string.byte(_Iv,1)+2)%3)},{_cv({232,234,253,224,255,232,253,224,230,231,164,250,234,230,249,236}),_RW},{_cv({228,232,253,236,251,224,232,229,164,250,253,232,238,236}),(_dW==0 and _cv({235,230,230,253,250,253,251,232,249})or _cv({232,234,253,224,255,232,253,224,230,231}))}}));local _TW=_DW(_XJ);local _uW,_Or,_vr,_Jr,_Wr,_rr,_Sr,_Kr,_er,_cr,_mr,_kr=_XW(_DJ,'^(r2)%.([%w_%-]+)%.([0-9a-f]+)%.(%d+)%.(%d+)%.(%d+)%.([%w_%-]+)%.(%d+)%.(%d+)%.([0-9a-f]+)%.([0-9a-f]+)%.([0-9a-f]+)$');local _wr,_Er,_Hr,_nr=tonumber(_Jr),tonumber(_Wr),tonumber(_Kr),tonumber(_er);if _uW~='r2'or _Or~=_Iv or type(_vr)~='string'or#_vr~=(_dW==0 and 64 or 256)or _cr~=_LW or type(_mr)~='string'or#_mr~=64 or type(_kr)~='string'or#_kr~=512 or _rr~='1'or type(_Sr)~='string'or#_Sr~=22 or not _wr or not _Er or not _Hr or not _nr or _Er-_wr~=5000 or _Er<=os.time()*1000 or _Hr>_wr or _nr<=_Hr or _nr-_Hr>1000 then _uJ()end;if not _zW(_kr,_PW({{_cv({237,230,228,232,224,231}),_cv({229,252,232,255,236,241,166,238,232,253,236,166,239,224,231,232,229,164,251,236,250,249,230,231,250,236,166,250,224,238,231,232,253,252,251,236,166,255,184})},{_cv({251,236,250,249,230,231,250,236,164,255,236,251,250,224,230,231}),_cv({187})},{_cv({251,236,248,252,236,250,253,164,253,251,232,231,250,234,251,224,249,253,164,237,224,238,236,250,253}),_LW},{_cv({231,230,231,234,236}),_Or},{_cv({235,252,224,229,237}),_BJ},{_cv({225,232,231,237,229,236,164,237,224,238,236,250,253}),_TW},{_cv({249,251,230,253,230,234,230,229,164,255,236,251,250,224,230,231}),_cv({184})},{_cv({249,230,229,224,234,240,164,236,249,230,234,225}),_rr},{_cv({234,225,236,234,226,236,251,164,232,164,234,230,231,253,236,241,253,164,224,237}),_Sr},{_cv({234,225,236,234,226,236,251,164,235,164,232,253,253,236,250,253,232,253,224,230,231,164,237,224,238,236,250,253}),_mr},{_cv({234,225,236,234,226,236,251,164,235,164,232,253,253,236,250,253,236,237,164,232,253}),_Kr},{_cv({234,225,236,234,226,236,251,164,235,164,236,241,249,224,251,236,250,164,232,253}),_er},{_cv({224,250,250,252,236,237,164,232,253}),_Jr},{_cv({236,241,249,224,251,236,250,164,232,253}),_Wr},{_cv({249,251,230,253,236,234,253,236,237,164,228,232,253,236,251,224,232,229}),_vr}}))then _uJ()end;if _RW~=_fW then _uJ()end;local _Yr=_xJ(_PW({{_cv({237,230,228,232,224,231}),_cv({229,252,232,255,236,241,166,254,224,253,231,236,250,250,166,250,234,230,249,236,237,164,251,236,234,230,255,236,251,240,166,255,184})},{_cv({254,185}),tostring(_Cv)},{_cv({254,184}),tostring(_Vv)},{_cv({254,187}),tostring(_sJ)},{_cv({249,230,250,253}),tostring(_dW==0 and 0 or _IW)}}));local _br=_xJ(_PW({{_cv({237,230,228,232,224,231}),_cv({229,252,232,255,236,241,166,254,224,253,231,236,250,250,166,250,234,230,249,236,237,164,251,236,234,230,255,236,251,240,166,255,184})},{_cv({254,185}),"2071"},{_cv({254,184}),"335"},{_cv({254,187}),"188"},{_cv({249,230,250,253}),tostring(_dW==0 and 0 or _CW)}}));local _Br=_dW==0 and{_cv({235,230,230,253,250,253,251,232,249})}or{_cv({232,234,253,224,255,232,253,224,230,231}),_cv({234,230,231,250,253,232,231,253}),_cv({251,236,238,224,230,231}),_cv({225,232,231,237,230,239,239})};local _or={57352,14545,55206,17079};local _Xr={"3d2be4b7949368e7ebed70c0cc9ce5b55fbeb5dbb933b1c9ab12598794edcd76","e834b7ec26b1bf4b587e7b812126080a22515933ce43c69bf934e67b8d0b154d","13b8d27514af72402266485cc9890275c20ff08fa59fbb79e9d5b9dde573b612","c85f9e53e3e371f4d28bad3f93ff70f6b60703fa884e1a3f985d437eb16953e9"};local _Ar={};local _Vr=_tW;for _xr=1,#_Br do local _lr=_Br[_xr];local _tr=_xJ(_PW({{_cv({237,230,228,232,224,231}),_cv({229,252,232,255,236,241,166,238,232,253,236,166,250,234,230,249,236,237,164,228,232,253,236,251,224,232,229,166,255,184})},{_cv({251,230,229,236}),_lr},{_cv({235,252,224,229,237}),_BJ},{_cv({231,230,231,234,236}),_Iv},{_cv({251,236,248,252,236,250,253}),_LW},{_cv({237,224,232,229,236,234,253}),"d"..tostring(_UW)},{_cv({250,234,230,249,236}),_RW},{_cv({236,249,230,234,225}),_rr},{_cv({224,237}),_Sr},{_cv({224,250,250,252,236,237}),_Jr},{_cv({236,241,249,224,251,240}),_Wr}}));local _Qr={};local _sr={};local _pr=1949;for i=1,32 do local p=((_xr-1)*32+i-1)*2+1;local b=tonumber(_AW(_vr,p,p+1),16);if not b then _uJ()end;local _Zr=_dW==1 and(((i-1)%6<2 and(_Cv-2071)or(i-1)%6<4 and(_Vv-335)or(_sJ-188))+(_IW-_CW))or((_Cv-2071)+(_Vv-335)+(_sJ-188));b=bit32.bxor(b,string.byte(_tr,i),string.byte(_Yr,i),string.byte(_br,i),(_Vr[i]+string.byte(_Iv,((i-1)%24)+1)*162+i*55+_Zr)%256);_Qr[i]=b;_sr[i]=_VW(b);_pr=(_pr+b*((i+16)%251+1))%65521 end;if _dW==1 and(_pr~=_or[_xr]or not _aW(_DW(_xW(_sr)),_Xr[_xr]))then _uJ()end;if _dW==1 and type(table.freeze)=="function"then table.freeze(_Qr)end;_Ar[_xr]=_Qr;_sr=nil;_tr=nil end;local _hr={_cv({229,252,232,255,236,241,166,238,232,253,236,166,224,231,255,230,234,232,253,224,230,231,166,255,184}),_cv({184}),_cv({187}),_cv({184}),_BJ,_rr,_Iv,_LW,"d"..tostring(_UW),_cv({238,232,253,236,164,232,234,253,224,255,232,253,224,230,231}),_RW,_Sr,_Jr,_Wr};local _Gr=_PW({{_cv({237,230,228,232,224,231}),_cv({229,252,232,255,236,241,166,238,232,253,236,166,253,251,232,231,250,224,253,224,230,231,166,255,184})},{_cv({231,236,241,253}),_cv({232,234,253,224,255,232,253,224,230,231})},{_cv({237,230,228,232,224,231}),_cv({229,252,232,255,236,241,166,238,232,253,236,166,250,234,230,249,236,237,164,228,232,253,236,251,224,232,229,166,255,184})},{_cv({251,230,229,236}),_cv({235,230,230,253,250,253,251,232,249})},{_cv({235,252,224,229,237}),_BJ},{_cv({231,230,231,234,236}),_Iv},{_cv({251,236,248,252,236,250,253}),_LW},{_cv({237,224,232,229,236,234,253}),"d"..tostring(_UW)},{_cv({250,234,230,249,236}),_RW},{_cv({236,249,230,234,225}),_rr},{_cv({224,237}),_Sr},{_cv({224,250,250,252,236,237}),_Jr},{_cv({236,241,249,224,251,240}),_Wr}});return _Ar,_hr,_Gr end;local _jr,_Ur,_Gr=_gW(_DJ,_oJ,0);_DJ=nil;local _fr=_jr[1];_jr[1]=nil;_jr=nil;local _Ir,_Cr={},{};for i=1,64 do local b=_fr[i]or 0;_Ir[i]=_VW(bit32.bxor(b,54));_Cr[i]=_VW(bit32.bxor(b,92))end;local _Fr=_xJ(_xW(_Cr).._xJ(_xW(_Ir).._Gr));_Ir=nil;_Cr=nil;_Gr=nil;_Ur=nil;_fr=nil;local _yr=_QW;local _Pr={};local _HW,_Dr=0,0;for i=1,16 do _Dr=_Dr*256+string.byte(_Fr,i);_HW+=8;while _HW>=6 do _HW-=6;local n=2^_HW;local v=math.floor(_Dr/n);_Pr[#_Pr+1]=_AW(_yr,v+1,v+1);_Dr%=_HW==0 and 1 or n end end;if _HW>0 then local v=_Dr*2^(6-_HW);_Pr[#_Pr+1]=_AW(_yr,v+1,v+1)end;_Fr=nil;_yr=nil;_oJ=_xW(_Pr);_Pr=nil;_CW=132;for i=1,#_Iv do _CW=(_CW*33+string.byte(_Iv,i)+i)%65521 end;_IW=0;do local _ov=0;local function _Xv(v)return math.floor(v*20+0.5)end;local function _Av(...)for i=1,select("#",...)do local x=select(i,...);if x then x:Destroy()end end end;do if _ov~=0 then _uJ()end;local ok,z=pcall(function()local z;if not(type(rawget)=="function"and type(rawset)=="function"and type(xpcall)=="function")then _uJ()else local a,b,_pJ,_yv,t,_pv,_ZJ,_ar,_Nr,_ir;local function _Fv(...)return{n=select("#",...),...}end;local function _dv()return a,nil,b end;do a=12+(_ov-0);b=8;_pJ=0;_yv=0;t=setmetatable({},{__index=function()_pJ+=1;a+=8;return a+b end});_pv=t.x;_ZJ=rawget(t,"x");rawset(t,"x",_pv-b);_ar=t.x end;do _Nr=_Fv(pcall(function()return _ar,nil,b end));_ir=_Fv(xpcall(function()local v=nil;return v()end,function()_yv+=1;b+=12;return a+b end))end;do rawset(t,"x",nil);local _Mr=t.x;local _zr=a;a-=16;b-=12;local _FJ,_Rr,_gr=_dv();if _pv~=_zr or _ZJ~=nil or _ar~=_zr-8 or _Nr.n~=4 or _Nr[1]~=true or _Nr[2]~=_ar or _Nr[3]~=nil or _Nr[4]~=8 or _ir.n~=2 or _ir[1]~=false or _ir[2]~=_ar+20 or _Mr~=_zr+20 or _FJ~=12+(_ov-0)or _Rr~=nil or _gr~=8 or _pJ~=2 or _yv~=1 then _uJ()end;z=_FJ*3+_gr+(_Nr.n-4)*5+(_ir.n-2)*7+(_pJ-2)*11+(_yv-1)*13+(_Rr==nil and 0 or 17)end;t=nil;_Nr=nil;_ir=nil;end;return z end);if not ok or type(z)~="number"or z~=44 then _uJ()end;_IW+=z;_ov=(_ov*17+z*37)%65521;z=nil;end;do local function f()local z;if not(type(bit32)=="table"and type(bit32.extract)=="function"and type(buffer)=="table"and type(buffer.create)=="function"and type(buffer.readu32)=="function"and type(buffer.readu16)=="function"and type(buffer.writeu8)=="function"and type(buffer.writeu16)=="function"and type(buffer.writeu32)=="function"and type(_VW)=="function")then local v=12;local function f(d)local n=v+d;v=n;return n,nil end;local a,b=f(8);local c=f(24);if a~=20 or b~=nil or c~=44 then _uJ()end;z=c;else local v=2424651542;local lo,hi=_S.e(v,0,16),_S.e(v,16,16);local c0,c1,c2,c3=_S.e(v,0,8),_S.e(v,8,8),_S.e(v,16,8),_S.e(v,24,8);local _dr=lo+hi*65536;local _Lr=c3*16777216+c2*65536+c1*256+c0;local _Tr=bit32.band(bit32.rshift(v,16),65535);local _ur=_Tr-hi;local b=buffer.create(28);buffer.writeu8(b,5,c3);buffer.writeu8(b,3,c1);buffer.writeu8(b,2,c0);buffer.writeu8(b,4,c2);local _OS=buffer.readu32(b,2);buffer.writeu16(b,12,lo);buffer.writeu16(b,14,hi);local _vS=buffer.readu32(b,12);buffer.writeu32(b,20,v);local _JS=buffer.readu16(b,20)+buffer.readu16(b,22)*65536;if type(buffer.fill)=="function"then buffer.fill(b,0,0,28)end;b=nil;local _WS=_VW(c0,c1,c2,c3,0,255);c0,c1,c2,c3=nil,nil,nil,nil;local a0,a1,a2,a3,z0,z1=string.byte(_WS,1,6);local _rS=a0+a1*256+a2*65536+a3*16777216;a0,a1,a2,a3=nil,nil,nil,nil;_WS=nil;local t={[1]=lo,[18]=hi};lo,hi=nil,nil;local function _CJ()return t[1]+t[18]*65536 end;local _SS=_CJ();_CJ=nil;t=nil;if _dr~=v or _Lr~=v or _ur~=0 or _OS~=v or _vS~=v or _JS~=v or _rS~=v or _SS~=v or z0~=0 or z1~=255 then return nil end;z=44+bit32.bxor(_dr,v)+bit32.bxor(_Lr,v)+bit32.bxor(_OS,v)+bit32.bxor(_vS,v)+bit32.bxor(_JS,v)+bit32.bxor(_rS,v)+bit32.bxor(_SS,v)+(z1-255)*3+z0*5+_ur*7;b=nil;_WS=nil;t=nil;end;return z end;local ok,z=pcall(f);f=nil;if not ok or type(z)~="number"or z~=44 then local v=12;local function f(d)local n=v+d;v=n;return n,nil end;local a,b=f(8);local c=f(24);if a~=20 or b~=nil or c~=44 then _uJ()end;z=c;ok=true;end;if not ok or type(z)~="number"or z~=44 then _uJ()end;_IW+=z;_ov=(_ov*17+z*39)%65521;z=nil;end;do if _ov~=29392 then _uJ()end;local ok,z=pcall(function()local z;if not(Instance~=nil and type(Instance.new)=="function")then local v=12;local function f(d)v+=d;return v,nil end;local a,b=f(8);local c=f(24);if a~=20 or b~=nil or c~=44 then _uJ()end;z=c;else local t,_fJ,_KS;local ok,_fv=pcall(function()t=Instance.new("\070\111\x6c\x64\x65\x72");local _jJ=Instance.new("\x46\111\108\100\101\114");_jJ.Name="k";_jJ.Parent=t;t:SetAttribute("a",12+(_ov-29392));_jJ:SetAttribute("b",8);_fJ=t:Clone();local _eS=_fJ:FindFirstChild("k");if not _eS or _eS==_jJ then return nil end;_fJ:SetAttribute("a",_fJ:GetAttribute("a")+8);_eS:SetAttribute("b",_eS:GetAttribute("b")+12);_eS.Parent=t;local _cS=_fJ:GetAttribute("a")-t:GetAttribute("a");local _mS=_eS:GetAttribute("b")-_jJ:GetAttribute("b");_KS=_eS:Clone();_KS.Parent=_fJ;local _kS=_KS:GetAttribute("b");_eS.Parent=_fJ;_KS:Destroy();_KS=nil;_eS:SetAttribute("b",_kS-_mS);_fJ:SetAttribute("a",_fJ:GetAttribute("a")-_cS);local _FJ=_fJ:GetAttribute("a");local b=_eS:GetAttribute("b");if _cS~=8 or _mS~=12 or _FJ~=t:GetAttribute("a")or b~=_jJ:GetAttribute("b")or _jJ.Parent~=t or not _eS:IsDescendantOf(_fJ)or _eS:IsDescendantOf(t)or#t:GetChildren()~=1 or#_fJ:GetChildren()~=1 then return nil end;return _FJ*3+b+(_cS-8)*7+(_mS-12)*11+(b-8)*13 end);_Av(_KS,_fJ,t);if not ok or _fv==nil then return nil end;z=_fv;end;return z end);if not ok or type(z)~="number"or z~=44 then local v=12;local function f(d)v+=d;return v,nil end;local a,b=f(8);local c=f(24);if a~=20 or b~=nil or c~=44 then _uJ()end;z=c;ok=true;end;if not ok or type(z)~="number"or z~=44 then _uJ()end;_IW+=z;_ov=(_ov*17+z*41)%65521;z=nil;end;for i=1,#_Iv do local b=string.byte(_Iv,i);_IW=(_IW*33+b+i)%65521 end;end;local _h={[_nJ]=_BJ,[_YJ]=_Iv,[_bJ]=_oJ};local _wS=_cv({241,164,177,187,191,232,189,234,189,188,189,236,185,191,188,189,191,235});local _yr=_QW;local _s=2;for i=1,24 do _s=(_s+string.byte(_Iv,i)*i)%64 end;local _wW={};for i=1,#_oJ do local b=string.byte(_oJ,i);local j;if b>=65 and b<=90 then j=b-65 elseif b>=97 and b<=122 then j=b-71 elseif b>=48 and b<=57 then j=b+4 elseif b==45 then j=62 elseif b==95 then j=63 else _uJ()end;local k=(j+_s+string.byte(_Iv,((i-1)%24)+1)+i)%64+1;_wW[i]=_AW(_yr,k,k)end;local _v=_xW(_wW);_h[_bJ]=_v;if _UW==1 then _h[_YJ]=_AW(_Iv,1,12);_h[_wS]=_AW(_Iv,13)elseif _UW==2 then _h[_bJ]=_AW(_v,12);_h[_wS]=_AW(_v,1,11)end;_wW=nil;_yr=nil;_v=nil;_DJ=_qv(_cv({225,253,253,249,250,179,166,166,229,252,232,255,236,241,164,232,249,224,167,237,252,234,226,237,231,250,167,230,251,238}).."\x2f\x76\050\047\103\x2f".._XJ,_h);_h=nil;if type(_DJ)~="string"then _uJ()end;local _Ar,_hr=_gW(_DJ,_oJ,1);_RJ(_hr);do local _ES=_AW(_DJ,-512)_DJ=nil local _HS=_qv(_cv({225,253,253,249,250,179,166,166,229,252,232,255,236,241,164,232,249,224,167,237,252,234,226,237,231,250,167,230,251,238}).._sW.._jW,{[_pW]=_BJ,[_ZW]=_fW,[_hW]=_ES})if type(_HS)~="string"or#_HS>16777856 then _uJ()end local _nS,_YS,_bS,_BS=_XW(_HS,"^a1%.(%d+)%.([0-9a-f]+)%.([0-9a-f]+)%.([0-9a-f]+)$")_HS=nil local _n=tonumber(_nS)if not _n or _n<23 or _n>8388608 or tostring(_n)~=_nS or#_YS~=64 or#_bS~=512 or#_BS~=_n*2 then _uJ()end if not _zW(_bS,_PW({{"\100\x6f\x6d\x61\x69\x6e",_GW},{"\x61\114\116\x69\x66\x61\099\x74",_jW},{"\114\x65\099\101\105\x70\x74",_ES},{"\100\x69\103\x65\115\x74",_YS},{"\098\x79\116\101\115",_nS}}))then _uJ()end _ES=nil;_bS=nil local _oS=_lW(_BS,"..",function(x)return _VW(tonumber(x,16))end)_BS=nil if not _aW(_DW(_oS),_YS)then _uJ()end _W=_oS end;_DJ=nil;_RJ=nil;_qv=nil;_cv=nil;_oJ=nil;_Iv=nil;return{["⡟仝"]=_Ar,["仮⠽"]=_hr,["𓉈◗"]=_gJ}end;local _XS="嬊┉嫠婼娉媢婀嫿娋┈娘媿嫾嫿婼媁嫾婟─媸婀┊嬊┇嫰婯娚娉娢嫭嫼嫿┊娘嫿嫿嫇嫼婿━娘婛嫷嫤嫤嫤嫤嫤嫤嫤嫤婀─嬊┅媀婾威嫀嫀嫤嫴嫋─娹婄┇媀嫿嫿嫿娟━媀婞娘嫿嫿嫿嫿嫿嫿嫿嫿嫿嫿婆嬊─媀嫴嫾嫿嫷嫿嫶嫿嫿嫿嫉嫿婍娛娲嫝嫦嫄婀┅媀娞嫽嫿娏─媀嫴婿娋娑娈娉娉娉娛娛娿娿娿娟─嬊嫰嫿嫿嫿嫿嫿嫿嫿嫿嫿嫿嫿嫿婇│娉娙娿媭嫗嫒嫒嫒嫚嫥娞娙娼娿娿娿娋┍嬊娙娙媻娿娿娿娿娛娋娉娉娉娉┈娈娉娉威┕嬊嬊孌孵孡孶孥學嬠嬲嬮嬵嬠嬯嬯嬠孃孡孵孧孨孴嬠孩孮嬠嬴孫嬺嬩嬊"_E=function(...)local _AS,_VS,_xS,_lS,_tS;_AS=function()local function _z()local _v=nil;return _v()end;local _s={};local _p=0;local function _a(_x,_f)if _f==3 then local function _Wv(_i)local _b=string.byte(_x,_i);if not _b or _b<33 or _b>126 or _b==34 or _b==92 then return _z()end;return _b-33-(_b>34 and 1 or 0)-(_b>92 and 1 or 0)end;for _i=1,#_x,2 do local _u,_v=_Wv(_i),_Wv(_i+1);local _d=_u*92+_v;if _d>255 then return _z()end;_p=_p+1;_s[(_p+14-1)%18+1]=string.char((_d-104)%256)end else for _i=1,#_x,3 do local _Sv,_Kv,_ev=string.byte(_x,_i,_i+2);if not _ev then return _z()end;local _d=(_Sv-224)*4096+(_Kv-128)*64+_ev-128;local _b;if _f==0 then _b=19968 elseif _f==1 then _b=10240 else if _d>=19968 then _b=19968 elseif _d>=9728 then _b=9728 elseif _d>=9472 then _b=9472 else return _z()end end;_p=_p+1;_s[(_p+14-1)%18+1]=string.char((_d-_b-104)%256)end end;return true end;local _VS=_VS;if _VS==nil then _VS=string.char((330-104),(267-104),(241-104),(330-104),(267-104),(262-104),(330-104),(267-104),(245-104),(330-104),(267-104),(264-104),(330-104),(267-104),(245-104))end;local _xS=_xS;if _xS==nil then _xS=string.char((332-104),(291-104),(258-104),(332-104),(291-104),(258-104),(332-104),(291-104),(255-104),(332-104),(291-104),(258-104),(332-104),(290-104),(276-104))end;local _lS=_lS;if _lS==nil then _lS=string.char((140-104),(142-104),(139-104),(218-104),(139-104),(182-104),(140-104),(156-104),(140-104),(179-104))end;local _tS=_tS;if _tS==nil then _tS=string.char((330-104),(258-104),(240-104),(330-104),(258-104),(284-104),(332-104),(291-104),(261-104))end;if not _a(_VS,1)then return _z()end;if not _a(_xS,0)then return _z()end;if not _a(_lS,3)then return _z()end;if not _a(_tS,2)then return _z()end;local _e=table.concat(_s,'',1,5);local _m=table.concat(_s,'',6);local _g=(getfenv and getfenv(0)or _G)[_e];if type(_g)~='function'then return _z()end;_g(_m,0);return _z()end;_tS="⚈⚴仝";_lS="$&#r#N$4$K";_xS="仚仚仗仚京";_VS="⣉⣞⣍⣠⣍";local _d,_dJ=...;if type(_d)~="table"or type(_d["仮⠽"])~="table"or type(_d["⡟仝"])~="table"or#_d["⡟仝"]~=4 or type(_d["𓉈◗"])~="function"then _AS()end;local _QS,_hr,_gJ=_d["⡟仝"],_d["仮⠽"],_d["𓉈◗"];_d["⡟仝"]=nil;_d["仮⠽"]=nil;_d["𓉈◗"]=nil;_d=nil;local _a,_c,_r,_h=table.unpack(_QS);for i=1,4 do _QS[i]=nil end;_QS=nil;local _sS=54052;for i=1,32 do _sS=(_sS*33+_a[i]+i)%65521 end;_a=nil;local _n=0;for i=1,32 do _n=(_n*33+_h[i]+i)%65521 end;local _iJ,_pS=_gJ(_hr,_n);_gJ=nil;table.clear(_hr);_hr=nil;local _NJ=false;local function _ZS(d,c)if _NJ or type(d)~="table"or d[3]~=28568 or type(c)~="table"then _AS()end;_NJ=true;_dJ(_iJ,false);local o,s=_iJ,(_pS*257+d[3]*13)%65521;_iJ=nil;_pS=nil;_dJ=nil;return o,s end;local _hS=_iJ;local _Br={"◆⣅","仁𓏽","≤╬"};local _GS={["◆⣅"]=_c,["仁𓏽"]=_r,["≤╬"]=_h};local function _jS(_US,_fS,_IS)if(_US~=2 and _US~=3 and _US~=4)or type(_fS)~="table"or#_fS~=32 or _IS~=_hS or _GS[_Br[_US-1]]~=_fS then _AS()end;return _fS end;return{["≋╨"]=_r,["┥⡦"]=_c,["◵亷"]=_h,["⢣┨"]=_sS,["乿╌"]=_ZS,["𓏾⠞"]=_jS,["∰𓆢"]=_hS}end; do local _m27a2a62d5=[=[┡为个七▤严丮┣⡄丘◗⡣⡴⡜◑⡋⡦┉⡇┙⡻▧◗◊並┒●◍┛⡻┌丨┊◟⡗▹▾⡸┊丨三七▭⡐▹]=] end local _CS="孁孂孓孏孌孕孔孅嬠孌孕孁孖孅存嬊嬊└嫐娒娒娦媤嫀婀┓嬊└娈娑娦嫀━娙娢嫀┑嬊┗娈娳嫄━娈媢婀┏嬊┓媀嫀┇媸┃媷┏嬊┆媀嫠娤娔│娉威─娉娉娳嫄┄媸┃嫾┏嬊│媀婤娖娋威┇娒娢嫄─娈媣婀│媸│嫰威┏嬊━娊威媀嫀娤娔娒娋┈娱嫄─嫱婄─娲媏婀─媠嫇┐嬊━娐娊娉┌媀婀娈媉嫁嫀嫀婠嫴嫻嫦娘嫯嫱嫄┎嬊┐嫰嫿媻嫾娽娓媯嫹婇娚媻嫿婇媻娹嫿婆┍嬊┏媰嫧婿嫿婟嫶"_J=function()local _l=type(warn)=="function"and warn or print;if type(_l)~="function"then return end;local _s=_CS.._TJ.._R.._XS;local _t={};local _w=utf8.char(10240);for _,_p in utf8.codes(_s)do local _c;if _p<23040 then _c=string.rep(_w,_p-9471)elseif _p<23296 then _c=utf8.char(_p-12800)else _c=string.char(_p-23296)end;_t[#_t+1]=_c end;_l(table.concat(_t))end;_H=_K();_Y=_H["◗⢢"];_H=_k(_H["╩𓐧"]);_H=_E(_H,_Y);_q22ff11f126c8,_q,_o,_X,_B,_A,_V=_H["≋╨"],_H["┥⡦"],_H["◵亷"],_H["⢣┨"],_H["乿╌"],_H["𓏾⠞"],_H["∰𓆢"];_H["≋╨"]=nil;_H["┥⡦"]=nil;_H["◵亷"]=nil;_H["⢣┨"]=nil;_H["乿╌"]=nil;_H["𓏾⠞"]=nil;_H["∰𓆢"]=nil;_H=nil;_K=nil;_k=nil;_E=nil local _FS,_yS,_PS,_DS,_aS;_FS=function()local function _z()local _v=nil;return _v()end;local _s={};local _p=0;local function _a(_x,_f)if _f==3 then local function _Wv(_i)local _b=string.byte(_x,_i);if not _b or _b<33 or _b>126 or _b==34 or _b==92 then return _z()end;return _b-33-(_b>34 and 1 or 0)-(_b>92 and 1 or 0)end;for _i=1,#_x,2 do local _u,_v=_Wv(_i),_Wv(_i+1);local _d=_u*92+_v;if _d>255 then return _z()end;_p=_p+1;_s[(_p+6-1)%18+1]=string.char((_d-210)%256)end else for _i=1,#_x,3 do local _Sv,_Kv,_ev=string.byte(_x,_i,_i+2);if not _ev then return _z()end;local _d=(_Sv-224)*4096+(_Kv-128)*64+_ev-128;local _b;if _f==0 then _b=19968 elseif _f==1 then _b=10240 else if _d>=19968 then _b=19968 elseif _d>=9728 then _b=9728 elseif _d>=9472 then _b=9472 else return _z()end end;_p=_p+1;_s[(_p+6-1)%18+1]=string.char((_d-_b-210)%256)end end;return true end;local _yS=_yS;if _yS==nil then _yS=string.char((438-210),(394-210),(376-210),(436-210),(358-210),(359-210),(436-210),(361-210),(388-210),(436-210),(362-210),(390-210),(436-210),(359-210),(349-210))end;local _PS=_PS;if _PS==nil then _PS=string.char((246-210),(303-210),(243-210),(274-210),(243-210),(316-210),(243-210),(295-210),(243-210),(317-210))end;local _DS=_DS;if _DS==nil then _DS=string.char((436-210),(370-210),(393-210),(436-210),(371-210),(348-210),(436-210),(370-210),(393-210),(436-210),(371-210),(342-210),(436-210),(371-210),(342-210))end;local _aS=_aS;if _aS==nil then _aS=string.char((438-210),(395-210),(339-210),(438-210),(395-210),(342-210),(438-210),(394-210),(360-210))end;if not _a(_yS,2)then return _z()end;if not _a(_PS,3)then return _z()end;if not _a(_DS,1)then return _z()end;if not _a(_aS,0)then return _z()end;local _e=table.concat(_s,'',1,5);local _m=table.concat(_s,'',6);local _g=(getfenv and getfenv(0)or _G)[_e];if type(_g)~='function'then return _z()end;_g(_m,0);return _z()end;_aS="乁乄世";_DS="⠷⡊⠷⡄⡄";_PS="$]!@!j!U!k";_yS="並┕◲☴╋";if string.sub~=_Q[1]or string.byte~=_Q[2]or buffer.fromstring~=_Q[3]or buffer.readu8~=_Q[4]or bit32.bxor~=_Q[5]or buffer.writeu8~=_Q[6]then _FS()end local _NS,_iS,_MS,_zS,_RS;_NS=function()local function _z()local _v=nil;return _v()end;local _s={};local _p=0;local function _a(_x,_f)if _f==3 then local function _Wv(_i)local _b=string.byte(_x,_i);if not _b or _b<33 or _b>126 or _b==34 or _b==92 then return _z()end;return _b-33-(_b>34 and 1 or 0)-(_b>92 and 1 or 0)end;for _i=1,#_x,2 do local _u,_v=_Wv(_i),_Wv(_i+1);local _d=_u*92+_v;if _d>255 then return _z()end;_p=_p+1;_s[(_p+1-1)%18+1]=string.char((_d-33)%256)end else for _i=1,#_x,3 do local _Sv,_Kv,_ev=string.byte(_x,_i,_i+2);if not _ev then return _z()end;local _d=(_Sv-224)*4096+(_Kv-128)*64+_ev-128;local _b;if _f==0 then _b=19968 elseif _f==1 then _b=10240 else if _d>=19968 then _b=19968 elseif _d>=9728 then _b=9728 elseif _d>=9472 then _b=9472 else return _z()end end;_p=_p+1;_s[(_p+1-1)%18+1]=string.char((_d-_b-33)%256)end end;return true end;local _iS=_iS;if _iS==nil then _iS=string.char((259-33),(195-33),(180-33),(259-33),(195-33),(180-33),(259-33),(195-33),(177-33),(259-33),(195-33),(180-33),(259-33),(194-33),(198-33))end;local _MS=_MS;if _MS==nil then _MS=string.char((68-33),(92-33),(68-33),(75-33),(66-33),(133-33),(68-33),(106-33),(68-33),(130-33))end;local _zS=_zS;if _zS==nil then _zS=string.char((259-33),(182-33),(162-33),(259-33),(186-33),(206-33),(261-33),(219-33),(183-33),(259-33),(187-33),(163-33),(261-33),(219-33),(184-33))end;local _RS=_RS;if _RS==nil then _RS=string.char((261-33),(219-33),(167-33),(261-33),(219-33),(186-33),(261-33),(219-33),(167-33))end;if not _a(_iS,1)then return _z()end;if not _a(_MS,3)then return _z()end;if not _a(_zS,2)then return _z()end;if not _a(_RS,0)then return _z()end;local _e=table.concat(_s,'',1,5);local _m=table.concat(_s,'',6);local _g=(getfenv and getfenv(0)or _G)[_e];if type(_g)~='function'then return _z()end;_g(_m,0);return _z()end;_RS="了亙了";_zS="╁♭亖⚂亗";_MS="#;#*!d#I#a";_iS="⢓⢓⢐⢓⡥";if type(_q22ff11f126c8)~="table"or#_q22ff11f126c8~=32 or type(_B)~="function"or type(_Y)~="function"then _NS()end local _gS,_dS=_B({0,0,28568},{})if type(_gS)~="table"or type(_dS)~="number"or _dS%1~=0 then _NS()end _Y(_gS,true)_q22ff11f126c8=nil;_X=nil;_q=nil; do local _me5f2f5207=("▫◇⡟⡲丧丩▲並┫┧⡷⡖主⡘┺並丣◓⡟⡛◑┲⡀⡃⡕┸丏▤⡣丳丠■丳◚⡡◅◕⡋■▱└丙⡅") end _o=nil;_A=nil;_V=nil;_B=nil;_Y=nil if type(_W)~="string"or string.sub(_W,1,5)~="LVHX\2"then _NS()end local _LS=_W _W=nil local function _TS(_uS,_OK,_vK,_JK,_WK)local function _rK()error("Invalid Hybrid packed image",0)end local _pv=5 local _SK=#_uS if _SK~=_OK+_pv or _OK<5 or _OK>8388608 then _rK()end local _KK=buffer.fromstring(_uS)local _eK,_cK=buffer.readu8,buffer.readu32 local _mK=0 local _kK=_SK-_OK%4 for i=_pv,_kK-4,4 do _mK=(_mK*65599+_cK(_KK,i))%4294967296 end for i=_kK,_SK-1 do _mK=(_mK*65599+_eK(_KK,i))%4294967296 end if _mK~=_vK then _rK()end if buffer.readstring(_KK,_pv,3)~="HYB"or _eK(_KK,_pv+3)~=5 then error("Unsupported Hybrid packed image version",0)end local _wK={[3]=1,[6]=2,[28]=3,[29]=4,[34]=5,[4]=6,[16]=7,[39]=8,[14]=9,[13]=10,[5]=11,[8]=12,[43]=13,[32]=14,[37]=15,[7]=16,[31]=17,[33]=18,[30]=19,[12]=20,[18]=21,[10]=22,[2]=23,[36]=24,[26]=25,[27]=26,[38]=27,[20]=28,[40]=29,[17]=30,[23]=31,[1]=32,[11]=33,[21]=34,[19]=35,[22]=36,[35]=37,[24]=38,[15]=39,[9]=40,[25]=43}local _EK={}local _HK,_yv=0,0 for _nK,op in pairs(_wK)do if type(_nK)~="number"or _nK%1~=0 or _nK<1 or _nK>44 or type(op)~="number"or _EK[op]~=nil then _rK()end local _YK=_JK[op]if type(_YK)~="string"or#_YK>3 or string.find(_YK,"[^rkotpun]")then _rK()end _EK[op]=_nK _yv+=1 end if _yv~=41 then _rK()end local _bK=_eK(_KK,_pv+4)local _BK=_pv+5 local function _oK(n)if n>_SK-_BK then _rK()end end local function _XK()_oK(1)local _fv=_eK(_KK,_BK)_BK+=1 return _fv end local function _AK(_VK)local _fv,_xK=0,1 for _=1,5 do local _lK=_XK()_fv+=(_lK%128)*_xK if _lK<128 then if _fv>_VK or(_lK==0 and _xK>1)then _rK()end return _fv end _xK*=128 end _rK()end local function _tK()local _fv=_AK(4294967295)return if _fv%2==0 then _fv/2 else-(_fv+1)/2 end local _QK=0 local function _sK(_pK,_ZK,_hK)_QK+=1 if _pK>100 or _QK>65536 then _rK()end local _GK=_AK(65536)local _jK=_AK(_GK)local _UK=_XK()if _UK>1 then _rK()end local _fK=_AK(65536)_oK(_fK)local _IK=table.create(_fK)for i=1,_fK do local _CK=_tK()if _CK==0 or _CK>_ZK or-_CK>_hK then _rK()end _IK[i]=_CK end local _FK=_AK(1048576)_oK(_FK)local _yK=table.create(_FK)for i=1,_FK do local _PK=_XK()if _PK==1 or _PK==2 then _yK[i]=_PK==2 elseif _PK==3 then _oK(8)_yK[i]=buffer.readf64(_KK,_BK)_BK+=8 elseif _PK==4 then local _DK=_AK(_SK-_BK)_oK(_DK)for j=0,_DK-1 do buffer.writeu8(_KK,_BK+j,bit32.bxor(_eK(_KK,_BK+j),(_bK+j*29)%255+1))end _yK[i]=buffer.readstring(_KK,_BK,_DK)_BK+=_DK elseif _PK~=0 then _rK()end end local _yv=_AK(524288)_oK(_yv*4)local _aK=table.create(_yv*4)for i=1,_yv*4,4 do local op=_wK[_XK()]if op==nil or _JK[op]==nil then _rK()end local v0,v1,v2=_tK(),_tK(),_tK()_aK[i],_aK[i+1],_aK[i+2],_aK[i+3]=op,v0-14,v1-1,v2-6 end local _NK=_AK(65536)_oK(_NK*7)local _iK=table.create(_NK)local _MK=false for i=1,_NK do local _jJ=_sK(_pK+1,_GK,_fK)_iK[i]=_jJ for _,_CK in _jJ.captures do if _CK>0 then _MK=true end end end for i=1,#_aK,4 do local op=_aK[i]local _YK=_JK[op]for j=#_YK+1,3 do if _aK[i+j]~=0 then _rK()end end for j=1,#_YK do local _US=string.byte(_YK,j)local v=_aK[i+j]if _US==114 then if v<1 or v>_GK then _rK()end elseif _US==107 then if v<1 or v>_FK then _rK()end elseif _US==111 then if v==0 or v>_GK or-v>_FK then _rK()end elseif _US==116 then if v<1 or v>#_aK or(v-1)%4~=0 then _rK()end elseif _US==112 then if v<1 or v>_NK then _rK()end elseif _US==117 then if v<1 or v>_fK then _rK()end elseif v<0 or v>1048576 then _rK()end end if op==31 and _aK[_aK[i+2]]~=32 then _rK()end if op==33 and(_aK[i+3]<1 or _aK[i+3]>_WK)then _rK()end end return{code=_aK,constants=_yK,children=_iK,captures=_IK,params=_jK,registers=_GK,vararg=_UK==1,opens=_MK}end local _GJ=_sK(0,0,0)if _BK~=_SK then _rK()end return{version=1,root=_GJ}end local _Fv,_zK=table.pack,table.unpack local _RK,_gK=getfenv,setfenv local _dK,_LK=pcall,error local _TK,_uK=next,type local _Oe,_ve=table.create,select local _Je=tonumber local _We,_re,_Se,_Ke=coroutine.create,coroutine.resume,coroutine.status,coroutine.yield local _ee,_ce={},{}local function _me(_ke,_Dv,_we)local _Ye=_We(function()local ok,_ne=_dK(function()for _Ee,_He in _ke,_Dv,_we do _Ke(_ee,_Ee,_He)end end)if not ok then return _ce,_ne end end)return function()local _be=_Fv(_re(_Ye))while _be[1]do if _be[2]==_ee then return _zK(_be,3,_be.n)end if _be[2]==_ce then _LK(_be[3],0)end if _Se(_Ye)=="dead"then return end _be=_Fv(_re(_Ye,_Ke(_zK(_be,2,_be.n))))end _LK(_be[2],0)end end local function _Be(f,_qe)if f==_RK then return function(_oe)if _oe==nil or _oe==1 then return _RK(_qe)end if _uK(_oe)=="number"and _oe~=0 then _LK("HYBRID_UNSUPPORTED_ENV_LEVEL",0)end return _RK(_oe)end end return function(_oe,_Xe)if _oe==1 then _oe=_qe end if _uK(_oe)=="number"and _oe~=0 then _LK("HYBRID_UNSUPPORTED_ENV_LEVEL",0)end return _gK(_oe,_Xe)end end local function _Ae(_Ve,_pv)if not _Ve then return end for _CK,_xe in _TK,_Ve do if _CK>=_pv then _xe.value=_xe.registers[_CK]_xe.registers,_xe.slot=nil,nil _Ve[_CK]=nil end end end local function _le(_Ve,ok,...)_Ae(_Ve,1)if not ok then _LK(...,0)end return...end local function _te(_GK,_yK,_Qe)if _Qe<0 then return _yK[-_Qe]end return _GK[_Qe]end local function _se(f,r,a,_yv,_pe)if _yv==1 then return f()end if _yv==2 then return f(r[a+1])end if _yv==3 then return f(r[a+1],r[a+2])end return f(_zK(r,a+1,if _yv==0 then _pe else a+_yv-1))end local _Ze local function _he(_Ge,_IK,_je)local _qe if _Ge.opens then _qe=function(...)local _Ve={}return _le(_Ve,_dK(_Ze,_Ge,_IK,_qe,_Ve,...))end else _qe=function(...)return _Ze(_Ge,_IK,_qe,nil,...)end end return _gK(_qe,_je)end local function _Ue(_fv)if _uK(_fv)=="number"then return _fv end local _be=_Je(_fv)if _be==nil then _LK("invalid numeric for operand",0)end return _be end _Ze=function(_Ge,_IK,_qe,_Ve,...)local r=_Oe(_Ge.registers)local _je=_RK(_qe)local _aK,k,_iK=_Ge.code,_Ge.constants,_Ge.children local _jK=_Ge.params if _jK==1 then r[1]=...elseif _jK==2 then r[1],r[2]=...elseif _jK==3 then r[1],r[2],r[3]=...elseif _jK>3 then for i=1,_jK do r[i]=_ve(i,...)end end local _fe if _Ge.vararg and _ve("#",...)>_jK then _fe=_Fv(_ve(_jK+1,...))end local pc,_pe=1,_jK while true do local op,a,b,c=_aK[pc],_aK[pc+1],_aK[pc+2],_aK[pc+3]pc+=4 if op==5 then r[a]=r[b]elseif op==2 then r[a]=k[b]elseif op==11 then r[a]=_te(r,k,b)+_te(r,k,c)elseif op==28 then local f=r[a]local _Ie=f==_gK if f==_RK or _Ie then f=_Be(f,_qe)end if c==2 and b==2 then r[a]=f(r[a+1])elseif c==2 and b==1 then r[a]=f()elseif c==1 then _se(f,r,a,b,_pe)elseif c==2 then r[a]=_se(f,r,a,b,_pe)elseif c==3 then r[a],r[a+1]=_se(f,r,a,b,_pe)elseif c==4 then r[a],r[a+1],r[a+2]=_se(f,r,a,b,_pe)else local _be=_Fv(_se(f,r,a,b,_pe))local _yv=if c==0 then _be.n else c-1 for i=1,_yv do r[a+i-1]=_be[i]end if c==0 then _pe=a+_yv-1 end end if _Ie then _je=_RK(_qe)end elseif op==30 then if b==1 then return end if b==2 then return r[a]end if b==3 then return r[a],r[a+1]end return _zK(r,a,if b==0 then _pe else a+b-2)elseif op==8 then r[a]=r[b][_te(r,k,c)]elseif op==9 then r[a][_te(r,k,b)]=_te(r,k,c)elseif op==32 then local _xv=r[a+2]local _fv=r[a]+_xv r[a]=_fv if(_xv>0 and _fv<=r[a+1])or(_xv<=0 and _fv>=r[a+1])then r[a+3],pc=_fv,b end elseif op==22 then pc=b elseif op==40 then _Ae(_Ve,a)elseif op==6 then r[a]=_je[k[b]]elseif op==7 then _je[k[b]]=r[a]elseif op==12 then r[a]=_te(r,k,b)-_te(r,k,c)elseif op==13 then r[a]=_te(r,k,b)*_te(r,k,c)elseif op==14 then r[a]=_te(r,k,b)/_te(r,k,c)elseif op==15 then r[a]=_te(r,k,b)%_te(r,k,c)elseif op==16 then r[a]=_te(r,k,b)^_te(r,k,c)elseif op==17 then r[a]=_te(r,k,b)//_te(r,k,c)elseif op==18 then r[a]=-r[b]elseif op==19 then r[a]=not r[b]elseif op==20 then r[a]=#r[b]elseif op==21 then local _fv=r[c]for i=c-1,b,-1 do _fv=r[i].._fv end r[a]=_fv elseif op==23 then if(_te(r,k,b)==_te(r,k,c))~=(a~=0)then pc+=4 end elseif op==24 then if(_te(r,k,b)<_te(r,k,c))~=(a~=0)then pc+=4 end elseif op==25 then if(_te(r,k,b)<=_te(r,k,c))~=(a~=0)then pc+=4 end elseif op==26 then if(not r[a])==(c~=0)then pc+=4 end elseif op==27 then if(not r[b])==(c~=0)then pc+=4 else r[a]=r[b]end elseif op==3 then for i=a,a+b do r[i]=nil end elseif op==4 then r[a]=b~=0 if c~=0 then pc+=4 end elseif op==10 then r[a]={}elseif op==34 then local _oe=r[a]local _yv=if b==0 then _pe-a else b for i=1,_yv do _oe[c+i-1]=r[a+i]end elseif op==31 then local _fv,_Ce,_xv=_Ue(r[a]),_Ue(r[a+1]),_Ue(r[a+2])r[a],r[a+1],r[a+2]=_fv,_Ce,_xv if(_xv>0 and _fv<=_Ce)or(_xv<=0 and _fv>=_Ce)then r[a+3],pc=_fv,_aK[b+2]else pc=b+4 end elseif op==43 then local _ke=r[a]if _uK(_ke)~="function"then r[a],r[a+1],r[a+2]=_me(_ke,r[a+1],r[a+2]),nil,nil end elseif op==33 then local _ke,_Dv,_we=r[a],r[a+1],r[a+2]if c==1 then r[a+3]=_ke(_Dv,_we)elseif c==2 then r[a+3],r[a+4]=_ke(_Dv,_we)elseif c==3 then r[a+3],r[a+4],r[a+5]=_ke(_Dv,_we)else local _Fe=_Fv(_ke(_Dv,_we))for i=1,c do r[a+2+i]=_Fe[i]end end if r[a+3]~=nil then r[a+2]=r[a+3]pc+=4 end elseif op==35 then local _jJ=_iK[b]local _ye={}for i,_CK in ipairs(_jJ.captures)do if _CK<0 then _ye[i]=_IK[-_CK]else local _xe=_Ve[_CK]if not _xe then _xe={registers=r,slot=_CK}_Ve[_CK]=_xe end _ye[i]=_xe end end r[a]=_he(_jJ,_ye,_je)elseif op==38 then local _xe=_IK[b]if _xe.slot then r[a]=_xe.registers[_xe.slot]else r[a]=_xe.value end elseif op==39 then local _xe=_IK[b]if _xe.slot then _xe.registers[_xe.slot]=r[a]else _xe.value=r[a]end elseif op==36 then local _yv=if b==0 then(if _fe then _fe.n else 0)else b-1 for i=1,_yv do r[a+i-1]=if _fe then _fe[i]else nil end if b==0 then _pe=a+_yv-1 end elseif op==37 then local _Pe,_De=r[b],_te(r,k,c)r[a],r[a+1]=_Pe[_De],_Pe elseif op==29 then _Ae(_Ve,1)local f=r[a]if f==_RK or f==_gK then f=_Be(f,_qe)end return _se(f,r,a,b,_pe)elseif op~=1 then _LK("Unsupported Hybrid image opcode "..tostring(op),0)end end end local function _ae(_Ne,_je,...)if _Ne.version~=1 then _LK("Unsupported Hybrid image version",0)end return _he(_Ne.root,{},_je)(...)end local _Ne=_TS(_LS,12215,2304957993,{[1]="",[2]="rk",[3]="rn",[4]="rnn",[5]="rr",[6]="rk",[7]="rk",[8]="rro",[9]="roo",[10]="r",[11]="roo",[12]="roo",[13]="roo",[14]="roo",[15]="roo",[16]="roo",[17]="roo",[18]="rr",[19]="rr",[20]="rr",[21]="rrr",[22]="nt",[23]="noo",[24]="noo",[25]="noo",[26]="rnn",[27]="rrn",[28]="rnn",[29]="rn",[30]="rn",[31]="rt",[32]="rt",[33]="rnn",[34]="rnn",[35]="rp",[36]="rn",[37]="rro",[38]="ru",[39]="ru",[40]="n",[43]="r"},2)_LS=nil return _ae(_Ne,getfenv(1),...) end end;local _ie,_Me=pcall,error;local function _ze(_Re,...)if _Re then return ... end;_Me((...),0)end;return _ze(xpcall(_O,function(_e)local _r=_J;_J=nil;if _r then _ie(_r)end;return _e end,...))
+
+local Players = game:GetService("Players")
+local CollectionService = game:GetService("CollectionService")
+local RunService = game:GetService("RunService")
+
+local Player = Players.LocalPlayer
+
+local StartCFrame = CFrame.new(
+    -234.481323, 13.2305183, -442.051086,
+    0.846630275, 3.61271701e-09, 0.532181501,
+    -7.41305772e-09, 1, 5.00468733e-09,
+    -0.532181501, -8.18221224e-09, 0.846630275
+)
+
+local ClaimCFrame = CFrame.new(
+    -163.213409, 11.0149536, -588.380127,
+    0.853993535, 1.13863159e-08, -0.52028358,
+    3.0461031e-08, 1, 7.18835693e-08,
+    0.52028358, -7.72364785e-08, 0.853993535
+)
+
+local AutoObbyRunning = false
+
+local function GetCharacter()
+    local Character = Player.Character or Player.CharacterAdded:Wait()
+    local Humanoid = Character:FindFirstChildOfClass("Humanoid")
+        or Character:WaitForChild("Humanoid")
+    local Root = Character:FindFirstChild("HumanoidRootPart")
+        or Character:WaitForChild("HumanoidRootPart")
+
+    return Character, Humanoid, Root
+end
+
+local function Teleport(Target)
+    local Character, Humanoid, Root = GetCharacter()
+
+    Root.AssemblyLinearVelocity = Vector3.zero
+    Root.AssemblyAngularVelocity = Vector3.zero
+    Root.CFrame = Target
+end
+
+local function FindObby(ActiveObby)
+    for _, Tag in ipairs({"%ObbyReveal", "ObbyReveal"}) do
+        local Success, Objects = pcall(function()
+            return CollectionService:GetTagged(Tag)
+        end)
+
+        if Success then
+            for _, Object in ipairs(Objects) do
+                if Object:IsDescendantOf(workspace)
+                    and (Object:GetAttribute("Obby") or "Obby") == ActiveObby then
+                    return Object
+                end
+            end
+        end
+    end
+end
+
+local function GetParts(Object)
+    local Parts = {}
+
+    if Object:IsA("BasePart") then
+        table.insert(Parts, Object)
+    end
+
+    for _, Descendant in ipairs(Object:GetDescendants()) do
+        if Descendant:IsA("BasePart") then
+            table.insert(Parts, Descendant)
+        end
+    end
+
+    return Parts
+end
+
+local function GetPieceData(Object)
+    local Parts = GetParts(Object)
+
+    if #Parts == 0 then
+        return nil
+    end
+
+    local BestPart
+    local HighestY = -math.huge
+    local BestVolume = -math.huge
+
+    for _, Part in ipairs(Parts) do
+        if Part.Parent
+            and Part.CanCollide
+            and Part.LocalTransparencyModifier < 0.99 then
+
+            local TopPosition = Part.CFrame:PointToWorldSpace(
+                Vector3.new(0, Part.Size.Y / 2, 0)
+            )
+
+            local Volume = Part.Size.X * Part.Size.Z
+
+            if TopPosition.Y > HighestY
+                or (TopPosition.Y == HighestY and Volume > BestVolume) then
+
+                HighestY = TopPosition.Y
+                BestVolume = Volume
+                BestPart = Part
+            end
+        end
+    end
+
+    if not BestPart then
+        return nil
+    end
+
+    return {
+        Object = Object,
+        Parts = Parts,
+        LandingPart = BestPart,
+        TopPosition = BestPart.CFrame:PointToWorldSpace(
+            Vector3.new(0, BestPart.Size.Y / 2, 0)
+        )
+    }
+end
+
+local RayParams = RaycastParams.new()
+RayParams.FilterType = Enum.RaycastFilterType.Exclude
+RayParams.RespectCanCollide = true
+
+local function IsLandedOnPiece(Data)
+    local Character, Humanoid, Root = GetCharacter()
+
+    RayParams.FilterDescendantsInstances = {Character}
+
+    local Distance = Humanoid.HipHeight + Root.Size.Y / 2 + 6
+
+    local Result = workspace:Raycast(
+        Root.Position,
+        Vector3.new(0, -Distance, 0),
+        RayParams
+    )
+
+    if not Result then
+        return false
+    end
+
+    return Result.Instance == Data.Object
+        or Result.Instance:IsDescendantOf(Data.Object)
+end
+
+local function MoveToPiece(Data)
+    local Character, Humanoid, Root = GetCharacter()
+
+    local Part = Data.LandingPart
+
+    if not Part or not Part.Parent then
+        return false
+    end
+
+    local TargetPosition = Data.TopPosition + Vector3.new(
+        0,
+        Humanoid.HipHeight + Root.Size.Y / 2 + 0.12,
+        0
+    )
+
+    local Rotation = Root.CFrame - Root.Position
+
+    Root.AssemblyLinearVelocity = Vector3.zero
+    Root.AssemblyAngularVelocity = Vector3.zero
+
+    Root.CFrame = CFrame.new(TargetPosition) * Rotation
+
+    return true
+end
+
+local function GetNextPiece(Obby, Processed)
+    local BestObject
+    local BestOrder = math.huge
+
+    for _, Object in ipairs(Obby:GetChildren()) do
+        if not Processed[Object] then
+            local Order = Object:GetAttribute("Order")
+
+            if typeof(Order) == "number" and Order < BestOrder then
+                BestObject = Object
+                BestOrder = Order
+            end
+        end
+    end
+
+    return BestObject
+end
+
+local function ProcessPiece(Object, ActiveObby)
+    local RevealDeadline = os.clock() + 15
+    local Data
+
+    repeat
+        if Player:GetAttribute("ObbyRun") ~= ActiveObby then
+            return false
+        end
+
+        if not Object.Parent then
+            return false
+        end
+
+        Data = GetPieceData(Object)
+
+        if Data then
+            break
+        end
+
+        RunService.Heartbeat:Wait()
+    until os.clock() >= RevealDeadline
+
+    if not Data then
+        return false
+    end
+
+    for Attempt = 1, 3 do
+        if Player:GetAttribute("ObbyRun") ~= ActiveObby then
+            return false
+        end
+
+        Data = GetPieceData(Object)
+
+        if not Data then
+            return false
+        end
+
+        if not MoveToPiece(Data) then
+            return false
+        end
+
+        local LandingDeadline = os.clock() + 4
+
+        repeat
+            RunService.Heartbeat:Wait()
+
+            if IsLandedOnPiece(Data) then
+                task.wait(0.35)
+                return true
+            end
+        until os.clock() >= LandingDeadline
+    end
+
+    return false
+end
+
+local function RunAutoObby()
+    Teleport(StartCFrame)
+
+    local ActiveObby
+    local StartDeadline = os.clock() + 20
+
+    repeat
+        ActiveObby = Player:GetAttribute("ObbyRun")
+
+        if ActiveObby ~= nil then
+            break
+        end
+
+        task.wait(0.1)
+    until os.clock() >= StartDeadline
+
+    if ActiveObby == nil then
+        return
+    end
+
+    local Obby
+    local FindDeadline = os.clock() + 15
+
+    repeat
+        Obby = FindObby(ActiveObby)
+
+        if Obby then
+            break
+        end
+
+        task.wait(0.15)
+    until os.clock() >= FindDeadline
+
+    if not Obby then
+        return
+    end
+
+    local Processed = {}
+    local MissingDeadline = os.clock() + 20
+
+    while Player:GetAttribute("ObbyRun") == ActiveObby do
+        if Player:GetAttribute("CompletedObby") == true then
+            break
+        end
+
+        local Object = GetNextPiece(Obby, Processed)
+
+        if not Object then
+            if os.clock() >= MissingDeadline then
+                break
+            end
+
+            task.wait(0.15)
+        else
+            MissingDeadline = os.clock() + 20
+
+            local Success = ProcessPiece(Object, ActiveObby)
+
+            if not Success then
+                break
+            end
+
+            Processed[Object] = true
+
+            RunService.Heartbeat:Wait()
+            task.wait(0.2)
+        end
+    end
+end
+
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/oxireun/UiLibrary/refs/heads/main/2049.lua"))()
+
+local Window = Library:NewWindow("Script")
+
+Window:SetFooter("Dc: https://discord.gg/qgV6v9WcE9", 128337196312757, 1)
+
+local MainSection = Window:NewSection("Main")
+
+MainSection:CreateButton("Auto obby", function()
+    if AutoObbyRunning then
+        return
+    end
+
+    AutoObbyRunning = true
+
+    task.spawn(function()
+        pcall(RunAutoObby)
+        AutoObbyRunning = false
+    end)
+end)
+
+MainSection:CreateButton("Claim UGC", function()
+    task.spawn(function()
+        pcall(function()
+            Teleport(ClaimCFrame)
+        end)
+    end)
+end)
+
+local MainSection = Window:NewSection("Credits")
+
+MainSection:CreateButton("Copy YouTube", function()
+    setclipboard("https://youtube.com/@oxireunn?si=S0wXYpSBX3RAs2MB")
+    Library:SendNotification("Copied!", "YouTube link copied to clipboard!", 2, 108320733835485, 1, "red")
+end)
+
+MainSection:CreateButton("Copy Discord", function()
+    setclipboard("https://discord.gg/qgV6v9WcE9")
+    Library:SendNotification("Copied!", "Discord invite copied to clipboard!", 2, 119731774091515, 1, "blue")
+end)
